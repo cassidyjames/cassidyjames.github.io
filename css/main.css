@@ -20,15 +20,15 @@ p {
 
 .external-links li {
     background-image: linear-gradient(to bottom,
-                                        rgba(255,255,255,0.2),
-                                        rgba(0,0,0,0.05));
+                                        rgba(255, 255, 255, 0.2),
+                                        rgba(0, 0, 0, 0.05));
     border-radius: 50%;
-    border: 1px solid rgba(0,0,0,0.15);
+    border: 1px solid rgba(0, 0, 0, 0.15);
     box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
                 inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
                 inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 1px 3px rgba(0,0,0,0.12),
-                0 1px 2px rgba(0,0,0,0.24);
+                0 1px 3px rgba(0, 0, 0, 0.12),
+                0 1px 2px rgba(0, 0, 0, 0.24);
     display: inline-block;
     height: 36px;
     line-height: 36px;
@@ -41,7 +41,7 @@ p {
     color: #fff;
     display: block;
     height: 100%;
-    text-shadow: 0 1px 1px rgba(0,0,0,0.15);
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
     width: 100%;
 }
 
@@ -53,8 +53,8 @@ p {
     box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
                 inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
                 inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 3px 6px rgba(0,0,0,0.16),
-                0 3px 6px rgba(0,0,0,0.23);
+                0 3px 6px rgba(0, 0, 0, 0.16),
+                0 3px 6px rgba(0, 0, 0, 0.23);
 }
 
 .external-links .blue-instagram {
