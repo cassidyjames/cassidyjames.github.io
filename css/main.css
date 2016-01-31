@@ -1,15 +1,57 @@
 body,
 html {
+    background-color: #fffffc;
     color: #333;
     font: 16px "Open Sans";
+    font-weight: 400;
+}
+
+a {
+    color: #08C;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 300;
+    margin: 0;
+}
+
+h3 {
+    font-size: 11px;
+}
+
+h4 {
+    font-weight: 600;
+    opacity: 0.8;
 }
 
 p {
-    text-align: center;
+    line-height: 1.5;
 }
 
 .animated {
     transition: all 250ms;
+}
+
+/********
+ * Grid *
+ *******/
+
+section.grid {
+    margin: 0 auto;
+    max-width: 500px;
+}
+
+section.grid > * {
+    margin: 16px;
+    padding-top: 32px;
+    padding-bottom: 64px;
 }
 
 /***********
