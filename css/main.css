@@ -4,7 +4,27 @@ html {
     color: #333;
     font: 16px "Open Sans";
     font-weight: 400;
+    margin: 0;
 }
+
+footer {
+    bottom: 0;
+    color: #777;
+    font-size: 12px;
+    line-height: 56px;
+    margin: 16px 16px 0;
+    min-height: 56px;
+    position: fixed;
+    width: 100%;
+}
+
+.animated {
+    transition: all 250ms;
+}
+
+/***************
+ * Text Styles *
+ **************/
 
 a {
     color: #08C;
@@ -33,10 +53,6 @@ h4 {
 
 p {
     line-height: 1.5;
-}
-
-.animated {
-    transition: all 250ms;
 }
 
 /********
