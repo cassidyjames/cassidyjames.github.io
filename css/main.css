@@ -98,8 +98,8 @@ section.grid > * {
  **********/
 
 .tooltip:after {
-    -webkit-backdrop-filter: blur(10px);
-    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(3px);
+    backdrop-filter: blur(3px);
     content: attr(data-tooltip) ""; 
     display: inline-block;
     font-size: 12px;
