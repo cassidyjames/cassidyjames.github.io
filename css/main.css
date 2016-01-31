@@ -141,14 +141,6 @@ section.grid > * {
     width: 36px;
 }
 
-.external-links li:first-child {
-    margin-left: 0;
-}
-
-.external-links li:last-child {
-    margin-right: 0;
-}
-
 .external-links a {
     color: #fff;
     display: block;
