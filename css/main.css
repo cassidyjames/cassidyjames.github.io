@@ -55,6 +55,20 @@ p {
     line-height: 1.5;
 }
 
+.fa-ul {
+    font-size: 14px;
+    margin-left: 32px;
+}
+
+.fa-ul > li {
+    padding-bottom: 8px;
+}
+
+.fa-li {
+    color: #666;
+    width: 14px;
+}
+
 /********
  * Grid *
  *******/
