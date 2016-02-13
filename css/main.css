@@ -118,10 +118,15 @@ section.grid > * {
     min-height: calc(100% - 184px);
 }
 
+.read-more:hover .fa {
+    opacity: 1;
+}
+
 .read-more.cash:hover .fa {
     color: #1fa67a;
 }
 
+.read-more.dribbble:hover .fa,
 .read-more.okc:hover .fa {
     color: #E04C86;
 }
