@@ -9,14 +9,13 @@ $(function () {
         }
     });
 
+    // Current year
+    var year = new Date ().getFullYear();
+    $('#year').text (year);
+
     // How old am I?
-    var diff = new Date () - new Date ("1989/7/30");
+    var diff = new Date () - new Date ("1992/2/01");
     var age = Math.floor (diff/31536000000);
     $('#age').text (age);
-
-    // How many years playing guitar?
-    var diff = new Date () - new Date ("2003/7/30");
-    var age = Math.floor (diff/31536000000);
-    $('#guitar-age').text (age);
 });
 

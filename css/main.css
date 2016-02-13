@@ -17,16 +17,22 @@ html {
  **************/
 
 a {
-    color: #08C;
+    color: #c00;
     text-decoration: none;
+    opacity: 0.67;
+    transition: opacity 250ms ease;
+}
+
+a:hover {
+    opacity: 1;
 }
 
 h1 {
-    color: #427B9A;
-    font-family: "Pacifico", "Open Sans", cursive;
+    color: #c00;
+    font-family: "Just Me Again Down Here", "Open Sans", cursive;
     font-weight: 300;
-    font-size: 48px;
-    margin: 0;
+    font-size: 64px;
+    margin: 0 0 -0.5rem;
     text-shadow: 0 1px 1px #fff;
 }
 
@@ -59,8 +65,8 @@ p {
 }
 
 .fa-li {
-    color: #427B9A;
-    opacity: 0.8;
+    color: #c00;
+    opacity: 0.75;
     width: 14px;
 }
 
@@ -115,24 +121,11 @@ section.grid > * {
  *******/
 
 .grid.main {
-    min-height: calc(100% - 184px);
+    min-height: calc(100% - 214px);
 }
 
 .read-more:hover .fa {
     opacity: 1;
-}
-
-.read-more.cash:hover .fa {
-    color: #1fa67a;
-}
-
-.read-more.dribbble:hover .fa,
-.read-more.okc:hover .fa {
-    color: #E04C86;
-}
-
-.read-more.soundcloud:hover .fa {
-    color: #F96C2D;
 }
 
 .read-more.twitter:hover .fa {
@@ -141,6 +134,14 @@ section.grid > * {
 
 .read-more.youtube:hover .fa {
     color: #DD4B39;
+}
+
+.read-more.psn:hover .fa {
+    color: #0068bf;
+}
+
+.read-more.google-plus:hover .fa {
+    color: #DC4E41;
 }
 
 /**********
