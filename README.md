@@ -1,2 +1,2 @@
 # cassidyjames.github.io
-Personal Webpage
+Personal Webpage, soon to be at cassidyjames.com.
