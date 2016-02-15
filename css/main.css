@@ -140,7 +140,7 @@ p {
  *******/
 
 .grid.main {
-    min-height: calc(100% - 184px);
+    min-height: calc(100% - 154px);
 }
 
 .read-more:hover .fa {
