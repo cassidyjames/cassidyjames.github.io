@@ -126,8 +126,7 @@ section.grid > * {
     color: #1fa67a;
 }
 
-.read-more.dribbble:hover .fa,
-.read-more.okc:hover .fa {
+.read-more.pink:hover .fa {
     color: #E04C86;
 }
 
@@ -139,7 +138,7 @@ section.grid > * {
     color: #55ACEE;
 }
 
-.read-more.youtube:hover .fa {
+.read-more.red:hover .fa {
     color: #DD4B39;
 }
 
