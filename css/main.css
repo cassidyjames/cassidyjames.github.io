@@ -31,16 +31,14 @@ h1 {
 }
 
 h2 {
-    font-size: 18px;
+    font-size: 32px;
     font-weight: 300;
-    margin: 0;
-}
-
-h3 {
-    font-size: 11px;
+    margin: 0 0 16px 0;
+    padding: 0;
 }
 
 h4 {
+    font-size: 14px;
     font-weight: 600;
     opacity: 0.8;
 }
@@ -99,15 +97,42 @@ p {
  * Grid *
  *******/
 
-section.grid {
+.grid {
     margin: 0 auto;
-    max-width: 512px;
+    max-width: 1000px;
 }
 
-section.grid > * {
+.grid > * {
     margin: 16px;
     padding-top: 32px;
     padding-bottom: 64px;
+}
+
+@media only screen and (min-width: 640px) {
+    .grid .half {
+        display: inline-block;
+        vertical-align: top;
+        width: calc(50% - 48px);
+    }
+
+    .grid .half:only-child {
+        width: 50%;
+    }
+
+    .grid .two-thirds {
+        display: inline-block;
+        vertical-align: top;
+        width: calc(66% - 48px);
+    }
+
+    .grid .two-thirds:only-child {
+        width: 66%;
+    }
+
+    .grid > *:only-child {
+        display: block;
+        margin: 0 auto;
+    }
 }
 
 /********
