@@ -185,7 +185,7 @@ p {
  * Revealer *
  ***********/
 
-.inline-revealer h3:after {
+/*.inline-revealer h3:after {
     color: inherit;
     content: "";
     font-family: "FontAwesome";
@@ -227,7 +227,7 @@ p {
     transform: scale(1,0);
     transform-origin: 0 0;
     transition: none;
-}
+}*/
 
 /********
  * Main *
