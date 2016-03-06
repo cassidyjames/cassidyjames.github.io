@@ -181,6 +181,54 @@ p {
     }
 }
 
+/************
+ * Revealer *
+ ***********/
+
+.inline-revealer h3:after {
+    color: inherit;
+    content: "";
+    font-family: "FontAwesome";
+    font-style: normal;
+    font-size: 14px;
+    font-weight: inherit;
+    margin-top: 0.5em;
+    opacity: 0.5;
+    padding-left: 12px;
+    position: absolute;
+    transition: all 0.15s ease-in-out;
+}
+
+.inline-revealer:hover h3:after {
+    opacity: 1;
+}
+
+.inline-revealer:focus {
+    outline: none;
+}
+
+.inline-revealer:focus h3:after {
+    margin-top: -0.1em;
+    opacity: 1;
+    padding-left: 20px;
+    transform: rotate(90deg);
+}
+
+.inline-revealer:focus + .revealer {
+    height: initial;
+    opacity: 1;
+    transform: initial;
+    transition: all 150ms ease-in-out;
+}
+
+.revealer {
+    height: 0;
+    opacity: 0;
+    transform: scale(1,0);
+    transform-origin: 0 0;
+    transition: all 150ms ease-in-out;
+}
+
 /********
  * Main *
  *******/
