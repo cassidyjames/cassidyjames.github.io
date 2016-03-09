@@ -9,7 +9,11 @@ html {
 }
 
 .animated {
-    transition: all 250ms;
+    transition: all 250ms ease-in-out;
+}
+
+*[data-align='center'] {
+    text-align: center;
 }
 
 /***************
@@ -137,6 +141,36 @@ p {
 
 .inline-tweet:hover:after {
     opacity: 1;
+}
+
+/**********
+ * Button *
+ *********/
+
+.button {
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12),
+                0 1px 2px rgba(0,0,0,0.24);
+    color: #555;
+    display: inline-block;
+    margin: 6px;
+    padding: 12px;
+    transition: all 100ms ease-in-out;
+}
+
+.button.suggested-action {
+    background-color: #08c;
+    color: #fff;
+}
+
+.button:hover {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16),
+                0 3px 6px rgba(0,0,0,0.23);
+}
+
+.button .fa {
+    margin-right: 12px;
 }
 
 /********
