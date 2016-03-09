@@ -30,12 +30,9 @@ a {
 }
 
 h1 {
-    color: #427B9A;
-    font-family: "Pacifico", "Open Sans", cursive;
     font-weight: 300;
-    font-size: 48px;
+    font-size: 40px;
     margin: 0;
-    text-shadow: 0 1px 1px #fff;
 }
 
 h2 {
@@ -76,6 +73,10 @@ p {
     padding: 12px;
     text-align: center;
     transition: all 100ms ease-in-out;
+}
+
+.button + .button {
+    margin-left: 12px;
 }
 
 .button.suggested-action {

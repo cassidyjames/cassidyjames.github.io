@@ -1,17 +1,32 @@
+/*******************
+ * Read More Links *
+ ******************/
 
-.fa-ul {
-    font-size: 14px;
-    margin-left: 32px;
+.hero {
+    background-color: #0590D6;
+    color: #fff;
+    max-width: 100%;
+    padding-top: 64px;
 }
 
-.fa-ul > li {
-    padding-bottom: 8px;
+.hero a:not(.button) {
+    color: #fff;
 }
 
-.fa-li {
-    color: #427B9A;
-    opacity: 0.8;
-    width: 14px;
+.hero a:not(.button):hover {
+    text-decoration: underline;
+}
+
+.hero a.button:not(.suggested-action) {
+    color: #08c;
+}
+
+/***************
+ * Pink Button *
+ ***************/
+
+.button.pink {
+    background-color: #FF73AA;
 }
 
 /*******************
