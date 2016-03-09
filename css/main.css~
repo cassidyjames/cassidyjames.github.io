@@ -336,14 +336,6 @@ nav ul li {
     margin: 0 8px;
 }
 
-nav .signature {
-    font-size: 24px;
-}
-
-nav .tooltip:after {
-    margin: -6px -10px;
-}
-
 /**********
  * Footer *
  *********/
