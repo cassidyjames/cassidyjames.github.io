@@ -66,7 +66,6 @@ p {
     width: 14px;
 }
 
-.go-back,
 .read-more {
     color: inherit;
     font-size: 14px;
@@ -77,7 +76,6 @@ p {
     opacity: 0.8;
 }
 
-.go-back:before,
 .read-more:after {
     color: inherit;
     content: "→";
@@ -96,26 +94,6 @@ p {
 
 .read-more .fa {
     margin-right: 12px;
-}
-
-.go-back {
-    color: inherit;
-    font-size: 14px;
-    opacity: 0.6;
-}
-
-.go-back:hover {
-    opacity: 0.8;
-}
-
-.go-back:before {
-    content: "←";
-    margin-left: -20px;
-    padding-left: 0;
-}
-
-.go-back:hover:before {
-    margin-left: -24px;
 }
 
 .inline-tweet {
