@@ -75,10 +75,6 @@ p {
     transition: all 100ms ease-in-out;
 }
 
-.button + .button {
-    margin-left: 12px;
-}
-
 .button.suggested-action {
     background-color: #08c;
     color: #fff;
@@ -91,6 +87,18 @@ p {
 
 .button .fa {
     margin-right: 12px;
+}
+
+@media only screen and (max-width: 640px) {
+    .button {
+        width: calc(100% - 24px);
+    }
+}
+
+@media only screen and (min-width: 640px) {
+    .button + .button {
+        margin-left: 12px;
+    }
 }
 
 /********
