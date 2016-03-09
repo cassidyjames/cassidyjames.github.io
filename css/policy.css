@@ -1,0 +1,28 @@
+/****************
+ * Inline Tweet *
+ ****************/
+
+.inline-tweet {
+    color:inherit;
+}
+
+.inline-tweet:after {
+    color: inherit;
+    content: "";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: inherit;
+    margin-top: 0.1em;
+    opacity: 0;
+    padding-left: 6px;
+    position: absolute;
+    transition: all 0.15s ease-in-out;
+}
+
+.inline-tweet:hover {
+    color: #08c;
+}
+
+.inline-tweet:hover:after {
+    opacity: 1;
+}

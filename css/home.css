@@ -1,0 +1,73 @@
+
+.fa-ul {
+    font-size: 14px;
+    margin-left: 32px;
+}
+
+.fa-ul > li {
+    padding-bottom: 8px;
+}
+
+.fa-li {
+    color: #427B9A;
+    opacity: 0.8;
+    width: 14px;
+}
+
+/*******************
+ * Read More Links *
+ ******************/
+
+.read-more {
+    color: inherit;
+    font-size: 14px;
+    opacity: 0.6;
+}
+
+.read-more:hover {
+    opacity: 0.8;
+}
+
+.read-more:after {
+    color: inherit;
+    content: "→";
+    font-family: "FontAwesome";
+    font-style: normal;
+    font-weight: inherit;
+    margin-top: 0.2em;
+    padding-left: 6px;
+    position: absolute;
+    transition: all 0.15s ease-in-out;
+}
+
+.read-more:hover:after {
+    padding-left: 10px;
+}
+
+.read-more .fa {
+    margin-right: 12px;
+}
+
+.read-more:hover .fa {
+    opacity: 1;
+}
+
+.read-more.cash:hover .fa {
+    color: #1fa67a;
+}
+
+.read-more.pink:hover .fa {
+    color: #E04C86;
+}
+
+.read-more.soundcloud:hover .fa {
+    color: #F96C2D;
+}
+
+.read-more.twitter:hover .fa {
+    color: #55ACEE;
+}
+
+.read-more.red:hover .fa {
+    color: #DD4B39;
+}
