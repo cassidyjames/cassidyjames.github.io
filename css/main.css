@@ -169,6 +169,10 @@ p {
     }
 }
 
+.grid:nth-last-child(2) {
+    min-height: calc(100% - 168px - 56px); // Make sure page is at least 100% tall. Page height minus footer and nav height.
+}
+
 /************
  * Revealer *
  ***********/
@@ -217,13 +221,6 @@ p {
     transition: none;
 }*/
 
-/********
- * Main *
- *******/
-
-.grid.main {
-    min-height: calc(100% - 154px);
-}
 
 /*******
  * Nav *
