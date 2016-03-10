@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 640 479.99997"
+   height="479.99997"
+   width="640"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="preview.svg"
+   inkscape:export-filename="/home/daniel/Projects/danrabbit.github.io/images/preview.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="844"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="312.5"
+     inkscape:cy="239.99998"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4138">
+      <stop
+         id="stop4140"
+         offset="0"
+         style="stop-color:#0586d6;stop-opacity:1" />
+      <stop
+         id="stop4142"
+         offset="1"
+         style="stop-color:#41a9c8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.95522388,0,0,0.95522388,-35.388413,-262.62076)"
+       gradientUnits="userSpaceOnUse"
+       y2="526.18109"
+       x2="707.04724"
+       y1="526.18109"
+       x1="37.047245"
+       id="linearGradient4144"
+       xlink:href="#linearGradient4138" />
+    <filter
+       height="1.0934827"
+       y="-0.046741357"
+       width="1.0137672"
+       x="-0.006883623"
+       id="filter4160"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4162"
+         stdDeviation="1.2970727" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4182"
+       x="-0.0071949175"
+       width="1.0143898"
+       y="-0.036127604"
+       height="1.0722552">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.3547852"
+         id="feGaussianBlur4184" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4210"
+       x="-0.021584752"
+       width="1.0431695"
+       y="-0.10838281"
+       height="1.2167656">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.0643555"
+         id="feGaussianBlur4212" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4144);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect4140"
+     width="640"
+     height="480"
+     x="2.5634769e-08"
+     y="-2.9208984e-05"
+     rx="0"
+     ry="0" />
+  <text
+     sodipodi:linespacing="125%"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:1px;word-spacing:0px;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4210);"
+     x="99.448242"
+     y="282.37497"
+     id="text4136-0-1-2"><tspan
+       id="tspan4138-3-4"
+       x="99.448242"
+       y="282.37497"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pacifico;-inkscape-font-specification:Pacifico;fill:#000000;">Daniel Foré </tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.2;filter:url(#filter4182);"
+     x="99.448242"
+     y="280.37497"
+     id="text4136-0-1"><tspan
+       id="tspan4138-3"
+       x="99.448242"
+       y="280.37497"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pacifico;-inkscape-font-specification:Pacifico;fill:#000000;">Daniel Foré </tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:1px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="99.448242"
+     y="279.375"
+     id="text4136-0"><tspan
+       id="tspan4138"
+       x="99.448242"
+       y="279.375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Pacifico;-inkscape-font-specification:Pacifico">Daniel Foré </tspan></text>
+</svg>
