@@ -169,8 +169,12 @@ p {
     }
 }
 
+// Make sure page is at least 100% tall
+// Page height minus footer and nav height
+// We're also missing 16px somewhere
+
 .grid:nth-last-child(2) {
-    min-height: calc(100% - 168px - 56px); // Make sure page is at least 100% tall. Page height minus footer and nav height.
+    min-height: calc(100% - 168px - 56px + 16px);
 }
 
 /************
