@@ -26,11 +26,3 @@
 .inline-tweet:hover:after {
     opacity: 1;
 }
-
-/***************
- * Green Button *
- ***************/
-
-.button.green {
-    background-color: #45d363;
-}

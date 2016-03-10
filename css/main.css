@@ -108,6 +108,14 @@ p {
     }
 }
 
+/***************
+ * Green Button *
+ ***************/
+
+.button.green {
+    background-color: #45d363;
+}
+
 /********
  * Grid *
  *******/
