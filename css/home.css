@@ -41,11 +41,11 @@
 .read-more {
     color: inherit;
     font-size: 14px;
-    opacity: 0.6;
+    opacity: 0.8;
 }
 
 .read-more:hover {
-    opacity: 0.8;
+    opacity: 1;
 }
 
 .read-more:after {
