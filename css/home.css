@@ -1,31 +1,3 @@
-/********
- * Hero *
- ********/
-
-.hero {
-    background-color: #0590D6;
-    background-image: linear-gradient(to right, #0586D6, #41A9C8);
-    color: #fff;
-    max-width: 100%;
-    padding-top: 32px;
-}
-
-.hero a:not(.button) {
-    color: #fff;
-}
-
-.hero a:not(.button):hover {
-    text-decoration: underline;
-}
-
-.hero a.button:not(.suggested-action) {
-    color: #08c;
-}
-
-.hero h2 {
-    text-shadow: 0 1px 3px rgba(0,0,0,0.2)
-}
-
 /***************
  * Pink Button *
  ***************/
