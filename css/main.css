@@ -112,11 +112,24 @@ p {
 
 .grid > * {
     margin: 16px;
-    padding-top: 32px;
-    padding-bottom: 64px;
+}
+
+@media only screen and (max-width: 640px) {
+    .grid > *:first-child {
+        padding-top: 3px;
+    }
+
+    .grid > *:last-child {
+        padding-bottom: 16px;
+    }
 }
 
 @media only screen and (min-width: 640px) {
+    .grid > * {
+        padding-top: 32px;
+        padding-bottom: 64px;
+    }
+
     .grid .half {
         display: inline-block;
         vertical-align: top;
@@ -125,6 +138,12 @@ p {
 
     .grid .half:only-child {
         width: 50%;
+    }
+
+    .grid .third {
+        display: inline-block;
+        vertical-align: top;
+        width: calc(33% - 32px);
     }
 
     .grid .two-thirds {
