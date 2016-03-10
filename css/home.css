@@ -1,9 +1,10 @@
-/*******************
- * Read More Links *
- ******************/
+/********
+ * Hero *
+ ********/
 
 .hero {
     background-color: #0590D6;
+    background-image: linear-gradient(to right, #0586D6, #41A9C8);
     color: #fff;
     max-width: 100%;
     padding-top: 32px;
