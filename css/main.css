@@ -323,11 +323,13 @@ nav .tooltip:after {
 
 footer {
     background-color: #f2f2f2;
+    box-sizing: border-box;
     color: #777;
     font-size: 12px;
     line-height: 48px;
     padding: 16px 0;
     text-align: center;
+    width: 100%;
 }
 
 footer ul {
