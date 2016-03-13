@@ -313,11 +313,6 @@ nav .signature {
     font-size: 24px;
 }
 
-nav .tooltip:after {
-    display: none;
-    margin: -6px -10px;
-}
-
 /**********
  * Footer *
  *********/
