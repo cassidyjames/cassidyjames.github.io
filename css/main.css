@@ -314,6 +314,7 @@ nav .signature {
 }
 
 nav .tooltip:after {
+    display: none;
     margin: -6px -10px;
 }
 
