@@ -1,0 +1,13 @@
+.third {
+    padding-top: 0;
+    padding-bottom: 24px;
+}
+
+.swatch {
+    margin: 3px;
+    padding: 16px;
+}
+
+.swatch.dark {
+    color: #fff;
+}
