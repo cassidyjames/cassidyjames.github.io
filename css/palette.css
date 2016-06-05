@@ -5,9 +5,18 @@
 
 .swatch {
     margin: 3px;
-    padding: 16px;
+    padding: 8px 16px;
 }
 
 .swatch.dark {
     color: #fff;
+}
+
+.swatch.main {
+    padding: 16px;
+}
+
+.swatch h3 {
+    margin-top: 0;
+    margin-bottom: 24px;
 }
