@@ -26,3 +26,22 @@
 .inline-tweet:hover:after {
     opacity: 1;
 }
+
+/********************
+ * Colorful Headers *
+ ********************/
+
+section:not(.hero) .economy h2,
+.economy .fa-4x {
+    color: #1d7e0d;
+}
+
+section:not(.hero) .energy h2,
+.energy .fa-4x {
+    color: #e48b20;
+}
+
+section:not(.hero) .health h2,
+.health .fa-4x {
+    color: #c6262e;
+}
