@@ -2,10 +2,12 @@ body,
 html {
     background-color: #fffffc;
     color: #333;
+    display: flex;
+    flex-direction: column;
     font: 16px "Open Sans", sans-serif;
     font-weight: 400;
-    height: calc(100% - 8px);
     margin: 0;
+    min-height: 100vh;
 }
 
 .animated {
@@ -120,6 +122,10 @@ p {
  * Grid *
  *******/
 
+main {
+    flex: 1;
+}
+
 .grid {
     margin: 0 auto;
     max-width: 1000px;
@@ -175,16 +181,6 @@ p {
         display: block;
         margin: 0 auto;
     }
-}
-
-/*
-Make sure page is at least 100% tall
- Page height minus footer and nav height
- We're also missing 16px somewhere 
-*/
-
-.grid:nth-last-child(2) {
-    min-height: calc(100% - 168px - 56px + 16px);
 }
 
 /**********
