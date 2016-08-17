@@ -201,11 +201,19 @@ img {
  ********/
 
 .hero {
-    background-color: #0590D6;
-    background-image: linear-gradient(to right, #0586D6, #41A9C8);
+    align-items: center;
+    background-color: #444c5c;
     color: #fff;
+    display: flex;
+    justify-content: center;
     max-width: 100%;
-    padding-top: 32px;
+    min-height: 30vh;
+}
+
+@media only screen and (min-width: 640px) {
+    .hero .grid > * {
+        padding: 64px 0;
+    }
 }
 
 .hero a:not(.button) {
@@ -213,7 +221,7 @@ img {
 }
 
 .hero a:not(.button):hover {
-    text-decoration: underline;
+    color: #42baea;
 }
 
 .hero a.button:not(.suggested-action) {
@@ -303,6 +311,7 @@ nav {
     line-height: 56px;
     padding-left: 8px;
     padding-right: 8px;
+    z-index: 999;
 }
 
 nav a {
