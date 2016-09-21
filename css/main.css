@@ -63,6 +63,13 @@ h2 {
     padding: 0;
 }
 
+h3 {
+    font-weight: 300;
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+}
+
 section:not(.hero) h2,
 .fa-4x {
     color: #2b63a0;
@@ -81,6 +88,11 @@ p {
 .signature {
     font-family: "Pacifico", "Open Sans", cursive;
     font-weight: 300;
+}
+
+
+.dim-label {
+    opacity: 0.8;
 }
 
 /**********
