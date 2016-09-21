@@ -4,6 +4,10 @@ $(function () {
 
     // How many years playing guitar?
     $('#guitar-age').text (yearsSince ("2003/7/30"));
+
+    // Buy me a foo
+    var things = ['Beer', 'Coffee', 'Drink', 'Pizza'];
+    $('#thing').text (things[Math.floor(Math.random()*things.length)]);
 });
 
 function yearsSince (epoch) {
