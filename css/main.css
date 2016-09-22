@@ -51,8 +51,9 @@ a {
 }
 
 h1 {
-    font-weight: 300;
+    font-family: Pacifico;
     font-size: 40px;
+    font-weight: normal;
     margin: 0;
 }
 
