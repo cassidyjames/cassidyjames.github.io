@@ -85,12 +85,6 @@ p {
     line-height: 1.5;
 }
 
-.signature {
-    font-family: "Pacifico", "Open Sans", cursive;
-    font-weight: 300;
-}
-
-
 .dim-label {
     opacity: 0.8;
 }
@@ -366,8 +360,9 @@ nav ul li {
     margin: 0 8px;
 }
 
-nav .signature {
-    font-size: 24px;
+nav .logo img {
+    height: 20px;
+    vertical-align: middle;
 }
 
 /**********
