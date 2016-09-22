@@ -49,9 +49,16 @@ nav {
     }
 }
 
-@media only screen and (max-height: 600px) {
+@media only screen and (max-width: 425px) and (orientation: portrait) {
     .hero {
-        background-position-y: 150%;
+        background-size: 90%;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-height: 667px) and (orientation: portrait) {
+    .hero {
+        background-size: 90%;
     }
 
     .hero h1 {
@@ -62,6 +69,10 @@ nav {
 
     h3 {
         font-size: 18px;
+    }
+
+    .vexpand {
+        height: calc(95vh - 224px); // I dunno magic numbers are magic
     }
 }
 
