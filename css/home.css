@@ -22,3 +22,19 @@ nav {
     background-image: none;
     box-shadow: none;
 }
+
+.hero {
+    background-image: url(../images/me.png);
+    background-size: contain;
+    background-position-x: 80%;
+    background-position-y: 100%;
+    background-repeat: no-repeat;
+    height: 80vh;
+    max-height: 100vh;
+}
+
+@media only screen and (min-width: 425px) {
+    .hero {
+        height: 600px;
+    }
+}
