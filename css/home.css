@@ -49,3 +49,19 @@ nav {
     }
 }
 
+@media only screen and (max-height: 600px) {
+    .hero {
+        background-position-y: 150%;
+    }
+
+    .hero h1 {
+        font-size: 36px;
+        line-height: 36px;
+        margin-bottom: 6px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+}
+
