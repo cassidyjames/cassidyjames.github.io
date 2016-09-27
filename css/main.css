@@ -46,7 +46,7 @@ html {
 }
 
 a {
-    color: #08C;
+    color: #08c;
     text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ h1 {
 h2 {
     font-size: 32px;
     font-weight: 300;
-    margin: 0 0 16px 0;
+    margin: 0 0 16px;
     padding: 0;
 }
 
@@ -96,12 +96,16 @@ p {
 
 .button {
     background-color: #fff;
-    background-image: linear-gradient(to bottom,
-                                        rgba(255, 255, 255, 0.2),
-                                        rgba(0, 0, 0, 0.10));
+    background-image:
+        linear-gradient(
+            to bottom,
+            rgba(255, 255, 255, 0.2),
+            rgba(0, 0, 0, 0.1)
+        );
     border-radius: 3px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),
-                0 1px 2px rgba(0, 0, 0, 0.24);
+    box-shadow:
+        0 1px 3px rgba(0, 0, 0, 0.12),
+        0 1px 2px rgba(0, 0, 0, 0.24);
     color: #555;
     display: inline-block;
     margin: 6px 0;
@@ -113,16 +117,20 @@ p {
 
 .button.suggested-action {
     background-color: #08c;
-    background-image: linear-gradient(to bottom,
-                                        rgba(255, 255, 255, 0.2),
-                                        rgba(0, 0, 0, 0.05));
+    background-image:
+        linear-gradient(
+            to bottom,
+            rgba(255, 255, 255, 0.2),
+            rgba(0, 0, 0, 0.05)
+        );
     color: #fff;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.10);
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 
 .button:hover {
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16),
-                0 3px 6px rgba(0,0,0,0.23);
+    box-shadow:
+        0 3px 6px rgba(0, 0, 0, 0.16),
+        0 3px 6px rgba(0, 0, 0, 0.23);
 }
 
 .button .fa {
@@ -256,7 +264,7 @@ img {
 }
 
 .hero h2 {
-    text-shadow: 0 1px 3px rgba(0,0,0,0.2)
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
 }
 
 /*******************
@@ -273,7 +281,7 @@ img {
     opacity: 1;
 }
 
-.read-more:after {
+.read-more::after {
     color: inherit;
     content: "→";
     font-family: "FontAwesome";
@@ -285,7 +293,7 @@ img {
     transition: all 0.15s ease-in-out;
 }
 
-.read-more:hover:after {
+.read-more:hover::after {
     padding-left: 10px;
 }
 
@@ -301,27 +309,25 @@ img {
     color: #3689e6;
 }
 
-
 .read-more.green:hover .fa {
     color: #1d7e0d;
 }
 
 .read-more.pink:hover .fa {
-    color: #E04C86;
+    color: #e04c86;
 }
 
 .read-more.soundcloud:hover .fa {
-    color: #F96C2D;
+    color: #f96c2d;
 }
 
 .read-more.twitter:hover .fa {
-    color: #55ACEE;
+    color: #55acee;
 }
 
 .read-more.red:hover .fa {
-    color: #DD4B39;
+    color: #dd4b39;
 }
-
 
 /*******
  * Nav *
@@ -329,9 +335,10 @@ img {
 
 nav {
     background-color: #08c;
-    background-image: linear-gradient(to right, #057DC7, #38A2C2);
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12),
-                0 1px 2px rgba(0,0,0,0.24);
+    background-image: linear-gradient(to right, #057dc7, #38a2c2);
+    box-shadow:
+        0 1px 3px rgba(0, 0, 0, 0.12),
+        0 1px 2px rgba(0, 0, 0, 0.24);
     color: #fff;
     font-weight: 600;
     height: 56px;
@@ -353,7 +360,7 @@ nav ul {
 }
 
 nav ul.right {
-    float:right;
+    float: right;
 }
 
 nav ul li {
@@ -388,16 +395,20 @@ footer ul {
 }
 
 footer ul li {
-    background-image: linear-gradient(to bottom,
-                                        rgba(255, 255, 255, 0.2),
-                                        rgba(0, 0, 0, 0.05));
+    background-image:
+        linear-gradient(
+            to bottom,
+            rgba(255, 255, 255, 0.2),
+            rgba(0, 0, 0, 0.05)
+        );
     border-radius: 50%;
     border: 1px solid rgba(0, 0, 0, 0.15);
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 1px 3px rgba(0, 0, 0, 0.12),
-                0 1px 2px rgba(0, 0, 0, 0.24);
+    box-shadow:
+        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
+        inset 0 1px 0 0 rgba(255, 255, 255, 0.3),
+        inset 0 -1px 0 0 rgba(255, 255, 255, 0.1),
+        0 1px 3px rgba(0, 0, 0, 0.12),
+        0 1px 2px rgba(0, 0, 0, 0.24);
     display: inline-block;
     height: 36px;
     line-height: 36px;
@@ -419,20 +430,90 @@ footer ul .black {
 }
 
 footer ul .black:hover {
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 8px 10px 1px rgba(0, 0, 0, 0.14),
-                0 3px 14px 2px rgba(0, 0, 0, 0.12),
-                0 5px 5px -3px rgba(0, 0, 0, 0.4);
+    box-shadow:
+        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
+        inset 0 1px 0 0 rgba(255, 255, 255, 0.3),
+        inset 0 -1px 0 0 rgba(255, 255, 255, 0.1),
+        0 8px 10px 1px rgba(0, 0, 0, 0.14),
+        0 3px 14px 2px rgba(0, 0, 0, 0.12),
+        0 5px 5px -3px rgba(0, 0, 0, 0.4);
 }
 
 footer ul .instagram {
-	background: -webkit-radial-gradient(32% 106%, circle cover, rgb(255, 225, 125) 0%, rgb(255, 205, 105) 10%, rgb(250, 145, 55) 28%, rgb(235, 65, 65) 42%, transparent 82%), -webkit-linear-gradient(-45deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
-	background: -moz-radial-gradient(32% 106%, circle cover, rgb(255, 225, 125) 0%, rgb(255, 205, 105) 10%, rgb(250, 145, 55) 28%, rgb(235, 65, 65) 42%, transparent 82%), -moz-linear-gradient(-45deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
-	background: -ms-radial-gradient(32% 106%, circle cover, rgb(255, 225, 125) 0%, rgb(255, 205, 105) 10%, rgb(250, 145, 55) 28%, rgb(235, 65, 65) 42%, transparent 82%), -ms-linear-gradient(-45deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
-	background: -o-radial-gradient(32% 106%, circle cover, rgb(255, 225, 125) 0%, rgb(255, 205, 105) 10%, rgb(250, 145, 55) 28%, rgb(235, 65, 65) 42%, transparent 82%), -o-linear-gradient(-45deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
-	background: radial-gradient(circle farthest-corner at 32% 106%, rgb(255, 225, 125) 0%, rgb(255, 205, 105) 10%, rgb(250, 145, 55) 28%, rgb(235, 65, 65) 42%, transparent 82%), linear-gradient(135deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
+    background:
+        -webkit-radial-gradient(
+            32% 106%,
+            circle cover,
+            rgb(255, 225, 125) 0%,
+            rgb(255, 205, 105) 10%,
+            rgb(250, 145, 55) 28%,
+            rgb(235, 65, 65) 42%,
+            transparent 82%
+        ),
+        -webkit-linear-gradient(
+            -45deg,
+            rgb(35, 75, 215) 12%,
+            rgb(195, 60, 190) 58%
+        );
+    background:
+        -moz-radial-gradient(
+            32% 106%,
+            circle cover,
+            rgb(255, 225, 125) 0%,
+            rgb(255, 205, 105) 10%,
+            rgb(250, 145, 55) 28%,
+            rgb(235, 65, 65) 42%,
+            transparent 82%
+        ),
+        -moz-linear-gradient(
+            -45deg,
+            rgb(35, 75, 215) 12%,
+            rgb(195, 60, 190) 58%
+        );
+    background:
+        -ms-radial-gradient(
+            32% 106%,
+            circle cover,
+            rgb(255, 225, 125) 0%,
+            rgb(255, 205, 105) 10%,
+            rgb(250, 145, 55) 28%,
+            rgb(235, 65, 65) 42%,
+            transparent 82%
+        ),
+        -ms-linear-gradient(
+            -45deg,
+            rgb(35, 75, 215) 12%,
+            rgb(195, 60, 190) 58%
+        );
+    background:
+        -o-radial-gradient(
+            32% 106%,
+            circle cover,
+            rgb(255, 225, 125) 0%,
+            rgb(255, 205, 105) 10%,
+            rgb(250, 145, 55) 28%,
+            rgb(235, 65, 65) 42%,
+            transparent 82%
+        ),
+        -o-linear-gradient(
+            -45deg,
+            rgb(35, 75, 215) 12%,
+            rgb(195, 60, 190) 58%
+        );
+    background:
+        radial-gradient(
+            circle farthest-corner at 32% 106%,
+            rgb(255, 225, 125) 0%,
+            rgb(255, 205, 105) 10%,
+            rgb(250, 145, 55) 28%,
+            rgb(235, 65, 65) 42%,
+            transparent 82%
+        ),
+        linear-gradient(
+            135deg,
+            rgb(35, 75, 215) 12%,
+            rgb(195, 60, 190) 58%
+        );
     border-color: rgba(181, 70, 70, 0.7);
 }
 
@@ -441,25 +522,27 @@ footer ul .instagram .fa {
 }
 
 footer ul .instagram:hover {
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 8px 10px 1px rgba(137, 77, 49, 0.14),
-                0 3px 14px 2px rgba(137, 77, 49, 0.12),
-                0 5px 5px -3px rgba(137, 77, 49, 0.4);
+    box-shadow:
+        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
+        inset 0 1px 0 0 rgba(255, 255, 255, 0.3),
+        inset 0 -1px 0 0 rgba(255, 255, 255, 0.1),
+        0 8px 10px 1px rgba(137, 77, 49, 0.14),
+        0 3px 14px 2px rgba(137, 77, 49, 0.12),
+        0 5px 5px -3px rgba(137, 77, 49, 0.4);
 }
 
 footer ul .blue-twitter {
-    background-color: #55ACEE;
+    background-color: #55acee;
 }
 
 footer ul .blue-twitter:hover {
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 8px 10px 1px rgba(0, 100, 214, 0.14),
-                0 3px 14px 2px rgba(0, 100, 214, 0.12),
-                0 5px 5px -3px rgba(0, 100, 214, 0.4);
+    box-shadow:
+        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
+        inset 0 1px 0 0 rgba(255, 255, 255, 0.3),
+        inset 0 -1px 0 0 rgba(255, 255, 255, 0.1),
+        0 8px 10px 1px rgba(0, 100, 214, 0.14),
+        0 3px 14px 2px rgba(0, 100, 214, 0.12),
+        0 5px 5px -3px rgba(0, 100, 214, 0.4);
 }
 
 footer ul .green {
@@ -467,38 +550,41 @@ footer ul .green {
 }
 
 footer ul .green:hover {
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 8px 10px 1px rgba(21, 194, 0, 0.14),
-                0 3px 14px 2px rgba(21, 194, 0, 0.12),
-                0 5px 5px -3px rgba(21, 194, 0, 0.4);
+    box-shadow:
+        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
+        inset 0 1px 0 0 rgba(255, 255, 255, 0.3),
+        inset 0 -1px 0 0 rgba(255, 255, 255, 0.1),
+        0 8px 10px 1px rgba(21, 194, 0, 0.14),
+        0 3px 14px 2px rgba(21, 194, 0, 0.12),
+        0 5px 5px -3px rgba(21, 194, 0, 0.4);
 }
 
 footer ul .orange {
-    background-color: #F96C2D;
+    background-color: #f96c2d;
 }
 
 footer ul .orange:hover {
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 8px 10px 1px rgba(249, 108, 45, 0.14),
-                0 3px 14px 2px rgba(249, 108, 45, 0.12),
-                0 5px 5px -3px rgba(249, 108, 45, 0.4);
+    box-shadow:
+        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
+        inset 0 1px 0 0 rgba(255, 255, 255, 0.3),
+        inset 0 -1px 0 0 rgba(255, 255, 255, 0.1),
+        0 8px 10px 1px rgba(249, 108, 45, 0.14),
+        0 3px 14px 2px rgba(249, 108, 45, 0.12),
+        0 5px 5px -3px rgba(249, 108, 45, 0.4);
 }
 
 footer ul .pink {
-    background-color: #E04C86;
+    background-color: #e04c86;
 }
 
 footer ul .pink:hover {
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 8px 10px 1px rgba(224, 76, 134, 0.14),
-                0 3px 14px 2px rgba(224, 76, 134, 0.12),
-                0 5px 5px -3px rgba(224, 76, 134, 0.4);
+    box-shadow:
+        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
+        inset 0 1px 0 0 rgba(255, 255, 255, 0.3),
+        inset 0 -1px 0 0 rgba(255, 255, 255, 0.1),
+        0 8px 10px 1px rgba(224, 76, 134, 0.14),
+        0 3px 14px 2px rgba(224, 76, 134, 0.12),
+        0 5px 5px -3px rgba(224, 76, 134, 0.4);
 }
 
 footer ul .purple {
@@ -506,50 +592,54 @@ footer ul .purple {
 }
 
 footer ul .purple:hover {
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 8px 10px 1px rgba(100, 65, 165, 0.14),
-                0 3px 14px 2px rgba(100, 65, 165, 0.12),
-                0 5px 5px -3px rgba(100, 65, 165, 0.4);
+    box-shadow:
+        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
+        inset 0 1px 0 0 rgba(255, 255, 255, 0.3),
+        inset 0 -1px 0 0 rgba(255, 255, 255, 0.1),
+        0 8px 10px 1px rgba(100, 65, 165, 0.14),
+        0 3px 14px 2px rgba(100, 65, 165, 0.12),
+        0 5px 5px -3px rgba(100, 65, 165, 0.4);
 }
 
 footer ul .red {
-    background-color: #DD4B39;
+    background-color: #dd4b39;
 }
 
 footer ul .red:hover {
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 8px 10px 1px rgba(221, 75, 57, 0.14),
-                0 3px 14px 2px rgba(221, 75, 57, 0.12),
-                0 5px 5px -3px rgba(221, 75, 57, 0.4);
+    box-shadow:
+        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
+        inset 0 1px 0 0 rgba(255, 255, 255, 0.3),
+        inset 0 -1px 0 0 rgba(255, 255, 255, 0.1),
+        0 8px 10px 1px rgba(221, 75, 57, 0.14),
+        0 3px 14px 2px rgba(221, 75, 57, 0.12),
+        0 5px 5px -3px rgba(221, 75, 57, 0.4);
 }
 
 footer ul .yellow {
-    background-color: #FFB300;
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.50),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 1px 3px rgba(0, 0, 0, 0.12),
-                0 1px 2px rgba(0, 0, 0, 0.24);
+    background-color: #ffb300;
+    box-shadow:
+        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
+        inset 0 1px 0 0 rgba(255, 255, 255, 0.5),
+        inset 0 -1px 0 0 rgba(255, 255, 255, 0.1),
+        0 1px 3px rgba(0, 0, 0, 0.12),
+        0 1px 2px rgba(0, 0, 0, 0.24);
 }
 
 footer ul .yellow:hover {
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.50),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-                0 8px 10px 1px rgba(255, 111, 0, 0.14),
-                0 3px 14px 2px rgba(255, 111, 0, 0.12),
-                0 5px 5px -3px rgba(255, 111, 0, 0.4);
+    box-shadow:
+        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
+        inset 0 1px 0 0 rgba(255, 255, 255, 0.5),
+        inset 0 -1px 0 0 rgba(255, 255, 255, 0.1),
+        0 8px 10px 1px rgba(255, 111, 0, 0.14),
+        0 3px 14px 2px rgba(255, 111, 0, 0.12),
+        0 5px 5px -3px rgba(255, 111, 0, 0.4);
 }
 
 /***********
  * Tooltip *
  **********/
 
-.tooltip:after {
+.tooltip::after {
     -webkit-backdrop-filter: blur(3px);
     backdrop-filter: blur(3px);
     content: attr(data-tooltip) "";
@@ -557,8 +647,9 @@ footer ul .yellow:hover {
     font-size: 12px;
     background-color: rgba(51, 51, 51, 0.8);
     border-radius: 3px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),
-                0 1px 2px rgba(0, 0, 0, 0.24);
+    box-shadow:
+        0 1px 3px rgba(0, 0, 0, 0.12),
+        0 1px 2px rgba(0, 0, 0, 0.24);
     line-height: 12px;
     margin: -36px -30px;
     opacity: 0;
@@ -570,7 +661,7 @@ footer ul .yellow:hover {
     transition-delay: 0ms;
 }
 
-.tooltip:hover:after {
+.tooltip:hover::after {
     opacity: 1;
     transition: all 100ms;
     transition-delay: 500ms;

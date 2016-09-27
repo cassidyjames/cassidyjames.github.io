@@ -41,7 +41,7 @@ nav {
 
 @media only screen and (max-width: 425px) {
     .vexpand {
-        height: calc(95vh - 225px); // I dunno magic numbers are magic
+        height: calc(95vh - 225px); /* I dunno magic numbers are magic */
     }
 
     .hero .two-thirds {
@@ -72,7 +72,7 @@ nav {
     }
 
     .vexpand {
-        height: calc(95vh - 224px); // I dunno magic numbers are magic
+        height: calc(95vh - 224px); /* I dunno magic numbers are magic */
     }
 }
 
