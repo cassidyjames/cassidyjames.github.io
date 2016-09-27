@@ -22,10 +22,10 @@
  ****************/
 
 .inline-tweet {
-    color:inherit;
+    color: inherit;
 }
 
-.inline-tweet:after {
+.inline-tweet::after {
     color: inherit;
     content: "";
     font-family: FontAwesome;
@@ -42,7 +42,7 @@
     color: #08c;
 }
 
-.inline-tweet:hover:after {
+.inline-tweet:hover::after {
     opacity: 1;
 }
 

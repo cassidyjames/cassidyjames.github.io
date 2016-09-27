@@ -1,6 +1,5 @@
 {
   "name": "danielfore.com",
-  "version": "1.0",
   "description": "The personal website of Daniel Foré",
   "main": "index.theme",
   "scripts": {
