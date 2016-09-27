@@ -1,0 +1,21 @@
+{
+  "name": "danielfore.com",
+  "version": "1.0",
+  "description": "The personal website of Daniel Foré",
+  "main": "index.theme",
+  "scripts": {
+    "test": "stylelint **/*.css"
+  },
+  "devDependencies": {
+    "stylelint": "^7.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danrabbit/danrabbit.github.io.git"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/danrabbit/danrabbit.github.io/issues"
+  },
+  "homepage": "http://danielfore.com"
+}
