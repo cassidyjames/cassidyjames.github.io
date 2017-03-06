@@ -21,8 +21,13 @@ body,
 html {
     background-color: #fffffc;
     color: #333;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     font: 16px "Open Sans", sans-serif;
     font-weight: 400;
     margin: 0;
@@ -30,6 +35,7 @@ html {
 }
 
 .animated {
+    -webkit-transition: all 250ms ease-in-out;
     transition: all 250ms ease-in-out;
 }
 
@@ -97,6 +103,12 @@ p {
 .button {
     background-color: #fff;
     background-image:
+        -webkit-linear-gradient(
+            top,
+            rgba(255, 255, 255, 0.2),
+            rgba(0, 0, 0, 0.1)
+        );
+    background-image:
         linear-gradient(
             to bottom,
             rgba(255, 255, 255, 0.2),
@@ -112,11 +124,18 @@ p {
     min-width: 100px;
     padding: 12px;
     text-align: center;
+    -webkit-transition: all 100ms ease-in-out;
     transition: all 100ms ease-in-out;
 }
 
 .button.suggested-action {
     background-color: #08c;
+    background-image:
+        -webkit-linear-gradient(
+            top,
+            rgba(255, 255, 255, 0.2),
+            rgba(0, 0, 0, 0.05)
+        );
     background-image:
         linear-gradient(
             to bottom,
@@ -162,7 +181,9 @@ p {
  *******/
 
 main {
-    flex: 1;
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
 }
 
 .grid {
@@ -236,11 +257,17 @@ img {
  ********/
 
 .hero {
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     background-color: #444c5c;
     color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     max-width: 100%;
     min-height: 30vh;
 }
@@ -290,6 +317,7 @@ img {
     margin-top: 0.2em;
     padding-left: 6px;
     position: absolute;
+    -webkit-transition: all 0.15s ease-in-out;
     transition: all 0.15s ease-in-out;
 }
 
@@ -335,6 +363,7 @@ img {
 
 nav {
     background-color: #08c;
+    background-image: -webkit-linear-gradient(left, #057dc7, #38a2c2);
     background-image: linear-gradient(to right, #057dc7, #38a2c2);
     box-shadow:
         0 1px 3px rgba(0, 0, 0, 0.12),
@@ -396,6 +425,12 @@ footer ul {
 
 footer ul li {
     background-image:
+        -webkit-linear-gradient(
+            top,
+            rgba(255, 255, 255, 0.2),
+            rgba(0, 0, 0, 0.05)
+        );
+    background-image:
         linear-gradient(
             to bottom,
             rgba(255, 255, 255, 0.2),
@@ -456,47 +491,16 @@ footer ul .instagram {
             rgb(195, 60, 190) 58%
         );
     background:
-        -moz-radial-gradient(
-            32% 106%,
-            circle cover,
+        -webkit-radial-gradient(
+            circle farthest-corner at 32% 106%,
             rgb(255, 225, 125) 0%,
             rgb(255, 205, 105) 10%,
             rgb(250, 145, 55) 28%,
             rgb(235, 65, 65) 42%,
             transparent 82%
         ),
-        -moz-linear-gradient(
-            -45deg,
-            rgb(35, 75, 215) 12%,
-            rgb(195, 60, 190) 58%
-        );
-    background:
-        -ms-radial-gradient(
-            32% 106%,
-            circle cover,
-            rgb(255, 225, 125) 0%,
-            rgb(255, 205, 105) 10%,
-            rgb(250, 145, 55) 28%,
-            rgb(235, 65, 65) 42%,
-            transparent 82%
-        ),
-        -ms-linear-gradient(
-            -45deg,
-            rgb(35, 75, 215) 12%,
-            rgb(195, 60, 190) 58%
-        );
-    background:
-        -o-radial-gradient(
-            32% 106%,
-            circle cover,
-            rgb(255, 225, 125) 0%,
-            rgb(255, 205, 105) 10%,
-            rgb(250, 145, 55) 28%,
-            rgb(235, 65, 65) 42%,
-            transparent 82%
-        ),
-        -o-linear-gradient(
-            -45deg,
+        -webkit-linear-gradient(
+            315deg,
             rgb(35, 75, 215) 12%,
             rgb(195, 60, 190) 58%
         );
@@ -657,12 +661,16 @@ footer ul .yellow:hover {
     pointer-events: none;
     position: absolute;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+    -webkit-transition: all 250ms;
     transition: all 250ms;
-    transition-delay: 0ms;
+    -webkit-transition-delay: 0ms;
+            transition-delay: 0ms;
 }
 
 .tooltip:hover::after {
     opacity: 1;
+    -webkit-transition: all 100ms;
     transition: all 100ms;
-    transition-delay: 500ms;
+    -webkit-transition-delay: 500ms;
+            transition-delay: 500ms;
 }
