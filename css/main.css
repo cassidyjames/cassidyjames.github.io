@@ -26,8 +26,8 @@ html {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     font: 16px "Open Sans", sans-serif;
     font-weight: 400;
     margin: 0;
@@ -182,8 +182,8 @@ p {
 
 main {
     -webkit-box-flex: 1;
-        -ms-flex: 1;
-            flex: 1;
+    -ms-flex: 1;
+    flex: 1;
 }
 
 .grid {
@@ -258,16 +258,16 @@ img {
 
 .hero {
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     background-color: #444c5c;
     color: #fff;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     max-width: 100%;
     min-height: 30vh;
 }
@@ -664,7 +664,7 @@ footer ul .yellow:hover {
     -webkit-transition: all 250ms;
     transition: all 250ms;
     -webkit-transition-delay: 0ms;
-            transition-delay: 0ms;
+    transition-delay: 0ms;
 }
 
 .tooltip:hover::after {
@@ -672,5 +672,5 @@ footer ul .yellow:hover {
     -webkit-transition: all 100ms;
     transition: all 100ms;
     -webkit-transition-delay: 500ms;
-            transition-delay: 500ms;
+    transition-delay: 500ms;
 }
