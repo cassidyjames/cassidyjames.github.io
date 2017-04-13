@@ -8,7 +8,7 @@
 </ul>
 <p>Cassidy is a pretty neat guy. He <strong>designs and develops</strong> websites and computer stuff.
 <br/><a href="https://github.com/cassidyjames" class="read-more github"><i class="fa fa-fw fa-github"></i>See his code</a>
-<br /><a href="https://cassidyjames.com/resume" class="read-more resume"><i class="fa fa-fw fa-file-text-o"></i>See his résumé</a>
+<br /><a href="http://cassidyjames.com/resume" class="read-more resume"><i class="fa fa-fw fa-file-text-o"></i>See his résumé</a>
 </p>
 
 <p>He <strong>says things</strong> on the internet about UX, tech, and what he&rsquo;s up to. Some people think some of those things are smart.
