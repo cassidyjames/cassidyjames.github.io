@@ -58,7 +58,7 @@ years of user experience design and architecture.
 - Icon design
 - Front-end web development
 
-### Blaedesign _Consultant, 2004–2013_
+### Blaedesign _2004–2013_
 
 #### Consultant
 
