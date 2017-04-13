@@ -59,6 +59,49 @@ h4 {
   opacity: 0.8;
 }
 
+.grid.main {
+  max-width: 640px;
+}
+
+h2 {
+  margin-top: 1em;
+  font-size: 2rem;
+}
+
+h3 {
+  margin-top: 1.25em;
+  margin-bottom: 0;
+  font-size: 1.5rem;
+}
+
+h3 em {
+  display: inline-block;
+  float: right;
+  font-size: 0.67em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 2em;
+}
+
+h4 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+h6 {
+  font-size: 0.75rem;
+}
+
+hr {
+  margin: 3em auto;
+}
+
 p {
   line-height: 1.5em;
 }
