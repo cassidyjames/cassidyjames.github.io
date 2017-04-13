@@ -66,18 +66,6 @@ years of user experience design and architecture.
 - Researching, programming, & supporting A/V software
 - Training clients on A/V software
 
-<!--
-### University of Northern Iowa _Network Engineer Assistant, 2011–2012_
-
-- Configuring networking equipment
-
-### LCS _Technical Support Analyst, 2010–2011_
-
-- Technical support for various enterprise software
-- Windows Active Directory management & support
-- User-facing documentation
--->
-
 ### Webspec Design, LLC. _2007–2010_
 
 #### Web Developer
