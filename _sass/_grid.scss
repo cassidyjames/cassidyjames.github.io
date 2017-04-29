@@ -1,0 +1,19 @@
+/********
+* Grid *
+*******/
+
+section.grid {
+  margin: 0 auto;
+  max-width: 512px;
+
+  > * {
+    margin: 16px;
+    padding-top: 32px;
+    padding-bottom: 64px;
+  }
+}
+
+.grid.main {
+  max-width: 640px;
+  min-height: calc(100% - 214px);
+}

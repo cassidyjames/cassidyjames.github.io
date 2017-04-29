@@ -1,0 +1,77 @@
+/***************
+* Text Styles *
+**************/
+
+a {
+  color: $red;
+  text-decoration: none;
+  opacity: 0.67;
+  transition: opacity 250ms ease;
+}
+
+a:hover {
+  opacity: 1;
+}
+
+h1 {
+  color: $red;
+  font-weight: 800;
+  font-size: 3rem;
+  line-height: 0.85em;
+  margin: 0 0 0.5em;
+  text-shadow: 0 1px 1px $white;
+
+  max-width: 4em; /* Wrap each word on its own line */
+
+  @media (min-width: 505px) {
+    max-width: initial;
+  }
+}
+
+h2 {
+  font-weight: 300;
+  margin: 0;
+  margin-top: 1em;
+  font-size: 2rem;
+}
+
+h3 {
+  margin-top: 1.25em;
+  margin-bottom: 0;
+  font-size: 1.5rem;
+
+  em {
+    display: inline-block;
+    float: right;
+    font-size: 0.67em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 2em;
+  }
+}
+
+h4 {
+  font-weight: 600;
+  opacity: 0.8;
+
+  margin-top: 0;
+  margin-bottom: 0.5em;
+
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+h6 {
+  font-size: 0.75rem;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+hr {
+  margin: 3em auto;
+}
