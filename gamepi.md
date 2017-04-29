@@ -1,4 +1,4 @@
- # GamePi
+# GamePi
 
 Retro gaming console based on Raspberry Pi.
 
