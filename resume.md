@@ -12,7 +12,9 @@ especially using and related to open source software.
 **Programming languages:** HTML, CSS, JavaScript, Mustache/&#8203;Handlebars;
 experience with PHP and MySQL
 
-**Operating Systems:** Linux, macOS, Windows
+**Operating Systems:** Linux, macOS, Windows, Android, iOS
+
+**Concepts:** user-centric design, responsive/mobile-first web development, version control, pair programming
 
 ## Experience
 
