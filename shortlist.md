@@ -7,6 +7,8 @@ The idea of a shortlist is that it&rsquo;s a small number of things I&rsquo;d
 absolutely love to get. You can use it as a surefire way to get me something
 I&rsquo;ll love, or as inspiration for getting me something else.
 
+* [Horizon: Zero Dawn](http://gamestop.com/product/ps4/games/horizon-zero-dawn/129080) for PS4 **$55–60** - New or used physical copy, or digital code/PS Store credit
+
 * [Jaybird X3 Wireless Buds](http://www.jaybirdsport.com/shop/x3-product/) **$130** - Blackout color
 
 * [Google Chromecast Audio](https://store.google.com/product/chromecast_audio) **$35**
