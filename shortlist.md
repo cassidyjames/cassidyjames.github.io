@@ -11,9 +11,12 @@ I&rsquo;ll love, or as inspiration for getting me something else.
 
 * [Jaybird X3 Wireless Buds](http://www.jaybirdsport.com/shop/x3-product/) **$130** - Blackout color
 
+* [LEGO Star Wars Y-Wing Starfighter](http://brickset.com/sets/75172-1/Y-wing-Starfighter) (Set #75172) **$50&ndash;60** - Currently sold online and in stores like Target
+
+* [Google Daydream View](https://store.google.com/product/daydream_view) **$80**
+
 * [Google Chromecast Audio](https://store.google.com/product/chromecast_audio) **$35**
 
-* [LEGO Star Wars Y-Wing Starfighter](http://brickset.com/sets/75172-1/Y-wing-Starfighter) (Set #75172) **$80** - Currently sold online and in stores like Target
 
 
 ## LEGO
