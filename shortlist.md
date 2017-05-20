@@ -15,6 +15,8 @@ I&rsquo;ll love, or as inspiration for getting me something else.
 
 * [LG Watch Style](https://store.google.com/us/product/lg_watch_style) **$249** - Titanium
 
+* [Google Home](https://store.google.com/product/google_home) **$129**
+
 * [Google Daydream View](https://store.google.com/product/daydream_view) **$80**
 
 * [Google Chromecast Audio](https://store.google.com/product/chromecast_audio) **$35**
