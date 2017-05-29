@@ -15,9 +15,6 @@ I&rsquo;ll love, or as inspiration for getting me something else.
 
 * [Google Home](https://store.google.com/product/google_home) **$129**
 
-* [Google Daydream View](https://store.google.com/product/daydream_view) **$80**
-
-
 
 ## LEGO
 
