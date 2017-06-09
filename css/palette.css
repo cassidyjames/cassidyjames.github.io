@@ -23,7 +23,10 @@
 }
 
 .swatch {
-    margin: 3px;
+    background-color: #f4f4f4;
+    box-shadow:
+        0 1px 3px rgba(0, 0, 0, 0.12),
+        0 1px 2px rgba(0, 0, 0, 0.24);
     padding: 8px 16px;
 }
 
@@ -38,4 +41,9 @@
 .swatch h3 {
     margin-top: 0;
     margin-bottom: 24px;
+}
+
+.swatch span {
+    float: right;
+    font-size: 70%;
 }
