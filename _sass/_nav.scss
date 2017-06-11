@@ -1,0 +1,27 @@
+/******
+* Nav *
+******/
+
+nav {
+  padding: 1em;
+
+  background-color: $purple;
+
+  color: $white;
+
+    a {
+      padding: 1em;
+
+      color: inherit;
+      font-weight: bold;
+      opacity: 1;
+
+      &:hover {
+        text-decoration: underline;
+      }
+
+      &.current {
+        background-color: $red;
+      }
+    }
+}

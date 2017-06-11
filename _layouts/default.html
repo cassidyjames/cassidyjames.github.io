@@ -24,6 +24,13 @@
     <script type="text/javascript" src="js/main.js"></script>
   </head>
   <body>
+    <nav>
+      {% assign current = page.url | downcase | split: '/' %}
+
+      <a href="/" {% if current[1] == null %}class='current'{% endif %}>Home</a>
+      <a href="/shortlist" {% if current[1] == 'shortlist' %}class='current'{% endif %}>Shortlist</a>
+      <a href="/resume" {% if current[1] == 'resume' %}class='current'{% endif %}>Résumé</a>
+    </nav>
     <section class="grid main">
       <div>
         {{content}}
