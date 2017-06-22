@@ -10,6 +10,8 @@ I&rsquo;ll love, or as inspiration for getting me something else.
 * [Jaybird X3 Wireless Buds](http://www.jaybirdsport.com/shop/x3-product/)
 **$130** - Blackout color
 
+* [Rose Quartz Plugs](https://arcticbuffalo.com/products/rose-quartz-single-flare-plugs?variant=17923653700) **$6–20** - 2g/6mm, single flared
+
 * [Super Thin Pixel Case](https://buypeel.com/products/super-thin-pixel-case?variant=41260438803)
 by Peel **$20** _(20% off of $25 w/**DISCOUNT20** code)_ - Quite Black color
 
