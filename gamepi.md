@@ -1,6 +1,8 @@
 # GamePi
 
-Retro gaming console based on [Raspberry Pi](https://www.raspberrypi.org/) and [RetroPie](https://retropie.org.uk/docs/).
+GamePi is a retro gaming console I make, based on [Raspberry Pi](https://www.raspberrypi.org/) and [RetroPie](https://retropie.org.uk/docs/).
+
+[Order Yours Now](https://squareup.com/store/cassidyjames)
 
 
 ## Install RetroPie
@@ -43,6 +45,7 @@ Since the software cannot be distributed with GamePi, there are a few optimizati
 
 To get started, connect your GamePi to an HDMI display and power. It should automatically start up. Be patient, it takes a few minutes the first time.
 
+
 ### Controller
 
 1. Once the GamePi has started up, connect your USB controller.
@@ -55,3 +58,9 @@ To get started, connect your GamePi to an HDMI display and power. It should auto
 
 4. You should be able to navigate the GamePi with the controller. If not, you can always connect a USB keyboard as a backup.
 
+
+### Games
+
+GamePi doesn't come with any games, but you can play ROM files you own from several classic game consoles. Of course it's your responsibility to make sure you own the rights to use any ROMs. [RetroPie's docs](https://retropie.org.uk/docs/Transferring-Roms/) go into a bit more detail about ROMs and how to transfer them to your GamePi.
+
+[Learn More](https://retropie.org.uk/docs/Transferring-Roms/)
