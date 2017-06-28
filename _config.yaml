@@ -1,1 +1,19 @@
-permalink: pretty # Post permalink
+# Site-wide generic info (overridable per-page)
+title: CassidyJames.com
+description: The personal site and résumé of Cassidy James Blaede
+author: Cassidy James Blaede
+theme-color: "#525"
+
+# Site-wide social info
+email: c@ssidyjam.es
+twitter: "@CassidyJames"
+github:
+  user: cassidyjames
+  repo: cassidyjames.com
+square: "$cassidyjames"
+google-plus: "+CassidyJames"
+medium: "@cassidyjames"
+instagram: cassidy.james.blaede
+
+# Settings
+permalink: pretty
