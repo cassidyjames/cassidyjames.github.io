@@ -41,7 +41,7 @@ Next, you have to get the RetroPie software onto your microSD card. [Etcher](htt
 
 ## Configure RetroPie
 
-Since the software cannot be distributed with GamePi, there are a few optimization steps to get the most of it.
+Since the software cannot be distributed with GamePi (and thus be pre-optimized by me), there are a few optimization steps to get the most of it.
 
 To get started, connect your GamePi to an HDMI display and power. It should automatically start up. Be patient, it takes a few minutes the first time.
 
