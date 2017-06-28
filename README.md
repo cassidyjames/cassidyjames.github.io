@@ -19,7 +19,7 @@ I **say things** on the internet about UX, tech, and what I&rsquo;m up to. Some 
 I occasionally take **photos** of my cat and random things I&rsquo;m up to.
 <br/><a href="https://instagram.com/cassidy.james.blaede" class="read-more instagram"><i class="fa fa-fw fa-instagram"></i>View photos on Instagram</a>
 
-I play **games** when I can find the time. Usually on PS4, but ocasionally on Steam or Android.
+I play **games** when I can find the time. Usually on PS4, but ocasionally on Steam, Android, and RetroPie.
 <br/><a href="http://psnprofiles.com/blaede22" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
 <br/><a href="http://steamcommunity.com/id/cassidyjames/" class="read-more steam"><i class="fa fa-fw fa-steam-square"></i>Add on Steam</a>
 
