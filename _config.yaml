@@ -4,6 +4,9 @@ description: The personal site and résumé of Cassidy James Blaede
 author: Cassidy James Blaede
 theme-color: "#525"
 
+# Site-wide hardcoded (non-overridable by pages)
+made-in: Colorado
+
 # Site-wide social info
 email: c@ssidyjam.es
 twitter: "@CassidyJames"
