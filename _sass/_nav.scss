@@ -16,10 +16,6 @@ nav {
       font-weight: bold;
       opacity: 1;
 
-      &:hover {
-        text-decoration: underline;
-      }
-
       &.current {
         background-color: $red;
       }
