@@ -8,8 +8,8 @@
 </ul>
 
 I use **user-centered design** to **design and develop** useful, usable, and delightful **digital products**.
-<br/><a href="https://github.com/cassidyjames" class="read-more github"><i class="fa fa-fw fa-github"></i>See code</a>
 <br /><a href="http://cassidyjames.com/resume" class="read-more resume"><i class="fa fa-fw fa-file-text-o"></i>See résumé</a>
+<br/><a href="https://github.com/cassidyjames" class="read-more github"><i class="fa fa-fw fa-github"></i>See code</a>
 
 I **say things** on the internet about UX, tech, and what I&rsquo;m up to. Some people think some of those things are smart.
 <br/><a href="https://medium.com/@cassidyjames" class="read-more medium"><i class="fa fa-fw fa-medium"></i>Read posts on Medium</a>
