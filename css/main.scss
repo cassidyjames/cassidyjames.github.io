@@ -105,3 +105,11 @@ img {
 .read-more.google-plus:hover .fa {
   color: $gplus;
 }
+
+img[alt="Me"] {
+  display: block;
+  margin: auto;
+  max-width: 128px;
+
+  border-radius: 50%;
+}
