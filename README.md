@@ -1,5 +1,7 @@
 # Cassidy James Blaede
 
+![Me](/images/me.jpg)
+
 <ul class="fa-ul">
     <li><i class="fa-li fa fa-briefcase"></i>Web Developer & UX Architect at <a href="https://system76.com/">System76</a></li>
     <li><i class="fa-li fa fa-heart"></i>Cofounder at <a href="https://elementary.io/">elementary LLC.</a></li>
