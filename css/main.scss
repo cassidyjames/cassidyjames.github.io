@@ -108,8 +108,17 @@ img {
 
 img[alt="Me"] {
   display: block;
-  margin: auto;
-  max-width: 128px;
+  float: left;
+  margin-right: 1em;
+  max-width: 7.5em;
 
   border-radius: 50%;
+}
+
+ul.fa-ul {
+  float: left;
+
+  + p {
+    clear: left;
+  }
 }
