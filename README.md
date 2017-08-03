@@ -1,6 +1,6 @@
 # Cassidy James Blaede
 
-![Me](http://www.gravatar.com/avatar/{{ site.gravatar }}.png?s=240)
+![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=240&d=blank)
 
 <ul class="fa-ul">
     <li><i class="fa-li fa fa-briefcase"></i>Web Developer & UX Architect at <a href="https://system76.com/">System76</a></li>
