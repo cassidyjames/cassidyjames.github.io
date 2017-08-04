@@ -30,9 +30,10 @@ years of user experience design and architecture.
 
 ### System76 _2014–present_
 
-#### Front-end Web Developer, UX Architect
+#### UX Architect, Front-end Web Developer
 
-- Primary front-end web developer of [System76.com](https://system76.com)
+- UX research, modeling, design, and testing
+- Front-end web developer of [System76.com](https://system76.com)
 - UX architecture of in-house admin, sales, and support system
 - Pair programming with senior back-end web developer
 - Working directly with design & marketing team to turn concepts & designs into
