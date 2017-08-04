@@ -108,8 +108,26 @@ img {
 
 img[alt="Me"] {
   display: block;
-  margin: auto;
-  max-width: 128px;
+  float: left;
+  margin-right: 1em;
+  max-width: 7.5em;
 
+  background-image: url('https://cdn.rawgit.com/elementary/icons/master/status/symbolic/avatar-default-symbolic.svg');
+  background-position: center;
+  background-size: cover;
+
+  border: 1px solid $purple;
   border-radius: 50%;
+
+  box-shadow:
+    0 1px 6px 0 rgba(0, 0, 0, 0.12),
+    0 1px 4px 0 rgba(0, 0, 0, 0.24);
+}
+
+ul.fa-ul {
+  float: left;
+
+  + p {
+    clear: left;
+  }
 }
