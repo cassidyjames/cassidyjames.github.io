@@ -8,7 +8,7 @@ absolutely love to get. You can use it as a surefire way to get me something
 I&rsquo;ll love, or as inspiration for getting me something else.
 
 * [Jaybird X3 Wireless Buds](http://www.jaybirdsport.com/shop/x3-product/)
-**$130** - Blackout color
+~~$130~~ **$100** _currently on sale_ - Roadrash (red) color, or Blackout if Roadrash is unavailable
 
 * [Rose Quartz Plugs](https://arcticbuffalo.com/products/rose-quartz-single-flare-plugs?variant=17923653700) **$6–20** - 2g/6mm, single flared
 
