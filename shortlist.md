@@ -7,16 +7,14 @@ The idea of a shortlist is that it&rsquo;s a small number of things I&rsquo;d
 absolutely love to get. You can use it as a surefire way to get me something
 I&rsquo;ll love, or as inspiration for getting me something else.
 
-* [Jaybird X3 Wireless Buds](http://www.jaybirdsport.com/shop/x3-product/)
-~~$130~~ **$100** _currently on sale_ - Roadrash (red) color, or Blackout if Roadrash is unavailable
-
-* [Rose Quartz Plugs](https://arcticbuffalo.com/products/rose-quartz-single-flare-plugs?variant=17923653700) **$6–20** - 2g/6mm, single flared
-
-* [Super Thin Pixel Case](https://buypeel.com/products/super-thin-pixel-case?variant=41260438803)
-by Peel **$20** _(20% off of $25 w/**DISCOUNT20** code)_ - Quite Black color
-
 * [LG Watch Style](https://store.google.com/us/product/lg_watch_style) **$249** -
-Titanium color
+  Titanium color
+
+* [Jaybird X3 Wireless Buds](http://www.jaybirdsport.com/shop/x3-product/)
+  **$129** - Roadrash (red) color, or Blackout if Roadrash is unavailable
+
+* [Rose Quartz Plugs](https://arcticbuffalo.com/products/rose-quartz-single-flare-plugs?variant=17923653700)
+  **$6–20** - 2g/6mm, single flared
 
 * [Google Home](https://store.google.com/product/google_home) **$129**
 
