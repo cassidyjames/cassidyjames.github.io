@@ -10,13 +10,13 @@ I&rsquo;ll love, or as inspiration for getting me something else.
 * [LG Watch Style](https://store.google.com/us/product/lg_watch_style) **$249** -
   Titanium color
 
-* [Jaybird X3 Wireless Buds](http://www.jaybirdsport.com/shop/x3-product/)
-  **$129** - Roadrash (red) color, or Blackout if Roadrash is unavailable
+* [Google Pixel Buds](https://store.google.com/product/google_pixel_buds)
+  **$159** - White (preferred) or Black
 
-* [Rose Quartz Plugs](https://arcticbuffalo.com/products/rose-quartz-single-flare-plugs?variant=17923653700)
-  **$6–20** - 2g/6mm, single flared
+* [Fun Gauges/Plugs](https://arcticbuffalo.com/)
+  **$5–20** - 2g/6mm, single- or double-flared are fine!
 
-* [Google Home](https://store.google.com/product/google_home) **$129**
+* [Google Home Mini](https://store.google.com/product/google_home_mini) **$49**
 
 * [Horizon: Zero Dawn](http://gamestop.com/product/ps4/games/horizon-zero-dawn/129080)
   for PS4 **$40–60** - New or used physical copy, or digital code/PS Store credit
