@@ -13,7 +13,7 @@ I&rsquo;ll love, or as inspiration for getting me something else.
 * [Google Pixel Buds](https://store.google.com/product/google_pixel_buds)
   **$159** - White (preferred) or Black
 
-* [Fun Gauges/Plugs](https://arcticbuffalo.com/)
+* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter)
   **$5–20** - 2g/6mm, single- or double-flared are fine!
 
 * [Google Home Mini](https://store.google.com/product/google_home_mini) **$49**
