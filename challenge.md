@@ -11,9 +11,9 @@ for a high-end product.
 
 ## October Challenge: Dishwashers!
 
-1. Third-party "dirty/clean" indicators for dishwashers are fairly common; as a
-   dishwasher manufacturer, how could you design a dishwasher that eliminated
-   the need for a third-party solution?
+1. After-market or DIY indicators for dishwashers (like the thumbs-up magnet on
+   ours) are fairly common; as a dishwasher manufacturer, how could you design a
+   dishwasher that eliminated the need for a third-party solution?
 
 2. What are the most difficult challenges your solution would need to overcome?
 
