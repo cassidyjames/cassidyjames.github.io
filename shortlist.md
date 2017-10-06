@@ -20,7 +20,7 @@ I&rsquo;ll love, or as inspiration for getting me something else.
 * [Horizon: Zero Dawn](http://gamestop.com/product/ps4/games/horizon-zero-dawn/129080)
   for PS4 **$40–60** - New or used physical copy, or digital code/PS Store credit
 
-* Philips Hue White starter pack **$150**
+* [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009) **$150**
 
 
 ## LEGO
