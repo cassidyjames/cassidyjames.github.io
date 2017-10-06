@@ -7,8 +7,7 @@ The idea of a shortlist is that it&rsquo;s a small number of things I&rsquo;d
 absolutely love to get. You can use it as a surefire way to get me something
 I&rsquo;ll love, or as inspiration for getting me something else.
 
-* [LG Watch Style](https://store.google.com/us/product/lg_watch_style) **$249** -
-  Titanium color
+* LG Watch Style **$249** - Titanium color
 
 * [Google Pixel Buds](https://store.google.com/product/google_pixel_buds)
   **$159** - White (preferred) or Black
@@ -20,6 +19,8 @@ I&rsquo;ll love, or as inspiration for getting me something else.
 
 * [Horizon: Zero Dawn](http://gamestop.com/product/ps4/games/horizon-zero-dawn/129080)
   for PS4 **$40–60** - New or used physical copy, or digital code/PS Store credit
+
+* Philips Hue White starter pack **$150**
 
 
 ## LEGO
