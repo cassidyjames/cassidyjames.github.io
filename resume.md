@@ -21,12 +21,14 @@ experience with PHP and MySQL
 Ten years of front-end web development, six years of open source collaboration, and six
 years of user experience design and architecture.
 
+<!--
 ### Freelance _2016–present_
 
 - Front-end web development
 - Working directly with clients
 - Minor graphic design & photo editing
 - Issue tracking, estimation, invoicing
+-->
 
 ### System76 _2014–present_
 
