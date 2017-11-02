@@ -79,3 +79,12 @@ p {
 hr {
   margin: 3em auto;
 }
+
+blockquote {
+  margin-left: 0.25em;
+  padding-left: 0.5em;
+
+  border-left: 0.25em solid rgba($purple, 0.5);
+
+  opacity: 0.75;
+}
