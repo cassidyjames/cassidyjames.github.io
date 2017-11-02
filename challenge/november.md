@@ -2,20 +2,23 @@
 
 Happy November, System76 peeps!
 
-I am planning on presenting a challenge about once a month. You have the month
+>I am planning on presenting a challenge about once a month. You have the month
 to complete the challenge, and **may be on a team up to three people** total.
 
-Think of realistic solutions, but don't be afraid to get creative! Price of
+>Think of realistic solutions, but don't be afraid to get creative! Price of
 implementation is not an issue so long as it's within the realm of possibility
 for a high-end product.
 
+This challenge is **due November 30**, and the winner gets a [prize](#prize)!
+
 ## November: The Two-Lightswitch Problem!
 
-1. You've probably seen it: one room or hallway with overhead lights and two
-   lightswitches that control the lights. You flip one switch up and the lights
-   come on, but now the other switch is down; they never end up being completely
-   in sync with the state of the lights. How could you design a solution to this
-   problem?
+You've probably seen it: one room or hallway with overhead lights and two
+lightswitches that control the lights. You flip one switch up and the lights
+come on, but now the other switch is down; they never end up being completely in
+sync with the state of the lights.
+
+1. How could you design a solution to this problem?
 
 2. What are some challenges your solution would need to overcome?
 
