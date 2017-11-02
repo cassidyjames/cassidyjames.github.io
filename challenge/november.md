@@ -9,11 +9,15 @@ Think of realistic solutions, but don't be afraid to get creative! Price of
 implementation is not an issue so long as it's within the realm of possibility
 for a high-end product.
 
-## November Challenge: Undecided!
+## November: The Two-Lightswitch Problem!
 
-1. Summary of problem. How could you design a product that solves this problem?
+1. You've probably seen it: one room or hallway with overhead lights and two
+   lightswitches that control the lights. You flip one switch up and the lights
+   come on, but now the other switch is down; they never end up being completely
+   in sync with the state of the lights. How could you design a solution to this
+   problem?
 
-2. What are the most difficult challenges your solution would need to overcome?
+2. What are some challenges your solution would need to overcome?
 
 3. What other solutions did you consider, and why did you reject them?
 
@@ -40,9 +44,7 @@ choice from [Flours & Chocolate][fc], or an equivalent value of gift cards to
 
 ## Submission
 
-_Not live yet_
-
-<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAOSGxaQnNqVJikLOfQMXc8mwu8JvxFnqVYWetccAo1ZuZuA/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxzCav-w6EIfbCK3ggs7vVh-OfcH9kZYDShARz2cbD-Ci7aQ/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 [fc]: https://floursandchocolate.co
