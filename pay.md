@@ -2,8 +2,8 @@
 
 Want to buy me a drink, pay me back for something, or otherwise just throw money my way? Here you go.
 
-<h2><span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-1x"></i>
+<h2><span class="fa-stack">
+  <i class="fa fa-circle fa-stack-2x"></i>
   <i class="fa fa-usd fa-stack-1x fa-inverse"></i>
 </span> Square Cash</h2>
 
