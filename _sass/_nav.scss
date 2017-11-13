@@ -9,16 +9,23 @@ nav {
 
   color: $white;
 
-    a {
-      display: inline-block;
-      padding: 1em;
+  a {
+    display: inline-block;
+    padding: 1em;
 
-      color: inherit;
-      font-weight: bold;
-      opacity: 1;
+    color: inherit;
+    font-weight: bold;
+    opacity: 1;
 
-      &.current {
-        background-color: $red;
-      }
+    &.current {
+      background-color: $red;
     }
+  }
+  
+  img {
+    max-height: 1em;
+    max-width: 1em;
+    padding: 0;
+    margin: 0;
+  }
 }
