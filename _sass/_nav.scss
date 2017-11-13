@@ -22,10 +22,11 @@ nav {
     }
   }
   
-  img {
+  img[alt="Me"] {
     max-height: 1em;
     max-width: 1em;
     padding: 0;
     margin: 0;
+    margin-right: 0.25em;
   }
 }
