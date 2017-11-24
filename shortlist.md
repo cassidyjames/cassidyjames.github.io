@@ -1,11 +1,11 @@
-# Cassidy&rsquo;s Shortlist
+# Cassidy's Shortlist
 
 
-## A few things I&rsquo;d love
+## A few things I'd love
 
-The idea of a shortlist is that it&rsquo;s a small number of things I&rsquo;d
-absolutely love to get. You can use it as a surefire way to get me something
-I&rsquo;ll love, or as inspiration for getting me something else.
+The idea of a shortlist is that it's a small number of things I'd absolutely
+love to get. You can use it as a surefire way to get me something I'll love, or
+as inspiration for getting me something else.
 
 If multiple colors/options are listed, they're in descending preference order,
 but all listed are totally fine.
@@ -14,7 +14,8 @@ but all listed are totally fine.
   **$30**
 
 * [Jaybird X3 Wireless Headphones](https://jaybirdsport.com/en-us/x3-bluetooth-headphones.html)
-  **$129** or sometimes cheaper from other retailers - Roadrash (preferred), Blackout, or Platinum
+  **$129** or sometimes cheaper from other retailers - Roadrash (preferred),
+  Blackout, or Platinum
 
 * [Google Home Mini](https://store.google.com/product/google_home_mini) ~~$49~~
   **$29** for a limited time - Coral (preferred), Charcoal, or Chalk
@@ -48,13 +49,13 @@ variety of these things. Pick something you think I'll like!
 ## LEGO
 
 I maintain a LEGO wishlist via [Brickset](http://brickset.com/sets/wantedby-cassidyjames).
-It&rsquo;s kept up to date, especially around Christmas and my birthday. As a
-general rule, duplicates are fine and all Star Wars ships are awesome!
+It's kept up to date, especially around Christmas and my birthday. As a general
+rule, duplicates are fine and all Star Wars ships are awesome!
 
 
 ## A more traditional wishlist&hellip;
 
 Check out [amzn.com/w/43YXVLE92YAT](https://amzn.com/w/43YXVLE92YAT) for a more
-traditional, sprawling wishlist. It's generally kept up to date. If you&rsquo;re
+traditional, sprawling wishlist. It's generally kept up to date. If you're
 looking there, be sure to check not only the main wish list, but the Funko POP
 list.
