@@ -26,7 +26,7 @@ but all listed are totally fine.
   on-disc, which would also be rad.
 
 * [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)
-  **$150**
+  **$60–100** depending on retailer - 4 bulbs and bridge
 
 * [Moment Photo Case for Google Pixel](https://www.shopmoment.com/google-pixel)
   **$30** - Black is preferred
