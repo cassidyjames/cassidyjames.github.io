@@ -20,7 +20,9 @@ but all listed are totally fine.
   **$29** for a limited time - Coral (preferred), Charcoal, or Chalk
 
 * [Horizon: Zero Dawn](http://gamestop.com/product/ps4/games/horizon-zero-dawn/129080)
-  for PS4 **$40–60** - New or used physical copy, or digital code/PS Store credit
+  for PS4 **$40–60** - New or used physical copy, or digital code/PS Store
+  credit. **Complete Edition** is coming out soon for **$50** with the DLC
+  on-disc, which would also be rad.
 
 * [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)
   **$150**
