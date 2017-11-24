@@ -9,8 +9,8 @@ I&rsquo;ll love, or as inspiration for getting me something else.
 
 * [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) **$30**
 
-* [Google Pixel Buds](https://store.google.com/product/google_pixel_buds)
-  **$159** - White (preferred) or Black (also totally cool)
+* [Jaybird X3 Wireless Headphones](https://jaybirdsport.com/en-us/x3-bluetooth-headphones.html)
+  **$129** or sometimes cheaper from other retailers - Roadrash (red), Blackout (black), or Platinum (white)
 
 * [Google Home Mini](https://store.google.com/product/google_home_mini) **$49**
 
@@ -21,7 +21,7 @@ I&rsquo;ll love, or as inspiration for getting me something else.
 
 * [Moment Photo Case for Google Pixel](https://www.shopmoment.com/google-pixel) **$30** - Black is preferred
 
-* [Moment New Wide Lens](https://www.shopmoment.com/shop/new-wide-lens/pixel-2) **$100** 
+* [Moment New Wide Lens](https://www.shopmoment.com/shop/new-wide-lens/pixel-2) **$100**
 
 
 ## Stuff I Always Enjoy
@@ -30,7 +30,7 @@ I don't have specific items picked out here, but I always love receiving a varie
 
 * [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter)
   **$5–20** - 2g/6mm, single- or double-flared are fine!
-  
+
 * [Threadless Tees and Tanks](https://threadless.com) **$10–30** - Men's Large
 
 
