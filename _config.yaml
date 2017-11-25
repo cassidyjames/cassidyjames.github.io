@@ -26,5 +26,3 @@ permalink: pretty
 # Plugins
 plugins:
   - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from

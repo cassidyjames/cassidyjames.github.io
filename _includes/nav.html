@@ -2,7 +2,7 @@
   {% assign current = page.url | downcase | split: '/' %}
 
   <a href="/" {% if current[1] == null %}class='current'{% endif %}><img alt="Me" src="https://www.gravatar.com/avatar/{{ site.gravatar }}?s=240&d=blank" /> Home</a>
-  <a href="/shortlist" {% if current[1] == 'shortlist' %}class='current'{% endif %}>Shortlist</a>
+  <a href="/wishlist" {% if current[1] == 'wishlist' %}class='current'{% endif %}>Wishlist</a>
   <a href="/resume" {% if current[1] == 'resume' %}class='current'{% endif %}>Résumé</a>
   <a href="/gamepi" {% if current[1] == 'gamepi' %}class='current'{% endif %}>GamePi</a>
 </nav>

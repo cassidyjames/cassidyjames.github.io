@@ -1,11 +1,18 @@
+---
+redirect_from:
+  - /shortlist
+  - /shotlist/
+---
 # Cassidy's Wishlist
 
+This is my canonical birthday, Christmas, and any-other-time wish list. It is
+up to date.
 
 ## Shortlist
 
-The idea of a shortlist is that it's a small number (3–7) of things I'd
-absolutely love to get. You can use it as a surefire way to get me something
-I'll love, or as inspiration for getting me something else.
+An ever-updated small number (3–7) of things I'd absolutely love to get. You can
+use it as a surefire way to get me something I'll love, or as inspiration for
+getting me something else.
 
 If multiple colors/options are listed, they're in descending preference order,
 but all listed are totally fine.
