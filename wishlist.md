@@ -35,11 +35,12 @@ but all listed are totally fine.
 * [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)
   **$60–100** depending on retailer - 4 bulbs and bridge
 
-* [Moment Photo Case for Google Pixel](https://www.shopmoment.com/google-pixel)
+* [Moment Photo Case for Google Pixel](https://www.shopmoment.com/shop/photo-case/pixel/black)
   **$30** - Black is preferred
 
-* [Moment New Wide Lens](https://www.shopmoment.com/shop/new-wide-lens/pixel-2)
-  **$100**
+* [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)
+  **$100** each - New Wide, New Tele, New Superfish, and New Macro are all
+  interesting to me, in that order.
 
 
 ## Stuff I Always Enjoy
