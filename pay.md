@@ -1,6 +1,7 @@
-# Pay me
+# Pay Cassidy
 
-Want to buy me a drink, pay me back for something, or otherwise just throw money my way? Here you go.
+Want to buy me a drink, pay me back for something, or otherwise just throw money
+my way? Here you go.
 
 <h2><i class="fa fa-fw fa-usd"></i> Square Cash</h2>
 
