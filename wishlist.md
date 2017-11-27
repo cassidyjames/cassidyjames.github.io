@@ -82,7 +82,9 @@ rule, duplicates are fine and all Star Wars ships are awesome!
 
 ## Amazon wishlist&hellip;
 
-Check out [amzn.com/w/{{ site.amazon }}](https://amzn.com/w/{{ site.amazon }}) for a more
-traditional, sprawling wishlist. It's generally kept up to date. If you're
-looking there, be sure to check not only the main wish list, but the Funko POP
-list.
+I dislike Amazon since they're extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox)
+and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652),
+but alas, it seems everyone wants an Amazon wishlist. If you can find the same
+items elsewhere, please purchase them somewhere other than Amazon.
+
+[amzn.com/w/{{ site.amazon }}](https://amzn.com/w/{{ site.amazon }})
