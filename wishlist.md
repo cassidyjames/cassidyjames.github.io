@@ -25,7 +25,7 @@ but all listed are totally fine.
   Blackout, or Platinum
 
 * [Google Home Mini](https://store.google.com/product/google_home_mini) ~~$49~~
-  **$29** for a limited time - Coral (preferred), Charcoal, or Chalk
+  **$29** through December - Coral (preferred), Charcoal, or Chalk
 
 * [Horizon: Zero Dawn](http://gamestop.com/product/ps4/games/horizon-zero-dawn/129080)
   for PS4 **$40–60** - New or used physical copy, or digital code/PS Store
@@ -36,10 +36,10 @@ but all listed are totally fine.
   **$60–100** depending on retailer - 4 bulbs and bridge
 
 * [Moment Photo Case for Google Pixel](https://www.shopmoment.com/shop/photo-case/pixel/black)
-  **$30** - Black is preferred
+  ~~$30~~ **$24** through 11/30 - Black is preferred
 
 * [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)
-  **$100** each - New Wide, New Tele, New Superfish, and New Macro are all
+  ~~$100~~ **$80** each through 11/30 - New Wide, New Tele, New Superfish, and New Macro are all
   interesting to me, in that order.
 
 
