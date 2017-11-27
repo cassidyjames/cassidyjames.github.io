@@ -62,15 +62,16 @@ variety of these things. Pick something you think I'll like!
 * Gift Cards **any amount** - I shop at all of these places and would always
   appreciate a gift card.
 
-  * PlayStation Network
-  * Google Play
-  * Micro Center
-  * GameStop/ThinkGeek
-  * LEGO Store
-  * Target
-  * Best Buy
-  * Old Navy
-  * Caribou Coffee
+  * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games
+  * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, and games
+  * Micro Center (seemingly only available in-store) for Raspberry Pi and gadget stuff
+  * [GameStop/ThinkGeek](https://www.gamestop.com/gift-cards) for games and geek stuff
+  * [LEGO Store](https://shop.lego.com/en-US/Give-Gift-Card) for LEGOs, obviously
+  * [Target](https://www.target.com/c/target-giftcards/all-occasions/-/N-5xsxtZ5rxa0) for whatever
+  * [Best Buy](https://www.bestbuy.com/site/electronics/gift-cards/cat09000.c?id=cat09000#/) for gadgets
+  * [Old Navy](http://oldnavy.gap.com/customerService/info.do?cid=35433) for fashion
+  * [Caribou Coffee](https://shared.caribouperks.com/giftcard/) for coffeeeee
+  * [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth
 
 
 ## LEGO
