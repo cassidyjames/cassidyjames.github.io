@@ -70,6 +70,7 @@ variety of these things. Pick something you think I'll like!
   * Target
   * Best Buy
   * Old Navy
+  * Caribou Coffee
 
 
 ## LEGO
