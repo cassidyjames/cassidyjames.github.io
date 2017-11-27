@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - /shortlist
-  - /shotlist/
+  - /shortlist/
 ---
 # Cassidy's Wishlist
 
