@@ -28,5 +28,5 @@ Send to cassidy.james.blaede@gmail.com
 
 <h2>Simple Instant Transfer</h2>
 
-If you have [Simple](https://simple.com), you can Instant Transfer to me using
-c@ssidyjam.es and my phone number.
+If you have [Simple](https://simple.com/friends/BQMJNZY), you can Instant
+Transfer to me using c@ssidyjam.es and my phone number.
