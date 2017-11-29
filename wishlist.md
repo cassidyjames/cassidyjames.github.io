@@ -64,7 +64,7 @@ variety of these things. Pick something you think I'll like!
 
   * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games
   * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, and games
-  * Micro Center (seemingly only available in-store) for Raspberry Pi and gadget stuff
+  * Micro Center (only available in-store) for Raspberry Pi and gadget stuff
   * [GameStop/ThinkGeek](https://www.gamestop.com/gift-cards) for games and geek stuff
   * [LEGO Store](https://shop.lego.com/en-US/Give-Gift-Card) for LEGOs, obviously
   * [Target](https://www.target.com/c/target-giftcards/all-occasions/-/N-5xsxtZ5rxa0) for whatever

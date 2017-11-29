@@ -14,3 +14,9 @@ my way? Here you go.
 <h2><i class="fa fa-fw fa-google-wallet"></i> Google Wallet</h2>
 
 Send to cassidy.james.blaede@gmail.com
+
+<h2>Venmo</h2>
+
+![Venmo barcode](/images/venmo.png)
+
+[venmo.com/cassidyjames](https://venmo.com/cassidyjames)
