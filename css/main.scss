@@ -131,3 +131,12 @@ ul.fa-ul {
     clear: left;
   }
 }
+
+img[alt="Venmo barcode"] {
+    // display: block;
+    // margin: 0 auto;
+    max-width: 256px;
+
+    box-shadow: 0 0 0.75em rgba($black, 0.25);
+    border-radius: 0.5em;
+}
