@@ -21,7 +21,7 @@ Send to cassidy.james.blaede@gmail.com
 
 <h2>Venmo</h2>
 
-[![Venmo barcode](/images/venmo.png)]((https://venmo.com/cassidyjames))
+[![Venmo barcode](/images/venmo.png)](https://venmo.com/cassidyjames)
 
 [venmo.com/cassidyjames](https://venmo.com/cassidyjames)
 
