@@ -81,6 +81,16 @@ It's kept up to date, especially around Christmas and my birthday. As a general
 rule, duplicates are fine and all Star Wars ships are awesome!
 
 
+## Causes
+
+Instead of getting me stuff, you can always give to one of these causes on my behalf. I'm passionate about each one and they all could use monetary support.
+
+* **Electronic Frontier Foundation** defending
+digital privacy, free speech, and innovation.
+* **Free Software Foundation** a worldwide mission to promote computer user freedom. We defend the rights of all software users
+* **GNOME Foundation** helping create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use.
+* **Girls Who Code** Closing the gender gap in tech, one girl at a time.
+
 ## Amazon wishlist&hellip;
 
 I dislike Amazon since they're extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox)
