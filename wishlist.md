@@ -36,11 +36,10 @@ but all listed are totally fine.
   **$60–100** depending on retailer - 4 bulbs and bridge
 
 * [Moment Photo Case for Google Pixel](https://www.shopmoment.com/shop/photo-case/pixel/black)
-  ~~$30~~ **$24** through 11/30 - Black is preferred
+  **$30** - Black is preferred
 
 * [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)
-  ~~$100~~ **$80** each through 11/30 - New Wide, New Tele, New Superfish, and New Macro are all
-  interesting to me, in that order.
+  **$100** - New Wide, New Tele, New Superfish, and New Macro are all interesting to me, in that order.
 
 
 ## Stuff I Always Enjoy
