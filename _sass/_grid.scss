@@ -4,16 +4,16 @@
 
 section.grid {
   margin: 0 auto;
-  max-width: 512px;
+  max-width: 32em;
 
   > * {
-    margin: 16px;
-    padding-top: 32px;
-    padding-bottom: 64px;
+    margin: 1em;
+    padding-top: 2em;
+    padding-bottom: 4em;
   }
 }
 
 .grid.main {
-  max-width: 640px;
+  max-width: 40em;
   min-height: calc(100% - 214px);
 }
