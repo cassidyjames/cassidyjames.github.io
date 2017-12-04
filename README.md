@@ -9,7 +9,7 @@
     <li><i class="fa-li fa fa-birthday-cake"></i><span id="age">Twenty-Something</span> Years Old</li>
 </ul>
 
-I use **user-centered design** to **design and develop** useful, usable, and delightful **digital products**.
+I use **user-centered design** to create useful, usable, and delightful **digital products**.
 <br /><a href="http://cassidyjames.com/resume" class="read-more resume"><i class="fa fa-fw fa-file-text-o"></i>See résumé</a>
 <br/><a href="https://github.com/cassidyjames" class="read-more github"><i class="fa fa-fw fa-github"></i>See code</a>
 
