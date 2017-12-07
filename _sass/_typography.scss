@@ -1,5 +1,5 @@
 body {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Spectral", serif;
   font-size: 5vw;
   font-weight: 400;
 
@@ -34,8 +34,9 @@ h1 {
   max-width: 4em; // Wrap each word on its own line
 
   color: $red;
+  font-family: "Spectral SC", "Spectral", serif;
   font-size: 3rem;
-  font-weight: 800;
+  font-weight: 300;
   line-height: 0.85em;
   text-shadow: 0 1px 1px $white;
 
