@@ -24,9 +24,6 @@ but all listed are totally fine.
   **$129** or sometimes cheaper from other retailers - Roadrash (preferred),
   Blackout, or Platinum
 
-* [Google Home Mini](https://store.google.com/product/google_home_mini) ~~$49~~
-  **$29** through December - Coral (preferred), Charcoal, or Chalk
-
 * [Horizon: Zero Dawn](http://gamestop.com/product/ps4/games/horizon-zero-dawn/129080)
   for PS4 **$40–60** - New or used physical copy, or digital code/PS Store
   credit. **Complete Edition** is coming out soon for **$50** with the DLC
@@ -40,6 +37,8 @@ but all listed are totally fine.
 
 * [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)
   **$100** - New Wide, New Tele, New Superfish, and New Macro are all interesting to me, in that order.
+  
+* [Moment Lens Case](https://www.shopmoment.com/shop/lens-case) **$20**
 
 
 ## Stuff I Always Enjoy
