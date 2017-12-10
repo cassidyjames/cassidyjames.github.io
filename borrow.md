@@ -1,4 +1,4 @@
-# Thing Being Borrowed
+# Things Being Borrowed
 
 What Cassidy is borrowing and what's being borrowed from Cassidy.
 
