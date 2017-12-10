@@ -50,7 +50,8 @@ footer {
 
       transition: all 200ms ease;
 
-      &:hover {
+      &:hover,
+      &:focus {
         background-color: $accent-color;
         background-image: linear-gradient(
           rgba($white, 0.125),
@@ -67,23 +68,25 @@ footer {
       }
     }
 
-    .github a:hover {
+    .github a:hover,
+    .github a:focus {
       background-color: #444;
     }
 
-    .twitter a:hover {
+    .twitter a:hover,
+    .twitter a:focus {
       background-color: #55ACEE;
     }
 
-    .amazon a:hover {
-      color: $black;
+    .amazon a:hover,
+    .amazon a:focus {
       background-color: #f4d078;
-      // background: linear-gradient(to bottom, #f7dfa5, #f0c14b);
-
+      color: $black;
       text-shadow: none;
     }
 
-    .instagram a:hover {
+    .instagram a:hover,
+    .instagram a:focus {
       background-color: $white;
       color: $black;
       text-shadow: none;
@@ -106,27 +109,23 @@ footer {
       //   );
     }
 
-    .square a:hover {
+    .square a:hover,
+    .square a:focus {
       background-color: #3cd428;
     }
 
-    .medium a:hover {
+    .medium a:hover,
+    .medium a:focus {
       background-color: $medium;
     }
 
-    .soundcloud a:hover {
-      background-color: #F96C2D;
-    }
-
-    .dribbble a:hover {
-      background-color: #E04C86;
-    }
-
-    .gplus a:hover {
+    .gplus a:hover,
+    .gplus a:focus {
       background-color: #DD4B39;
     }
 
-    .email a:hover {
+    .email a:hover,
+    .email a:focus {
       background-color: #FFB300;
     }
   }
