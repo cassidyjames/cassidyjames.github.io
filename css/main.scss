@@ -12,8 +12,8 @@
 
 body,
 html {
-  background-color: $white;
-  color: $purple;
+  background-color: $background-color;
+  color: $primary-color;
   height: calc(100% - 8px);
   margin: 0;
 }
@@ -37,7 +37,7 @@ img {
 }
 
 .fa-li {
-  color: $red;
+  color: $accent-color;
   opacity: 0.75;
   width: 0.875em;
 }
@@ -114,7 +114,7 @@ img[alt="Me"] {
   background-position: center;
   background-size: cover;
 
-  border: 1px solid $purple;
+  border: 1px solid $primary-color;
   border-radius: 50%;
 
   box-shadow:
@@ -135,6 +135,6 @@ img[alt="Venmo barcode"] {
     // margin: 0 auto;
     max-width: 256px;
 
-    box-shadow: 0 0 0.75em rgba($black, 0.25);
+    box-shadow: 0 0 0.75em mix($black, $background-color, 0.25);
     border-radius: 0.5em;
 }
