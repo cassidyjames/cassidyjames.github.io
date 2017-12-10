@@ -3,129 +3,131 @@
 *********/
 
 footer {
+  padding: 1rem 1rem 0;
+  width: calc(100% - 2rem);
+
   background-color: $primary-color;
+
   color: $background-color;
   font-size: 0.75;
   line-height: 4em;
-  padding: 1rem 1rem 0;
   text-align: center;
-  width: calc(100% - 2rem);
+  text-shadow: 0 0.0625em 0.125em rgba($black, 0.5);
 
   a {
     font-weight: bold;
     opacity: 1;
   }
 
-  ul {
-    list-style: none;
+  ul.social {
+    display: inline;
+    margin: 0;
     padding: 0;
-    text-align: center;
+
+    color: $white;
+    font-size: 0; // Fix weird spacing issues
+    list-style: none;
 
     li {
-      color: $white;
-      background-image: linear-gradient(
-        to bottom,
-        rgba(255, 255, 255, 0.2),
-        rgba(0, 0, 0, 0.05)
-      );
-      border-radius: 50%;
-      border: 1px solid mix(black, $primary-color, 0.15);
-      box-shadow:
-        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-        inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
-        inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-        0 1px 3px rgba(0, 0, 0, 0.12),
-        0 1px 2px rgba(0, 0, 0, 0.24);
-      display: inline-block;
-      height: 2.25rem;
-      line-height: 2.25rem;
-      margin: 0.375rem;
-      text-align: center;
-      width: 2.25rem;
-
-      &:hover {
-        box-shadow:
-          inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-          inset 0 1px 0 0 rgba(255, 255, 255, 0.30),
-          inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-          0 8px 10px 1px rgba(0, 0, 0, 0.14),
-          0 3px 14px 2px rgba(0, 0, 0, 0.12),
-          0 5px 5px -3px rgba(0, 0, 0, 0.4);
-      }
+      display: inline;
+      list-style: none;
+      margin: 0;
+      padding: 0;
     }
 
     a {
+      display: inline-block;
+      height: 1.25em;
+      padding: 0.25em;
+      width: 1.25em;
+
+      border-radius: 50%;
+
       color: inherit;
-      display: block;
-      height: 100%;
-      text-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
-      width: 100%;
+      font-size: 2rem;
+      font-weight: normal;
+      line-height: 1.4em;
+
+      transition: all 200ms ease;
+
+      &:hover {
+        background-color: $accent-color;
+        background-image: linear-gradient(
+          rgba($white, 0.125),
+          rgba($black, 0.25)
+        );
+
+        box-shadow:
+          inset 0 1px 0 rgba($white, 0.25),
+          inset 0 -1px 0 rgba($black, 0.25),
+          0 0.0625em 0.125em rgba($black, 0.5);
+
+        text-decoration: none;
+        text-shadow: 0 1px 1px rgba(black, 0.5);
+      }
     }
 
-    .github {
+    .github a:hover {
       background-color: #444;
     }
 
-    .twitter {
+    .twitter a:hover {
       background-color: #55ACEE;
     }
 
-    .amazon {
+    .amazon a:hover {
       color: $black;
       background-color: #f4d078;
-      background: linear-gradient(to bottom, #f7dfa5, #f0c14b);
+      // background: linear-gradient(to bottom, #f7dfa5, #f0c14b);
+
+      text-shadow: none;
     }
 
-    .instagram {
-      background:
-        radial-gradient(
-          circle farthest-corner at 32% 106%,
-          rgb(255, 225, 125) 0%,
-          rgb(255, 205, 105) 10%,
-          rgb(250, 145, 55) 28%,
-          rgb(235, 65, 65) 42%,
-          transparent 82%
-        ),
-        linear-gradient(
-          135deg,
-          rgb(35, 75, 215) 12%,
-          rgb(195, 60, 190) 58%
-        );
-      border-color: rgba(181, 70, 70, 0.7);
+    .instagram a:hover {
+      background-color: $white;
+      color: $black;
+      text-shadow: none;
+
+      // Can't animate background-image
+
+      // background-image:
+      //   radial-gradient(
+      //     circle farthest-corner at 32% 106%,
+      //     rgb(255, 225, 125) 0%,
+      //     rgb(255, 205, 105) 10%,
+      //     rgb(250, 145, 55) 28%,
+      //     rgb(235, 65, 65) 42%,
+      //     transparent 82%
+      //   ),
+      //   linear-gradient(
+      //     135deg,
+      //     rgb(35, 75, 215) 12%,
+      //     rgb(195, 60, 190) 58%
+      //   );
     }
 
-    .square {
+    .square a:hover {
       background-color: #3cd428;
     }
 
-    .medium {
+    .medium a:hover {
       background-color: $medium;
     }
 
-    .soundcloud {
+    .soundcloud a:hover {
       background-color: #F96C2D;
     }
 
-    .dribbble {
+    .dribbble a:hover {
       background-color: #E04C86;
     }
 
-    .purple {
-      background-color: #6441a5;
-    }
-
-    .gplus {
+    .gplus a:hover {
       background-color: #DD4B39;
     }
 
-    .email {
+    .email a:hover {
       background-color: #FFB300;
-      box-shadow:
-        inset 0 0 0 1px rgba(255, 255, 255, 0.07),
-        inset 0 1px 0 0 rgba(255, 255, 255, 0.50),
-        inset 0 -1px 0 0 rgba(255, 255, 255, 0.10),
-        0 1px 3px rgba(0, 0, 0, 0.12),
-        0 1px 2px rgba(0, 0, 0, 0.24);
     }
   }
 }
