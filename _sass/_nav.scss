@@ -5,28 +5,43 @@
 nav {
   padding: 0;
 
-  background-color: $purple;
+  background-color: $primary-color;
 
-  color: $white;
+  color: $background-color;
+  font-size: 0; // Get rid of blank spaces between nav items
 
   a {
     display: inline-block;
     padding: 1em;
 
     color: inherit;
+    font-size: 1rem;
     font-weight: bold;
     opacity: 1;
 
-    &.current {
-      background-color: $red;
+    &:hover,
+    &:focus {
+      background-color: mix($accent-color, $primary-color);
+
+      border: none;
+      outline: none;
+
+      text-decoration: none;
+    }
+
+    &.current,
+    &:active {
+      background-color: $accent-color;
     }
   }
-  
+
   img[alt="Me"] {
-    max-height: 1em;
-    max-width: 1em;
-    padding: 0;
-    margin: 0;
+    margin-bottom: -0.5em;
+    margin-left: 0;
     margin-right: 0.5em;
+    margin-top: 0;
+    max-height: 1.5em;
+    max-width: 1.5em;
+    padding: 0;
   }
 }

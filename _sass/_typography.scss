@@ -1,4 +1,4 @@
-body {
+html {
   font-family: "Spectral", serif;
   font-size: 5vw;
   font-weight: 400;
@@ -17,27 +17,28 @@ body {
 }
 
 a {
-  color: $red;
+  color: $accent-color;
   text-decoration: none;
   opacity: 0.67;
   transition: opacity 250ms ease;
-}
 
-a:hover {
-  opacity: 1;
-  text-decoration: underline;
-  text-decoration-skip: ink;
+  &:hover,
+  &:focus {
+    opacity: 1;
+    text-decoration: underline;
+    text-decoration-skip: ink;
+    outline: none;
+  }
 }
 
 h1 {
   margin: 0 0 0.5em;
-  max-width: 4em; // Wrap each word on its own line
 
-  color: $red;
+  color: $accent-color;
   font-family: "Spectral SC", "Spectral", serif;
   font-size: 3rem;
   font-weight: 300;
-  line-height: 0.85em;
+  line-height: 0.9em;
   text-shadow: 0 1px 1px $white;
 
   @media (min-width: 505px) {
@@ -100,7 +101,7 @@ blockquote {
   margin-left: 0.25em;
   padding-left: 0.5em;
 
-  border-left: 0.25em solid rgba($purple, 0.5);
+  border-left: 0.25em solid mix($primary-color, $background-color);
 
   opacity: 0.75;
 }
