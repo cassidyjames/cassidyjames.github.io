@@ -79,9 +79,17 @@ It's kept up to date, especially around Christmas and my birthday. As a general
 rule, duplicates are fine and all Star Wars ships are awesome!
 
 
+## Experiences
+
+Instead of getting me _stuff_, you can gift me with one of these experiences!
+
+* Regal Cinemas movie tickets (date night!)
+* Denver museum or zoo tickets
+
+
 ## Causes
 
-Instead of getting me stuff, you can always give to one of these causes on my behalf. I'm passionate about each one and they all could use monetary support.
+Instead of giving to me directly, you can always give to one of these causes on my behalf. I'm passionate about each one and they all could use monetary support.
 
 * [Electronic Frontier Foundation](https://www.eff.org/) _Defending digital privacy, free speech, and innovation._
 * [Free Software Foundation](http://www.fsf.org/) _A worldwide mission to promote computer user freedom. We defend the rights of all software users._
