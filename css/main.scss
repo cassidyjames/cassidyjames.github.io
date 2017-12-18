@@ -9,6 +9,10 @@
 @import "nav";
 @import "typography";
 
+* {
+  box-sizing: border-box;
+}
+
 body,
 html {
   background-color: $background-color;

@@ -38,7 +38,7 @@ Mark an item as received if someone gets it for you (or you just get antsy and g
 
 1. **Raspberry Pi Camera Module V2** $30 <button>Edit</button> <button>Received</button>
 
-2. <input type="text" name="name" placeholder="Item name" /> <input name="price" type="text" placeholder="Price" /> <input name="details" type="text" placeholder="Extra details (color, qty, etc.)" /> <input type="text" placeholder="Link" /> <button>Save</button>
+2. <input type="text" name="name" placeholder="Item name" /> <input name="price" type="text" placeholder="Price" /> <br /> <input name="link" type="text" placeholder="Link" /> <br /> <input name="details" type="text" placeholder="Extra details (color, qty, etc.)" /> <button>Save</button>
 
 <style>
   input[type="text"] {
@@ -47,14 +47,26 @@ Mark an item as received if someone gets it for you (or you just get antsy and g
     padding: 0.5em;
     width: 16em;
 
-    border: 1px solid;
-    border-radius: 3px;
+    background: transparent;
 
+    border: none;
+    border-bottom: 1px solid;
+
+    color: inherit;
     line-height: 1.25em;
   }
 
-  input[name="price"] {
+  input[type="text"]:focus {
+    box-shadow: 0 1px #525;
+    outline: none;
+  }
+
+  input[type="text"][name="price"] {
     width: 4em;
+  }
+
+  input[type="text"][name="link"] {
+    width: 20.5em;
   }
 
   button {
