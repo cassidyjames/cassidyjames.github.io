@@ -44,7 +44,7 @@ Mark an item as received if someone gets it for you (or you just get antsy and g
   input[type="text"] {
     display: inline-block;
     margin: 0.25em 0.125em;
-    padding: 0.5em;
+    padding: 0.25em;
     width: 16em;
 
     background: transparent;
@@ -53,6 +53,7 @@ Mark an item as received if someone gets it for you (or you just get antsy and g
     border-bottom: 1px solid;
 
     color: inherit;
+    font: inherit;
     line-height: 1.25em;
   }
 
