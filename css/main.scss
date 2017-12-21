@@ -143,6 +143,6 @@ img[alt="Venmo barcode"] {
     // margin: 0 auto;
     max-width: 256px;
 
-    box-shadow: 0 0 0.75em mix($black, $background-color, 0.25);
+    box-shadow: 0 0 0.75em mix($black, $background-color, 50%);
     border-radius: 0.5em;
 }
