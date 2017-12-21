@@ -1,7 +1,3 @@
-/********
-* Grid *
-*******/
-
 section.grid {
   margin: 0 auto;
   max-width: 32em;
@@ -15,5 +11,5 @@ section.grid {
 
 .grid.main {
   max-width: 40em;
-  min-height: calc(100% - 214px);
+  flex: 1 0 auto;
 }

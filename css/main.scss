@@ -17,8 +17,13 @@ body,
 html {
   background-color: $background-color;
   color: $primary-color;
-  height: calc(100% - 8px);
+  height: 100%;
   margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
 }
 
 img {
