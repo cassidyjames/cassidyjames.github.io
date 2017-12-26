@@ -20,10 +20,6 @@ but all listed are totally fine.
 * [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi)
   **$30**
 
-* [Jaybird X3 Wireless Headphones](https://jaybirdsport.com/en-us/x3-bluetooth-headphones.html)
-  **$129** or sometimes cheaper from other retailers - Roadrash (preferred),
-  Blackout, or Platinum
-
 * [Horizon: Zero Dawn](http://gamestop.com/product/ps4/games/horizon-zero-dawn/129080)
   for PS4 **$40–60** - New or used physical copy, or digital code/PS Store
   credit. **Complete Edition** is coming out soon for **$50** with the DLC
@@ -36,9 +32,7 @@ but all listed are totally fine.
   **$30** - Black is preferred
 
 * [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)
-  **$100** - New Wide, New Tele, New Superfish, and New Macro are all interesting to me, in that order.
-  
-* [Moment Lens Case](https://www.shopmoment.com/shop/lens-case) **$20**
+  **$100** - New Tele, New Superfish, and New Macro are all interesting to me, in that order.
 
 
 ## Stuff I Always Enjoy
@@ -53,7 +47,7 @@ variety of these things. Pick something you think I'll like!
 * [Threadless Tees and Tanks](https://threadless.com) **$10–30** - Men's Large
 
 * Short-sleeve tri-blend tees **$9-20** - Men's Large. Oatmeal, black, gray, or
-  any bright/saturated colors. Crew or v-neck. Generally I like plain or simple
+  any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple
   patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically
   any place with men's clothes works!
 
