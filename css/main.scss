@@ -9,12 +9,21 @@
 @import "nav";
 @import "typography";
 
+* {
+  box-sizing: border-box;
+}
+
 body,
 html {
   background-color: $background-color;
   color: $primary-color;
-  height: calc(100% - 8px);
+  height: 100%;
   margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -134,6 +143,6 @@ img[alt="Venmo barcode"] {
     // margin: 0 auto;
     max-width: 256px;
 
-    box-shadow: 0 0 0.75em mix($black, $background-color, 0.25);
+    box-shadow: 0 0 0.75em mix($black, $background-color, 50%);
     border-radius: 0.5em;
 }

@@ -1,3 +1,9 @@
+---
+redirect_from:
+  - /challenge/october
+  - /challenge/october/
+---
+
 # System76 Challenge
 
 Hey System76 peeps!
