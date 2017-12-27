@@ -32,7 +32,7 @@ but all listed are totally fine.
   **$30** - Black is preferred
 
 * [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)
-  **$100** - New Tele, New Superfish, and New Macro are all interesting to me, in that order.
+  **$100** - New Superfish and New Macro
 
 
 ## Stuff I Always Enjoy
