@@ -15,13 +15,13 @@ An ever-updated small number (3–7) of things I'd absolutely love to get. You c
 
 If multiple colors/options are listed, they're in descending preference order, but all listed are totally fine.
 
-* Good-sounding Bluetooth earbuds **$34–150** - I don't have a specific pair picked out, but I like isolating in-ears (usually with silicone tips), I like bass, and I don't love the "neckbuds" or collar style. Something well-reviewed that's not too bulky would be wonderful. A cord between the buds is completely cool (they don't have to be totally individually wireless). [Jaybird X3](https://jaybirdsport.com/en-us/x3-bluetooth-headphones.html) are the best I've heard of, but I've also heard good things about [VAVA MOOV 28](https://www.vava.com/audiovisual-earphones/VA-BH009-2E2CFF6692E5).
+* Good-sounding Bluetooth earbuds **$~35–150** - I don't have a specific pair picked out, but I like isolating in-ears (usually with silicone tips), I like bass, and I don't love the "neckbuds" or collar style. Something well-reviewed that's not too bulky would be wonderful. A cord between the buds is completely cool (they don't have to be totally individually wireless). [Jaybird X3](https://jaybirdsport.com/en-us/x3-bluetooth-headphones.html) are the best I've heard of, but I've also heard good things about [VAVA MOOV 28](https://www.vava.com/audiovisual-earphones/VA-BH009-2E2CFF6692E5).
 
 * [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) **$30**
 
 * [Horizon Zero Dawn: Complete Edition](https://www.gamestop.com/ps4/games/horizon-zero-dawn-complete-edition/156207) for PS4 **$45–50** - New or used physical copy, or digital code/PS Store credit.
 
-* [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009) **$60–100** depending on retailer - 4 bulbs and bridge
+* [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009) **~$60–100** depending on retailer - 4 bulbs and bridge
 
 <!--
 * [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel) **$90** - New Superfish and New Macro
@@ -36,11 +36,11 @@ If multiple colors/options are listed, they're in descending preference order, b
 
 I don't have specific items picked out here, but I always love receiving a variety of these things. Pick something you think I'll like!
 
-* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **$5–20** - 2g/6mm, single- or double-flared are fine! Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
+* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared are fine! Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
 
-* [Threadless Tees and Tanks](https://threadless.com) **$10–30** - Men's Large
+* [Threadless Tees and Tanks](https://threadless.com) **~$10–30** - Men's Large
 
-* Short-sleeve tri-blend tees **$9-20** - Men's Large. Oatmeal, black, gray, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men's clothes works!
+* Short-sleeve tri-blend tees **~$9-20** - Men's Large. Oatmeal, black, gray, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men's clothes works!
 
 * Gift Cards **any amount** - I shop at all of these places and would always appreciate a gift card.
 
@@ -54,6 +54,11 @@ I don't have specific items picked out here, but I always love receiving a varie
   * [Old Navy](http://oldnavy.gap.com/customerService/info.do?cid=35433) for fashion
   * [Caribou Coffee](https://shared.caribouperks.com/giftcard/) for coffeeeee
   * [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth
+  
+* Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens and Fluxx (which I have). Ideas:
+  * Little Drop of Poison (hard to find)
+  * Codenames
+  * Liar's Dice (homemade set would be rad)
 
 
 ## LEGO
