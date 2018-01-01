@@ -8,51 +8,41 @@ redirect_from:
 This is my canonical birthday, Christmas, and any-other-time wish list. It is
 up to date.
 
+
 ## Shortlist
 
-An ever-updated small number (3–7) of things I'd absolutely love to get. You can
-use it as a surefire way to get me something I'll love, or as inspiration for
-getting me something else.
+An ever-updated small number (3–7) of things I'd absolutely love to get. You can use it as a surefire way to get me something I'll love, or as inspiration for getting me something else.
 
-If multiple colors/options are listed, they're in descending preference order,
-but all listed are totally fine.
+If multiple colors/options are listed, they're in descending preference order, but all listed are totally fine.
 
-* [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi)
-  **$30**
+* Good-sounding Bluetooth earbuds **$34–150** - I don't have a specific pair picked out, but I like isolating in-ears (usually with silicone tips), I like bass, and I don't love the "neckbuds" or collar style. Something well-reviewed that's not too bulky would be wonderful. A cord between the buds is completely cool (they don't have to be totally individually wireless). [Jaybird X3](https://jaybirdsport.com/en-us/x3-bluetooth-headphones.html) are the best I've heard of, but I've also heard good things about [VAVA MOOV 28](https://www.vava.com/audiovisual-earphones/VA-BH009-2E2CFF6692E5).
 
-* [Horizon: Zero Dawn](http://gamestop.com/product/ps4/games/horizon-zero-dawn/129080)
-  for PS4 **$40–60** - New or used physical copy, or digital code/PS Store
-  credit. **Complete Edition** is coming out soon for **$50** with the DLC
-  on-disc, which would also be rad.
+* [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) **$30**
 
-* [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)
-  **$60–100** depending on retailer - 4 bulbs and bridge
+* [Horizon Zero Dawn: Complete Edition](https://www.gamestop.com/ps4/games/horizon-zero-dawn-complete-edition/156207) for PS4 **$45–50** - New or used physical copy, or digital code/PS Store credit.
 
-* [Moment Photo Case for Google Pixel](https://www.shopmoment.com/shop/photo-case/pixel/black)
-  **$30** - Black is preferred
+* [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009) **$60–100** depending on retailer - 4 bulbs and bridge
 
-* [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)
-  **$100** - New Superfish and New Macro
+<!--
+* [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel) **$90** - New Superfish and New Macro
+-->
+
+* [Peak Design Cuff](https://www.peakdesign.com/cuff) camera strap **$30** - Ash color. _Also avaialble at Best Buy, B&H Photo, and probably other camera places._
+
+* [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063) **$30** - A bunch of these. 😉
 
 
 ## Stuff I Always Enjoy
 
-I don't have specific items picked out here, but I always love receiving a
-variety of these things. Pick something you think I'll like!
+I don't have specific items picked out here, but I always love receiving a variety of these things. Pick something you think I'll like!
 
-* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter)
-  **$5–20** - 2g/6mm, single- or double-flared are fine! Hot Topic also usually
-  has fun branded ones like Star Wars, DC Comics, Disney, etc.
+* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **$5–20** - 2g/6mm, single- or double-flared are fine! Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
 
 * [Threadless Tees and Tanks](https://threadless.com) **$10–30** - Men's Large
 
-* Short-sleeve tri-blend tees **$9-20** - Men's Large. Oatmeal, black, gray, or
-  any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple
-  patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically
-  any place with men's clothes works!
+* Short-sleeve tri-blend tees **$9-20** - Men's Large. Oatmeal, black, gray, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men's clothes works!
 
-* Gift Cards **any amount** - I shop at all of these places and would always
-  appreciate a gift card.
+* Gift Cards **any amount** - I shop at all of these places and would always appreciate a gift card.
 
   * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games
   * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, and games
@@ -68,9 +58,7 @@ variety of these things. Pick something you think I'll like!
 
 ## LEGO
 
-I maintain a LEGO wishlist via [Brickset](http://brickset.com/sets/wantedby-cassidyjames).
-It's kept up to date, especially around Christmas and my birthday. As a general
-rule, duplicates are fine and all Star Wars ships are awesome!
+I maintain a LEGO wishlist via [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It's kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome!
 
 
 ## Experiences
@@ -90,11 +78,8 @@ Instead of giving to me directly, you can always give to one of these causes on 
 * [GNOME Foundation](https://www.gnome.org/support-gnome/donate/) _Helping create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use._
 * [Girls Who Code](https://girlswhocode.com/) _Closing the gender gap in tech, one girl at a time._
 
-## Amazon wishlist&hellip;
 
-I dislike Amazon since they're extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox)
-and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652),
-but alas, it seems everyone wants an Amazon wishlist. If you can find the same
-items elsewhere, please purchase them somewhere other than Amazon.
+## Amazon
 
-[amzn.com/w/{{ site.amazon }}](https://amzn.com/w/{{ site.amazon }})
+I dislike Amazon since they're extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox) and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652). So if you can, please purchase any items here somewhere other than Amazon.
+
