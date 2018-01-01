@@ -6,6 +6,7 @@ theme-color: "#525"
 
 # Site-wide hardcoded (non-overridable by pages)
 made-in: Colorado
+birthday: '1992-02-01 00:08:00 -0600'
 
 # Site-wide social info
 email: c@ssidyjam.es
