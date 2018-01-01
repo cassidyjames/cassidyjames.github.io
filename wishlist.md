@@ -15,7 +15,7 @@ An ever-updated small number (3–7) of things I'd absolutely love to get. You c
 
 If multiple colors/options are listed, they're in descending preference order, but all listed are totally fine.
 
-* Good-sounding Bluetooth earbuds **$~35–150** - I don't have a specific pair picked out, but I like isolating in-ears (usually with silicone tips), I like bass, and I don't love the "neckbuds" or collar style. Something well-reviewed that's not too bulky would be wonderful. A cord between the buds is completely cool (they don't have to be totally individually wireless). [Jaybird X3](https://jaybirdsport.com/en-us/x3-bluetooth-headphones.html) are the best I've heard of, but I've also heard good things about [VAVA MOOV 28](https://www.vava.com/audiovisual-earphones/VA-BH009-2E2CFF6692E5).
+* Good-sounding Bluetooth earbuds **~$35–150** - I don't have a specific pair picked out, but I like isolating in-ears (usually with silicone tips), I like bass, and I don't love the "neckbuds" or collar style. Something well-reviewed that's not too bulky would be wonderful. A cord between the buds is completely cool (they don't have to be totally individually wireless). [Jaybird X3](https://jaybirdsport.com/en-us/x3-bluetooth-headphones.html) are the best I've heard of, but I've also heard good things about [VAVA MOOV 28](https://www.vava.com/audiovisual-earphones/VA-BH009-2E2CFF6692E5).
 
 * [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) **$30**
 
