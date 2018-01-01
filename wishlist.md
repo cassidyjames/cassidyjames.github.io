@@ -19,7 +19,7 @@ If multiple colors/options are listed, they're in descending preference order, b
 
 * [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) **$30**
 
-* [Horizon Zero Dawn: Complete Edition](https://www.gamestop.com/ps4/games/horizon-zero-dawn-complete-edition/156207) for PS4 **$45–50** - New or used physical copy, or digital code/PS Store credit.
+* [Horizon Zero Dawn: Complete Edition](https://www.gamestop.com/ps4/games/horizon-zero-dawn-complete-edition/156207) for PS4 **$45–50** - Used or new physical copy, or digital code/PS Store credit.
 
 * [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009) **~$60–100** depending on retailer - 4 bulbs and bridge
 
