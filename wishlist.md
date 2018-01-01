@@ -6,7 +6,7 @@ redirect_from:
 # Cassidy's Wishlist
 
 This is my canonical birthday, Christmas, and any-other-time wish list. It is
-up to date as of {{ site.time | date: '%B %d, %Y' }}.
+up to date as of {{ site.time | date: '%B %-d, %Y' }}.
 
 
 ## Shortlist
