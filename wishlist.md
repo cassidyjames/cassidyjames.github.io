@@ -23,7 +23,7 @@ If multiple colors/options are listed, they're in descending preference order, b
 
 * [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009) **~$60–100** depending on retailer - 4 bulbs and bridge
 
-* [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel) **$90** - New Superfish or New Macro
+* [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel) **$90** - New Macro or New Superfish
 
 * [Peak Design Cuff](https://www.peakdesign.com/cuff) camera strap **$30** - Ash color. _Also avaialble at Best Buy, B&H Photo, and probably other camera places._
 
