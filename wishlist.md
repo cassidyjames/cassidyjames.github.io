@@ -34,11 +34,11 @@ If multiple colors/options are listed, they're in descending preference order, b
 
 I don't have specific items picked out here, but I always love receiving a variety of these things. Pick something you think I'll like!
 
-* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared are fine! Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
+* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
 
 * [Threadless Tees and Tanks](https://threadless.com) **~$10–30** - Men's Large
 
-* Short-sleeve tri-blend tees **~$9-20** - Men's Large. Oatmeal, black, gray, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men's clothes works!
+* Short-sleeve tri-blend tees **~$9-20** - Men's Large. Oatmeal, black, gray, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men's clothes works.
 
 * Gift Cards **any amount** - I shop at all of these places and would always appreciate a gift card.
 
@@ -61,12 +61,12 @@ I don't have specific items picked out here, but I always love receiving a varie
 
 ## LEGO
 
-I maintain a LEGO wishlist via [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It's kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome!
+I maintain a LEGO wishlist via [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It's kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
 
 
 ## Experiences
 
-Instead of getting me _stuff_, you can gift me with one of these experiences!
+Instead of getting me _stuff_, you can gift me with one of these experiences.
 
 * Regal Cinemas movie tickets (date night!)
 * Denver museum or zoo tickets
