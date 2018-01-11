@@ -66,7 +66,7 @@ I maintain a LEGO wishlist via [Brickset](http://brickset.com/sets/wantedby-cass
 
 ## Experiences
 
-Instead of getting me _stuff_, you can gift me with one of these experiences.
+Instead of getting me _stuff_, you can gift me with one of these experiences or subscriptions.
 
 * Regal Cinemas movie tickets (date night!)
 * Denver museum or zoo tickets

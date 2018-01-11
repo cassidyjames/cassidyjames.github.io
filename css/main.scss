@@ -129,8 +129,8 @@ img[alt="Me"] {
     0 1px 6px 0 rgba(0, 0, 0, 0.12),
     0 1px 4px 0 rgba(0, 0, 0, 0.24);
 
-  filter: sepia(1) hue-rotate(240deg) brightness(0.75) contrast(150%); 
-  
+  filter: sepia(1) hue-rotate(240deg) brightness(0.75) contrast(150%);
+
   &:active {
     filter: none;
   }
@@ -151,4 +151,12 @@ img[alt="Venmo barcode"] {
 
     box-shadow: 0 0 0.75em mix($black, $background-color, 50%);
     border-radius: 0.5em;
+}
+
+h1#dippi {
+  text-align: center;
+}
+
+img[alt="Get it on AppCenter"] {
+  margin: 0 auto;
 }
