@@ -52,7 +52,7 @@ I don't have specific items picked out here, but I always love receiving a varie
   * [Old Navy](http://oldnavy.gap.com/customerService/info.do?cid=35433) for fashion
   * [Caribou Coffee](https://shared.caribouperks.com/giftcard/) for coffeeeee
   * [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth
-  
+
 * Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens and Fluxx (which I have). Ideas:
   * Little Drop of Poison (hard to find)
   * Codenames
@@ -70,6 +70,7 @@ Instead of getting me _stuff_, you can gift me with one of these experiences or 
 
 * Regal Cinemas movie tickets (date night!)
 * Denver museum or zoo tickets
+* [Denver Center for the Performing Arts](https://denvercenter.org) gift certificate
 
 
 ## Causes
@@ -85,4 +86,3 @@ Instead of giving to me directly, you can always give to one of these causes on 
 ## Amazon
 
 I dislike Amazon since they're extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox) and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652). So if you can, please purchase any items here somewhere other than Amazon.
-
