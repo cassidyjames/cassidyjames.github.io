@@ -15,14 +15,25 @@ Input a few simple details and figure out the aspect ratio, DPI, and other detai
 
 - Find out if a display is a good choice based on its size and resolution
 - Get advice about different densities
-- Differentiates between laptops and desktop displays
+- Differentiation between laptops and desktop displays
 - Stupid simple: all in a cute li'l window
 
 ### Planned features
+
 - Projector-specific mode
+
+
+## Special Thanks
+
+- [Micah Ilbery](https://github.com/TraumaD) for the shiny new icons!
+- [Daniel Foré](https://github.com/danrabbit) for his apps to use as code examples
+
 
 ## Made for elementary OS
 
 Dippi is designed and developed for elementary OS. [Get it on AppCenter](https://appcenter.elementary.io/com.github.cassidyjames.dippi) for the best experience. You can also grab the [source code on GitHub](https://github.com/cassidyjames/dippi).
 
+-----
+
 [![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
+
