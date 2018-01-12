@@ -15,10 +15,10 @@ Input a few simple details and figure out the aspect ratio, DPI, and other detai
 
 - Find out if a display is a good choice based on its size and resolution
 - Get advice about different densities
+- Differentiates between laptops and desktop displays
 - Stupid simple: all in a cute li'l window
 
 ### Planned features
-- Differentiation between laptops and desktop displays
 - Projector-specific mode
 
 ## Made for elementary OS
