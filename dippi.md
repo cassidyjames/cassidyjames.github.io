@@ -32,7 +32,11 @@ Input a few simple details and figure out the aspect ratio, DPI, and other detai
 
 ## Made for elementary OS
 
-Dippi is designed and developed for elementary OS. [Get it on AppCenter](https://appcenter.elementary.io/com.github.cassidyjames.dippi) for the best experience. You can also grab the [source code on GitHub](https://github.com/cassidyjames/dippi).
+Dippi is designed and developed on and for elementary OS. [Get it on AppCenter](https://appcenter.elementary.io/com.github.cassidyjames.dippi) for the best experience. You can also grab the [source code on GitHub](https://github.com/cassidyjames/dippi).
+
+## Available for Ubuntu & Pop!\_OS
+
+Dippi works on Ubuntu, Pop!\_OS, and most derivative OSes. .deb files for 16.04+ are available [here](http://packages.elementary.io/appcenter/pool/main/c/com.github.cassidyjames.dippi/). Alternatively, you can grab the [source code on GitHub](https://github.com/cassidyjames/dippi). 
 
 -----
 
