@@ -15,17 +15,11 @@ An ever-updated small number (3–7) of things I'd absolutely love to get. You c
 
 If multiple colors/options are listed, they're in descending preference order, but all listed are totally fine.
 
-* Good-sounding Bluetooth earbuds **~$35–150** - I don't have a specific pair picked out, but I like isolating in-ears (usually with silicone tips), I like bass, and I don't love the "neckbuds" or collar style. Something well-reviewed that's not too bulky would be wonderful. A cord between the buds is completely cool (they don't have to be totally individually wireless). [Jaybird X3](https://jaybirdsport.com/en-us/x3-bluetooth-headphones.html) are the best I've heard of, but I've also heard good things about [VAVA MOOV 28](https://www.vava.com/audiovisual-earphones/VA-BH009-2E2CFF6692E5).
-
 * [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) **$30**
-
-* [Horizon Zero Dawn: Complete Edition](https://www.gamestop.com/ps4/games/horizon-zero-dawn-complete-edition/156207) for PS4 **$45–50** - Used or new physical copy, or digital code/PS Store credit.
 
 * [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009) **~$60–100** depending on retailer - 4 bulbs and bridge
 
 * [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel) **$90** - New Macro or New Superfish
-
-* [Peak Design Cuff](https://www.peakdesign.com/cuff) camera strap **$30** - Ash color. _Also avaialble at Best Buy, B&H Photo, and probably other camera places._
 
 * [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063) **$30** - A bunch of these. 😉
 
@@ -57,6 +51,7 @@ I don't have specific items picked out here, but I always love receiving a varie
   * Little Drop of Poison (hard to find)
   * Codenames
   * Liar's Dice (homemade set would be rad)
+  * Exploding Kittens expansions
 
 
 ## LEGO
