@@ -51,7 +51,6 @@ I don't have specific items picked out here, but I always love receiving a varie
   * Little Drop of Poison (hard to find)
   * Codenames
   * Liar's Dice (homemade set would be rad)
-  * Exploding Kittens expansions
 
 
 ## LEGO
