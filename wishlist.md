@@ -15,6 +15,8 @@ An ever-updated small number (3–7) of things I'd absolutely love to get. You c
 
 If multiple colors/options are listed, they're in descending preference order, but all listed are totally fine.
 
+* [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) **$35**
+
 * [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) **$30**
 
 * [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009) **~$60–100** depending on retailer - 4 bulbs and bridge
