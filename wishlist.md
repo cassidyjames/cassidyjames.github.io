@@ -23,7 +23,9 @@ If multiple colors/options are listed, they're in descending preference order, b
 
 * [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel) **$90** - New Macro or New Superfish
 
-* [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063) **$30** - A bunch of these. ðŸ˜‰
+* [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063) **$30** - A bunch of these.
+
+* [MKBHD tees](http://shop.mkbhd.com) **$30** each - MKBHD Core Logo and Chevron tees, Men’s Large
 
 
 ## Stuff I Always Enjoy
