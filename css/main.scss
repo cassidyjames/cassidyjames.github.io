@@ -178,6 +178,13 @@ img[alt="Get it on AppCenter"] {
     
     tr {
       border: 1px solid #eee;
+      padding: 1em;
+      display: block;
+      
+      @media (min-width: 1024px) {
+        display: table-row;
+        padding: 0;
+      }
     }
     
     td {
