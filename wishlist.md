@@ -3,7 +3,7 @@ redirect_from:
   - /shortlist
   - /shortlist/
 ---
-# Cassidy's Wishlist
+# Cassidy’s Wishlist
 
 This is my canonical birthday, Christmas, and any-other-time wish list. It is
 up to date as of {{ site.time | date: '%B %-d, %Y' }}.
@@ -11,9 +11,9 @@ up to date as of {{ site.time | date: '%B %-d, %Y' }}.
 
 ## Shortlist
 
-An ever-updated small number (3–7) of things I'd absolutely love to get. You can use it as a surefire way to get me something I'll love, or as inspiration for getting me something else.
+An ever-updated small number (3–7) of things I’d absolutely love to get. You can use it as a surefire way to get me something I’ll love, or as inspiration for getting me something else.
 
-If multiple colors/options are listed, they're in descending preference order, but all listed are totally fine.
+If multiple colors/options are listed, they’re in descending preference order, but all listed are totally fine.
 
 * [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) **$35**
 
@@ -23,22 +23,24 @@ If multiple colors/options are listed, they're in descending preference order, b
 
 * [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel) **$90** - New Macro or New Superfish
 
-* [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063) **$30** - A bunch of these.
+* [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063) **$30** - I can always use a bunch of these!
 
-* [MKBHD tees](http://shop.mkbhd.com) **$30** each - MKBHD Core Logo and Chevron tees, Men�s Large
+* [MKBHD tees](http://shop.mkbhd.com) **$30** each - MKBHD Core Logo and Chevron tees, Men’s Large
+
+* [Google Daydream View](https://vr.google.com/daydream/smartphonevr/) **$79–99** depending on promotions - Any color
 
 
 ## Stuff I Always Enjoy
 
-I don't have specific items picked out here, but I always love receiving a variety of these things. Pick something you think I'll like!
+I don’t have specific items picked out here, but I always love receiving a variety of these things. Pick something you think I’ll like!
 
-* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
+* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared. I like almost anything! I have a lot of black/dark wood, so lighter wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
 
-* [Threadless Tees and Tanks](https://threadless.com) **~$10–30** - Men's Large
+* [Threadless Tees and Tanks](https://threadless.com) **~$10–30** - Men’s Large. Anything nerdy or fun or cool.
 
-* Short-sleeve tri-blend tees **~$9-20** - Men's Large. Oatmeal, black, gray, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men's clothes works.
+* Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Oatmeal, black, gray, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
 
-* Gift Cards **any amount** - I shop at all of these places and would always appreciate a gift card.
+* Gift Cards **any amount** - I shop at all of these places and always appreciate gift cards.
 
   * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games
   * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, and games
@@ -51,15 +53,14 @@ I don't have specific items picked out here, but I always love receiving a varie
   * [Caribou Coffee](https://shared.caribouperks.com/giftcard/) for coffeeeee
   * [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth
 
-* Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens and Fluxx (which I have). Ideas:
-  * Little Drop of Poison (hard to find)
-  * Codenames
-  * Liar's Dice (homemade set would be rad)
+* Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens, Codenames, Little Drop of Poison, and Fluxx (all of which Katie and I have). Other ideas:
+  * Exploding Kittens expansions
+  * Liar’s Dice (homemade set would be rad)
 
 
 ## LEGO
 
-I maintain a LEGO wishlist via [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It's kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
+I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It’s kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
 
 
 ## Experiences
@@ -73,7 +74,7 @@ Instead of getting me _stuff_, you can gift me with one of these experiences or 
 
 ## Causes
 
-Instead of giving to me directly, you can always give to one of these causes on my behalf. I'm passionate about each one and they all could use monetary support.
+Instead of giving to me directly, you can always give to one of these causes on my behalf. I’m passionate about each one and they all could use monetary support.
 
 * [Electronic Frontier Foundation](https://www.eff.org/) _Defending digital privacy, free speech, and innovation._
 * [Free Software Foundation](http://www.fsf.org/) _A worldwide mission to promote computer user freedom. We defend the rights of all software users._
@@ -83,4 +84,5 @@ Instead of giving to me directly, you can always give to one of these causes on 
 
 ## Amazon
 
-I dislike Amazon since they're extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox) and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652). So if you can, please purchase any items here somewhere other than Amazon.
+I dislike Amazon since they’re extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox) and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652). So if you can, please purchase any items here somewhere other than Amazon.
+ 
