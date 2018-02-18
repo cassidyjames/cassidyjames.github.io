@@ -13,22 +13,17 @@ up to date as of {{ site.time | date: '%B %-d, %Y' }}.
 
 An ever-updated small number (3–7) of things I’d absolutely love to get. You can use it as a surefire way to get me something I’ll love, or as inspiration for getting me something else.
 
-If multiple colors/options are listed, they’re in descending preference order, but all listed are totally fine.
+| Image                                        | Link                                                                                                                     | Price         | Notes                                                |
+|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------|------------------------------------------------------|
+| ![Pi 3b](/images/pi3b.jpg)                   | [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)                                   | **$35**       |                                                      |
+| ![Pi Camera](/images/pi-camera.jpg)          | [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) | **$30**       |                                                      |
+| ![Hue](/images/hue.jpg)                      | [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)                   | **$60–100**\* | Price depends on retailer. 4 bulbs and bridge.       |
+| ![Macro Lens](/images/moment-macro-lens.jpg) | [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                                            | **$90**       | New Macro or New Superfish                           |
+| ![Wemo](/images/wemo-plug.jpg)               | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                                               | **$30**       | I can always use a bunch of these!                   |
+| ![MKBHD tee](/images/mkbhd-tee.jpg)          | [MKBHD tees](http://shop.mkbhd.com)                                                                                      | **$30**       | MKBHD Core Logo and Chevron tees, Men’s Large        |
+| ![Daydream](/images/daydream-view.png)       | [Google Daydream View](https://vr.google.com/daydream/smartphonevr/)                                                     | **$79–99**\*  | Price depends on retailer and promotions. Any color. |
 
-* [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) **$35**
-
-* [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) **$30**
-
-* [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009) **~$60–100** depending on retailer - 4 bulbs and bridge
-
-* [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel) **$90** - New Macro or New Superfish
-
-* [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063) **$30** - I can always use a bunch of these!
-
-* [MKBHD tees](http://shop.mkbhd.com) **$30** each - MKBHD Core Logo and Chevron tees, Men’s Large
-
-* [Google Daydream View](https://vr.google.com/daydream/smartphonevr/) **$79–99** depending on promotions - Any color
-
+_\*Exact price depends on promotions/retailer._
 
 ## Stuff I Always Enjoy
 

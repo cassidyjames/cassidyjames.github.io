@@ -161,3 +161,39 @@ img[alt="Dippi icon"],
 img[alt="Get it on AppCenter"] {
   margin: 0 auto;
 }
+
+.wishlist {
+  table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    text-align: center;
+    
+    @media (min-width: 1024px) {
+      text-align: left;
+    }
+  
+    thead {
+      display: none;
+    }
+    
+    tr {
+      border: 1px solid #eee;
+    }
+    
+    td {
+      display: block;
+      
+      @media (min-width: 1024px) {
+        display: table-cell;
+        padding: 0.5em;
+      }
+    }
+    
+    img {
+      display: block;
+      margin: 0 auto;
+      width: 100px;
+    }
+  }
+}
+

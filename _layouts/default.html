@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
   {% include head.html %}
-  <body>
+  <body class="{% if page.url == '/' %}home {% endif %}{{ page.url | replace: '.html', '' | slugify }}">
     {% include nav.html %}
     <section class="grid main">
       <div>
