@@ -42,3 +42,4 @@ Dippi works on Ubuntu, Pop!\_OS, and most derivative OSes. .deb files for 16.04+
 
 [![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
 
+[Support](/support)
