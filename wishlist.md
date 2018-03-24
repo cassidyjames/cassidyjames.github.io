@@ -15,11 +15,11 @@ An ever-updated small number (3–7) of things I’d absolutely love to get. You
 
 | Image                                        | Link                                                                                                                     | Price         | Notes                                         |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------|
-| ![Pi 3b](/images/pi3b.jpg)                   | [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)                                   | **$35**       |                                               |
+| ![Pi 3b+](/images/pi3b.jpg)                  | [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)                             | **$35**       | Available from several retailers              |
 | ![Pi Camera](/images/pi-camera.jpg)          | [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) | **$30**       |                                               |
 | ![Hue](/images/hue.jpg)                      | [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)                   | **$60–100**\* | 4 bulbs and bridge                            |
-| ![Macro Lens](/images/moment-macro-lens.jpg) | [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                                            | **$90**       | New Macro or New Superfish                    |
-| ![Wemo](/images/wemo-plug.jpg)               | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                                               | **$30**       | I can always use a bunch of these!            |
+| ![Macro Lens](/images/moment-macro-lens.jpg) | [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                                            | **$90**       | New Macro and/or New Superfish                |
+| ![Wemo](/images/wemo-plug.jpg)               | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                                               | **$30**       | I could use a bunch of these!                 |
 | ![MKBHD tee](/images/mkbhd-tee.jpg)          | [MKBHD tees](http://shop.mkbhd.com)                                                                                      | **$30**       | MKBHD Core Logo and Chevron tees, Men’s Large |
 | ![Daydream](/images/daydream-view.png)       | [Google Daydream View](https://vr.google.com/daydream/smartphonevr/)                                                     | **$79–99**\*  | Any color                                     |
 
@@ -38,7 +38,7 @@ I don’t have specific items picked out here, but I always love receiving a var
 * Gift Cards **any amount** - I shop at all of these places and always appreciate gift cards.
 
   * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games
-  * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, and games
+  * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, books, and games
   * Micro Center (only available in-store) for Raspberry Pi and gadget stuff
   * [GameStop/ThinkGeek](https://www.gamestop.com/gift-cards) for games and geek stuff
   * [LEGO Store](https://shop.lego.com/en-US/Give-Gift-Card) for LEGOs, obviously
@@ -50,7 +50,10 @@ I don’t have specific items picked out here, but I always love receiving a var
 
 * Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens, Codenames, Little Drop of Poison, and Fluxx (all of which Katie and I have). Other ideas:
   * Exploding Kittens expansions
+  * Codenames expansions (I have the base/standard set)
   * Liar’s Dice (homemade set would be rad)
+  * Star Realms
+  * Telestrations
 
 
 ## LEGO
