@@ -18,8 +18,8 @@ experience with PHP and MySQL
 
 ## Experience
 
-Ten years of front-end web development, six years of open source collaboration, and six
-years of user experience design and architecture.
+Ten years of front-end web development, seven years of open source 
+collaboration, and seven years of user experience design and architecture.
 
 <!--
 ### Freelance _2016–present_
@@ -35,7 +35,7 @@ years of user experience design and architecture.
 #### UX Architect, Front-end Web Developer
 
 - UX research, modeling, design, and testing
-- Front-end web developer of [System76.com](https://system76.com)
+- Front-end web development of [System76.com](https://system76.com)
 - UX architecture of in-house admin, sales, and support system
 - Pair programming with senior back-end web developer
 - Working directly with design & marketing team to turn concepts & designs into
@@ -51,8 +51,10 @@ years of user experience design and architecture.
 - UX research & design
 - Front-end web development of [elementary.io](https://elementary.io)
 - Third-party developer outreach and evangelism
+- Long-form editorial content at [medium.com/elementaryos](https://medium.com/elementaryos)
 - User & developer documentation
-- Issue tracking & triaging
+- [Issue tracking & triaging](https://github.com/search?o=desc&q=org%3Aelementary+cassidyjames&s=updated&type=Issues&utf8=%E2%9C%93)
+- Business operations and management
 
 ### Visual Logic Group _2012–2013_
 
