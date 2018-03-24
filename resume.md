@@ -18,7 +18,7 @@ experience with PHP and MySQL
 
 ## Experience
 
-Ten years of front-end web development, seven years of open source 
+Eleven years of front-end web development, seven years of open source 
 collaboration, and seven years of user experience design and architecture.
 
 <!--
