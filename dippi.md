@@ -6,7 +6,6 @@
 
 ![Screenshot](https://cdn.rawgit.com/cassidyjames/dippi/master/data/screenshot.png)
 
-
 ## Calculate display info like DPI and aspect ratio
 
 Input a few simple details and figure out the aspect ratio, DPI, and other details of any display. Great for deciding which laptop or external monitor to purchase, and if it would be considered HiDPI.
@@ -18,17 +17,11 @@ Input a few simple details and figure out the aspect ratio, DPI, and other detai
 - Differentiation between laptops and desktop displays
 - Stupid simple: all in a cute li'l window
 
-### Planned features
-
-- Projector-specific mode
-
-
 ## Special Thanks
 
 - [Micah Ilbery](https://github.com/TraumaD) for the shiny new icons!
 - [Daniel Foré](https://github.com/danrabbit) for his apps to use as code examples
 - [David Jordan](https://github.com/djordan2) for helping determine DPI ranges and putting up with my constant pinging to talk through them
-
 
 ## Made for elementary OS
 
