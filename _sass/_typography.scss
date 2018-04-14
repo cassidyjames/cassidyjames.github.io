@@ -17,14 +17,13 @@ html {
 }
 
 a {
-  color: $accent-color;
+  color: rgba($accent-color, 0.67);
   text-decoration: none;
-  opacity: 0.67;
   transition: opacity 250ms ease;
 
   &:hover,
   &:focus {
-    opacity: 1;
+    color: $accent-color;
     text-decoration: underline;
     text-decoration-skip: ink;
     outline: none;
