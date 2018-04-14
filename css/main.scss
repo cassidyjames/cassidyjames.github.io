@@ -50,6 +50,12 @@ img {
   width: 0.875em;
 }
 
+hr {
+  display: block;
+  clear: both;
+  margin-top: 12em;
+}
+
 .read-more {
   color: inherit;
   font-size: 0.875em;
@@ -75,32 +81,41 @@ img {
     padding-left: 0.625em;
   }
 
-  .fa {
+  .fa,
+  .fab,
+  .far,
+  img {
     margin-right: 0.5em;
+  }
+  
+  img {
+    display: inline;
   }
 }
 
-.read-more:hover .fa {
+.read-more:hover .fa,
+.read-more:hover .fab,
+.read-more:hover .far {
   opacity: 1;
 }
 
-.read-more.twitter:hover .fa {
+.read-more.twitter:hover .fab {
   color: $twitter;
 }
 
-.read-more.medium:hover .fa {
+.read-more.medium:hover .fab {
   color: $medium;
 }
 
-.read-more.github:hover .fa {
+.read-more.github:hover .fab {
   color: $github;
 }
 
-.read-more.steam:hover .fa {
+.read-more.steam:hover .fab {
   color: $steam;
 }
 
-.read-more.youtube:hover .fa {
+.read-more.youtube:hover .fab {
   color: $youtube;
 }
 
@@ -108,7 +123,7 @@ img {
   color: $psn;
 }
 
-.read-more.google-plus:hover .fa {
+.read-more.google-plus:hover .fab {
   color: $gplus;
 }
 
@@ -134,6 +149,11 @@ img[alt="Me"] {
   &:active {
     filter: none;
   }
+}
+
+table {
+  width: 100%;
+  text-align: center;
 }
 
 ul.fa-ul {

@@ -6,7 +6,6 @@
 
 ![Screenshot](https://raw.githubusercontent.com/cassidyjames/palette/master/data/screenshot-2.png)
 
-
 ## View and copy colors from the elementary brand palette
 
 elementary uses a set of bright and friendly colors. Easily access the entire palette on your local device, plus copy any variation of each color to paste into your own projects.
@@ -15,7 +14,6 @@ elementary uses a set of bright and friendly colors. Easily access the entire pa
 
 - [Micah Ilbery](https://github.com/TraumaD) for the shiny icons
 - [Daniel Foré](https://github.com/danrabbit) for his apps to use as code examples
-
 
 ## Made for elementary OS
 
