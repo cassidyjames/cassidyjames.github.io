@@ -153,11 +153,13 @@ img[alt="Venmo barcode"] {
     border-radius: 0.5em;
 }
 
-h1#dippi {
+h1#dippi,
+h1#palette {
   text-align: center;
 }
 
 img[alt="Dippi icon"],
+img[alt="Palette icon"],
 img[alt="Get it on AppCenter"] {
   margin: 0 auto;
 }
