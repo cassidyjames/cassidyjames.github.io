@@ -21,6 +21,7 @@ An ever-updated small number (3–7) of things I’d absolutely love to get. You
 | ![Macro Lens](/images/moment-macro-lens.jpg) | [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                                            | **$90**       | New Macro and/or New Superfish                |
 | ![Wemo](/images/wemo-plug.jpg)               | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                                               | **$30**       | I could use a bunch of these!                 |
 | ![MKBHD tee](/images/mkbhd-tee.jpg)          | [MKBHD tees](http://shop.mkbhd.com)                                                                                      | **$30**       | MKBHD Core Logo and Chevron tees, Men’s Large |
+| ![Uncharted](/images/uncharted-ll.jpg)       | [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/games/uncharted-the-lost-legacy-ps4/)                     | **$30**\*     | Either disc or digital is fine                |
 
 _\*Exact price depends on promotions/retailer._
 
@@ -82,4 +83,4 @@ Instead of giving to me directly, you can always give to one of these causes on 
 ## Amazon
 
 I dislike Amazon since they’re extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox) and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652). So if you can, please purchase any items here somewhere other than Amazon.
- 
+
