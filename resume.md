@@ -47,6 +47,7 @@ collaboration, and seven years of user experience design and architecture.
 - Providing assets and concepts for outside clients to execute
 - Photo manipulation & video compositing
 - Front-end desktop development in Vala and GTK+
+- Constant collaborative development using git and GitHub
 - Researched, initiated, and documented an effort to offer HiDPI displays and
   improve the HiDPI experience on System76 products
 - Coordinated efforts to work with upstream and downstream open source projects
