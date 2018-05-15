@@ -2,7 +2,7 @@
 
 ## Objective
 
-To design, implement, and continuously improve top-notch user experiences,
+To design, implement, and continuously improve excellent user experiences,
 especially using and related to open source software.
 
 <!--
