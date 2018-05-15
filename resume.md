@@ -74,7 +74,7 @@ collaboration, and seven years of user experience design and architecture.
 #### User Experience Intern
 
 - UX research & user testing
-- Designing time-tracking software on a team
+- Designing time-tracking software with a team
 - Icon design
 - Front-end web development
 
@@ -92,9 +92,9 @@ collaboration, and seven years of user experience design and architecture.
 
 #### Web Developer
 
-- Front-end web development of small- to medium-size websites
+- Front-end web development of small client websites
 - Training and supporting clients
-- Installing, configuring, and developing completely custom Wordpress-based
+- Installing, configuring, developing, and supporting custom Wordpress-based
   websites and plugins
 - High-fidelity web design slicing & implementation
 
