@@ -51,6 +51,7 @@ collaboration, and seven years of user experience design and architecture.
 - Researched, initiated, and documented an effort to offer HiDPI displays and
   improve the HiDPI experience on System76 products
 - Coordinated efforts to work with upstream and downstream open source projects
+- Attended [GNOME UX Hackfest 2017](http://blog.system76.com/post/167747412318/gnome-ux-hackfest-2017), helping to design future improvements to GNOME Shell and GDM
 - Designed several detailed GTK+ interfaces and helped bring them to life in
   code
 
