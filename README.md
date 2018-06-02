@@ -15,7 +15,7 @@
 
 I have a few apps available on AppCenter for [elementary OS](https://elementary.io). Check them out!
 
-| [![Dippi icon](https://cdn.rawgit.com/cassidyjames/dippi/master/data/icons/128/com.github.cassidyjames.dippi.svg)](/dippi/) | [![Palette icon](https://camo.githubusercontent.com/557d9f398566930cf701d9338fce868be032efba/68747470733a2f2f63646e2e7261776769742e636f6d2f636173736964796a616d65732f70616c657474652f346139653564343637353063623134303961386431613734313032386635373937636266366334632f646174612f69636f6e732f3132382f636f6d2e6769746875622e636173736964796a616d65732e70616c657474652e737667)](/palette/) | ![Principles icon](https://cdn.rawgit.com/cassidyjames/principles/1376a373d81a05cc6c88562feafb96aa02009872/data/icons/128/com.github.cassidyjames.principles.svg) |
+| [![Dippi icon](https://cdn.rawgit.com/cassidyjames/dippi/master/data/icons/128/com.github.cassidyjames.dippi.svg)](/dippi/) | [![Palette icon](https://camo.githubusercontent.com/557d9f398566930cf701d9338fce868be032efba/68747470733a2f2f63646e2e7261776769742e636f6d2f636173736964796a616d65732f70616c657474652f346139653564343637353063623134303961386431613734313032386635373937636266366334632f646174612f69636f6e732f3132382f636f6d2e6769746875622e636173736964796a616d65732e70616c657474652e737667)](/palette/) | [![Principles icon](https://cdn.rawgit.com/cassidyjames/principles/1376a373d81a05cc6c88562feafb96aa02009872/data/icons/128/com.github.cassidyjames.principles.svg)](/principles/) |
 |-------|---------|
 | [Dippi](/dippi/) | [Palette](/palette/) | [Principles](/principles) |
 
