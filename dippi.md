@@ -19,7 +19,7 @@ Input a few simple details and figure out the aspect ratio, DPI, and other detai
 
 ## Special Thanks
 
-- [Micah Ilbery](https://github.com/TraumaD) for the shiny new icons!
+- [Micah Ilbery](https://github.com/micahilbery) for the shiny  icons
 - [Daniel Foré](https://github.com/danrabbit) for his apps to use as code examples
 - [David Jordan](https://github.com/djordan2) for helping determine DPI ranges and putting up with my constant pinging to talk through them
 
@@ -29,7 +29,7 @@ Dippi is designed and developed on and for elementary OS. [Get it on AppCenter](
 
 ## Available for Ubuntu & Pop!\_OS
 
-Dippi works on Ubuntu, Pop!\_OS, and most derivative OSes. .deb files for 16.04+ are available [here](http://packages.elementary.io/appcenter/pool/main/c/com.github.cassidyjames.dippi/). Alternatively, you can grab the [source code on GitHub](https://github.com/cassidyjames/dippi). 
+Dippi works on Ubuntu, Pop!\_OS, and most derivative OSes. .deb files for 16.04+ are available [here](http://packages.elementary.io/appcenter/pool/main/c/com.github.cassidyjames.dippi/). Alternatively, you can grab the [source code on GitHub](https://github.com/cassidyjames/dippi).
 
 -----
 
