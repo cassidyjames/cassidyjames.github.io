@@ -81,9 +81,7 @@ hr {
     padding-left: 0.625em;
   }
 
-  .fa,
-  .fab,
-  .far,
+  i,
   img {
     margin-right: 0.5em;
   }
@@ -93,37 +91,40 @@ hr {
   }
 }
 
-.read-more:hover .fa,
-.read-more:hover .fab,
-.read-more:hover .far {
+.read-more:hover i {
   opacity: 1;
 }
 
-.read-more.twitter:hover .fab {
+.read-more.twitter:hover i {
   color: $twitter;
 }
 
-.read-more.medium:hover .fab {
+.read-more.instagram:hover i,
+.read-more.pixelfed:hover i {
+  color: $black;
+}
+
+.read-more.medium:hover i {
   color: $medium;
 }
 
-.read-more.github:hover .fab {
+.read-more.github:hover i {
   color: $github;
 }
 
-.read-more.steam:hover .fab {
+.read-more.steam:hover i {
   color: $steam;
 }
 
-.read-more.youtube:hover .fab {
+.read-more.youtube:hover i {
   color: $youtube;
 }
 
-.read-more.psn:hover .fa {
+.read-more.psn:hover i {
   color: $psn;
 }
 
-.read-more.google-plus:hover .fab {
+.read-more.google-plus:hover i {
   color: $gplus;
 }
 

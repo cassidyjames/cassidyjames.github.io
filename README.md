@@ -22,7 +22,7 @@ I have a few apps available on AppCenter for [elementary OS](https://elementary.
 ## What I Do
 
 I use **user-centered design** to create useful, usable, and delightful **digital products**.
-<br /><a href="http://cassidyjames.com/resume" class="read-more resume"><i class="far fa-fw fa-file-alt"></i>See résumé</a>
+<br /><a href="/resume" class="read-more resume"><i class="far fa-fw fa-file-alt"></i>See résumé</a>
 <br/><a href="https://github.com/cassidyjames" class="read-more github"><i class="fab fa-fw fa-github"></i>Browse code on GitHub</a>
 
 I **write things** on the internet about UX, tech, and what I&rsquo;m up to. Some people think some of those things are smart.
@@ -32,8 +32,9 @@ I **write things** on the internet about UX, tech, and what I&rsquo;m up to. Som
 
 I occasionally take **photos** of my adventures (and my cat).
 <br/><a href="https://instagram.com/cassidy.james.blaede" class="read-more instagram"><i class="fab fa-fw fa-instagram"></i>View photos on Instagram</a>
+<br/><a href="https://pixelfed.social/cassidyjames" class="read-more pixelfed"><i class="fas fa-fw fa-camera"></i>View photos on PixelFed</a>
 
 I play **games** when I can find the time. Usually on PS4, but occasionally on Steam, Android, and my GamePi.
 <br/><a href="http://psnprofiles.com/blaede22" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
 <br/><a href="http://steamcommunity.com/id/cassidyjames/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
-<br/><a href="gamepi" class="read-more gamepi"><i class="fa fa-fw fa-gamepad"></i>Learn about GamePi</a>
+<br/><a href="/gamepi" class="read-more gamepi"><i class="fa fa-fw fa-gamepad"></i>Learn about GamePi</a>
