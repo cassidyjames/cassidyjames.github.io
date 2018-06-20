@@ -120,7 +120,3 @@ collaboration, and seven years of user experience design and architecture.
 
 #### Liberal Arts
 
----
-
-This résumé also available [in markdown](http://cassidyjames.com/resume.md).
-
