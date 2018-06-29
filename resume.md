@@ -74,7 +74,7 @@ collaboration, and seven years of user experience design and architecture.
 ##### Achievements:
 
 - Conceptualized, launched, and maintained monthly editorial content at [medium.com/elementaryos](https://medium.com/elementaryos)
-- Designed, developed, and launched three apps ([Dippi](/dippi), [Palette](/palette), [Principles](/principles)) to dogfood the development process,
+- Designed, developed, and launched three apps ([Dippi](/dippi), [Palette](/palette), [Principles](/principles)) to dogfood the development process
 - Initiated and maintained comprehensive [brand resources](https://elementary.io/brand)
 - Coordinated a week-long [design and development sprint](https://medium.com/elementaryos/the-denver-appcenter-sprint-85f12a667e03) for AppCenter
 
