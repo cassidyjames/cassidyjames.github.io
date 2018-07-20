@@ -1,4 +1,8 @@
 nav {
+  @media print {
+    display: none;
+  }
+  
   padding: 0;
 
   background-color: $primary-color;
@@ -42,3 +46,4 @@ nav {
     padding: 0;
   }
 }
+

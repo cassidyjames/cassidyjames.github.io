@@ -14,6 +14,10 @@ html {
   @media (min-width: 1920px) {
     font-size: 22px;
   }
+  
+  @media print {
+    font-size: 14px;
+  }
 }
 
 a {
@@ -71,7 +75,7 @@ h3 {
 }
 
 h4 {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.25em;
   margin-top: 0;
 
   font-size: 1.25rem;
@@ -81,6 +85,8 @@ h4 {
 
 h5 {
   font-size: 1rem;
+  margin-bottom: 0;
+  margin-top: 1em;
 }
 
 h6 {
@@ -90,6 +96,12 @@ h6 {
 p,
 li {
   line-height: 1.5em;
+}
+
+p,
+ul,
+ol {
+  margin: 0.25em auto;
 }
 
 hr {
@@ -104,3 +116,4 @@ blockquote {
 
   opacity: 0.75;
 }
+

@@ -4,7 +4,11 @@
 
 [![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)](https://appcenter.elementary.io/com.github.cassidyjames.principles)
 
-![Screenshot](https://raw.githubusercontent.com/cassidyjames/principles/master/data/screenshot-wallpaper-dark.png)
+
+| ![Screenshot](https://raw.githubusercontent.com/cassidyjames/principles/master/data/screenshot.png)           | ![Screenshot](https://raw.githubusercontent.com/cassidyjames/principles/master/data/screenshot-dark.png)           |
+| -------------------------------------------- | ------------------------------------------------- |
+| ![Screenshot](https://raw.githubusercontent.com/cassidyjames/principles/master/data/screenshot-wallpaper.png) | ![Screenshot](https://raw.githubusercontent.com/cassidyjames/principles/master/data/screenshot-wallpaper-dark.png) |
+
 
 ## Remember Dieter Rams' ten principles of good design
 

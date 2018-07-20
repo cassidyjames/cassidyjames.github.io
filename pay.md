@@ -14,9 +14,9 @@ my way? Here you go.
 [Use PayPal.me](https://paypal.me/cassidyjames), or send to c@ssidyjam.es
 
 
-<h2><i class="fab fa-fw fa-google-wallet"></i> Google Wallet</h2>
+<h2><i class="fab fa-fw fa-google"></i> Google Pay</h2>
 
-Send to cassidy.james.blaede@gmail.com
+Send to cassidy.james.blaede@gmail.com or my phone number.
 
 
 <h2>Venmo</h2>

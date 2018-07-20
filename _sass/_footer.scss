@@ -1,4 +1,8 @@
 footer {
+  @media print {
+    display: none;
+  }
+
   padding: 1rem 1rem 0;
   width: 100%;
   flex: 0 0 auto;
@@ -120,3 +124,4 @@ footer {
     }
   }
 }
+
