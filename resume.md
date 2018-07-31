@@ -23,7 +23,27 @@ experience with PHP and MySQL
 Eleven years of front-end web development, seven years of open source
 collaboration, and seven years of user experience design and architecture.
 
-<!--
+### elementary, Inc. _2011–present_
+
+#### Cofounder, UX Architect
+
+##### Responsibilities: 
+
+- UX research & design
+- Front-end web development of [elementary.io](https://elementary.io)
+- Third-party developer outreach and evangelism
+- Documenting, evolving, and maintaining detailed [Human Interface Guidelines](https://elementary.io/docs/human-interface-guidelines)
+- User & developer documentation
+- [Issue tracking & triaging](https://github.com/search?o=desc&q=org%3Aelementary+cassidyjames&s=updated&type=Issues&utf8=%E2%9C%93)
+- Front-end desktop development in Vala and GTK+
+
+##### Achievements:
+
+- Conceptualized, launched, and maintained monthly editorial content at [medium.com/elementaryos](https://medium.com/elementaryos)
+- Designed, developed, and launched three apps ([Dippi](/dippi), [Palette](/palette), [Principles](/principles)) to dogfood the development process
+- Initiated and maintained comprehensive [brand resources](https://elementary.io/brand)
+- Coordinated a week-long [design and development sprint](https://medium.com/elementaryos/the-denver-appcenter-sprint-85f12a667e03) for AppCenter
+
 ### Freelance _2016–present_
 
 - UX architecture and design
@@ -32,9 +52,8 @@ collaboration, and seven years of user experience design and architecture.
 - Video editing
 - Content writing
 - Event audio engineering
--->
 
-### System76 _2014–present_
+### System76 _2014–2018_
 
 #### UX Architect, Front-end Web Developer
 
@@ -55,28 +74,6 @@ collaboration, and seven years of user experience design and architecture.
 - Attended and documented [GNOME UX Hackfest 2017](http://blog.system76.com/post/167747412318/gnome-ux-hackfest-2017), helping to design future improvements to GNOME Shell and GDM
 - Designed several critical customer-facing interfaces ([Product Configurator](https://system76.com/cart/configure/galp3), [OS Installer](https://github.com/elementary/installer/wiki), [USB Flasher](https://github.com/pop-os/popsicle/wiki/GUI-Design), [GPU Switching](https://github.com/pop-os/gnome-shell-extension-system76-power/wiki)) and helped bring them to life in code
 - Accepted as a member of the [GNOME Foundation](https://www.gnome.org/foundation/membership/) for work on GNOME and downstream projects
-
-
-### elementary LLC. _2011–present_
-
-#### Cofounder, UX Architect
-
-##### Responsibilities: 
-
-- UX research & design
-- Front-end web development of [elementary.io](https://elementary.io)
-- Third-party developer outreach and evangelism
-- Documenting, evolving, and maintaining detailed [Human Interface Guidelines](https://elementary.io/docs/human-interface-guidelines)
-- User & developer documentation
-- [Issue tracking & triaging](https://github.com/search?o=desc&q=org%3Aelementary+cassidyjames&s=updated&type=Issues&utf8=%E2%9C%93)
-- Front-end desktop development in Vala and GTK+
-
-##### Achievements:
-
-- Conceptualized, launched, and maintained monthly editorial content at [medium.com/elementaryos](https://medium.com/elementaryos)
-- Designed, developed, and launched three apps ([Dippi](/dippi), [Palette](/palette), [Principles](/principles)) to dogfood the development process
-- Initiated and maintained comprehensive [brand resources](https://elementary.io/brand)
-- Coordinated a week-long [design and development sprint](https://medium.com/elementaryos/the-denver-appcenter-sprint-85f12a667e03) for AppCenter
 
 ### Visual Logic Group _2012–2013_
 
