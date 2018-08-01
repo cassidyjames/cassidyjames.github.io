@@ -44,6 +44,7 @@ collaboration, and seven years of user experience design and architecture.
 - Initiated and maintained comprehensive [brand resources](https://elementary.io/brand)
 - Coordinated a week-long [design and development sprint](https://medium.com/elementaryos/the-denver-appcenter-sprint-85f12a667e03) for AppCenter
 
+<!--
 ### Freelance _2016–present_
 
 - UX architecture and design
@@ -52,6 +53,7 @@ collaboration, and seven years of user experience design and architecture.
 - Video editing
 - Content writing
 - Event audio engineering
+-->
 
 ### System76 _2014–2018_
 
