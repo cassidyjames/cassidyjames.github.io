@@ -5,23 +5,23 @@ redirect_from:
 ---
 # Cassidy’s Wishlist
 
-This is my canonical birthday, Christmas, and any-other-time wish list. It is
-up to date as of {{ site.time | date: '%B %-d, %Y' }}.
+This is my canonical birthday, Christmas, and any-other-time wish list. **It is
+up to date as of {{ site.time | date: '%B %-d, %Y' }}.**
 
 
 ## Shortlist
 
-An ever-updated small number (3–7) of things I’d absolutely love to get. You can use it as a surefire way to get me something I’ll love, or as inspiration for getting me something else.
+A small number (3–7) of things I’d absolutely love to get. You can use it as a surefire way to get me something I’ll love, or as inspiration for getting me something else.
 
 | Image                                        | Link                                                                                                                     | Price         | Notes                                         |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------|
-| ![Pi 3b+](/images/pi3b.jpg)                  | [Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)                             | **$35**       | Available from several retailers              |
+| ![Anamorphic](/images/moment-anamorphic.jpg) | [Moment Anamorphic Lens](https://www.shopmoment.com/shop/anamorphic-lens)                                                | **$120–150**  | $120 for pre-order, normally $150             |
 | ![Pi Camera](/images/pi-camera.jpg)          | [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) | **$30**       |                                               |
 | ![Hue](/images/hue.jpg)                      | [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)                   | **$60–100**\* | 4 bulbs and bridge                            |
-| ![Macro Lens](/images/moment-macro-lens.jpg) | [Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                                            | **$90**       | New Macro and/or New Superfish                |
 | ![Wemo](/images/wemo-plug.jpg)               | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                                               | **$30**       | I could use a bunch of these!                 |
 | ![MKBHD tee](/images/mkbhd-tee.jpg)          | [MKBHD tees](http://shop.mkbhd.com)                                                                                      | **$30**       | MKBHD Core Logo and Chevron tees, Men’s Large |
 | ![Uncharted](/images/uncharted-ll.jpg)       | [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/games/uncharted-the-lost-legacy-ps4/)                     | **$30**\*     | Either disc or digital is fine                |
+| ![Macro Lens](/images/moment-macro-lens.jpg) | [Other Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                                      | **$90**       | New Macro and/or New Superfish                |
 
 _\*Exact price depends on promotions/retailer._
 
