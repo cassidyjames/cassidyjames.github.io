@@ -29,7 +29,7 @@ _\*Exact price depends on promotions/retailer._
 
 I don’t have specific items picked out here, but I always love receiving a variety of these things. Pick something you think I’ll like!
 
-* [Henry &amp; David Pears](https://www.harryanddavid.com/h/fruit-gift/pears) **~$30** - Pears are the BEST.
+* [Harry &amp; David Pears](https://www.harryanddavid.com/h/fruit-gift/pears) **~$30** - Pears are the BEST.
 
 * [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared. I like almost anything! I have a lot of black/dark wood, so lighter wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
 
