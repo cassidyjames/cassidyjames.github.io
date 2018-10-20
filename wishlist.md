@@ -15,7 +15,6 @@ A small number (3–7) of things I’d absolutely love to get. You can use it as
 
 | Image                                        | Link                                                                                                                     | Price         | Notes                                         |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------|
-| ![Anamorphic](/images/moment-anamorphic.jpg) | [Moment Anamorphic Lens](https://www.shopmoment.com/shop/anamorphic-lens)                                                | **$120–150**  | $120 for pre-order, normally $150             |
 | ![Pi Camera](/images/pi-camera.jpg)          | [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) | **$30**       |                                               |
 | ![Hue](/images/hue.jpg)                      | [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)                   | **$60–100**\* | 4 bulbs and bridge                            |
 | ![Wemo](/images/wemo-plug.jpg)               | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                                               | **$30**       | I could use a bunch of these!                 |
