@@ -15,6 +15,7 @@ A small number (3–7) of things I’d absolutely love to get. You can use it as
 
 | Image                                        | Link                                                                                                                     | Price         | Notes                                         |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------|
+| ![Pi Camera](/images/home-hub.jpg)           | [Google Home Hub](https://store.google.com/product/google_home_hub)                                                      | **$149**      | Chalk, probably?                              |
 | ![Pi Camera](/images/pi-camera.jpg)          | [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) | **$30**       |                                               |
 | ![Hue](/images/hue.jpg)                      | [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)                   | **$60–100**\* | 4 bulbs and bridge                            |
 | ![Wemo](/images/wemo-plug.jpg)               | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                                               | **$30**       | I could use a bunch of these!                 |
@@ -34,7 +35,7 @@ I don’t have specific items picked out here, but I always love receiving a var
 
 * [Threadless Tees and Tanks](https://threadless.com) **~$10–30** - Men’s Large. Anything nerdy or fun or cool.
 
-* Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Oatmeal, black, gray, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
+* Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Some sort of oatmeal color, anything heather, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
 
 * Gift Cards **any amount** - I shop at all of these places and always appreciate gift cards.
 
@@ -56,11 +57,9 @@ I don’t have specific items picked out here, but I always love receiving a var
   * Star Realms
   * Telestrations
 
-
 ## LEGO
 
 I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It’s kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
-
 
 ## Experiences
 
@@ -70,7 +69,6 @@ Instead of getting me _stuff_, you can gift me with one of these experiences or 
 * Denver museum or zoo tickets
 * [Denver Center for the Performing Arts](https://denvercenter.org) gift certificate
 
-
 ## Causes
 
 Instead of giving to me directly, you can always give to one of these causes on my behalf. I’m passionate about each one and they all could use monetary support.
@@ -79,7 +77,6 @@ Instead of giving to me directly, you can always give to one of these causes on 
 * [Free Software Foundation](http://www.fsf.org/) _A worldwide mission to promote computer user freedom. We defend the rights of all software users._
 * [GNOME Foundation](https://www.gnome.org/support-gnome/donate/) _Helping create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use._
 * [Girls Who Code](https://girlswhocode.com/) _Closing the gender gap in tech, one girl at a time._
-
 
 ## Amazon
 
