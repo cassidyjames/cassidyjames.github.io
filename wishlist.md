@@ -19,7 +19,6 @@ A small number (3–7) of things I’d absolutely love to get. You can use it as
 | ![Pi Camera](/images/pi-camera.jpg)          | [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2?src=raspberrypi) | **$25**       |                                               |
 | ![Hue](/images/hue.jpg)                      | [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)                   | **$60–100**\* | 4 bulbs and bridge                            |
 | ![Wemo](/images/wemo-plug.jpg)               | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                                               | **$30**       | I could use a bunch of these!                 |
-| ![MKBHD tee](/images/mkbhd-tee.jpg)          | [MKBHD tees](http://shop.mkbhd.com)                                                                                      | **$30**       | MKBHD Core Logo and Chevron tees, Men’s Large |
 | ![Uncharted](/images/uncharted-ll.jpg)       | [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/games/uncharted-the-lost-legacy-ps4/)                     | **$30**\*     | Either disc or digital is fine                |
 | ![Macro Lens](/images/moment-macro-lens.jpg) | [Other Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                                      | **$90**       | New Macro and/or New Superfish                |
 
@@ -36,6 +35,8 @@ I don’t have specific items picked out here, but I always love receiving a var
 * [Threadless Tees and Tanks](https://threadless.com) **~$10–30** - Men’s Large. Anything nerdy or fun or cool.
 
 * Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Some sort of oatmeal color, anything heather, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
+
+* [MKBHD tees](http://shop.mkbhd.com) - Basically anything you think looks cool or that I would like. Men's large.
 
 * Gift Cards **any amount** - I shop at all of these places and always appreciate gift cards.
 
