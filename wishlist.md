@@ -50,16 +50,15 @@ I don’t have specific items picked out here, but I always love receiving a var
 
 * Gift Cards **any amount** - I shop at all of these places and always appreciate gift cards.
 
-  * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games
-  * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, books, and games
-  * Micro Center (only available in-store) for Raspberry Pi and gadget stuff
-  * [GameStop/ThinkGeek](https://www.gamestop.com/gift-cards) for games and geek stuff
-  * [LEGO Store](https://shop.lego.com/en-US/Give-Gift-Card) for LEGOs, obviously
-  * [Target](https://www.target.com/c/target-giftcards/all-occasions/-/N-5xsxtZ5rxa0) for whatever
-  * [Best Buy](https://www.bestbuy.com/site/electronics/gift-cards/cat09000.c?id=cat09000#/) for gadgets
-  * [Old Navy](http://oldnavy.gap.com/customerService/info.do?cid=35433) for fashion
-  * [Caribou Coffee](https://shared.caribouperks.com/giftcard/) for coffeeeee
-  * [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth
+  * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games 🎮
+  * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, books, and games 📱
+  * Micro Center (only available in-store) for Raspberry Pi and gadget stuff 🤓
+  * [GameStop/ThinkGeek](https://www.gamestop.com/gift-cards) for games and geek stuff 🎲
+  * [LEGO Store](https://shop.lego.com/en-US/Give-Gift-Card) for LEGOs, obviously 🏗
+  * [Target](https://www.target.com/c/target-giftcards/all-occasions/-/N-5xsxtZ5rxa0) for whatever 🤷‍♂️
+  * [Best Buy](https://www.bestbuy.com/site/electronics/gift-cards/cat09000.c?id=cat09000#/) for gadgets 👨‍💻
+  * [Old Navy](http://oldnavy.gap.com/customerService/info.do?cid=35433) for fashion 🕺
+  * [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth 👅
 
 * Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens, Codenames, Little Drop of Poison, and Fluxx (all of which Katie and I have). Other ideas:
   * Exploding Kittens expansions
