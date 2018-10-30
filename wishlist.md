@@ -20,16 +20,18 @@ Buying from the company who makes the thing is usually best, but I also recommen
 
 A small number (3–7) of things I’d absolutely love to get. You can use it as a surefire way to get me something I’ll love, or as inspiration for getting me something else.
 
-| Image                                  | Link                                                                                                     | Price         | Notes                          |
-|----------------------------------------|----------------------------------------------------------------------------------------------------------|---------------|--------------------------------|
-| ![Home Hub](/images/home-hub.jpg)      | [Google Home Hub](https://store.google.com/product/google_home_hub)                                      | **$149**      | Chalk, probably?               |
-| ![Pi Camera](/images/pi-camera.jpg)    | [Raspberry Pi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2) | **$25**       |                                |
-| ![Hue](/images/hue.jpg)                | [Philips Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)   | **$60–100**\* | 4 bulbs and bridge             |
-| ![Wemo](/images/wemo-plug.jpg)         | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                               | **$30**       | I could use a bunch of these!  |
-| ![Uncharted](/images/uncharted-ll.jpg) | [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/games/uncharted-the-lost-legacy-ps4/)     | **$30**\*     | Either disc or digital is fine |
+| Image                                  | Link                                                                                                   | Price         | Notes                          |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------|---------------|--------------------------------|
+| ![Home Hub](/images/home-hub.jpg)      | [Google Home Hub](https://store.google.com/product/google_home_hub)                                    | **$149**      | Chalk, probably?               |
+| ![ND Mount](/images/moment-nd.jpg)     | [Moment ND Filter Mount](https://www.shopmoment.com/shop/filter-mount-62mm)                            | **$40**       |                                |
+| ![ND Filter](/images/nd-filter.jpg)    | [62mm ND Filters](https://www.shopmoment.com/shop/categories/filters)                                  | **$86** each  | 3- and 6-stop (stackable)      |
+| ![Pi Camera](/images/pi-camera.jpg)    | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2)      | **$25**       |                                |
+| ![Hue](/images/hue.jpg)                | [Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009) | **$60–100**\* | 4 bulbs and bridge             |
+| ![Uncharted](/images/uncharted-ll.jpg) | [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/games/uncharted-the-lost-legacy-ps4/)   | **$30**\*     | Disc or digital is fine        |
 
 <!--
-| ![Lens](/images/moment-macro-lens.jpg) | [Other Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                      | **$90**       | New Macro and/or New Superfish |
+| ![Wemo](/images/wemo-plug.jpg)         | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                             | **$30**       | I could use a bunch of these!  |
+| ![Lens](/images/moment-macro-lens.jpg) | [Other Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                    | **$90**       | New Macro and/or New Superfish |
 -->
 
 _\*Exact price depends on promotions/retailer._
