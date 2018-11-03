@@ -1,6 +1,6 @@
 {% assign nowSecs = site.time | date: '%s' %}
 {% assign birthdaySecs = site.birthday | date: '%s' %}
 {% assign ageSecs = nowSecs | minus: birthdaySecs %}
-{% assign age = ageSecs | divided_by: 60 | divided_by: 60 | divided_by: 24 | divided_by: 360 %}
+{% assign age = ageSecs | divided_by: 60 | divided_by: 60 | divided_by: 24 | divided_by: 365 %}
 
 {{ age }}
