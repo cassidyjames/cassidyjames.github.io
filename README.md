@@ -11,10 +11,6 @@
     </ul>
 </div>
 
-<div class="alert">
-    <p>I'm selling my <a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575378759&campid=5338273189&customid=&icep_item=183534687327&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg&toolid=11111">Moment 60mm Tele Portrait lens</a>! Grab it on eBay starting at $35. <a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575378759&campid=5338273189&customid=&icep_item=183534687327&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg&toolid=11111">Learn More.</a></p>
-</div>
-
 ## Apps
 
 I have a few apps available on AppCenter for [elementary OS](https://elementary.io). Check them out!
