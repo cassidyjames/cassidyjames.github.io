@@ -1,0 +1,12 @@
+.alert {
+    background-color: $accent-color;
+    border-radius: 4px;
+    color: $background-color;
+    margin: 1em auto;
+    padding: 0.25em 1em;
+
+    a {
+        color: inherit;
+        font-weight: bold;
+    }
+}
