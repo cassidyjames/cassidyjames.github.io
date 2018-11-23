@@ -50,6 +50,8 @@ I occasionally take **photos** of my adventures (and my cat).
 
 <a href="https://pixelfed.social/cassidyjames" class="read-more pixelfed"><i class="fas fa-fw fa-camera-retro"></i>View photos on PixelFed</a>
 
+<a href="https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede" class="read-more moment"><i class="fas fa-fw fa-credit-card"></i>10% off Moment lenses</a>
+
 ### Play
 
 I play **games** when I can find the time. Usually on PS4, but occasionally on Steam, Android, and my GamePi.
