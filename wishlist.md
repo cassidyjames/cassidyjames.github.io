@@ -28,10 +28,10 @@ A small number (3–7) of things I’d absolutely love to get. You can use it as
 | ![Pi Camera](/images/pi-camera.jpg)     | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2)    | **$25**       |                                |
 | ![Hue](/images/hue.jpg)                 | [Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)       | **$60–100**\* | 4 bulbs and bridge             |
 | ![Uncharted](/images/uncharted-ll.jpg)  | [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/games/uncharted-the-lost-legacy-ps4/) | **$30**\*     | Disc or digital is fine        |
-| ![SmartDesk](/images/smartdesk.jpg) | [Autonomous SmartDesk DIY](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit) | **$249** | Black, Home Edition |
+| ![Travel Case](/images/travel-case.jpg) | [Moment Travel Case](https://www.shopmoment.com/shop/travel-case)                                    | **$40**       |                                |
 
 <!--
-| ![Travel Case](/images/travel-case.jpg) | [Moment Travel Case](https://www.shopmoment.com/shop/travel-case)                                    | **$40**       |                                |
+| ![SmartDesk](/images/smartdesk.jpg) | [Autonomous SmartDesk DIY](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit) | **$249** | Black, Home Edition |
 | ![Wemo](/images/wemo-plug.jpg)          | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                           | **$30**       | I could use a bunch of these!  |
 | ![Lens](/images/moment-macro-lens.jpg)  | [Other Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                  | **$90**       | New Macro and/or New Superfish |
 -->
