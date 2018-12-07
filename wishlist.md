@@ -44,7 +44,7 @@ I don’t have specific items picked out here, but I always love receiving a var
 
 * [Moment gear](https://www.shopmoment.com/) **Huge range** - Macro and Superfish lens, carrying cases, gimbals, etc. It all looks awesome and I am a Moment fiend. I have a phone case and three lenses (Wide, 58mm Tele, Anamorphic), but not much else.
 
-* Star Wars Blu-ray + Digital **~20–30** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_. 
+* Star Wars Blu-ray + Digital **~20–30 each** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_. 
 
 * [Harry &amp; David Pears](https://www.harryanddavid.com/h/fruit-gift/pears) **~$30** - Pears are the BEST.
 
