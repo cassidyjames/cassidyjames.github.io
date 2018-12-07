@@ -44,6 +44,8 @@ I don’t have specific items picked out here, but I always love receiving a var
 
 * [Moment gear](https://www.shopmoment.com/) **Huge range** - Macro and Superfish lens, carrying cases, gimbals, etc. It all looks awesome and I am a Moment fiend. I have a phone case and three lenses (Wide, 58mm Tele, Anamorphic), but not much else.
 
+* Star Wars Blu-ray + Digital **~20–30** - I have I–VII. I do **not** have _VIII: The Last Jedi_, _Rogue One_, or _Solo_. 
+
 * [Harry &amp; David Pears](https://www.harryanddavid.com/h/fruit-gift/pears) **~$30** - Pears are the BEST.
 
 * [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared. I like almost anything! I have a lot of black/dark wood, so lighter wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
