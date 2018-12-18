@@ -58,11 +58,6 @@ img {
 .read-more {
   color: inherit;
   font-size: 0.875em;
-  opacity: 0.6;
-
-  &:hover {
-    opacity: 0.8;
-  }
 
   &::after {
     color: inherit;
@@ -94,37 +89,40 @@ img {
   opacity: 1;
 }
 
-.read-more.twitter:hover i {
+.read-more.twitter {
   color: $twitter;
 }
 
-.read-more.unsplash:hover i,
-.read-more.instagram:hover i,
-.read-more.pixelfed:hover i {
+.read-more.unsplash,
+.read-more.instagram {
   color: $black;
 }
 
-.read-more.medium:hover i {
+.read-more.pixelfed {
+  color: $pixelfed;
+}
+
+.read-more.medium {
   color: $medium;
 }
 
-.read-more.github:hover i {
+.read-more.github {
   color: $github;
 }
 
-.read-more.steam:hover i {
+.read-more.steam {
   color: $steam;
 }
 
-.read-more.youtube:hover i {
+.read-more.youtube {
   color: $youtube;
 }
 
-.read-more.psn:hover i {
+.read-more.psn {
   color: $psn;
 }
 
-.read-more.google-plus:hover i {
+.read-more.google-plus {
   color: $gplus;
 }
 
@@ -145,15 +143,6 @@ img[alt="Me"] {
     0 1px 6px 0 rgba(0, 0, 0, 0.12),
     0 1px 4px 0 rgba(0, 0, 0, 0.24);
 
-  filter:
-    sepia(1)
-    hue-rotate(240deg)
-    brightness(0.75)
-    contrast(150%);
-
-  &:active {
-    filter: none;
-  }
 
   nav & {
     float: left;
