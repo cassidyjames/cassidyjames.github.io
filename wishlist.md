@@ -70,6 +70,7 @@ _A.k.a. stuff i always enjoy._
   * [Best Buy](https://www.bestbuy.com/site/electronics/gift-cards/cat09000.c?id=cat09000#/) for gadgets 👨‍💻
   * [Old Navy](http://oldnavy.gap.com/customerService/info.do?cid=35433) for fashion 🕺
   * [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth 👅
+  * [Arctic Buffalo](https://arcticbuffalo.com/collections/gift-options/products/gift-card?variant=1040675312) for gauges/plugs 👂
 
 * Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens, Codenames, Little Drop of Poison, and Fluxx (all of which Katie and I have). Other ideas:
   * Exploding Kittens expansions
