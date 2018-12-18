@@ -46,7 +46,7 @@ I don’t have specific items picked out here, but I always love receiving a var
 
 * Smart Lighting **~$20–$$$$**
 
-* [Wikimedia clothing] **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
+* [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
 
 * Star Wars Blu-ray + Digital **~$20–30 each** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_.
 
