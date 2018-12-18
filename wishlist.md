@@ -44,7 +44,11 @@ I don’t have specific items picked out here, but I always love receiving a var
 
 * [Moment gear](https://www.shopmoment.com/) **Huge range** - Macro and Superfish lens, carrying cases, gimbals, etc. It all looks awesome and I am a Moment fiend. I have a phone case and three lenses (Wide, 58mm Tele, Anamorphic), but not much else.
 
-* Star Wars Blu-ray + Digital **~20–30 each** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_. 
+* Smart Lighting **~$20–$$$$**
+
+* [Wikimedia clothing] **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
+
+* Star Wars Blu-ray + Digital **~$20–30 each** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_.
 
 * [Harry &amp; David Pears](https://www.harryanddavid.com/h/fruit-gift/pears) **~$30** - Pears are the BEST.
 
@@ -57,7 +61,6 @@ I don’t have specific items picked out here, but I always love receiving a var
 * [MKBHD tees](http://shop.mkbhd.com) - Basically anything you think looks cool or that I would like. Men's large.
 
 * Gift Cards **any amount** - I shop at all of these places and always appreciate gift cards.
-
   * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games 🎮
   * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, books, and games 📱
   * Micro Center (only available in-store) for Raspberry Pi and gadget stuff 🤓
@@ -96,4 +99,5 @@ Instead of giving to me directly, you can always give to one of these causes on 
 * [Free Software Foundation](http://www.fsf.org/) _A worldwide mission to promote computer user freedom. We defend the rights of all software users._
 * [GNOME Foundation](https://www.gnome.org/support-gnome/donate/) _Helping create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use._
 * [Girls Who Code](https://girlswhocode.com/) _Closing the gender gap in tech, one girl at a time._
+* [Wikimedia Foundation](https://wikimediafoundation.org/) _Imagine a world in which every single human being can freely share in the sum of all knowledge._
 
