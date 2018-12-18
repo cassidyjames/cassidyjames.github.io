@@ -20,31 +20,31 @@ Buying from the company who makes the thing is usually best, but I also recommen
 
 A small number (3–7) of things I’d absolutely love to get. You can use it as a surefire way to get me something I’ll love, or as inspiration for getting me something else.
 
-| Image                                   | Link                                                                                                 | Price         | Notes                          |
-|-----------------------------------------|------------------------------------------------------------------------------------------------------|---------------|--------------------------------|
-| ![Home Hub](/images/home-hub.jpg)       | [Google Home Hub](https://store.google.com/product/google_home_hub)                                  | **$149**      | Chalk, probably?               |
-| ![ND Mount](/images/moment-nd.jpg)      | [Moment ND Filter Mount](https://www.shopmoment.com/shop/filter-mount-62mm)                          | **$40**       |                                |
-| ![ND Filter](/images/nd-filter.jpg)     | [62mm ND Filters](https://www.shopmoment.com/shop/categories/filters)                                | **$86** each  | 3- and 6-stop (stackable)      |
-| ![Pi Camera](/images/pi-camera.jpg)     | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2)    | **$25**       |                                |
-| ![Hue](/images/hue.jpg)                 | [Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)       | **$60–100**\* | 4 bulbs and bridge             |
-| ![Uncharted](/images/uncharted-ll.jpg)  | [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/games/uncharted-the-lost-legacy-ps4/) | **$30**\*     | Disc or digital is fine        |
-| ![Travel Case](/images/travel-case.jpg) | [Moment Travel Case](https://www.shopmoment.com/shop/travel-case)                                    | **$40**       |                                |
+| Image                                   | Link                                                                                                 | Price             | Notes                          |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------|-------------------|--------------------------------|
+| ![Home Hub](/images/home-hub.jpg)       | [Google Home Hub](https://store.google.com/product/google_home_hub)                                  | ~~$149~~ **$129** | Chalk, probably?               |
+| ![ND Mount](/images/moment-nd.jpg)      | [Moment ND Filter Mount](https://www.shopmoment.com/shop/filter-mount-62mm)                          | **$40**           |                                |
+| ![ND Filter](/images/nd-filter.jpg)     | [62mm ND Filters](https://www.shopmoment.com/shop/categories/filters)                                | **$86** each      | 3- and 6-stop (stackable)      |
+| ![Pi Camera](/images/pi-camera.jpg)     | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2)    | **$25**           |                                |
+| ![Hue](/images/hue.jpg)                 | [Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)       | **$60–100**\*     | 4 bulbs and bridge             |
+| ![Uncharted](/images/uncharted-ll.jpg)  | [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/games/uncharted-the-lost-legacy-ps4/) | **$30**\*         | Disc or digital is fine        |
+| ![Travel Case](/images/travel-case.jpg) | [Moment Travel Case](https://www.shopmoment.com/shop/travel-case)                                    | **$40**           |                                |
 
 <!--
-| ![SmartDesk](/images/smartdesk.jpg) | [Autonomous SmartDesk DIY](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit) | **$249** | Black, Home Edition |
-| ![Wemo](/images/wemo-plug.jpg)          | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                           | **$30**       | I could use a bunch of these!  |
-| ![Lens](/images/moment-macro-lens.jpg)  | [Other Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                  | **$90**       | New Macro and/or New Superfish |
+| ![SmartDesk](/images/smartdesk.jpg)     | [Autonomous SmartDesk DIY](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit)              | **$249**          | Black, Home Edition            |
+| ![Wemo](/images/wemo-plug.jpg)          | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                           | **$30**           | I could use a bunch of these!  |
+| ![Lens](/images/moment-macro-lens.jpg)  | [Other Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                  | **$90**           | New Macro and/or New Superfish |
 -->
 
 _\*Exact price depends on promotions/retailer._
 
-## Stuff I Always Enjoy
+## Idea-list
 
-I don’t have specific items picked out here, but I always love receiving a variety of these things. Pick something you think I’ll like!
+_A.k.a. stuff i always enjoy._
 
 * [Moment gear](https://www.shopmoment.com/) **Huge range** - Macro and Superfish lens, carrying cases, gimbals, etc. It all looks awesome and I am a Moment fiend. I have a phone case and three lenses (Wide, 58mm Tele, Anamorphic), but not much else.
 
-* Smart Lighting **~$20–$$$$**
+* Smart Lighting **~$20–\$\$\$\$** - Wemo outlets and switches, IKEA TRÅDFRI bulbs, Hue bulbs, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
 
 * [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
 
