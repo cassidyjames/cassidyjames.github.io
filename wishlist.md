@@ -22,19 +22,16 @@ A small number (3–7) of things I’d absolutely love to get. You can use it as
 
 | Image                                   | Link                                                                                                 | Price             | Notes                          |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------|-------------------|--------------------------------|
-| ![Home Hub](/images/home-hub.jpg)       | [Google Home Hub](https://store.google.com/product/google_home_hub)                                  | ~~$149~~ **$129** | Chalk, probably?               |
 | ![ND Mount](/images/moment-nd.jpg)      | [Moment ND Filter Mount](https://www.shopmoment.com/shop/filter-mount-62mm)                          | **$40**           |                                |
 | ![ND Filter](/images/nd-filter.jpg)     | [62mm ND Filters](https://www.shopmoment.com/shop/categories/filters)                                | **$86** each      | 3- and 6-stop (stackable)      |
 | ![Pi Camera](/images/pi-camera.jpg)     | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2)    | **$25**           |                                |
 | ![Hue](/images/hue.jpg)                 | [Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)       | **$60–100**\*     | 4 bulbs and bridge             |
-| ![Uncharted](/images/uncharted-ll.jpg)  | [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/games/uncharted-the-lost-legacy-ps4/) | **$30**\*         | Disc or digital is fine        |
 | ![UPS](/images/ups.jpg)                 | UPS/Battery Back-Up System                                                                           | **$100+**\*       | I think around 1000VA or more  |
+| ![Lens](/images/moment-macro-lens.jpg)  | [Superfish Moment Lens](https://www.shopmoment.com/shop/categories/all/devices/pixel)                  | **$90**           | |
+| ![Wemo](/images/wemo-plug.jpg)          | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                           | **$30**           | I could use a bunch of these!  |
 
 <!--
-| ![Travel Case](/images/travel-case.jpg) | [Moment Travel Case](https://www.shopmoment.com/shop/travel-case)                                    | **$40**           |                                |
 | ![SmartDesk](/images/smartdesk.jpg)     | [Autonomous SmartDesk DIY](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit)              | **$249**          | Black, Home Edition            |
-| ![Wemo](/images/wemo-plug.jpg)          | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                           | **$30**           | I could use a bunch of these!  |
-| ![Lens](/images/moment-macro-lens.jpg)  | [Other Moment Lenses](https://www.shopmoment.com/shop/categories/all/devices/pixel)                  | **$90**           | New Macro and/or New Superfish |
 -->
 
 _\*Exact price depends on promotions/retailer._
@@ -42,8 +39,6 @@ _\*Exact price depends on promotions/retailer._
 ## Idea-list
 
 _A.k.a. stuff i always enjoy._
-
-* [Moment gear](https://www.shopmoment.com/) **Huge range** - Macro and Superfish lens, carrying cases, gimbals, etc. It all looks awesome and I am a Moment fiend. I have a phone case and three lenses (Wide, 58mm Tele, Anamorphic), but not much else.
 
 * Smart Lighting **~$20–\$\$\$\$** - Wemo outlets and switches, IKEA TRÅDFRI bulbs, Hue bulbs, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
 
@@ -75,9 +70,9 @@ _A.k.a. stuff i always enjoy._
 
 * Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens, Codenames, Little Drop of Poison, and Fluxx (all of which Katie and I have). Other ideas:
   * Exploding Kittens expansions
-  * Codenames expansions (I have the base/standard set)
+  * Codenames expansions (we have the base/standard set)
+  * Star Realms expansions (we have two standard decks)
   * Liar’s Dice (homemade set would be rad)
-  * Star Realms
   * Telestrations
 
 ## LEGO
