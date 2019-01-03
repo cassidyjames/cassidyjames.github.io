@@ -40,7 +40,7 @@ _\*Exact price depends on promotions/retailer._
 
 _A.k.a. stuff i always enjoy._
 
-* Smart Lighting **~$20–\$\$\$\$** - Wemo outlets and switches, IKEA TRÅDFRI bulbs, Hue bulbs, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
+* Smart Lighting **~$10–\$\$\$\$** - Wemo outlets and switches, IKEA TRÅDFRI bulbs, Hue bulbs, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
 
 * [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
 
@@ -57,7 +57,7 @@ _A.k.a. stuff i always enjoy._
 * [MKBHD tees](http://shop.mkbhd.com) - Basically anything you think looks cool or that I would like. Men's large.
 
 * Gift Cards **any amount** - I shop at all of these places and always appreciate gift cards.
-  * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games 🎮
+  * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) or [Nintendo eShop](https://www.nintendo.com/giftcards) for games 🎮
   * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, books, and games 📱
   * Micro Center (only available in-store) for Raspberry Pi and gadget stuff 🤓
   * [GameStop/ThinkGeek](https://www.gamestop.com/gift-cards) for games and geek stuff 🎲
