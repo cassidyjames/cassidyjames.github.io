@@ -22,13 +22,13 @@ A small number (3–7) of things I’d absolutely love to get. You can use it as
 
 | Image                                   | Link                                                                                                 | Price             | Notes                          |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------|-------------------|--------------------------------|
+| ![Pi Camera](/images/pi-camera.jpg) | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2) | **$25** | |
 | ![ND Mount](/images/moment-nd.jpg)      | [Moment ND Filter Mount](https://www.shopmoment.com/shop/filter-mount-62mm)                          | **$40**           |                                |
 | ![ND Filter](/images/nd-filter.jpg)     | [62mm ND Filters](https://www.shopmoment.com/shop/categories/filters)                                | **$86** each      | 3- and 6-stop (stackable)      |
-| ![Pi Camera](/images/pi-camera.jpg)     | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2)    | **$25**           |                                |
 | ![UPS](/images/ups.jpg)                 | UPS/Battery Back-Up System                                                                           | **$100+**\*       | I think around 1000VA or more  |
+| ![SmartDesk](/images/smartdesk.jpg)     | [Autonomous SmartDesk DIY](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit)              | **$249**          | Black, Home Edition            |
 
 <!--
-| ![SmartDesk](/images/smartdesk.jpg)     | [Autonomous SmartDesk DIY](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit)              | **$249**          | Black, Home Edition            |
 | ![Lens](/images/moment-macro-lens.jpg)  | [Superfish Moment Lens](https://www.shopmoment.com/shop/categories/all/devices/pixel)                  | **$90**           | |
 | ![Wemo](/images/wemo-plug.jpg)          | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                           | **$30**           | I could use a bunch of these!  |
 | ![Hue](/images/hue.jpg)                 | [Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)       | **$60–100**\*     | 4 bulbs and bridge             |
