@@ -22,7 +22,7 @@ A small number (3–7) of things I’d absolutely love to get. You can use it as
 
 | Image                                   | Link                                                                                                 | Price             | Notes                          |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------|-------------------|--------------------------------|
-| ![Movi](/images/movi.jpg) | [FreeFly Movi](https://www.shopmoment.com/shop/freefly-movi) | **$299** |  |
+| ![Movi](/images/movi.jpg) | [FreeFly Movi](https://www.shopmoment.com/shop/freefly-movi) | **$299** | [10% off](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Pi Camera](/images/pi-camera.jpg) | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2) | **$25** | |
 | ![ND Mount](/images/moment-nd.jpg)      | [Moment ND Filter Mount](https://www.shopmoment.com/shop/filter-mount-62mm)                          | **$40**           |                                |
 | ![ND Filter](/images/nd-filter.jpg)     | [62mm ND Filters](https://www.shopmoment.com/shop/categories/filters)                                | **$86** each      | 3- and 6-stop (stackable)      |
