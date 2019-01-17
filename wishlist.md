@@ -18,19 +18,20 @@ Buying from the company who makes the thing is usually best, but I also recommen
 
 ## Shortlist
 
-A small number (3–7) of things I’d absolutely love to get. You can use it as a surefire way to get me something I’ll love, or as inspiration for getting me something else.
+A small number <!--(3–7)--> of things I’d absolutely love to get. You can use it as a surefire way to get me something I’ll love, or as inspiration for getting me something else.
 
-| Image                                   | Link                                                                                                 | Price             | Notes                          |
-|-----------------------------------------|------------------------------------------------------------------------------------------------------|-------------------|--------------------------------|
+| Image | Link | Price | Notes |
+|-------|------|-------|-------|
 | ![Movi](/images/movi.jpg) | [Freefly Movi](https://www.shopmoment.com/shop/freefly-movi) | **$299** | [10% off](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
+| ![Fossil](/images/fossil.jpg) | [Fossil Sport Smartwatch](https://www.fossil.com/us/en/products/fossil-sport-smartwatch-red-silicone-sku-ftw6027p.html) | **$255** | Red Silicone |
 | ![Pi Camera](/images/pi-camera.jpg) | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2) | **$25** | |
 | ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
-| ![ND Mount](/images/moment-nd.jpg)      | [Moment ND Filter Mount](https://www.shopmoment.com/shop/filter-mount-62mm)                          | **$40**           |                                |
-| ![ND Filter](/images/nd-filter.jpg)     | [62mm ND Filters](https://www.shopmoment.com/shop/categories/filters)                                | **$86** each      | 3- and 6-stop (stackable)      |
-| ![UPS](/images/ups.jpg)                 | UPS/Battery Back-Up System                                                                           | **$100+**\*       | I think around 1000VA or more  |
-| ![SmartDesk](/images/smartdesk.jpg)     | [Autonomous SmartDesk DIY](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit)              | **$249**          | Black, Home Edition            |
+| ![ND Mount](/images/moment-nd.jpg)      | [Moment ND Filter Mount](https://www.shopmoment.com/shop/filter-mount-62mm)                          | **$40** | |
+| ![ND Filter](/images/nd-filter.jpg)     | [62mm ND Filters](https://www.shopmoment.com/shop/categories/filters) | **$86** each | 3- and 6-stop (stackable) |
+| ![SmartDesk](/images/smartdesk.jpg) | [Autonomous SmartDesk DIY](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit) | **$249** | Black, Home Edition |
 
 <!--
+| ![UPS](/images/ups.jpg) | UPS/Battery Back-Up System | **$100+**\* | I think around 1000VA or more |
 | ![Lens](/images/moment-macro-lens.jpg)  | [Superfish Moment Lens](https://www.shopmoment.com/shop/categories/all/devices/pixel)                  | **$90**           | |
 | ![Wemo](/images/wemo-plug.jpg)          | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                           | **$30**           | I could use a bunch of these!  |
 | ![Hue](/images/hue.jpg)                 | [Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)       | **$60–100**\*     | 4 bulbs and bridge             |
