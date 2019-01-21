@@ -1,6 +1,6 @@
 # Pay Cassidy
 
-Want to buy me a drink, pay me back for something, or otherwise just throw money
+Want to buy me a drink, pay me back for something, help fund my apps, or otherwise just throw money
 my way? Here you go.
 
 
