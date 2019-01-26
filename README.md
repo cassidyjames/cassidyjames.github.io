@@ -63,4 +63,6 @@ I play **games** when I can find the time. Usually on PS4, but occasionally on S
 
 <a href="http://steamcommunity.com/id/cassidyjames/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
 
+<a href="https://nin.codes/cassidyjames" class="read-more switch><i class="fab fa-nintendo-switch"></i>Add Nintendo Switch Friend Code (SW-7374-7967-6583)</a>
+
 <a href="/gamepi" class="read-more gamepi"><i class="fa fa-fw fa-gamepad"></i>Learn about GamePi</a>
