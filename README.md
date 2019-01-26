@@ -20,7 +20,7 @@ I have a few apps available on AppCenter for [elementary OS](https://elementary.
 | [Clairvoyant](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant) | [Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) | [Palette](https://appcenter.elementary.io/com.github.cassidyjames.palette) |
 
 
-| [![Principles icon](https://cassidyjames.github.io/principles/data/icons/128/com.github.cassidyjames.principles.svg)](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [![Ideogram icon](https://cassidyjames.github.io/ideogram/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [![Ephemeral icon](https://cassidyjames.github.io/ephemeral/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) |
+| [![Principles icon](https://cassidyjames.github.io/principles/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [![Ideogram icon](https://cassidyjames.github.io/ideogram/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [![Ephemeral icon](https://cassidyjames.github.io/ephemeral/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) |
 |---|---|---|
 | [Principles](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [Ideogram](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) |
 
