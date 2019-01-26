@@ -57,12 +57,12 @@ I occasionally take **photos** of my adventures (and my cat).
 
 ### Play
 
-I play **games** when I can find the time. Usually on PS4, but occasionally on Steam, Android, and my GamePi.
+I play **games** when I can find the time. Usually on PS4, but occasionally on Switch, Steam, Android, and my GamePi.
 
 <a href="http://psnprofiles.com/blaede22" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
 
-<a href="http://steamcommunity.com/id/cassidyjames/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
+<a href="switch" class="read-more switch"><i class="fab fa-fw fa-nintendo-switch"></i>Add on Nintendo Switch</a>
 
-<a href="https://nin.codes/cassidyjames" class="read-more switch"><i class="fab fa-fw fa-nintendo-switch"></i>Add on Nintendo Switch (SW-7374-7967-6583)</a>
+<a href="http://steamcommunity.com/id/cassidyjames/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
 
 <a href="/gamepi" class="read-more gamepi"><i class="fa fa-fw fa-gamepad"></i>Learn about GamePi</a>
