@@ -41,8 +41,6 @@ I **write things** on the internet about UX, tech, and what I&rsquo;m up to. Som
 
 <a href="https://medium.com/@cassidyjames" class="read-more medium"><i class="fab fa-fw fa-medium"></i>Read posts on Medium</a>
 
-<a href="https://plus.google.com/+CassidyJames" class="read-more google-plus"><i class="fab fa-fw fa-google-plus"></i>Circle on Google+</a>
-
 <a href="https://twitter.com/CassidyJames" class="read-more twitter"><i class="fab fa-fw fa-twitter"></i>See tweets</a>
 
 ### Photograph
