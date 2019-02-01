@@ -51,7 +51,7 @@ _A.k.a. stuff i always enjoy._
 
 * [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared. I like almost anything! I have a lot of black/dark wood, so lighter wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
 
-* [Threadless Tees and Tanks](https://threadless.com) **~$10–30** - Men’s Large. Anything nerdy or fun or cool.
+* [Threadless Tees and Tanks](https://www.threadless.com) **~$10–30** - Men’s Large. Anything nerdy or fun or cool.
 
 * Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Some sort of oatmeal color, anything heather, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
 
