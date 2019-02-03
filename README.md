@@ -53,7 +53,7 @@ I occasionally take **photos** of my adventures (and my cat).
 
 <a href="https://instagram.com/cassidy.james.blaede" class="read-more instagram"><i class="fab fa-fw fa-instagram"></i>View photos on Instagram</a>
 
-<a href="https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede" class="read-more moment"><i class="fas fa-fw fa-credit-card"></i>10% off Moment lenses</a>
+<a href="https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede" class="read-more moment"><i class="fas fa-fw fa-credit-card"></i>Moment lenses (referral)</a>
 
 ### Play
 
