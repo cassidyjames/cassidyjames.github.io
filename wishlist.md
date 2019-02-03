@@ -39,7 +39,7 @@ _\*Exact price depends on promotions/retailer._
 
 ## Idea-list
 
-_A.k.a. stuff i always enjoy._
+_A.k.a. stuff I always enjoy._
 
 * Smart Lighting **~$10–\$\$\$\$** - Wemo outlets and switches, IKEA TRÅDFRI bulbs, Hue bulbs, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
 
@@ -65,7 +65,7 @@ _A.k.a. stuff i always enjoy._
 
 * Nintendo Switch stuff - Pro controller, JoyCons, etc.
 
-* Funko Pop! Star Wars bobbleheads
+* Funko Pop! Star Wars bobbleheads. Ones I really want:
   - Hera
   - Sabine
   - Ahsoka Tano
@@ -73,9 +73,6 @@ _A.k.a. stuff i always enjoy._
   - Boushh Leia
   - Death Trooper
   - Scarif Stormtrooper
-  - Chewbacca
-  - Finn
-  - Biker Scout
 
 * Gift Cards **any amount** - I shop at all of these places and always appreciate gift cards.
   * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) or [Nintendo eShop](https://www.nintendo.com/giftcards) for games 🎮
