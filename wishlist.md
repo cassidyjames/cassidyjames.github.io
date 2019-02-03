@@ -43,7 +43,9 @@ _A.k.a. stuff i always enjoy._
 
 * Smart Lighting **~$10–\$\$\$\$** - Wemo outlets and switches, IKEA TRÅDFRI bulbs, Hue bulbs, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
 
+<!--
 * [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
+-->
 
 * Star Wars Blu-ray + Digital **~$20–30 each** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_.
 
@@ -51,11 +53,29 @@ _A.k.a. stuff i always enjoy._
 
 * [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared. I like almost anything! I have a lot of black/dark wood, so lighter wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
 
+<!--
 * [Threadless Tees and Tanks](https://www.threadless.com) **~$10–30** - Men’s Large. Anything nerdy or fun or cool.
+-->
 
 * Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Some sort of oatmeal color, anything heather, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
 
+<!--
 * [MKBHD tees](http://shop.mkbhd.com) - Basically anything you think looks cool or that I would like. Men's large.
+-->
+
+* Nintendo Switch stuff - Pro controller, JoyCons, etc.
+
+* Funko Pop! Star Wars bobbleheads
+  - Hera
+  - Sabine
+  - Ahsoka Tano
+  - Jyn Erso
+  - Boushh Leia
+  - Death Trooper
+  - Scarif Stormtrooper
+  - Chewbacca
+  - Finn
+  - Biker Scout
 
 * Gift Cards **any amount** - I shop at all of these places and always appreciate gift cards.
   * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) or [Nintendo eShop](https://www.nintendo.com/giftcards) for games 🎮
