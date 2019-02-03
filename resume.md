@@ -2,13 +2,11 @@
 
 ## Objective
 
-To design, implement, and continuously improve excellent user experiences,
-especially using and related to open source software.
+To design, implement, and continuously improve excellent user experiences, especially using and related to open source software.
 
 ## Experience
 
-Eleven years of front-end web development, seven years of open source
-collaboration, and seven years of user experience design and architecture.
+Twelve years of front-end web development, eight years of open source collaboration, and eight years of user experience design and architecture.
 
 ### elementary, Inc. _2011–present_
 
