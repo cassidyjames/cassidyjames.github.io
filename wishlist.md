@@ -18,7 +18,7 @@ Buying from the company who makes the thing is usually best, but I also recommen
 
 ## Shortlist
 
-A small number <!--(3–7)--> of things I’d absolutely love to get. You can use it as a surefire way to get me something I’ll love, or as inspiration for getting me something else.
+A small number <!--(3–7)--> of things I’d absolutely love to get. You can use it as a surefire way to get me something I’ll love, or as inspiration for getting me something else. Arranged in descending price—but not necessarily any sort of ranked/preference—order.
 
 | Image | Link | Price | Notes |
 |-------|------|-------|-------|
