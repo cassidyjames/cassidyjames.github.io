@@ -41,7 +41,7 @@ I **write things** on the internet about UX, tech, and what I&rsquo;m up to. Som
 
 <a href="https://medium.com/@cassidyjames" class="read-more medium"><i class="fab fa-fw fa-medium"></i>Read posts on Medium</a>
 
-<a rel="me" href="https://mastodon.social/@cassidyjames"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
+<a rel="me" href="https://mastodon.social/@cassidyjames" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
 
 <a href="https://twitter.com/CassidyJames" class="read-more twitter"><i class="fab fa-fw fa-twitter"></i>See tweets</a>
 
