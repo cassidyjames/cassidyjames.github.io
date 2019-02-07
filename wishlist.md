@@ -66,9 +66,7 @@ _A.k.a. stuff I always enjoy._
 * Nintendo Switch stuff - Pro controller, JoyCons, etc.
 
 * Funko Pop! Star Wars bobbleheads. Ones I really want:
-  - Hera
   - Sabine
-  - Ahsoka Tano
   - Jyn Erso
   - Boushh Leia
   - Death Trooper
@@ -88,7 +86,7 @@ _A.k.a. stuff I always enjoy._
 
 * Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens, Codenames, Little Drop of Poison, and Fluxx (all of which Katie and I have). Other ideas:
   * Exploding Kittens expansions
-  * Codenames expansions (we have the base/standard set)
+  * Codenames expansions (we have the base/standard set and the Disney expansion)
   * Star Realms expansions (we have two standard decks)
   * Liar’s Dice (homemade set would be rad)
   * Telestrations
