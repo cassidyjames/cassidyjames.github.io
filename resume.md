@@ -25,7 +25,7 @@ Twelve years of front-end web development, eight years of open source collaborat
 ##### Achievements:
 
 - Conceptualized, launched, and maintained monthly editorial content at [medium.com/elementaryos](https://medium.com/elementaryos)
-- Designed, developed, and launched four apps ([Dippi](/dippi), [Palette](/palette), [Principles](/principles)) to dogfood the development process
+- Designed, developed, and launched six apps on AppCenter to dogfood the development process
 - Initiated and maintained comprehensive [brand resources](https://elementary.io/brand)
 - Coordinated a week-long [design and development sprint](https://medium.com/elementaryos/the-denver-appcenter-sprint-85f12a667e03) for AppCenter
 - Designed and implemented a [web-based AppCenter browsing experinece](https://medium.com/elementaryos/introducing-new-appcenter-sharing-urls-4da5ee92f12d)
