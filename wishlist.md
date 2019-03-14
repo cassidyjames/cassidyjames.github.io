@@ -87,8 +87,7 @@ _A.k.a. stuff I always enjoy._
 
 * Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens, Codenames, Little Drop of Poison, and Fluxx (all of which Katie and I have). Other ideas:
   * Exploding Kittens expansions
-  * Codenames expansions (we have the base/standard set and the Disney expansion)
-  * Star Realms expansions (we have two standard decks)
+  * Codenames expansions (we have the base/standard set and the Disney expansion)a
   * Liar’s Dice (homemade set would be rad)
   * Telestrations
 
