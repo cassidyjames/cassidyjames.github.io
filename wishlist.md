@@ -42,7 +42,7 @@ _\*Exact price depends on promotions/retailer._
 
 _A.k.a. stuff I always enjoy._
 
-* Smart Lighting **~$10–\$\$\$\$** - Wemo outlets and switches, IKEA TRÅDFRI bulbs, Hue bulbs, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
+* Smart Lighting **~$10–\$\$\$\$** - Wemo outlets and switches, IKEA TRÅDFRI bulbs, Feit smart bulbs, LIFX bulbs, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
 
 <!--
 * [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
@@ -52,13 +52,17 @@ _A.k.a. stuff I always enjoy._
 
 * [Harry &amp; David Pears](https://www.harryanddavid.com/h/fruit-gift/pears) **~$30** - Pears are the BEST.
 
+<--
 * [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared. I like almost anything! I have a lot of black/dark wood, so lighter wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
+-->
 
 <!--
 * [Threadless Tees and Tanks](https://www.threadless.com) **~$10–30** - Men’s Large. Anything nerdy or fun or cool.
 -->
 
+<!--
 * Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Some sort of oatmeal color, anything heather, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
+-->
 
 <!--
 * [MKBHD tees](http://shop.mkbhd.com) - Basically anything you think looks cool or that I would like. Men's large.
@@ -87,7 +91,6 @@ _A.k.a. stuff I always enjoy._
 
 * Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens, Codenames, Little Drop of Poison, and Fluxx (all of which Katie and I have). Other ideas:
   * Exploding Kittens expansions
-  * Codenames expansions (we have the base/standard set and the Disney expansion)a
   * Liar’s Dice (homemade set would be rad)
   * Telestrations
 
@@ -99,10 +102,11 @@ I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyja
 
 Instead of getting me _stuff_, you can gift me with one of these experiences or subscriptions.
 
+* Meow Wolf tickets (opening in Denver, 2020)
 * Regal Cinemas movie tickets (date night!)
 * Denver museum or zoo tickets
 * [Denver Center for the Performing Arts](https://denvercenter.org) gift certificate
-* _Panic! at the Disco_ or _Fall Out Boy_ concert tickets
+* _Panic! at the Disco_, _Fall Out Boy_, or _Twenty-One Pilots_ concert tickets
 
 ## Causes
 
