@@ -23,7 +23,7 @@ A small number <!--(3–7)--> of things I’d absolutely love to get. You can us
 | Image | Link | Price | Notes |
 |-------|------|-------|-------|
 | ![Movi](/images/movi.jpg) | [Freefly Movi](https://www.shopmoment.com/shop/freefly-movi) | **$299** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
-| ![Fossil](/images/fossil.jpg) | [Fossil Sport Smartwatch](https://www.fossil.com/us/en/products/fossil-sport-smartwatch-black-silicone-sku-ftw4019p.html) | **$255** | Graphite/Black, 43mm case size |
+| ![Fossil](/images/fossil.jpg) | [Fossil Sport Smartwatch](https://www.fossil.com/us/en/products/fossil-sport-smartwatch-41mm-red-silicone-sku-ftw6027p.html) | **~$275\*** | Red Silicone, 41mm case size |
 | ![SmartDesk](/images/smartdesk.jpg) | [Autonomous SmartDesk DIY](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit) | **$249** | Black, Home Edition |
 | ![Mefoto](/images/mefoto.jpg) | [Mefoto BackPacker Tripod Air](https://www.shopmoment.com/shop/mefoto-backpacker-tripod-air-black) | **$79** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Filters](/images/uv-cpl-filters.jpg) | [UV & CPL Filter Set](https://www.shopmoment.com/shop/duet-filter-set-uv-cpl-filter) | **$48** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
@@ -32,9 +32,6 @@ A small number <!--(3–7)--> of things I’d absolutely love to get. You can us
 
 <!--
 | ![UPS](/images/ups.jpg) | UPS/Battery Back-Up System | **$100+**\* | I think around 1000VA or more |
-| ![Lens](/images/moment-macro-lens.jpg)  | [Superfish Moment Lens](https://www.shopmoment.com/shop/categories/all/devices/pixel)                  | **$90**           | |
-| ![Wemo](/images/wemo-plug.jpg)          | [Wemo Mini Smart Plug](https://www.belkin.com/us/F7C063-Belkin/p/P-F7C063)                           | **$30**           | I could use a bunch of these!  |
-| ![Hue](/images/hue.jpg)                 | [Hue White Starter Kit](http://www2.meethue.com/en-us/p/hue-white-starter-kit-e26/46677472009)       | **$60–100**\*     | 4 bulbs and bridge             |
 -->
 
 _\*Exact price depends on promotions/retailer._
@@ -45,27 +42,18 @@ _A.k.a. stuff I always enjoy._
 
 * Smart Lighting **~$10–\$\$\$\$** - Wemo outlets and switches, IKEA TRÅDFRI bulbs, Feit smart bulbs, LIFX bulbs, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
 
-<!--
-* [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
--->
-
 * Star Wars Blu-ray + Digital **~$20–30 each** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_.
 
 * [Harry &amp; David Pears](https://www.harryanddavid.com/h/fruit-gift/pears) **~$30** - Pears are the BEST.
 
 <!--
+* [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
+
 * [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared. I like almost anything! I have a lot of black/dark wood, so lighter wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
--->
-
-<!--
 * [Threadless Tees and Tanks](https://www.threadless.com) **~$10–30** - Men’s Large. Anything nerdy or fun or cool.
--->
 
-<!--
 * Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Some sort of oatmeal color, anything heather, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
--->
 
-<!--
 * [MKBHD tees](http://shop.mkbhd.com) - Basically anything you think looks cool or that I would like. Men's large.
 -->
 
