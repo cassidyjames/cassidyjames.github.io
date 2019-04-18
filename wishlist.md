@@ -101,9 +101,23 @@ Instead of getting me _stuff_, you can gift me with one of these experiences or 
 
 Instead of giving to me directly, you can always give to one of these causes on my behalf. I’m passionate about each one and they all could use monetary support.
 
-* [Electronic Frontier Foundation](https://www.eff.org/) _Defending digital privacy, free speech, and innovation._
-* [Free Software Foundation](http://www.fsf.org/) _A worldwide mission to promote computer user freedom. We defend the rights of all software users._
-* [GNOME Foundation](https://www.gnome.org/support-gnome/donate/) _Helping create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use._
-* [Girls Who Code](https://girlswhocode.com/) _Closing the gender gap in tech, one girl at a time._
-* [Wikimedia Foundation](https://wikimediafoundation.org/) _Imagine a world in which every single human being can freely share in the sum of all knowledge._
+### [Electronic Frontier Foundation](https://www.eff.org/)
+
+>Defending digital privacy, free speech, and innovation.
+
+### [Free Software Foundation](http://www.fsf.org/)
+
+>A worldwide mission to promote computer user freedom. We defend the rights of all software users.
+
+### [GNOME Foundation](https://www.gnome.org/support-gnome/donate/)
+
+>Helping create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use.
+
+### [Girls Who Code](https://girlswhocode.com/)
+
+>Closing the gender gap in tech, one girl at a time.
+
+### [Wikimedia Foundation](https://wikimediafoundation.org/)
+
+>Imagine a world in which every single human being can freely share in the sum of all knowledge.
 
