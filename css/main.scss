@@ -178,7 +178,7 @@ img[alt="Venmo barcode"] {
     margin: 0 auto;
     text-align: center;
 
-    @media (min-width: 1024px) {
+    @media (min-width: 600px) {
       text-align: left;
     }
 
@@ -188,10 +188,10 @@ img[alt="Venmo barcode"] {
 
     tr {
       border: 1px solid #eee;
-      padding: 1em;
       display: block;
+      padding: 1em;
 
-      @media (min-width: 1024px) {
+      @media (min-width: 600px) {
         display: table-row;
         padding: 0;
       }
@@ -200,7 +200,7 @@ img[alt="Venmo barcode"] {
     td {
       display: block;
 
-      @media (min-width: 1024px) {
+      @media (min-width: 600px) {
         display: table-cell;
         padding: 0.5em;
       }
