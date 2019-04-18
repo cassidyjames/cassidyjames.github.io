@@ -4,15 +4,15 @@ section.grid {
 
   > * {
     margin: 1em;
-    padding-top: 2em;
     padding-bottom: 4em;
+    padding-top: 2em;
   }
 }
 
 .grid.main {
-  max-width: 40em;
   flex: 1 0 auto;
-  
+  max-width: 40em;
+
   @media print {
     max-width: 90%;
   }
