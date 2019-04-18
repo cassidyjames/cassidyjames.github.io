@@ -1,5 +1,11 @@
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
 html {
-  font-family: "Spectral", serif;
+  font-family: "Inter", sans-serif;
   font-size: 5vw;
   font-weight: 400;
 
@@ -35,13 +41,13 @@ a {
 }
 
 h1 {
-  margin: 0 0 0.5em;
-
   color: $accent-color;
-  font-family: "Spectral SC", "Spectral", serif;
-  font-size: 3rem;
-  font-weight: 300;
+  font-family: "Inter", sans-serif;
+  font-size: 5rem;
+  font-weight: 900;
+  letter-spacing: -0.11em;
   line-height: 0.9em;
+  margin: 0 0 0.5em;
   text-shadow: 0 1px 1px $white;
 
   @media (min-width: 505px) {
@@ -50,11 +56,11 @@ h1 {
 }
 
 h2 {
+  font-size: 2rem;
+  font-weight: 900;
+  letter-spacing: -0.05em;
   margin: 0;
   margin-top: 1em;
-
-  font-size: 2rem;
-  font-weight: 300;
 }
 
 h3 {
