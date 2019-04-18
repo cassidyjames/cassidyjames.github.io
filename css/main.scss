@@ -36,9 +36,9 @@ img {
   transition: all 250ms;
 }
 
-.fa-ul {
+.home .fa-ul {
   font-size: 0.875em;
-  margin-left: 2em;
+  margin-left: 1.5em;
 }
 
 .fa-ul > li {
@@ -49,10 +49,6 @@ img {
   color: $accent-color;
   opacity: 0.75;
   width: 0.875em;
-}
-
-.home h1 {
-  text-align: center;
 }
 
 .read-more {
@@ -135,22 +131,17 @@ img {
 }
 
 img[alt="Me"] {
-  display: block;
-
-  margin: 1em auto;
-  max-width: 8em;
-
   background-image: url('https://cdn.rawgit.com/elementary/icons/master/status/symbolic/avatar-default-symbolic.svg');
   background-position: center;
   background-size: cover;
-
   border: 1px solid $primary-color;
   border-radius: 50%;
-
   box-shadow:
     0 1px 6px 0 rgba(0, 0, 0, 0.12),
     0 1px 4px 0 rgba(0, 0, 0, 0.24);
-
+  float: left;
+  margin: 1em 1em 1em 0;
+  max-width: 8em;
 
   nav & {
     float: left;
@@ -171,25 +162,14 @@ table {
 }
 
 .summary {
-  text-align: center;
-}
-
-ul.fa-ul {
-  display: inline-block;
-  margin: 0 auto;
-  text-align: left;
-  width: auto;
-
-  li {
-      width: auto;
-  }
+  float: left;
+  margin: 1.1em 0;
 }
 
 img[alt="Venmo barcode"] {
-  max-width: 256px;
-
-  box-shadow: 0 0 0.75em mix($black, $background-color, 50%);
   border-radius: 0.5em;
+  box-shadow: 0 0 0.75em mix($black, $background-color, 50%);
+  max-width: 256px;
 }
 
 .wishlist {
@@ -198,7 +178,7 @@ img[alt="Venmo barcode"] {
     margin: 0 auto;
     text-align: center;
 
-    @media (min-width: 1024px) {
+    @media (min-width: 600px) {
       text-align: left;
     }
 
@@ -208,10 +188,10 @@ img[alt="Venmo barcode"] {
 
     tr {
       border: 1px solid #eee;
-      padding: 1em;
       display: block;
+      padding: 1em;
 
-      @media (min-width: 1024px) {
+      @media (min-width: 600px) {
         display: table-row;
         padding: 0;
       }
@@ -220,7 +200,7 @@ img[alt="Venmo barcode"] {
     td {
       display: block;
 
-      @media (min-width: 1024px) {
+      @media (min-width: 600px) {
         display: table-cell;
         padding: 0.5em;
       }

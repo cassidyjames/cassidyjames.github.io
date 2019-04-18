@@ -3,30 +3,25 @@ nav {
     display: none;
   }
 
-  padding: 0;
-
   background-color: $primary-color;
-
   color: $background-color;
   font-size: 0; // Get rid of blank spaces between nav items
+  padding: 0;
 
   a {
-    display: inline-block;
-    padding: 1em;
-
     color: inherit;
+    display: inline-block;
     font-size: 1rem;
-    font-weight: bold;
+    font-weight: 900;
     opacity: 1;
+    padding: 1em;
 
     &:hover,
     &:focus {
       background-color: mix($accent-color, $primary-color);
-
       border: none;
-      outline: none;
-
       color: inherit;
+      outline: none;
       text-decoration: none;
     }
 
