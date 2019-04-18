@@ -4,6 +4,7 @@ html {
   font-family: "Inter", sans-serif;
   font-size: 4vw;
   font-weight: 400;
+  word-spacing: -0.05em;
 
   @media (min-width: 320px) {
     font-size: 14px;
@@ -37,7 +38,7 @@ h1 {
   font-family: "Inter", sans-serif;
   font-size: 5rem;
   font-weight: 900;
-  letter-spacing: -0.11em;
+  letter-spacing: -0.097em;
   line-height: 0.9em;
   margin: 0 0 0.25em;
   text-shadow: 0 1px 1px $white;
