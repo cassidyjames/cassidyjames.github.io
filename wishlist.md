@@ -40,7 +40,7 @@ _\*Exact price depends on promotions/retailer._
 
 _A.k.a. stuff I always enjoy._
 
-* Smart Lighting **~$10–\$\$\$\$** - Wemo outlets and switches, IKEA TRÅDFRI bulbs, Feit smart bulbs, LIFX bulbs, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
+* Smart Lighting **~$10–\$\$\$\$** - Feit smart bulbs, LIFX bulbs, smart outlets/switches, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
 
 * Star Wars Blu-ray + Digital **~$20–30 each** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_.
 
