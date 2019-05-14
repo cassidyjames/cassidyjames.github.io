@@ -26,7 +26,7 @@ A small number <!--(3–7)--> of things I’d absolutely love to get. You can us
 | ![Fossil](/images/fossil.jpg) | [Fossil Sport Smartwatch](https://www.fossil.com/us/en/products/fossil-sport-smartwatch-41mm-red-silicone-sku-ftw6027p.html) | **~$275\*** | Red Silicone, 41mm case size |
 | ![SmartDesk](/images/smartdesk.jpg) | [Autonomous SmartDesk DIY](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit) | **$249** | Black, Home Edition |
 | ![Mefoto](/images/mefoto.jpg) | [Mefoto BackPacker Tripod Air](https://www.shopmoment.com/shop/mefoto-backpacker-tripod-air-black) | **$79** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
-| ![Pixel Stand](pixel-stand.png) | [Pixel Stand](https://store.google.com/us/product/pixel_stand) | **$79** | |
+| ![Pixel Stand](/images/pixel-stand.png) | [Pixel Stand](https://store.google.com/us/product/pixel_stand) | **$79** | |
 | ![Filters](/images/uv-cpl-filters.jpg) | [UV & CPL Filter Set](https://www.shopmoment.com/shop/duet-filter-set-uv-cpl-filter) | **$48** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
 | ![Pi Camera](/images/pi-camera.jpg) | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2) | **$25** | |
