@@ -3,8 +3,8 @@ nav {
     display: none;
   }
 
-  background-color: $primary-color;
-  color: $background-color;
+  background-color: var(--secondary-accent-color);
+  color: var(--secondary-accent-contrast);
   font-size: 0; // Get rid of blank spaces between nav items
   padding: 0;
 
@@ -18,16 +18,18 @@ nav {
 
     &:hover,
     &:focus {
-      background-color: mix($accent-color, $primary-color);
+      background-color: var(--accent-color);
       border: none;
       color: inherit;
+      opacity: 0.75;
       outline: none;
       text-decoration: none;
     }
 
     &.current,
     &:active {
-      background-color: $accent-color;
+      background-color: var(--accent-color);
+      color: var(--background-color);
     }
   }
 

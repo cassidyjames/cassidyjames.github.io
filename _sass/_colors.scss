@@ -1,20 +1,34 @@
-$red: #c6262e;
-$purple: #452981;
-$white: #fafafa;
-$black: #333;
+:root {
+  --background-color: #fafafa;
+  --neutral: #333;
+  --faint: #eee;
 
-$github: $black;
-$gplus: #DC4E41;
-$mastodon: #2b90d9;
-$medium: #00ab6c;
-$pixelfed: #08d;
-$psn: #0068bf;
-$steam: $black;
-$switch: #E6000A;
-$twitter: #55ACEE;
-$youtube: #DD4B39;
+  --primary-color: #452981;
+  --accent-color: #c6262e;
+  --secondary-accent-color: var(--primary-color);
+  --secondary-accent-contrast: var(--background-color);
 
-$primary-color: $purple;
-$accent-color: $red;
-$background-color: $white;
+  --github: var(--neutral);
+  --gplus: #DC4E41;
+  --mastodon: #2b90d9;
+  --medium: #00ab6c;
+  --pixelfed: #08d;
+  --psn: #0068bf;
+  --steam: var(--neutral);
+  --switch: #E6000A;
+  --twitter: #55ACEE;
+  --youtube: #DD4B39;
+}
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #121212;
+    --neutral: #d4d4d4;
+    --faint: #222;
+
+    --primary-color: var(--neutral);
+    --accent-color: #ed5353;
+    --secondary-accent-color: #452981;
+    --secondary-accent-contrast: var(--neutral);
+  }
+}
