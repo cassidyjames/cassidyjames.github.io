@@ -20,13 +20,12 @@ html {
 }
 
 a {
-  color: rgba($accent-color, 0.67);
+  color: var(--accent-color);
   text-decoration: none;
   transition: opacity 250ms ease;
 
   &:hover,
   &:focus {
-    color: $accent-color;
     outline: none;
     text-decoration-skip: ink;
     text-decoration: underline;
@@ -34,14 +33,13 @@ a {
 }
 
 h1 {
-  color: $accent-color;
+  color: var(--accent-color);
   font-family: "Inter", sans-serif;
   font-size: 5rem;
   font-weight: 900;
   letter-spacing: -0.097em;
   line-height: 0.9em;
   margin: 0 0 0.25em;
-  text-shadow: 0 1px 1px $white;
 
   @media (min-width: 505px) {
     max-width: initial;
@@ -106,7 +104,7 @@ hr {
 }
 
 blockquote {
-  border-left: 0.25em solid mix($primary-color, $background-color);
+  border-left: 0.25em solid var(--faint);
   margin-left: 0.25em;
   opacity: 0.75;
   padding-left: 0.5em;

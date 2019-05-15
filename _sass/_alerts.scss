@@ -1,7 +1,7 @@
 .alert {
-    background-color: $accent-color;
+    background-color: var(--accent-color);
     border-radius: 4px;
-    color: $background-color;
+    color: var(--background-color);
     margin: 1em auto;
     padding: 0.25em 1em;
 

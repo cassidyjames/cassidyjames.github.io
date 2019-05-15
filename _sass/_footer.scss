@@ -3,13 +3,13 @@ footer {
     display: none;
   }
 
-  background-color: $primary-color;
-  color: $background-color;
+  background-color: var(--secondary-accent-color);
+  color: var(--secondary-accent-contrast);
   flex: 0 0 auto;
   line-height: 4em;
   padding: 1rem 1rem 0;
   text-align: center;
-  text-shadow: 0 0.0625em 0.125em rgba($black, 0.5);
+  text-shadow: 0 0.0625em 0.125em rgba(var(--black), 0.5);
   width: 100%;
 
   a {
@@ -18,7 +18,7 @@ footer {
   }
 
   ul.social {
-    color: $white;
+    color: var(--white);
     display: inline;
     font-size: 0; // Fix weird spacing issues
     list-style: none;
@@ -47,15 +47,15 @@ footer {
 
       &:hover,
       &:focus {
-        background-color: $accent-color;
+        background-color: var(--accent-color);
         background-image: linear-gradient(
-          rgba($white, 0.125),
-          rgba($black, 0.25)
+          rgba(var(--white), 0.125),
+          rgba(var(--black), 0.25)
         );
         box-shadow:
-          inset 0 1px 0 rgba($white, 0.25),
-          inset 0 -1px 0 rgba($black, 0.25),
-          0 0.0625em 0.125em rgba($black, 0.5);
+          inset 0 1px 0 rgba(var(--white), 0.25),
+          inset 0 -1px 0 rgba(var(--black), 0.25),
+          0 0.0625em 0.125em rgba(var(--black), 0.5);
         text-decoration: none;
         text-shadow: 0 1px 1px rgba(black, 0.5);
       }
@@ -73,8 +73,8 @@ footer {
 
     .instagram a:hover,
     .instagram a:focus {
-      background-color: $white;
-      color: $black;
+      background-color: var(--white);
+      color: var(--black);
       text-shadow: none;
     }
 
@@ -85,12 +85,7 @@ footer {
 
     .medium a:hover,
     .medium a:focus {
-      background-color: $medium;
-    }
-
-    .gplus a:hover,
-    .gplus a:focus {
-      background-color: #DD4B39;
+      background-color: var(--medium);
     }
 
     .email a:hover,

@@ -10,14 +10,18 @@
 @import "typography";
 @import "alerts";
 
+:root {
+    color-scheme: light dark;
+}
+
 * {
   box-sizing: border-box;
 }
 
 body,
 html {
-  background-color: $background-color;
-  color: $primary-color;
+  background-color: var(--background-color);
+  color: var(--primary-color);
   height: 100%;
   margin: 0;
 }
@@ -46,7 +50,7 @@ img {
 }
 
 .fa-li {
-  color: $accent-color;
+  color: var(--accent-color);
   opacity: 0.75;
   width: 0.875em;
 }
@@ -86,55 +90,55 @@ img {
 }
 
 .read-more.twitter {
-  color: $twitter;
+  color: var(--twitter);
 }
 
 .read-more.unsplash,
 .read-more.instagram {
-  color: $black;
+  color: var(--neutral);
 }
 
 .read-more.pixelfed {
-  color: $pixelfed;
+  color: var(--pixelfed);
 }
 
 .read-more.mastodon {
-  color: $mastodon;
+  color: var(--mastodon);
 }
 
 .read-more.medium {
-  color: $medium;
+  color: var(--medium);
 }
 
 .read-more.github {
-  color: $github;
+  color: var(--github);
 }
 
 .read-more.steam {
-  color: $steam;
+  color: var(--steam);
 }
 
 .read-more.switch {
-  color: $switch;
+  color: var(--switch);
 }
 
 .read-more.youtube {
-  color: $youtube;
+  color: var(--youtube);
 }
 
 .read-more.psn {
-  color: $psn;
+  color: var(--psn);
 }
 
 .read-more.google-plus {
-  color: $gplus;
+  color: var(--gplus);
 }
 
 img[alt="Me"] {
   background-image: url('https://cdn.rawgit.com/elementary/icons/master/status/symbolic/avatar-default-symbolic.svg');
   background-position: center;
   background-size: cover;
-  border: 1px solid $primary-color;
+  border: 1px solid var(--primary-color);
   border-radius: 50%;
   box-shadow:
     0 1px 6px 0 rgba(0, 0, 0, 0.12),
@@ -168,7 +172,7 @@ table {
 
 img[alt="Venmo barcode"] {
   border-radius: 0.5em;
-  box-shadow: 0 0 0.75em mix($black, $background-color, 50%);
+  box-shadow: 0 0 0.75em rgba(0, 0, 0, 0.25);
   max-width: 256px;
 }
 
@@ -187,7 +191,7 @@ img[alt="Venmo barcode"] {
     }
 
     tr {
-      border: 1px solid #eee;
+      border: 1px solid var(--faint);
       display: block;
       padding: 1em;
 
