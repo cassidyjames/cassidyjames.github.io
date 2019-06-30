@@ -61,12 +61,13 @@ _A.k.a. stuff I always enjoy._
 
 * Nintendo Switch stuff - Pro controller, JoyCons, etc.
 
+<!--
 * Funko Pop! Star Wars bobbleheads. Ones I really want:
-  - Sabine
   - Jyn Erso
   - Boushh Leia
   - Death Trooper
   - Scarif Stormtrooper
+-->
 
 * Gift Cards **any amount** - I shop at all of these places and always appreciate gift cards.
   * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) or [Nintendo eShop](https://www.nintendo.com/giftcards) for games 🎮
