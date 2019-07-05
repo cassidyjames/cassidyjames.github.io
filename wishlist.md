@@ -25,7 +25,7 @@ A small number <!--(3–7)--> of things I’d absolutely love to get. You can us
 | ![Movi](/images/movi.jpg) | [Freefly Movi](https://www.shopmoment.com/shop/freefly-movi) | **$299** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Mefoto](/images/mefoto.jpg) | [Mefoto BackPacker Tripod Air](https://www.shopmoment.com/shop/mefoto-backpacker-tripod-air-black) | **$79** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Pixel Stand](/images/pixel-stand.png) | [Pixel Stand](https://store.google.com/us/product/pixel_stand) | **$79** | |
-| ![Pi](/images/pi3b.jpg) | [Raspberry Pi 4b+](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) | **$55** | 4 GB RAM, no power adapter or accessories needed |
+| ![Pi](/images/pi3b.jpg) | [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) | **$55** | Model B (the only model), 4 GB RAM, no power adapter or accessories needed |
 | ![Filters](/images/uv-cpl-filters.jpg) | [UV & CPL Filter Set](https://www.shopmoment.com/shop/duet-filter-set-uv-cpl-filter) | **$48** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Mat](/images/mat.jpg) | [Autonomous Anti-fatigue Mat](https://www.autonomous.ai/office-accessories/anti-fatigue-mat) | **$29** |  |
 | ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
@@ -42,16 +42,18 @@ _\*Exact price depends on promotions/retailer._
 
 _A.k.a. stuff I always enjoy._
 
-* Smart Lighting **~$10–\$\$\$\$** - Feit smart bulbs, LIFX bulbs, smart outlets/switches, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
+* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/0g-8mm-filter) **~$5–20** - 0g/8mm, single- or double-flared. I like almost anything! I have a lot of black/dark wood, so lighter wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
+
+* Hubless Wi-Fi Smart Lighting **~$10–\$\$\$\$** - Feit smart bulbs, LIFX bulbs, smart switches, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
 
 * Star Wars Blu-ray + Digital **~$20–30 each** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_.
 
 * [Harry &amp; David Pears](https://www.harryanddavid.com/h/fruit-gift/pears) **~$30** - Pears are the BEST.
 
+
 <!--
 * [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
 
-* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/2g-6mm-filter) **~$5–20** - 2g/6mm, single- or double-flared. I like almost anything! I have a lot of black/dark wood, so lighter wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
 * [Threadless Tees and Tanks](https://www.threadless.com) **~$10–30** - Men’s Large. Anything nerdy or fun or cool.
 
 * Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Some sort of oatmeal color, anything heather, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
@@ -85,6 +87,25 @@ _A.k.a. stuff I always enjoy._
   * Exploding Kittens expansions
   * Liar’s Dice (homemade set would be rad)
   * Telestrations
+
+## Vinyl LPs
+
+_Because Katie got a turntable so I need some music…_ 🙃️
+
+- _AM_ by Arctic Monkeys
+- Blade Runner Soundtrack
+- [The Music of Destiny](https://bungiestore.com/products/the-music-of-destiny-volume-i-limited-edition-collectors-vinyl-box-set) - This was a limited-release, so it's on eBay for like $300. 😬️
+- Star Wars Soundtracks
+  - Episode I: The Phantom Menace
+  - Episode II: Attack of the Clones
+  - Episode III: Revenge of the Sith
+  - Star Wars (Episode IV: A New Hope)
+  - Episode V: The Empire Strikes Back
+  - Episode VI: Return of the Jedi
+  - Episode VII: The Force Awakens
+  - Episode VIII: The Last Jedi
+  - Episode IX: The Rise of Skywalker
+  - Solo: A Star Wars Story
 
 ## LEGO
 
