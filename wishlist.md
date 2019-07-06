@@ -23,15 +23,16 @@ A small number <!--(3–7)--> of things I’d absolutely love to get. You can us
 | Image | Link | Price | Notes |
 |-------|------|-------|-------|
 | ![Movi](/images/movi.jpg) | [Freefly Movi](https://www.shopmoment.com/shop/freefly-movi) | **$299** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
+| ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$249** | Chalk/white |
 | ![Mefoto](/images/mefoto.jpg) | [Mefoto BackPacker Tripod Air](https://www.shopmoment.com/shop/mefoto-backpacker-tripod-air-black) | **$79** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Pixel Stand](/images/pixel-stand.png) | [Pixel Stand](https://store.google.com/us/product/pixel_stand) | **$79** | |
-| ![Pi](/images/pi3b.jpg) | [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) | **$55** | Model B (the only model), 4 GB RAM, no power adapter or accessories needed |
 | ![Filters](/images/uv-cpl-filters.jpg) | [UV & CPL Filter Set](https://www.shopmoment.com/shop/duet-filter-set-uv-cpl-filter) | **$48** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Mat](/images/mat.jpg) | [Autonomous Anti-fatigue Mat](https://www.autonomous.ai/office-accessories/anti-fatigue-mat) | **$29** |  |
 | ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
 
 <!--
 | ![](/images/) | []() | **$** |  |
+| ![Pi](/images/pi3b.jpg) | [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) | **$55** | Model B (the only model), 4 GB RAM, no power adapter or accessories needed |
 | ![UPS](/images/ups.jpg) | UPS/Battery Back-Up System | **$100+**\* | I think around 1000VA or more |
 | ![Pi Camera](/images/pi-camera.jpg) | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2) | **$25** | |
 -->
@@ -92,7 +93,6 @@ _A.k.a. stuff I always enjoy._
 
 _Because Katie got a turntable so I need some music…_ 🙃️
 
-- _AM_ by Arctic Monkeys
 - Blade Runner Soundtrack
 - [The Music of Destiny](https://bungiestore.com/products/the-music-of-destiny-volume-i-limited-edition-collectors-vinyl-box-set) - This was a limited-release, so it's on eBay for like $300. 😬️
 - Star Wars Soundtracks
