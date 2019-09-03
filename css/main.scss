@@ -93,6 +93,10 @@ img {
   color: var(--twitter);
 }
 
+.read-more.gnome {
+  color: var(--gnome);
+}
+
 .read-more.unsplash,
 .read-more.instagram {
   color: var(--neutral);
@@ -128,10 +132,6 @@ img {
 
 .read-more.psn {
   color: var(--psn);
-}
-
-.read-more.google-plus {
-  color: var(--gplus);
 }
 
 img[alt="Me"] {
