@@ -5,15 +5,14 @@ redirect_from:
 ---
 # Cassidy’s Wishlist
 
-This is my canonical birthday, Christmas, and any-other-time wish list. **It is
-up to date as of {{ site.time | date: '%B %-d, %Y' }}.**
+This is my canonical birthday, Christmas, and any-other-time wish list. **It is up to date as of {{ site.time | date: '%B %-d, %Y' }}.**
 
 ## Skip Amazon
 
 I dislike Amazon since they’re extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox) and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652). So if you can, please purchase any items here somewhere other than Amazon.
 
-Buying from the company who makes the thing is usually best, but I also recommend the following stores as they seem well-designed and reliable:
-- [Google Express](https://express.google.com/) - Probably the best selection, as they partner with _a ton_ of large and small retailers like Target, Best Buy, Walmart, Costco, Fry's, Home Depot, etc.
+**Buying from the company who makes the thing is usually best**, but I also recommend the following stores as they seem well-designed and reliable:
+- [Google Express](https://express.google.com/) - Probably the best selection, as they partner with _a ton_ of large and small retailers like Target, Best Buy, Costco, Fry's, Home Depot, etc.
 - [Target](https://target.com) - Their online shopping is actually quite good, plus there's the convenience of picking up in store (and thus skipping shipping costs).
 
 ## Shortlist
@@ -23,27 +22,41 @@ A small number <!--(3–7)--> of things I’d absolutely love to get. You can us
 | Image | Link | Price | Notes |
 |-------|------|-------|-------|
 | ![Movi](/images/movi.jpg) | [Freefly Movi](https://www.shopmoment.com/shop/freefly-movi) | **$299** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
-| ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$249** | Chalk/white |
-| ![Mefoto](/images/mefoto.jpg) | [Mefoto BackPacker Tripod Air](https://www.shopmoment.com/shop/mefoto-backpacker-tripod-air-black) | **$79** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
-| ![Pixel Stand](/images/pixel-stand.png) | [Pixel Stand](https://store.google.com/us/product/pixel_stand) | **$79** | |
-| ![Filters](/images/uv-cpl-filters.jpg) | [UV & CPL Filter Set](https://www.shopmoment.com/shop/duet-filter-set-uv-cpl-filter) | **$48** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
+| ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$299*** | Chalk/white |
+| ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75*** | Not picky, but I've heard of Gobe and Hoya brands |
 | ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
+| ![PS Classic adapter](/images/8bitdo-psc.jpg) | [8Bitdo Bluetooth Adapter for PS Classic](https://www.walmart.com/ip/8Bitdo-Bluetooth-Adapter-for-PlayStation-Classic-Console-PS1-Mini-PS4-Gamepad/353294863) | **$20** | Supposedly the brown brick one also works so I'd be willing to give it a try |
 
 <!--
 | ![](/images/) | []() | **$** |  |
-| ![Mat](/images/mat.jpg) | [Autonomous Anti-fatigue Mat](https://www.autonomous.ai/office-accessories/anti-fatigue-mat) | **$29** |  |
-| ![Pi](/images/pi3b.jpg) | [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) | **$55** | Model B (the only model), 4 GB RAM, no power adapter or accessories needed |
 | ![UPS](/images/ups.jpg) | UPS/Battery Back-Up System | **$100+**\* | I think around 1000VA or more |
+| ![Mefoto](/images/mefoto.jpg) | [Mefoto BackPacker Tripod Air](https://www.shopmoment.com/shop/mefoto-backpacker-tripod-air-black?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) | **$79** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
+| ![Pixel Stand](/images/pixel-stand.png) | [Pixel Stand](https://store.google.com/us/product/pixel_stand) | **$79** | |
+| ![Mat](/images/mat.jpg) | [Autonomous Anti-fatigue Mat](https://www.autonomous.ai/office-accessories/anti-fatigue-mat) | **$29** |  |
 | ![Pi Camera](/images/pi-camera.jpg) | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2) | **$25** | |
 -->
 
 _\*Exact price depends on promotions/retailer._
 
+## LEGO
+
+I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It’s usually kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
+
+## Experiences
+
+Instead of getting me _stuff_, you can gift me with one of these experiences or subscriptions.
+
+* Meow Wolf tickets (opening in Denver, 2020)
+* Regal Cinemas movie tickets (date night!)
+* Denver museum or zoo tickets
+* [Denver Center for the Performing Arts](https://denvercenter.org) gift certificate
+* _Panic! at the Disco_, _Fall Out Boy_, or _Twenty-One Pilots_ concert tickets
+
 ## Idea-list
 
 _A.k.a. stuff I always enjoy._
 
-* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/0g-8mm-filter) **~$5–20** - 0g/8mm, single- or double-flared. I like almost anything! I have a lot of black/dark wood, so lighter wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
+* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/0g-8mm-filter) **~$5–20** - 0g/8mm, single- or double-flared. I like almost anything! I have a lot of black, so lighter-colored wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
 
 * Hubless Wi-Fi Smart Lighting **~$10–\$\$\$\$** - Feit smart bulbs, LIFX bulbs, smart switches, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
 
@@ -107,20 +120,6 @@ _Because Katie got a turntable so I need some music…_ 🙃️
   - Episode IX: The Rise of Skywalker
   - Solo: A Star Wars Story
 
-## LEGO
-
-I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It’s usually kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
-
-## Experiences
-
-Instead of getting me _stuff_, you can gift me with one of these experiences or subscriptions.
-
-* Meow Wolf tickets (opening in Denver, 2020)
-* Regal Cinemas movie tickets (date night!)
-* Denver museum or zoo tickets
-* [Denver Center for the Performing Arts](https://denvercenter.org) gift certificate
-* _Panic! at the Disco_, _Fall Out Boy_, or _Twenty-One Pilots_ concert tickets
-
 ## Causes
 
 Instead of giving to me directly, you can always give to one of these causes on my behalf. I’m passionate about each one and they all could use monetary support.
@@ -144,6 +143,4 @@ Instead of giving to me directly, you can always give to one of these causes on 
 ### [Wikimedia Foundation](https://wikimediafoundation.org/)
 
 >Imagine a world in which every single human being can freely share in the sum of all knowledge.
-
-the sum of all knowledge.
 
