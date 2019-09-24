@@ -23,6 +23,8 @@ A small number <!--(3–7)--> of things I’d absolutely love to get. You can us
 |-------|------|-------|-------|
 | ![Movi](/images/movi.jpg) | [Freefly Movi](https://www.shopmoment.com/shop/freefly-movi) | **$299** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$299*** | Chalk/white |
+| ![August](/images/august.png) | [August Smart Lock Pro + Connect](https://august.com/products/august-smart-lock-pro-connect
+) | **$279** | Fits over our apartment deadbolt |
 | ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75*** | Not picky, but I've heard of Gobe and Hoya brands |
 | ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
 | ![PS Classic adapter](/images/8bitdo-psc.jpg) | [8Bitdo Bluetooth Adapter for PS Classic](https://www.walmart.com/ip/8Bitdo-Bluetooth-Adapter-for-PlayStation-Classic-Console-PS1-Mini-PS4-Gamepad/353294863) | **$20** | Supposedly the brown brick one also works so I'd be willing to give it a try |
