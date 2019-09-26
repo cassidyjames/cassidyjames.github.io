@@ -108,6 +108,8 @@ _A.k.a. stuff I always enjoy._
 _Because Katie got a turntable so I need some music…_ 🙃️
 
 - Blade Runner Soundtrack
+- Uncharted Nathan Drake Collection
+- Moulin Rouge
 - [The Music of Destiny](https://bungiestore.com/products/the-music-of-destiny-volume-i-limited-edition-collectors-vinyl-box-set) - This was a limited-release, so it's on eBay for like $300. 😬️
 - Star Wars Soundtracks
   - Episode I: The Phantom Menace
@@ -120,6 +122,22 @@ _Because Katie got a turntable so I need some music…_ 🙃️
   - Episode VIII: The Last Jedi
   - Episode IX: The Rise of Skywalker
   - Solo: A Star Wars Story
+- Twenty-One Pilots
+  - Trench
+  - Blurryface
+  - Twenty-One Pilots (self-titled)
+- Fall Out Boy
+  - Take This to Your Grave
+  - Infinity on High
+  - American Beauty/American Psycho
+  - From Under the Cork Tree
+  - Save Rock and Roll
+  - Folie á Deux
+- Panic! at the Disco
+  - A Fever You Can't Sweat Out
+  - Too Weird to Live, Too Rare to Die
+  - Vices & Virtues
+  - Pretty. Odd.
 
 ## Causes
 
