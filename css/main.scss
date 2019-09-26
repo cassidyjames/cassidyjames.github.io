@@ -207,6 +207,10 @@ img[alt="Venmo barcode"] {
       @media (min-width: 600px) {
         display: table-cell;
         padding: 0.5em;
+
+        &:first-child {
+          min-width: 100px;
+        }
       }
     }
 
