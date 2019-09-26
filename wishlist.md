@@ -147,10 +147,6 @@ Instead of giving to me directly, you can always give to one of these causes on 
 
 >Defending digital privacy, free speech, and innovation.
 
-### [Free Software Foundation](http://www.fsf.org/)
-
->A worldwide mission to promote computer user freedom. We defend the rights of all software users.
-
 ### [GNOME Foundation](https://www.gnome.org/support-gnome/donate/)
 
 >Helping create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use.
@@ -163,3 +159,8 @@ Instead of giving to me directly, you can always give to one of these causes on 
 
 >Imagine a world in which every single human being can freely share in the sum of all knowledge.
 
+<!--
+### [Free Software Foundation](http://www.fsf.org/)
+
+>A worldwide mission to promote computer user freedom. We defend the rights of all software users.
+-->
