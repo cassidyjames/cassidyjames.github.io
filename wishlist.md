@@ -77,11 +77,9 @@ _A.k.a. stuff I always enjoy._
 * Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Some sort of oatmeal color, anything heather, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
 
 * [MKBHD tees](http://shop.mkbhd.com) - Basically anything you think looks cool or that I would like. Men's large.
--->
 
 * Nintendo Switch stuff - Pro controller, JoyCons, etc.
 
-<!--
 * Funko Pop! Star Wars bobbleheads. Ones I really want:
   - Jyn Erso
   - Boushh Leia
