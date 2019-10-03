@@ -25,8 +25,11 @@ A small number <!--(3–7)--> of things I’d absolutely love to get. You can us
 | ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$299*** | Chalk/white |
 | ![August](/images/august.png) | [August Smart Lock Pro + Connect](https://august.com/products/august-smart-lock-pro-connect) | **$279** | Fits over our apartment deadbolt |
 | ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75*** | Not picky, but I've heard of Gobe and Hoya brands |
+| ![N30 Pro2](/images/8bitdo-n30-pro2.jpg) | [8Bitdo N30 Pro 2](https://www.microcenter.com/product/603272/n30-pro2-bluetooth-gamepad-(c-edition)) | **$40** | C edition |
 | ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
 | ![PS Classic adapter](/images/8bitdo-psc.jpg) | [8Bitdo Bluetooth Adapter for PS Classic](https://www.walmart.com/ip/8Bitdo-Bluetooth-Adapter-for-PlayStation-Classic-Console-PS1-Mini-PS4-Gamepad/353294863) | **$20** | Supposedly the brown brick one also works so I'd be willing to give it a try |
+
+
 
 <!--
 | ![](/images/) | []() | **$** |  |
