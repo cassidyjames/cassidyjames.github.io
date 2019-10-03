@@ -4,6 +4,10 @@ Get hyped.
 
 ![Star Wars Spoiler Room sign](/downloads/starwars-viewing.png)
 
+## Sign Up
+
+Limited seating. Sign up at [GetTogether.Community](https://gettogether.community/events/2416/star-wars-viewing-party/).
+
 ## Download Poster
 
 - [PDF](/downloads/starwars-viewing.pdf) for printing
