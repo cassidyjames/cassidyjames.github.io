@@ -10,7 +10,7 @@ Twelve years of front-end web development, eight years of open source collaborat
 
 ### elementary, Inc. _2011–present_
 
-#### Cofounder, UX Architect
+#### Co-founder, Chief Experience Officer (CXO)
 
 ##### Responsibilities:
 
