@@ -20,6 +20,12 @@
   --youtube: #dd4b39;
 }
 
+@media print {
+  :root {
+    --background-color: white;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --background-color: #121212;
