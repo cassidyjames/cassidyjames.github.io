@@ -29,4 +29,4 @@ Send to cassidy.james.blaede@gmail.com or my phone number.
 <h2>Simple Instant Transfer</h2>
 
 If you have [Simple](https://simple.com/friends/BQMJNZY), you can Instant
-Transfer to me using c@ssidyjam.es and my phone number.
+Transfer to me using cassidy.james.blaede@gmail.com and my phone number.
