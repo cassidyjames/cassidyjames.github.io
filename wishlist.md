@@ -26,6 +26,7 @@ A small number <!--(3–7)--> of things I’d absolutely love to get. You can us
 | ![August](/images/august.png) | [August Smart Lock Pro + Connect](https://august.com/products/august-smart-lock-pro-connect) | **$279** | Fits over our apartment deadbolt |
 | ![Mefoto](/images/mefoto.jpg) | [Mefoto BackPacker Tripod Air](https://www.shopmoment.com/shop/mefoto-backpacker-tripod-air-black?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) | **$79** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75*** | Not picky, but I've heard of Gobe and Hoya brands |
+| ![Yubikey](/images/yubikey.png) | [Yubikey 5C](https://www.yubico.com/product/yubikey-5c) | **$50** |  |
 | ![LIFX](/images/lifx.png) | [LIFX Candle Color](https://www.lifx.com/collections/lamps-and-pendants/products/candle-color) | **$45** | Ideally we'd end up with three total |
 | ![N30 Pro2](/images/8bitdo-n30-pro2.jpg) | [8Bitdo N30 Pro 2](https://www.microcenter.com/product/603272/n30-pro2-bluetooth-gamepad-(c-edition)) | **$40** | C edition |
 | ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
