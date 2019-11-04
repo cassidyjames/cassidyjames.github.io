@@ -111,6 +111,7 @@ _A.k.a. stuff I always enjoy._
 _Because Katie got a turntable so I need some music…_ 🙃️
 
 - Blade Runner Soundtrack
+- Hamilton (Original Broadway Cast Recording)
 - Uncharted Nathan Drake Collection
 - Moulin Rouge
 - [The Music of Destiny](https://bungiestore.com/products/the-music-of-destiny-volume-i-limited-edition-collectors-vinyl-box-set) - This was a limited-release, so it's on eBay for like $300. 😬️
@@ -118,7 +119,6 @@ _Because Katie got a turntable so I need some music…_ 🙃️
   - Episode I: The Phantom Menace
   - Episode II: Attack of the Clones
   - Episode III: Revenge of the Sith
-  - Star Wars (Episode IV: A New Hope)
   - Episode V: The Empire Strikes Back
   - Episode VI: Return of the Jedi
   - Episode VII: The Force Awakens
@@ -141,6 +141,10 @@ _Because Katie got a turntable so I need some music…_ 🙃️
   - Too Weird to Live, Too Rare to Die
   - Vices & Virtues
   - Pretty. Odd.
+- Blue Neighborhood by Troye Sivan
+- Third Stage by Boston
+- Zelda & Chill
+- FANDOM by Waterparks
 
 ## Causes
 
