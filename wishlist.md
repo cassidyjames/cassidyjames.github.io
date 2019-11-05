@@ -24,7 +24,10 @@ A small number <!--(3–7)--> of things I’d absolutely love to get. You can us
 | ![Movi](/images/movi.jpg) | [Freefly Movi](https://www.shopmoment.com/shop/freefly-movi) | **$299** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$299*** | Chalk/white |
 | ![August](/images/august.png) | [August Smart Lock Pro + Connect](https://august.com/products/august-smart-lock-pro-connect) | **$279** | Fits over our apartment deadbolt |
+| ![Mefoto](/images/mefoto.jpg) | [Mefoto BackPacker Tripod Air](https://www.shopmoment.com/shop/mefoto-backpacker-tripod-air-black?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) | **$79** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75*** | Not picky, but I've heard of Gobe and Hoya brands |
+| ![Yubikey](/images/yubikey.png) | [Yubikey 5C](https://www.yubico.com/product/yubikey-5c) | **$50** |  |
+| ![LIFX](/images/lifx.png) | [LIFX Candle Color](https://www.lifx.com/collections/lamps-and-pendants/products/candle-color) | **$45** | Ideally we'd end up with three total |
 | ![N30 Pro2](/images/8bitdo-n30-pro2.jpg) | [8Bitdo N30 Pro 2](https://www.microcenter.com/product/603272/n30-pro2-bluetooth-gamepad-(c-edition)) | **$40** | C edition |
 | ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
 | ![PS Classic adapter](/images/8bitdo-psc.jpg) | [8Bitdo Bluetooth Adapter for PS Classic](https://www.walmart.com/ip/8Bitdo-Bluetooth-Adapter-for-PlayStation-Classic-Console-PS1-Mini-PS4-Gamepad/353294863) | **$20** | Supposedly the brown brick one also works so I'd be willing to give it a try |
@@ -34,7 +37,6 @@ A small number <!--(3–7)--> of things I’d absolutely love to get. You can us
 <!--
 | ![](/images/) | []() | **$** |  |
 | ![UPS](/images/ups.jpg) | UPS/Battery Back-Up System | **$100+**\* | I think around 1000VA or more |
-| ![Mefoto](/images/mefoto.jpg) | [Mefoto BackPacker Tripod Air](https://www.shopmoment.com/shop/mefoto-backpacker-tripod-air-black?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) | **$79** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Pixel Stand](/images/pixel-stand.png) | [Pixel Stand](https://store.google.com/us/product/pixel_stand) | **$79** | |
 | ![Mat](/images/mat.jpg) | [Autonomous Anti-fatigue Mat](https://www.autonomous.ai/office-accessories/anti-fatigue-mat) | **$29** |  |
 | ![Pi Camera](/images/pi-camera.jpg) | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2) | **$25** | |
@@ -109,6 +111,7 @@ _A.k.a. stuff I always enjoy._
 _Because Katie got a turntable so I need some music…_ 🙃️
 
 - Blade Runner Soundtrack
+- Hamilton (Original Broadway Cast Recording)
 - Uncharted Nathan Drake Collection
 - Moulin Rouge
 - [The Music of Destiny](https://bungiestore.com/products/the-music-of-destiny-volume-i-limited-edition-collectors-vinyl-box-set) - This was a limited-release, so it's on eBay for like $300. 😬️
@@ -116,7 +119,6 @@ _Because Katie got a turntable so I need some music…_ 🙃️
   - Episode I: The Phantom Menace
   - Episode II: Attack of the Clones
   - Episode III: Revenge of the Sith
-  - Star Wars (Episode IV: A New Hope)
   - Episode V: The Empire Strikes Back
   - Episode VI: Return of the Jedi
   - Episode VII: The Force Awakens
@@ -139,6 +141,10 @@ _Because Katie got a turntable so I need some music…_ 🙃️
   - Too Weird to Live, Too Rare to Die
   - Vices & Virtues
   - Pretty. Odd.
+- Blue Neighborhood by Troye Sivan
+- Third Stage by Boston
+- Zelda & Chill
+- FANDOM by Waterparks
 
 ## Causes
 
