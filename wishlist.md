@@ -7,50 +7,64 @@ redirect_from:
 
 This is my canonical birthday, Christmas, and any-other-time wish list. **It is up to date as of {{ site.time | date: '%B %-d, %Y' }}.**
 
+<details markdown="1">
+<summary markdown="1">
 ## Skip Amazon
+</summary>
 
 I dislike Amazon since they’re extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox) and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652). So if you can, please purchase any items here somewhere other than Amazon.
 
 **Buying from the company who makes the thing is usually best**, but I also recommend the following stores as they seem well-designed and reliable:
-- [Google Express](https://express.google.com/) - Probably the best selection, as they partner with _a ton_ of large and small retailers like Target, Best Buy, Costco, Fry's, Home Depot, etc.
 - [Target](https://target.com) - Their online shopping is actually quite good, plus there's the convenience of picking up in store (and thus skipping shipping costs).
+- [Google Shopping](https://shopping.google.com/) - Probably the best selection, as they partner with _a ton_ of large and small retailers like Target, Best Buy, Costco, Fry's, Home Depot, etc.
+</details>
 
 ## Shortlist
 
-A small number <!--(3–7)--> of things I’d absolutely love to get. You can use it as a surefire way to get me something I’ll love, or as inspiration for getting me something else. Arranged in descending price—but not necessarily any sort of ranked/preference—order.
+_A.k.a. a small number <!--(3–7)--> of things I’d absolutely love._
 
 | Image | Link | Price | Notes |
 |-------|------|-------|-------|
 | ![Movi](/images/movi.jpg) | [Freefly Movi](https://www.shopmoment.com/shop/freefly-movi) | **$299** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
-| ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$299*** | Chalk/white |
+| ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$299** | Chalk/white |
 | ![August](/images/august.png) | [August Smart Lock Pro + Connect](https://august.com/products/august-smart-lock-pro-connect) | **$279** | Fits over our apartment deadbolt |
-| ![Mefoto](/images/mefoto.jpg) | [Mefoto BackPacker Tripod Air](https://www.shopmoment.com/shop/mefoto-backpacker-tripod-air-black?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) | **$79** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
-| ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75*** | Not picky, but I've heard of Gobe and Hoya brands |
+| ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75** | Not picky, but I've heard of Gobe and Hoya brands |
 | ![Yubikey](/images/yubikey.png) | [Yubikey 5C](https://www.yubico.com/product/yubikey-5c) | **$50** |  |
-| ![LIFX](/images/lifx.png) | [LIFX Candle Color](https://www.lifx.com/collections/lamps-and-pendants/products/candle-color) | **$45** | Ideally we'd end up with three total |
-| ![N30 Pro2](/images/8bitdo-n30-pro2.jpg) | [8Bitdo N30 Pro 2](https://www.microcenter.com/product/603272/n30-pro2-bluetooth-gamepad-(c-edition)) | **$40** | C edition |
 | ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
-| ![PS Classic adapter](/images/8bitdo-psc.jpg) | [8Bitdo Bluetooth Adapter for PS Classic](https://www.walmart.com/ip/8Bitdo-Bluetooth-Adapter-for-PlayStation-Classic-Console-PS1-Mini-PS4-Gamepad/353294863) | **$20** | Supposedly the brown brick one also works so I'd be willing to give it a try |
-
-
 
 <!--
 | ![](/images/) | []() | **$** |  |
-| ![UPS](/images/ups.jpg) | UPS/Battery Back-Up System | **$100+**\* | I think around 1000VA or more |
+| ![UPS](/images/ups.jpg) | UPS/Battery Back-Up System | **$100+** | I think around 1000VA or more |
+| ![Mefoto](/images/mefoto.jpg) | [Mefoto BackPacker Tripod Air](https://www.shopmoment.com/shop/mefoto-backpacker-tripod-air-black?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) | **$79** | [Referral link](https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede) |
 | ![Pixel Stand](/images/pixel-stand.png) | [Pixel Stand](https://store.google.com/us/product/pixel_stand) | **$79** | |
+| ![LIFX](/images/lifx.png) | [LIFX Candle Color](https://www.lifx.com/collections/lamps-and-pendants/products/candle-color) | **$45** | Ideally we'd end up with three total |
+| ![N30 Pro2](/images/8bitdo-n30-pro2.jpg) | [8Bitdo N30 Pro 2](https://www.microcenter.com/product/603272/n30-pro2-bluetooth-gamepad-(c-edition)) | **$40** | C edition |
 | ![Mat](/images/mat.jpg) | [Autonomous Anti-fatigue Mat](https://www.autonomous.ai/office-accessories/anti-fatigue-mat) | **$29** |  |
 | ![Pi Camera](/images/pi-camera.jpg) | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2) | **$25** | |
+| ![PS Classic adapter](/images/8bitdo-psc.jpg) | [8Bitdo Bluetooth Adapter for PS Classic](https://www.walmart.com/ip/8Bitdo-Bluetooth-Adapter-for-PlayStation-Classic-Console-PS1-Mini-PS4-Gamepad/353294863) | **$20** | Supposedly the brown brick one also works so I'd be willing to give it a try |
 -->
 
-_\*Exact price depends on promotions/retailer._
+---
+
+## GiftHero Wishlist
+
+I'm trying GiftHero as a more traditional, sprawling wishlist. It's sort of sorted by priority by default, but you can sort by price as well. It includes shortlist items plus a whole bunch of stuff.
+
+<div style="text-align: center;" markdown="1">
+[View GiftHero Wishlist](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: class="button"}
+</div>
+
+---
 
 ## LEGO
+
+_A.k.a. gifts for someone who grows older but refuses to grow up._
 
 I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It’s usually kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
 
 ## Experiences
 
-Instead of getting me _stuff_, you can gift me with one of these experiences or subscriptions.
+_A.k.a. stuff to do instead of just… stuff._
 
 * Meow Wolf tickets (opening in Denver, 2020)
 * Regal Cinemas movie tickets (date night!)
@@ -66,11 +80,6 @@ _A.k.a. stuff I always enjoy._
 
 * Hubless Wi-Fi Smart Lighting **~$10–\$\$\$\$** - Feit smart bulbs, LIFX bulbs, smart switches, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
 
-* Star Wars Blu-ray + Digital **~$20–30 each** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_.
-
-* [Harry &amp; David Pears](https://www.harryanddavid.com/h/fruit-gift/pears) **~$30** - Pears are the BEST.
-
-
 <!--
 * [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
 
@@ -79,6 +88,8 @@ _A.k.a. stuff I always enjoy._
 * Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Some sort of oatmeal color, anything heather, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
 
 * [MKBHD tees](http://shop.mkbhd.com) - Basically anything you think looks cool or that I would like. Men's large.
+
+* Star Wars Blu-ray + Digital **~$20–30 each** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_.
 
 * Nintendo Switch stuff - Pro controller, JoyCons, etc.
 
@@ -89,26 +100,13 @@ _A.k.a. stuff I always enjoy._
   - Scarif Stormtrooper
 -->
 
-* Gift Cards **any amount** - I shop at all of these places and always appreciate gift cards.
-  * [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) or [Nintendo eShop](https://www.nintendo.com/giftcards) for games 🎮
-  * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, books, and games 📱
-  * Micro Center (only available in-store) for Raspberry Pi and gadget stuff 🤓
-  * [GameStop/ThinkGeek](https://www.gamestop.com/gift-cards) for games and geek stuff 🎲
-  * [LEGO Store](https://shop.lego.com/en-US/Give-Gift-Card) for LEGOs, obviously 🏗
-  * [Target](https://www.target.com/c/target-giftcards/all-occasions/-/N-5xsxtZ5rxa0) for whatever 🤷‍♂️
-  * [Best Buy](https://www.bestbuy.com/site/electronics/gift-cards/cat09000.c?id=cat09000#/) for gadgets 👨‍💻
-  * [Old Navy](http://oldnavy.gap.com/customerService/info.do?cid=35433) for fashion 🕺
-  * [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth 👅
-  * [Arctic Buffalo](https://arcticbuffalo.com/collections/gift-options/products/gift-card?variant=1040675312) for gauges/plugs 👂
-
-* Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends, like Exploding Kittens, Codenames, Little Drop of Poison, and Fluxx (all of which Katie and I have). Other ideas:
-  * Exploding Kittens expansions
-  * Liar’s Dice (homemade set would be rad)
-  * Telestrations
+* Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends.
 
 ## Vinyl LPs
 
-_Because Katie got a turntable so I need some music…_ 🙃️
+_A.k.a. Katie got a turntable so I need some music…_ 🙃️
+
+In no particular order at all.
 
 - Blade Runner Soundtrack
 - Hamilton (Original Broadway Cast Recording)
@@ -146,9 +144,26 @@ _Because Katie got a turntable so I need some music…_ 🙃️
 - Zelda & Chill
 - FANDOM by Waterparks
 
+## Gift Cards
+
+_A.k.a. you don't know what to get, so let me choose!_
+
+* [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) or [Nintendo eShop](https://www.nintendo.com/giftcards) for games 🎮
+* [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, books, and games 📱
+* Micro Center (only available in-store) for Raspberry Pi and gadget stuff 🤓
+* [GameStop/ThinkGeek](https://www.gamestop.com/gift-cards) for games and geek stuff 🎲
+* [LEGO Store](https://shop.lego.com/en-US/Give-Gift-Card) for LEGOs, obviously 🏗
+* [Target](https://www.target.com/c/target-giftcards/all-occasions/-/N-5xsxtZ5rxa0) for whatever 🤷‍♂️
+* [Best Buy](https://www.bestbuy.com/site/electronics/gift-cards/cat09000.c?id=cat09000#/) for gadgets 👨‍💻
+* [Old Navy](http://oldnavy.gap.com/customerService/info.do?cid=35433) for fashion 🕺
+* [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth 👅
+* [Arctic Buffalo](https://arcticbuffalo.com/collections/gift-options/products/gift-card?variant=1040675312) for gauges/plugs 👂
+
 ## Causes
 
-Instead of giving to me directly, you can always give to one of these causes on my behalf. I’m passionate about each one and they all could use monetary support.
+_A.k.a. do good on my behalf!_
+
+Instead of giving to me directly, you can always give to one of these causes. I’m passionate about each one and they all could use monetary support.
 
 ### [Electronic Frontier Foundation](https://www.eff.org/)
 
