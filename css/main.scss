@@ -223,4 +223,12 @@ img[alt="Venmo barcode"] {
       width: 100px;
     }
   }
+
+  h3 strong {
+    display: inline-block;
+    font-size: 0.75em;
+    font-weight: normal;
+    margin-left: 0.25em;
+    opacity: 0.8;
+  }
 }
