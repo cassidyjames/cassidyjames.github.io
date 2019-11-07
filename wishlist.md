@@ -56,29 +56,17 @@ I'm trying GiftHero as a more traditional, sprawling wishlist. It's sort of sort
 
 ---
 
-## LEGO
-
-_A.k.a. gifts for someone who grows older but refuses to grow up._
-
-I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It’s usually kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
-
-## Experiences
-
-_A.k.a. stuff to do instead of just… stuff._
-
-* Meow Wolf tickets (opening in Denver, 2020)
-* Regal Cinemas movie tickets (date night!)
-* Denver museum or zoo tickets
-* [Denver Center for the Performing Arts](https://denvercenter.org) gift certificate
-* _Panic! at the Disco_, _Fall Out Boy_, or _Twenty-One Pilots_ concert tickets
-
 ## Idea-list
 
 _A.k.a. stuff I always enjoy._
 
 * [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/0g-8mm-filter) **~$5–20** - 0g/8mm, single- or double-flared. I like almost anything! I have a lot of black, so lighter-colored wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
 
-* Hubless Wi-Fi Smart Lighting **~$10–\$\$\$\$** - Feit smart bulbs, LIFX bulbs, smart switches, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
+* Hubless Wi-Fi Smart Lighting **~$10–\$\$\$\$** - Feit smart bulbs, LIFX bulbs, funky light art, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
+
+* Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends.
+
+- Wall Art **$???** - I have a nice little desk space since I work from home, and I could use a couple more pieces of art. Currently I have a black/gold circuit board print and a red/blue robot print.
 
 <!--
 * [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
@@ -100,7 +88,15 @@ _A.k.a. stuff I always enjoy._
   - Scarif Stormtrooper
 -->
 
-* Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends.
+## Experiences
+
+_A.k.a. stuff to do instead of just… stuff._
+
+* Meow Wolf tickets (opening in Denver, 2020)
+* Regal Cinemas movie tickets (date night!)
+* Denver museum or zoo tickets
+* [Denver Center for the Performing Arts](https://denvercenter.org) gift certificate
+* _Panic! at the Disco_, _Fall Out Boy_, or _Twenty-One Pilots_ concert tickets
 
 ## Vinyl LPs
 
@@ -143,6 +139,12 @@ In no particular order at all.
 - Third Stage by Boston
 - Zelda & Chill
 - FANDOM by Waterparks
+
+## LEGO
+
+_A.k.a. gifts for someone who grows older but refuses to grow up._
+
+I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It’s usually kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
 
 ## Gift Cards
 
