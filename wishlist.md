@@ -60,6 +60,8 @@ I'm trying GiftHero as a more traditional, sprawling wishlist. It's sort of sort
 
 _A.k.a. stuff I always enjoy._
 
+* Pins **$5+** - I've started collecting quality pins for my backpack—like ones with good backs, not the cheapo button ones—from cool causes, artists, and places.
+
 * [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/0g-8mm-filter) **~$5–20** - 0g/8mm, single- or double-flared. I like almost anything! I have a lot of black, so lighter-colored wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
 
 * Hubless Wi-Fi Smart Lighting **~$10–\$\$\$\$** - Feit smart bulbs, LIFX bulbs, funky light art, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
@@ -76,8 +78,6 @@ _A.k.a. stuff I always enjoy._
 * Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Some sort of oatmeal color, anything heather, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
 
 * [MKBHD tees](http://shop.mkbhd.com) - Basically anything you think looks cool or that I would like. Men's large.
-
-* Star Wars Blu-ray + Digital **~$20–30 each** - I have Episodes I–VII. I do **not** have _Episode VIII: The Last Jedi_, _Rogue One_, or _Solo_.
 
 * Nintendo Switch stuff - Pro controller, JoyCons, etc.
 
