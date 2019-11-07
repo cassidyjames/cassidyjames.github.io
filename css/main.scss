@@ -4,11 +4,14 @@
 @charset "utf-8";
 
 @import "colors";
+@import "typography";
+
+@import "alerts";
+@import "buttons";
+@import "details";
 @import "footer";
 @import "grid";
 @import "nav";
-@import "typography";
-@import "alerts";
 
 :root {
     color-scheme: light dark;
@@ -221,4 +224,3 @@ img[alt="Venmo barcode"] {
     }
   }
 }
-

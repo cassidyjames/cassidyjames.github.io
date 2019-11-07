@@ -1,0 +1,21 @@
+.button {
+  background-color: var(--accent-color);
+  border-radius: 0.125em;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  color: var(--background-color);
+  display: inline-block;
+  font-size: 1.125em;
+  margin: 1em 0.5em;
+  opacity: 0.9;
+  padding: 0.5em 1em;
+  text-align: center;
+  transition: all 250ms ease;
+
+  &:focus,
+  &:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    opacity: 1;
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+}
