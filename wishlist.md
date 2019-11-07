@@ -19,6 +19,8 @@ I dislike Amazon since they’re extremely [anti-competitive](https://www.yalela
 - [Google Shopping](https://shopping.google.com/) - Probably the best selection, as they partner with _a ton_ of large and small retailers like Target, Best Buy, Costco, Fry's, Home Depot, etc.
 </details>
 
+---
+
 ## Shortlist
 
 _A.k.a. a small number <!--(3–7)--> of things I’d absolutely love._
@@ -60,15 +62,33 @@ I'm trying GiftHero as a more traditional, sprawling wishlist. It's sort of sort
 
 _A.k.a. stuff I always enjoy._
 
-* Pins **$5+** - I've started collecting quality pins for my backpack—like ones with good backs, not the cheapo button ones—from cool causes, artists, and places.
+### Pins **$5+**
 
-* [Fun Gauges/Plugs](https://arcticbuffalo.com/collections/0g-8mm-filter) **~$5–20** - 0g/8mm, single- or double-flared. I like almost anything! I have a lot of black, so lighter-colored wood, unique designs, and bright colors would be best. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
+I've started collecting quality pins for my backpack—like ones with good backs, not the cheapo button ones—from cool causes, artists, and places.
 
-* Hubless Wi-Fi Smart Lighting **~$10–\$\$\$\$** - Feit smart bulbs, LIFX bulbs, funky light art, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
+### Watch bands/straps **$13–25**
 
-* Board/Card/Party Games **~$10–50** - I love simple and fun games to play with friends.
+**18mm two-piece quick-release is required for my watch**
 
-- Wall Art **$???** - I have a nice little desk space since I work from home, and I could use a couple more pieces of art. Currently I have a black/gold circuit board print and a red/blue robot print.
+I have a coral silicone set and a white cordura set, but I enjoy swapping out the watch bands on my Fossil Sport. It's the red model, so white, black, and red colors go well with it. [ClockWorkSynergy](https://www.clockworksynergy.com/) is pretty affordable, but Fossil and others also sell watch bands/straps.
+
+### Fun gauges/plugs **$5–20**
+
+**0g/8mm size**
+
+I like almost anything! Bright colors, unique designs, and interesting patterns are always good. I like [Arctic Buffalo](https://arcticbuffalo.com/collections/0g-8mm-filter) since they're pretty affordable. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
+
+### Hubless Wi-Fi smart lighting **$10–\$\$\$**
+
+Feit smart bulbs, LIFX bulbs, funky light art, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
+
+### Board/card/party games **$10–50**
+
+I love simple and fun games to play with friends.
+
+### Wall art **$???**
+
+  I have a nice little desk space since I work from home, and I could use a couple more pieces of art. Currently I have a black/gold circuit board print and a red/blue robot print.
 
 <!--
 * [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
@@ -88,6 +108,8 @@ _A.k.a. stuff I always enjoy._
   - Scarif Stormtrooper
 -->
 
+---
+
 ## Experiences
 
 _A.k.a. stuff to do instead of just… stuff._
@@ -97,6 +119,8 @@ _A.k.a. stuff to do instead of just… stuff._
 * Denver museum or zoo tickets
 * [Denver Center for the Performing Arts](https://denvercenter.org) gift certificate
 * _Panic! at the Disco_, _Fall Out Boy_, or _Twenty-One Pilots_ concert tickets
+
+---
 
 ## Vinyl LPs
 
@@ -140,11 +164,15 @@ In no particular order at all.
 - Zelda & Chill
 - FANDOM by Waterparks
 
+---
+
 ## LEGO
 
 _A.k.a. gifts for someone who grows older but refuses to grow up._
 
 I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames). It’s usually kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
+
+---
 
 ## Gift Cards
 
@@ -160,6 +188,8 @@ _A.k.a. you don't know what to get, so let me choose!_
 * [Old Navy](http://oldnavy.gap.com/customerService/info.do?cid=35433) for fashion 🕺
 * [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth 👅
 * [Arctic Buffalo](https://arcticbuffalo.com/collections/gift-options/products/gift-card?variant=1040675312) for gauges/plugs 👂
+
+---
 
 ## Causes
 
