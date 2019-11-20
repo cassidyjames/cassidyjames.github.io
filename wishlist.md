@@ -41,16 +41,14 @@ _A.k.a. a small number <!--(3–7)--> of things I’d absolutely love._
 | ![Pixel Stand](/images/pixel-stand.png) | [Pixel Stand](https://store.google.com/us/product/pixel_stand) | **$79** | |
 | ![LIFX](/images/lifx.png) | [LIFX Candle Color](https://www.lifx.com/collections/lamps-and-pendants/products/candle-color) | **$45** | Ideally we'd end up with three total |
 | ![N30 Pro2](/images/8bitdo-n30-pro2.jpg) | [8Bitdo N30 Pro 2](https://www.microcenter.com/product/603272/n30-pro2-bluetooth-gamepad-(c-edition)) | **$40** | C edition |
-| ![Mat](/images/mat.jpg) | [Autonomous Anti-fatigue Mat](https://www.autonomous.ai/office-accessories/anti-fatigue-mat) | **$29** |  |
 | ![Pi Camera](/images/pi-camera.jpg) | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2) | **$25** | |
-| ![PS Classic adapter](/images/8bitdo-psc.jpg) | [8Bitdo Bluetooth Adapter for PS Classic](https://www.walmart.com/ip/8Bitdo-Bluetooth-Adapter-for-PlayStation-Classic-Console-PS1-Mini-PS4-Gamepad/353294863) | **$20** | Supposedly the brown brick one also works so I'd be willing to give it a try |
 -->
 
 ---
 
 ## GiftHero Wishlist
 
-I'm trying GiftHero as a more traditional, sprawling wishlist. It's sort of sorted by priority by default, but you can sort by price as well. It includes shortlist items plus a whole bunch of stuff.
+I'm trying GiftHero as a more traditional, sprawling wishlist. It's sort of sorted by priority by default, but you can sort by price as well. It includes shortlist items, things from the idea list, and a whole bunch more.
 
 <div style="text-align: center;" markdown="1">
 [View GiftHero Wishlist](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: class="button"}
@@ -114,8 +112,9 @@ I love simple and fun games to play with friends.
 
 _A.k.a. stuff to do instead of just… stuff._
 
-* Meow Wolf tickets (opening in Denver, 2020)
+* Meow Wolf tickets (opening in Denver, 2021)
 * Regal Cinemas movie tickets (date night!)
+* Local Denver food gift certificates (more date nights!)
 * Denver museum or zoo tickets
 * [Denver Center for the Performing Arts](https://denvercenter.org) gift certificate
 * _Panic! at the Disco_, _Fall Out Boy_, or _Twenty-One Pilots_ concert tickets
@@ -212,9 +211,3 @@ Instead of giving to me directly, you can always give to one of these causes. I�
 ### [Wikimedia Foundation](https://wikimediafoundation.org/)
 
 >Imagine a world in which every single human being can freely share in the sum of all knowledge.
-
-<!--
-### [Free Software Foundation](http://www.fsf.org/)
-
->A worldwide mission to promote computer user freedom. We defend the rights of all software users.
--->
