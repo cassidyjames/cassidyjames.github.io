@@ -40,6 +40,14 @@ I'm a **UX architect** who designs and builds useful, usable, and delightful **d
 
 <a href="/resume" class="read-more resume"><i class="far fa-fw fa-file-alt"></i>See résumé</a>
 
+### Talk
+
+I **give talks** about UX and open source. I also sometimes appear on **podcasts** like Linux Unplugged to talk about my work.
+
+<a href="/talks" class="read-more talks"><i class="fa fa-fw fa-chalkboard-teacher"></i>View talks</a>
+
+<a href="https://linuxunplugged.com/guests/cassidyjames" class="read-more lup"><i class="fa fa-fw fa-microphone"></i>Listen on Linux Unplugged</a>
+
 ### Write
 
 I **write things** on the internet about UX, tech, and what I&rsquo;m up to. Some people think some of those things are smart.
@@ -52,7 +60,7 @@ I **write things** on the internet about UX, tech, and what I&rsquo;m up to. Som
 
 ### Photograph
 
-I occasionally take **photos** of my adventures (and my cat), mostly with my Pixel phone and Moment lenses.
+I take **photos** of my adventures (and my cat), mostly with my Pixel phone and Moment lenses.
 
 <a href="https://unsplash.com/@cassidyjames" class="read-more unsplash"><i class="fas fa-fw fa-camera"></i>View photos on Unsplash</a>
 
