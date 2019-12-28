@@ -130,7 +130,6 @@ In no particular order at all.
 - Blade Runner Soundtrack
 - Hamilton (Original Broadway Cast Recording)
 - Uncharted Nathan Drake Collection
-- Moulin Rouge
 - [The Music of Destiny](https://bungiestore.com/products/the-music-of-destiny-volume-i-limited-edition-collectors-vinyl-box-set) - This was a limited-release, so it's on eBay for like $300. 😬️
 - Star Wars Soundtracks
   - Episode I: The Phantom Menace
