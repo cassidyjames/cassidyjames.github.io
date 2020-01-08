@@ -11,9 +11,7 @@ birthday: '1992-02-01 00:08:00 -0600'
 # Site-wide social info
 email: c@ssidyjam.es
 twitter: "@CassidyJames"
-github:
-  user: cassidyjames
-  repo: cassidyjames.com
+github_user: cassidyjames
 square: "$cassidyjames"
 google-plus: "+CassidyJames"
 medium: "@cassidyjames"
@@ -27,3 +25,4 @@ markdown: kramdown
 # Plugins
 plugins:
   - jekyll-redirect-from
+
