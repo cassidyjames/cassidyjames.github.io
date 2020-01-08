@@ -23,7 +23,7 @@ I dislike Amazon since they’re extremely [anti-competitive](https://www.yalela
 
 ## Shortlist
 
-_A.k.a. a small number <!--(3–7)--> of things I’d absolutely love._
+_A.k.a. a small number of things I’d absolutely love._
 
 | Image | Link | Price | Notes |
 |-------|------|-------|-------|
@@ -69,7 +69,7 @@ I have a coral silicone set and a white cordura set, but I enjoy swapping out th
 
 **0g/8mm size**
 
-I like almost anything! Bright colors, unique designs, and interesting patterns are always good. I like [Arctic Buffalo](https://arcticbuffalo.com/collections/0g-8mm-filter) since they're pretty affordable. Hot Topic also usually has fun branded ones like Star Wars, DC Comics, Disney, etc.
+I like almost anything! Bright colors, unique designs, and interesting patterns are always good. I like [Arctic Buffalo](https://arcticbuffalo.com/collections/0g-8mm-filter) since they're pretty affordable. Hot Topic also usually has a fun assortment.
 
 ### Hubless Wi-Fi smart lighting **$10–\$\$\$**
 
@@ -81,25 +81,7 @@ I love simple and fun games to play with friends.
 
 ### Wall art **$???**
 
-  I have a nice little desk space since I work from home, and I could use a couple more pieces of art. Currently I have a black/gold circuit board print and a red/blue robot print.
-
-<!--
-* [Wikimedia clothing](https://store.wikimedia.org/collections/men) **$18–40** - Anything there! I like all the designs and I like supporting Wikimedia.
-
-* [Threadless Tees and Tanks](https://www.threadless.com) **~$10–30** - Men’s Large. Anything nerdy or fun or cool.
-
-* Short-sleeve tri-blend tees **~$9-20** - Men’s Large. Some sort of oatmeal color, anything heather, or any bright/saturated colors. Crew or v-neck. Generally I like bright colors, plain or simple patterns, and buttonless/pocket-less. Old Navy is a good bet, but basically any place with men’s clothes works.
-
-* [MKBHD tees](http://shop.mkbhd.com) - Basically anything you think looks cool or that I would like. Men's large.
-
-* Nintendo Switch stuff - Pro controller, JoyCons, etc.
-
-* Funko Pop! Star Wars bobbleheads. Ones I really want:
-  - Jyn Erso
-  - Boushh Leia
-  - Death Trooper
-  - Scarif Stormtrooper
--->
+I have a nice little desk space since I work from home, and I could use a couple more pieces of art. Currently I have a black/gold circuit board print and a red/blue robot print.
 
 ---
 
