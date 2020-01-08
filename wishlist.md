@@ -29,6 +29,7 @@ _A.k.a. a small number <!--(3–7)--> of things I’d absolutely love._
 |-------|------|-------|-------|
 | ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$299** | Chalk/white |
 | ![August](/images/august.png) | [August Smart Lock Pro + Connect](https://august.com/products/august-smart-lock-pro-connect) | **$279** | Fits over our apartment deadbolt |
+| ![SSD](/images/ssd.jpg) | [2TB Samsung 860 QVO SSD](https://www.google.com/search?psb=1&tbm=shop&q=Samsung 860 QVO SSD 2TB) | **$200** | Not picky about brand or model, but I'd like a 2TB SSD that works in the PS4 |
 | ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75** | Not picky, but I've heard of Gobe and Hoya brands |
 | ![LEGO](/images/lego.jpg) | [LEGO Star Wars A-Wing](https://www.target.com/p/lego-star-wars-the-rise-of-skywalker-resistance-a-wing-starfighter-75248-advanced-collectible-starship-model-building-kit-269pc/-/A-75667097) | **$30** | _The Rise of Skywalker_ version |
 | ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
