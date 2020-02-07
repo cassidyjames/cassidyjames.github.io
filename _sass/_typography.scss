@@ -100,12 +100,25 @@ ol {
 }
 
 hr {
+  border: 0.125em solid var(--faint);
   margin: 3em auto;
+}
+
+small {
+  opacity: 0.8;
 }
 
 blockquote {
   border-left: 0.25em solid var(--faint);
   margin-left: 0.25em;
-  opacity: 0.75;
+  opacity: 0.8;
   padding-left: 0.5em;
+}
+
+article p {
+  margin: 1.25em auto;
+}
+
+article time {
+  opacity: 0.8;
 }

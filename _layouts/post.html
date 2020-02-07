@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h1>Cassidy’s Blog</h1>
+
+<article>
+  <h2>{{ page.title }}</h2>
+  <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%a, %b %e, %Y" }}</time>
+  {{ content }}
+</article>
