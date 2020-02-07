@@ -19,7 +19,7 @@ instagram: cassidy.james.blaede
 gravatar: 41275ecc8271aca852ce2c0ff72d2610 # Gravatar md5 hash
 
 # Settings
-permalink: pretty
+permalink: /blog/:title/
 markdown: kramdown
 
 # Plugins
