@@ -19,7 +19,19 @@
   <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
   <meta name="theme-color" content="{% if page.theme-color %}{{ page.theme-color }}{% else %}{{ site.theme-color }}{% endif %}">
 
-  <meta name="twitter:card" content="summary">
+  {% if page.image %}
+    {% assign prefix = page.image | slice: 0, 4 %}
+    {% if prefix == "http" %}
+      {% assign image = page.image %}
+    {% else %}
+      {% assign image = page.image | prepend: site.baseurl | prepend: site.url %}
+    {% endif %}
+    <meta property="twitter:image" content="{{ image }}" />
+  {% else %}
+    <meta property="twitter:image" content="{{ site.image }}" />
+  {% endif %}
+
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="{{ site.twitter }}">
   <meta name="twitter:creator" content="{% if page.twitter %}{{ page.twitter }}{% else %}{{ site.twitter }}{% endif %}">
 
