@@ -5,6 +5,7 @@ nav {
 
   background-color: var(--secondary-accent-color);
   color: var(--secondary-accent-contrast);
+  fill: var(--secondary-accent-contrast);
   font-size: 0; // Get rid of blank spaces between nav items
   padding: 0;
 
@@ -41,6 +42,19 @@ nav {
     max-height: 1.5em;
     max-width: 1.5em;
     padding: 0;
+  }
+
+  .feed {
+    float: right;
+
+    svg {
+      fill: inherit;
+      height: 1em;
+      margin-right: 0.25em;
+      transform: translateY(-0.125em);
+      vertical-align: middle;
+      width: 1em;
+    }
   }
 }
 

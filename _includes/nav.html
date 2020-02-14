@@ -2,7 +2,7 @@
   {% assign current = page.url | downcase | split: '/' %}
 
   <a href="/" {% if current[1] == null %}class='current'{% endif %}><img alt="Me" src="https://www.gravatar.com/avatar/{{ site.gravatar }}?s=240&d=blank" /> Home</a>
-    <a href="/blog" {% if current[1] == 'blog' %}class='current'{% endif %}>Blog</a>
+  <a href="/blog" {% if current[1] == 'blog' %}class='current'{% endif %}>Blog</a>
   <a href="/wishlist" {% if current[1] == 'wishlist' %}class='current'{% endif %}>Wishlist</a>
   <a href="/pay" {% if current[1] == 'pay' %}class='current'{% endif %}>Pay</a>
 
@@ -24,5 +24,9 @@
 
   {% if current[1] == 'borrow' %}
     <a href="/borrow" class='current'>Borrow</a>
+  {% endif %}
+
+  {% if current[1] == 'blog' %}
+    <a href="/feed.xml" class="feed">{% include icons/rss.svg %} Feed</a>
   {% endif %}
 </nav>
