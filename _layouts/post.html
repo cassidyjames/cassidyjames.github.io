@@ -6,6 +6,14 @@ layout: default
 
 <article>
   <h2>{{ page.title }}</h2>
-  <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%a, %b %e, %Y" }}</time>
+  {% if page.description %}<p class="subtitle">{{ page.description }}</p>{% endif %}
+  <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}" title="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%a, %b %e, %Y" }}</time>
+  {% include read-time.html content = page.content %}
   {{ content }}
+  {% if page.updated %}
+  <aside class="updated">
+    <hr />
+    <small><p>This post was originally published on <strong>{{ page.date | date: "%a, %b %e, %Y" }}</strong>, but was most recently updated on <strong>{{ page.updated | date: "%a, %b %e, %Y" }}</strong>.</p></small>
+  </aside>
+  {% endif %}
 </article>
