@@ -30,7 +30,6 @@ _A.k.a. a small number of things I’d absolutely love._
 | ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$299** | Chalk/white |
 | ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock) | **$279**ish? | Not released yet |
 | ![SSD](/images/ssd.jpg) | [2TB Samsung 860 QVO SSD](https://www.google.com/search?psb=1&tbm=shop&q=Samsung 860 QVO SSD 2TB) | **$200** | Not picky about brand or model, but I'd like a 2TB SSD that works in the PS4 |
-| ![Skin](/images/dbrand.png) | [dbrand Skin](https://dbrand.com/shop/dell-xps-15-skins-9570) for XPS 15 (9570) | **$25** | Top, White Marble |
 
 <!--
 | ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75** | Not picky, but I've heard of Gobe and Hoya brands |
