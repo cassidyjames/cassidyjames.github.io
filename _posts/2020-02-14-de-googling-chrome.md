@@ -2,6 +2,7 @@
 title: "De-Googling: Chrome"
 description: Probably the easiest migration
 hidden: true
+redirect_from: /chrome
 ---
 
 Moving away from Google Chrome was _probably_ the easiest migration in my [de-Googling efforts](/blog/de-googling). I'm not a huge user of bookmarks or extensions, so those weren't tying me down. On the desktop, I just switched to a combination of [Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral/) (as my defaut), Epiphany (as my main "real browser"), and Firefox (for when something doesn't work right in Epiphany). Since Epiphany supports Firefox Sync, it's actually pretty easy to jump between the two as needed. I do have Chromium installed for testing web development in a Chrome-based engine, but I don't use it for any real browsing.
