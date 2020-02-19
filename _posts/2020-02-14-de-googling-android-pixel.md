@@ -1,6 +1,7 @@
 ---
 title: "De-Googling: Android & Pixel"
 hidden: true
+redirect_from: /android
 ---
 
 I do not currently plan to move away from Android. It is the most mature and usable open source OS we have, and the only real alternative today is the closed-source and too-restrictive iOS. I'll probably share more thoughts on my reasons for not loving iOS later. :)
