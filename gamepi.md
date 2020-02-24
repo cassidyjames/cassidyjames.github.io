@@ -6,7 +6,7 @@ layout: gamepi
 
 ![GamePi](/images/gamepi.jpg)
 
-GamePi is a retro gaming console I make, based on [Raspberry Pi][raspi] and
+GamePi is a retro gaming console I assemble, based on [Raspberry Pi][raspi] and
 [RetroPie][retropie].
 
 [Order Yours Now][square]
