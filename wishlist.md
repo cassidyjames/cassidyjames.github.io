@@ -15,8 +15,11 @@ This is my canonical birthday, Christmas, and any-other-time wish list. **It is 
 I dislike Amazon since they’re extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox) and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652). So if you can, please purchase any items here somewhere other than Amazon.
 
 **Buying from the company who makes the thing is usually best**, but I also recommend the following stores as they seem well-designed and reliable:
-- [Target](https://target.com) - Their online shopping is actually quite good, plus there's the convenience of picking up in store (and thus skipping shipping costs).
-- [Google Shopping](https://shopping.google.com/) - Probably the best selection, as they partner with _a ton_ of large and small retailers like Target, Best Buy, Costco, Fry's, Home Depot, etc.
+- [Target](https://target.com) - Their online shopping is great, plus there's the convenience of picking up in store skipping shipping costs.
+- [Best Buy](https://bestbuy.com) - Pretty competitive for most electronics, aside from cheaper things like small accessories. In-store pickup is great.
+- [ClockWorkSynergy](https://www.clockworksynergy.com/) for watch bands/straps.
+- [Arctic Buffalo](https://arcticbuffalo.com/collections/0g-8mm-filter) for jewelry (guages/plugs).
+- [Google Shopping](https://shopping.google.com/) - Huge selection since they partner with _a ton_ of large and small retailers like Target, Best Buy, Costco, Fry's, Home Depot, etc. However, they changed it recently and it's a little harder to use.
 </details>
 
 ---
@@ -71,7 +74,7 @@ I like almost anything! Bright colors, unique designs, and interesting patterns 
 
 ### Hubless Wi-Fi smart lighting **$10–\$\$\$**
 
-Feit smart bulbs, LIFX bulbs, funky light art, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday.
+Feit smart bulbs, Philips WiZ bulbs, LIFX bulbs, funky light art, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday soon!
 
 ### Board/card/party games **$10–50**
 

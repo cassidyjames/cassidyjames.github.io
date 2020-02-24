@@ -6,27 +6,25 @@
 ![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=240&d=blank)
 
 <div class="summary">
-    <ul class="fa-ul">
-        <li><i class="fa-li fa fa-briefcase"></i>Co-founder &amp; CXO at <a href="https://elementary.io/">elementary, Inc.</a></li>
-        <li><i class="fa-li fa fa-heart"></i>Spouse and bestie of <a href="https://katiemkblaede.com/">Katie M. K. Blaede</a></li>
-        <li><i class="fa-li fa fa-birthday-cake"></i><span id="age">{% include age.html %}</span> Years Old</li>
-        <li><i class="fa-li fa fa-map-marker"></i>Lives in <a href="https://www.google.com/maps/place/Englewood,+CO/@39.6888341,-104.9838867,12z/data=!4m2!3m1!1s0x876c807a9da33fb7:0x6620ef5f5fcfffc5">Englewood, CO (Denver area)</a></li>
-    </ul>
+  <ul class="fa-ul">
+    <li><i class="fa-li fa fa-briefcase"></i>Co-founder &amp; CXO at <a href="https://elementary.io/">elementary, Inc.</a></li>
+    <li><i class="fa-li fa fa-heart"></i>Spouse and bestie of <a href="https://katiemkblaede.com/">Katie M. K. Blaede</a></li>
+    <li><i class="fa-li fa fa-birthday-cake"></i><span id="age">{% include age.html %}</span> Years Old</li>
+    <li><i class="fa-li fa fa-map-marker"></i>Lives in <a href="https://www.google.com/maps/place/Englewood,+CO/@39.6888341,-104.9838867,12z/data=!4m2!3m1!1s0x876c807a9da33fb7:0x6620ef5f5fcfffc5">Englewood, CO (Denver area)</a></li>
+  </ul>
 </div>
 
 ## Apps
 
 I have a few apps available on AppCenter for [elementary OS](https://elementary.io). Check them out!
 
-| [![Clairvoyant icon](https://cassidyjames.github.io/clairvoyant/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant) | [![Dippi icon](https://cassidyjames.github.io/dippi/data/icons/128/com.github.cassidyjames.dippi.svg)](https://appcenter.elementary.io/com.github.cassidyjames.dippi) | [![Palette icon](https://cassidyjames.github.io/palette/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.palette) |
-|---|---|---|
-| [Clairvoyant](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant) | [Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) | [Palette](https://appcenter.elementary.io/com.github.cassidyjames.palette) |
+| [![Ephemeral icon](https://cassidyjames.github.io/ephemeral/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [![Ideogram icon](https://cassidyjames.github.io/ideogram/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [![Dippi icon](https://cassidyjames.github.io/dippi/data/icons/128/com.github.cassidyjames.dippi.svg)](https://appcenter.elementary.io/com.github.cassidyjames.dippi) |
+|--|--|--|
+| [Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [Ideogram](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) |
 
-
-| [![Principles icon](https://cassidyjames.github.io/principles/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [![Ideogram icon](https://cassidyjames.github.io/ideogram/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [![Ephemeral icon](https://cassidyjames.github.io/ephemeral/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) |
-|---|---|---|
-| [Principles](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [Ideogram](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) |
-
+| [![Palette icon](https://cassidyjames.github.io/palette/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [![Principles icon](https://cassidyjames.github.io/principles/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [![Clairvoyant icon](https://cassidyjames.github.io/clairvoyant/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant) |
+|--|--|--|
+| [Palette](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [Principles](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [Clairvoyant](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant) |
 
 ## What I Do
 
@@ -51,6 +49,8 @@ I **give talks** about UX and open source. I also sometimes appear on **podcasts
 ### Write
 
 I **write things** on the internet about UX, tech, and what I&rsquo;m up to. Some people think some of those things are smart.
+
+<a href="/blog" class="read-more blog"><i class="fa fa-fw fa-rss"></i>Read posts on Blog</a>
 
 <a href="https://medium.com/@cassidyjames" class="read-more medium"><i class="fab fa-fw fa-medium"></i>Read posts on Medium</a>
 
