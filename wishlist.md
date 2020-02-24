@@ -29,7 +29,8 @@ _A.k.a. a small number of things I’d absolutely love._
 |-------|------|-------|-------|
 | ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$299** | Chalk/white |
 | ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock) | **$279**ish? | Not released yet |
-| ![SSD](/images/ssd.jpg) | [2TB Samsung 860 QVO SSD](https://www.google.com/search?psb=1&tbm=shop&q=Samsung 860 QVO SSD 2TB) | **$200** | Not picky about brand or model, but I'd like a 2TB SSD that works in the PS4 |
+| ![SSD](/images/ssd.jpg) | [2TB Samsung 860 QVO SSD](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-qvo-2-5-sata-iii-2tb-mz-76q2t0b-am/) | **$230** | Not picky about brand or model, but I'd like a 2TB SSD that works in the PS4 |
+| ![Bluetooth](bluetooth.jpg) | [Aluratek Bluetooth Audio Transmitter](https://www.bestbuy.com/site/aluratek-bluetooth-audio-transmitter-black/6332920.p?skuId=6332920) | **$30** |  |
 
 <!--
 | ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75** | Not picky, but I've heard of Gobe and Hoya brands |
