@@ -1,6 +1,11 @@
 ---
 title: What is a Raspberry Pi?
 description: Answering a question I've been asked several times in the past week
+redirect_from:
+  - pi
+  - raspi
+  - raspberry-pi
+  - raspberrypi
 ---
 
 > Sometimes I forget how much of a bubble I'm in. Every day, I interact with Linux users and developers, fellow tech geeks, etc. online. My social media feeds—thanks in large part to algorithmic timelines pushing me what they think I'd like—are largely a bunch of tech folks talking about tech things.
