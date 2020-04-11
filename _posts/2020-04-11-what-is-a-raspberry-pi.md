@@ -44,7 +44,7 @@ Raspberry Pi computers are small. The largest—even put in a case—is only abo
 
 Similar to a smartphone, Raspberry Pi computers use lower-power processors. In fact, the Raspberry Pi is _probably_ less powerful than your phone—but that's largely due to the goal of being inexpensive to produce. They are powered by a typical phone charger, and you can even buy add-on batteries to make them portable.
 
-Thanks to their design, the lower-cost components, the economies of scale, and the fact that the Raspberry Pi Foundation is a charity, Raspberry Pi models range from $5 USD to $55 depending on the model. Remember that the computers only come with the main board, though—you'll need to supply your own power supply, microSD card, case, and other accessories as needed for your project. This helps keep the cost down, produce less electronic waste overall, and ensures you're not paying for 
+Thanks to their design, the lower-cost components, the economies of scale, and the fact that the Raspberry Pi Foundation is a charity, Raspberry Pi models range from $5 USD to $55 depending on the model. Remember that the computers only come with the main board, though—you'll need to supply your own power supply, microSD card, case, and other accessories as needed for your project. This helps keep the cost down, produce less electronic waste overall, and ensures you're not paying for components that you might not need for your project.
 
 ### Linux and projects
 
