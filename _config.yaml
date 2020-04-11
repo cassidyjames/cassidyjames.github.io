@@ -11,13 +11,16 @@ birthday: '1992-02-01 00:08:00 -0600'
 
 # Site-wide social info
 email: c@ssidyjam.es
-twitter: "@CassidyJames"
-github_user: cassidyjames
-square: "$cassidyjames"
-google-plus: "+CassidyJames"
-medium: "@cassidyjames"
-instagram: cassidy.james.blaede
+github_user: cassidyjames # user with no @
 gravatar: 41275ecc8271aca852ce2c0ff72d2610 # Gravatar md5 hash
+instagram: cassidy.james.blaede # user with no @
+mastodon: "https://mastodon.social/@cassidyjames" # whole URL since it's federated
+medium: "@cassidyjames" # including @ if user, none if publication
+pixelfed: "https://pixelfed.social/cassidyjames" # whole URL since it's federated
+square: "$cassidyjames" # Cash.app user, including $
+steam: cassidyjames # user/alias, no @
+twitter: "@CassidyJames" # user including @
+unsplash: "@cassidyjames" # user including @
 
 # Settings
 permalink: /blog/:title/

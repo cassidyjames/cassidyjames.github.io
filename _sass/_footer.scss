@@ -66,26 +66,43 @@ footer {
       background-color: #444;
     }
 
+    .medium a:hover,
+    .medium a:focus {
+      background-color: var(--medium);
+    }
+
+    .mastodon a:hover,
+    .mastodon a:focus {
+      background-color: var(--mastodon);
+    }
+
     .twitter a:hover,
     .twitter a:focus {
-      background-color: #55ACEE;
+      background-color: var(--twitter);
+    }
+
+    .unsplash a:hover,
+    .unsplash a:focus {
+      background-color: white;
+      color: black;
+      text-shadow: none;
+    }
+
+    .pixelfed a:hover,
+    .pixelfed a:focus {
+      background-color: var(--pixelfed);
     }
 
     .instagram a:hover,
     .instagram a:focus {
-      background-color: var(--instagram);
-      color: #000;
+      background-color: white;
+      color: black;
       text-shadow: none;
     }
 
     .square a:hover,
     .square a:focus {
       background-color: #3cd428;
-    }
-
-    .medium a:hover,
-    .medium a:focus {
-      background-color: var(--medium);
     }
 
     .email a:hover,
