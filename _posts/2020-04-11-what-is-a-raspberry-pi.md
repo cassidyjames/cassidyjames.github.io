@@ -54,6 +54,18 @@ While you can technically use a Raspberry Pi as a general-purpose computer, it i
 - [OctoPrint](https://octoprint.org/): manage and check up on your 3D printer remotely
 - [Kodi](https://kodi.tv/): watch movies and TV
 
+### Models
+
+Raspberry Pi model naming convention is super messy, especially for newcomers. I had to look it up to even get it right… Originally there was a Raspberry Pi 1 Model B. Then they followed it up with a slightly cheaper Raspberry Pi 1 Model A, then an improved Raspberry Pi 1 Model B+, then a more compact Raspberry Pi 1 Model A+, then Rapberry Pi 2 Model B, then Raspberry Pi Zero(!), then Raspberry Pi 2 Model B, Raspberry Pi 3 Model A+, Raspberry Pi 3 Model B+, then Raspberry Pi 4 Model B… yeah. [Wikipedia](https://en.wikipedia.org/wiki/Raspberry_Pi#Generations_of_released_models) has a great chart, but here's my takeaway:
+
+- **Rapberry Pi Zero (W)**: the cheapest, smallest, and lowest-power model. Due to the size, there's no Ethernet (without a USB adapter), and no full-size USB ports. Perfect for super low-profile and low-power projects. Requires lots of adapters if you need to connect normal-size USB, HDMI, etc. though. The "W" model includes Bluetooth and Wi-Fi, which is super convenient. $5–10 USD!
+
+- **Raspberry Pi 3 Model B+**: What you're gonna get as a "Pi 3" these days. Slightly improved from the Pi 3 Model B with a faster processor and significantly improved Ethernet speeds. Full-size HDMI is convenient! $35 USD.
+
+- **Raspberry Pi 4 (Model B)**: The latest, greatest model. Compared to the 3B+ it has a faster processor and GPU, faster RAM, a pair of USB 3 ports, more RAM for the same price or even more RAM if you're willing to pay more, faster Ethernet, Bluetooth 5, USB-C power, and an additional (mini) HDMI port. The only downsides are that it requires more power and requires an adapter or more specialty micro HDMI cable for the display. 2 GB RAM for $35, 4 GB RAM for $55.
+
+When buying cases, accessories, etc. make sure they are compatible with your model! Cases tend to be very specific, but things like cameras, "[HATs](https://www.raspberrypi.org/blog/introducing-raspberry-pi-hats/)" ("Hardware Attached on Top" expansion boards that sit on top, like a hat!), and displays are usually widely-compatible with the different models.
+
 ---
 
 Hopefully that gives a decent intro to what a Raspberry Pi is and what it can be used for! Let me know if you like Raspberry Pi content and want me to write in more detail about anything else… I've done a bunch of projects and probably have a lot to share. 😅️
