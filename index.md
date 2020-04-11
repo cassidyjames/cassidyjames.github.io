@@ -32,7 +32,7 @@ I have a few apps available on AppCenter for [elementary OS](https://elementary.
 
 I'm a **UX architect** who designs and builds useful, usable, and delightful **digital products** using **open technologies**.
 
-<a href="https://github.com/cassidyjames" class="read-more github"><i class="fab fa-fw fa-github"></i>Browse code on GitHub</a>
+<a href="https://github.com/{{ site.github_user }}" class="read-more github"><i class="fab fa-fw fa-github"></i>Browse code on GitHub</a>
 
 <a href="https://wiki.gnome.org/CassidyBlaede" class="read-more gnome"><i class="fa fa-fw fa-info-circle"></i>View GNOME profile</a>
 
@@ -52,21 +52,21 @@ I **write things** on the internet about UX, tech, and what I&rsquo;m up to. Som
 
 <a href="/blog" class="read-more blog"><i class="fa fa-fw fa-rss"></i>Read posts on Blog</a>
 
-<a href="https://medium.com/@cassidyjames" class="read-more medium"><i class="fab fa-fw fa-medium"></i>Read posts on Medium</a>
+<a href="https://medium.com/{{ site.medium }}" class="read-more medium"><i class="fab fa-fw fa-medium"></i>Read posts on Medium</a>
 
-<a rel="me" href="https://mastodon.social/@cassidyjames" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
+<a rel="me" href="{{ site.mastodon }}" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
 
-<a href="https://twitter.com/CassidyJames" class="read-more twitter"><i class="fab fa-fw fa-twitter"></i>See tweets</a>
+<a href="https://twitter.com/{{ site.twitter }}" class="read-more twitter"><i class="fab fa-fw fa-twitter"></i>See tweets</a>
 
 ### Photograph
 
 I take **photos** of my adventures (and my cat), mostly with my Pixel phone and Moment lenses.
 
-<a href="https://unsplash.com/@cassidyjames" class="read-more unsplash"><i class="fas fa-fw fa-camera"></i>View photos on Unsplash</a>
+<a href="https://unsplash.com/{{ site.unsplash }}" class="read-more unsplash"><i class="fas fa-fw fa-camera"></i>View photos on Unsplash</a>
 
-<a rel="me" href="https://pixelfed.social/cassidyjames" class="read-more pixelfed"><i class="fas fa-fw fa-camera-retro"></i>View photos on PixelFed</a>
+<a rel="me" href="{{ site.pixelfed }}" class="read-more pixelfed"><i class="fas fa-fw fa-camera-retro"></i>View photos on PixelFed</a>
 
-<a href="https://instagram.com/cassidy.james.blaede" class="read-more instagram"><i class="fab fa-fw fa-instagram"></i>View photos on Instagram</a>
+<a href="https://instagram.com/{{ site.instagram }}" class="read-more instagram"><i class="fab fa-fw fa-instagram"></i>View photos on Instagram</a>
 
 <a href="https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede" class="read-more moment"><i class="fas fa-fw fa-credit-card"></i>Moment lenses (referral)</a>
 
@@ -78,6 +78,6 @@ I play **games** when I can find the time. Usually on PS4, but occasionally on S
 
 <a href="switch" class="read-more switch"><i class="fab fa-fw fa-nintendo-switch"></i>Add on Nintendo Switch</a>
 
-<a href="http://steamcommunity.com/id/cassidyjames/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
+<a href="http://steamcommunity.com/id/{{ site.steam }}/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
 
 <a href="/gamepi" class="read-more gamepi"><i class="fa fa-fw fa-gamepad"></i>Learn about GamePi</a>
