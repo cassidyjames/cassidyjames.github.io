@@ -1,0 +1,14 @@
+figure {
+  margin: 2em auto;
+  
+  > p {
+    margin: 0;
+  }
+  
+  figcaption {
+    margin: 1em auto 2em;
+    font-size: 0.85em;
+    opacity: 0.75;
+    text-align: center;
+  }
+}
