@@ -30,14 +30,14 @@ _A.k.a. a small number of things I’d absolutely love._
 
 | Image | Link | Price | Notes |
 |-------|------|-------|-------|
-| ![Home Max](/images/max.png) | [Google Home Max](https://store.google.com/product/google_home_max) | **$299** | Chalk/white |
 | ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock) | **$279**ish? | Not released yet |
 | ![SSD](/images/ssd.jpg) | [2TB Samsung 860 QVO SSD](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-qvo-2-5-sata-iii-2tb-mz-76q2t0b-am/) | **$230** | Not picky about brand or model, but I'd like a 2TB SSD that works in the PS4 |
 | ![Bluetooth](/images/bluetooth.jpg) | [Aluratek Bluetooth Audio Transmitter](https://www.bestbuy.com/site/aluratek-bluetooth-audio-transmitter-black/6332920.p?skuId=6332920) | **$30** |  |
+| ![Pi Camera](/images/pi-camera.jpg) | [Pi NoIR Camera V2](https://www.raspberrypi.org/products/pi-noir-camera-v2/) | **$25** | Infrared, v2 |
+| ![PiDeco](/images/pideco.jpg) | [PiDeco Case](https://www.c4labs.com/product/pi-deco-camera-case-raspberry-pi-zero-zero-w-camera-module-v2-classic-wood/) | **$17** | For Pi Zero and camera |
 
 <!--
 | ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75** | Not picky, but I've heard of Gobe and Hoya brands |
-| ![Pi Camera](/images/pi-camera.jpg) | [RasPi Camera Module V2](http://www.microcenter.com/product/465935/Raspberry_Pi_Camera_Module_V2) | **$25** | |
 -->
 
 ---
