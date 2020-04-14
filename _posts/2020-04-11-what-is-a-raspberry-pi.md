@@ -6,6 +6,7 @@ redirect_from:
   - raspi
   - raspberry-pi
   - raspberrypi
+updated: 2020-04-11
 ---
 
 > Sometimes I forget how much of a bubble I'm in. Every day, I interact with Linux users and developers, fellow tech geeks, etc. online. My social media feeds—thanks in large part to algorithmic timelines pushing me what they think I'd like—are largely a bunch of tech folks talking about tech things.

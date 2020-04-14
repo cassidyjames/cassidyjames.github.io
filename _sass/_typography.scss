@@ -103,6 +103,7 @@ hr {
 }
 
 small {
+  font-size: smaller;
   opacity: 0.8;
 }
 
@@ -137,4 +138,39 @@ article time,
 .subtitle {
   font-size: 1.33em;
   margin: 0 auto 0.25em;
+}
+
+aside.updated,
+aside.disclaimer {
+  @extend small;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h6,
+  h6 {
+    color: var(--primary-color);
+    font-size: 1.25em;
+    letter-spacing: normal;
+  }
+}
+
+aside.disclaimer {
+  ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+
+    li {
+      padding-left: 1em;
+      text-indent: -1em;
+
+      &:before {
+        content: "✔️";
+        font-size: 1.25em;
+        padding-right: 0.25em;
+      }
+    }
+  }
 }

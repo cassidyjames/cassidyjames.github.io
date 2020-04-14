@@ -1,6 +1,7 @@
 ---
 title: Flathub on elementary OS
 redirect_from: /flathub
+updated: 2020-04-14
 ---
 
 <small>**Note**: this post contains some future-thinking from me, and doesn't necessarily match up with any plans or thoughts of elementary as a whole. There's a reason it's on my personal blog. 😉️</small>
@@ -74,7 +75,3 @@ Today, AppCenter separates non-curated apps (i.e. the ones coming from the Ubunt
 Similarly, we already provide pretty clear disclosure and warnings about the nature of installing non-curated apps: these apps haven't been reviewed or approved by elementary, they might not be provided by the original developers, they might not get updates, etc. We could combine this with information we get from apps' appstream data (assuming Flathub reviews and approves it) and the permissions the Flatpak is requesting to have even more precise disclosure.
 
 Given this, I _personally_ could see a future where Flathub was added out-of-the-box on elementary OS as a way to fill in those non-curated app gaps, with even more clear separation from curated apps and more precise disclosure of the implications of installing them. Perhaps it would require elementary OS migrating entirely to Wayland first—which is a goal, but seems to still be a ways off. Going even further, I could see a future where we add Flathub out of the box and remove apps from the Ubuntu repositories entirely—but perhaps that's a bit more cloudy in my imagination. 😉️
-
----
-
-<small markdown="1">This post contains the personal thoughts of me (Cassidy James Blaede), and doesn't necessarily represent any official stance of elementary, GNOME, Flatpak, or Flathub.</small>
