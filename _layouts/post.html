@@ -10,10 +10,29 @@ layout: default
   <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}" title="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%a, %b %e, %Y" }}</time>
   {% include read-time.html content = page.content %}
   {{ content }}
-  {% if page.updated %}
+
+  <hr />
+
+  <aside class="disclaimer">
+    {% capture md %}
+# Blog Ethics & Disclaimer
+
+- Zero tracking or analytics
+- No payment, hardware, or favors accepted unless explicitly noted
+
+These are **my personal thoughts**, and don’t represent any official stance of elementary, GNOME, or any other associated organization or open source project.
+    {% endcapture %}
+    {{ md | markdownify }}
+  </aside>
+
+  {% assign date_string = page.date | date: "%a, %b %e, %Y" %}
+  {% assign updated_string = page.updated | date: "%a, %b %e, %Y" %}
+  {% if page.updated and updated_string != date_string %}
   <aside class="updated">
-    <hr />
-    <small><p>This post was originally published on <strong>{{ page.date | date: "%a, %b %e, %Y" }}</strong>, but was most recently updated on <strong>{{ page.updated | date: "%a, %b %e, %Y" }}</strong>.</p></small>
+    {% capture md %}
+Originally published on **{{ page.date | date: "%a, %b %e, %Y" }}**, but most recently updated on **{{ page.updated | date: "%a, %b %e, %Y" }}**.
+    {% endcapture %}
+    {{ md | markdownify }}
   </aside>
   {% endif %}
 </article>
