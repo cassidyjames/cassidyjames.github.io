@@ -174,9 +174,14 @@ table {
   margin: 1.1em 0;
 }
 
-img[alt="Venmo barcode"] {
-  border-radius: 0.5em;
-  box-shadow: 0 0 0.75em rgba(0, 0, 0, 0.25);
+.card {
+  background-color: var(--faint);
+  border: 1px solid var(--faint);
+  border-radius: 0.4em;
+  box-shadow: 0 0.125em 1em rgba(0, 0, 0, 0.125);
+}
+
+.qr {
   max-width: 256px;
 }
 
