@@ -6,7 +6,9 @@ my way? Here you go.
 
 <h2><i class="fa fa-fw fa-dollar-sign"></i> Square Cash</h2>
 
-[Use Cash.me](https://cash.me/$cassidyjames) or send to $cassidyjames
+[![Venmo barcode](/images/cash.png){: class="card qr"}](https://cash.app/$cassidyjames)
+
+[cash.app/$cassidyjames](https://cash.app/$cassidyjames)
 
 
 <h2><i class="fab fa-fw fa-paypal"></i> PayPal</h2>
@@ -21,7 +23,7 @@ Send to cassidy.james.blaede@gmail.com or my phone number.
 
 <h2>Venmo</h2>
 
-[![Venmo barcode](/images/venmo.png)](https://venmo.com/cassidyjames)
+[![Venmo barcode](/images/venmo.png){: class="card qr"}](https://venmo.com/cassidyjames)
 
 [venmo.com/cassidyjames](https://venmo.com/cassidyjames)
 
