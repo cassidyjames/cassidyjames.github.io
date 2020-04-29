@@ -8,6 +8,7 @@
 <div class="summary">
   <ul class="fa-ul">
     <li><i class="fa-li fa fa-briefcase"></i>Co-founder &amp; CXO at <a href="https://elementary.io/">elementary, Inc.</a></li>
+    <li><i class="fa-li fa fa-pencil-ruler"></i>Open source UX architect</li>
     <li><i class="fa-li fa fa-heart"></i>Spouse and bestie of <a href="https://katiemkblaede.com/">Katie M. K. Blaede</a></li>
     <li><i class="fa-li fa fa-map-marker"></i>Lives in <a href="https://www.google.com/maps/place/Englewood,+CO/@39.6888341,-104.9838867,12z/data=!4m2!3m1!1s0x876c807a9da33fb7:0x6620ef5f5fcfffc5">Englewood, CO (Denver area)</a></li>
   </ul>
