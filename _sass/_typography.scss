@@ -51,6 +51,16 @@ h2 {
   letter-spacing: -0.05em;
   margin: 0;
   margin-top: 1em;
+
+  strong,
+  em {
+    display: inline-block;
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: normal;
+    margin-left: 0.25em;
+    opacity: 0.8;
+  }
 }
 
 h3 {
@@ -65,6 +75,14 @@ h3 {
     font-style: normal;
     font-weight: normal;
     line-height: 2em;
+  }
+
+  strong {
+    display: inline-block;
+    font-size: 0.75em;
+    font-weight: normal;
+    margin-left: 0.25em;
+    opacity: 0.8;
   }
 }
 

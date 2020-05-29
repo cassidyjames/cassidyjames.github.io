@@ -26,6 +26,27 @@ unsplash: "@cassidyjames" # user including @
 permalink: /blog/:title/
 markdown: kramdown
 
+collections:
+  products:
+    output: true
+    permalink: /store/:path
+
+defaults:
+  - scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 # Plugins
 plugins:
   - jekyll-feed
