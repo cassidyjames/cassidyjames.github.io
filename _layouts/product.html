@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1>Cassidy’s Store</h1>
+
+{% if page.images %}
+  <div class="images">
+    {% for image in page.images %}
+      <img src="{{ image }}" />
+    {% endfor %}
+  </div>
+{% endif %}
+
+<h2>{{ page.title }} <em>${{ page.price }}</em></h2>
+
+{{ content }}
+
+{% if page.checkout %}
+<div style="text-align: right;">
+  <a href="{{ page.checkout }}" class="button">Buy Now</a>
+</div>
+{% endif %}

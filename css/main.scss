@@ -229,12 +229,48 @@ table {
       width: 100px;
     }
   }
+}
 
-  h3 strong {
-    display: inline-block;
-    font-size: 0.75em;
-    font-weight: normal;
-    margin-left: 0.25em;
-    opacity: 0.8;
+.images {
+  display: flex;
+
+  img {
+    background-color: var(--faint);
+    border: 1px solid var(--faint);
+    border-radius: 0.4em;
+    box-shadow: 0 0 rgba(0, 0, 0, 0);
+    cursor: zoom-in;
+    // flex-grow: 1;
+    margin: 0.25em;
+    transition: all 100ms ease-in-out;
+
+    &:hover {
+      box-shadow: 0 0.125em 1em rgba(0, 0, 0, 0.125);
+      transform: scale(1.67);
+    }
+  }
+}
+
+.products {
+  display: flex;
+  margin-top: 2em;
+
+  .product {
+    @extend .card;
+    background-color: var(--bg-color);
+    max-width: 256px;
+    flex-grow: 1;
+
+    img {
+      border-radius: 0.4em 0.4em 0 0;
+    }
+
+    h3 {
+      margin: 0.75rem;
+    }
+
+    p {
+      margin: 0.75rem;
+    }
   }
 }
