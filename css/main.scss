@@ -233,14 +233,14 @@ table {
 
 .images {
   display: flex;
+  flex-wrap: nowrap;
 
-  img {
+  > * {
     background-color: var(--faint);
     border: 1px solid var(--faint);
     border-radius: 0.4em;
     box-shadow: 0 0 rgba(0, 0, 0, 0);
     cursor: zoom-in;
-    // flex-grow: 1;
     margin: 0.25em;
     transition: all 100ms ease-in-out;
 
@@ -248,6 +248,10 @@ table {
       box-shadow: 0 0.125em 1em rgba(0, 0, 0, 0.125);
       transform: scale(1.67);
     }
+  }
+
+  img {
+    border-radius: 0.4em;
   }
 }
 
