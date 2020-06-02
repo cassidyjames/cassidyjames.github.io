@@ -125,18 +125,21 @@ small {
   opacity: 0.8;
 }
 
-blockquote {
+blockquote,
+aside p {
   border-left: 0.25em solid var(--faint);
   margin-left: 0.25em;
   opacity: 0.8;
   padding-left: 0.5em;
 }
 
-aside blockquote {
+aside blockquote p {
   border: none;
   font-size: 1.75em;
   font-style: italic;
   margin-left: 0.75em;
+  opacity: 1;
+  padding-left: 0;
 }
 
 article p {
