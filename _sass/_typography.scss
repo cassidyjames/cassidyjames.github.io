@@ -120,13 +120,13 @@ hr {
   margin: 3em auto;
 }
 
-small {
+small,
+aside p {
   font-size: smaller;
   opacity: 0.8;
 }
 
-blockquote,
-aside p {
+blockquote {
   border-left: 0.25em solid var(--faint);
   margin-left: 0.25em;
   opacity: 0.8;
