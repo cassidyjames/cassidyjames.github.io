@@ -66,17 +66,15 @@ img {
   &::after {
     color: inherit;
     content: "→";
-    font-family: "FontAwesome";
     font-style: normal;
     font-weight: inherit;
-    margin-top: 0.2em;
-    padding-left: 0.375em;
+    padding-left: 0.125em;
     position: absolute;
     transition: padding 0.15s ease-in-out;
   }
 
   &:hover::after {
-    padding-left: 0.625em;
+    padding-left: 0.5em;
   }
 
   i,
@@ -87,55 +85,55 @@ img {
   img {
     display: inline;
   }
-}
 
-.read-more:hover i {
-  opacity: 1;
-}
+  &:hover i {
+    opacity: 1;
+  }
 
-.read-more.twitter {
-  color: var(--twitter);
-}
+  &.twitter {
+    color: var(--twitter);
+  }
 
-.read-more.gnome {
-  color: var(--gnome);
-}
+  &.gnome {
+    color: var(--gnome);
+  }
 
-.read-more.unsplash,
-.read-more.instagram {
-  color: var(--neutral);
-}
+  &.unsplash,
+  &.instagram {
+    color: var(--neutral);
+  }
 
-.read-more.pixelfed {
-  color: var(--pixelfed);
-}
+  &.pixelfed {
+    color: var(--pixelfed);
+  }
 
-.read-more.mastodon {
-  color: var(--mastodon);
-}
+  &.mastodon {
+    color: var(--mastodon);
+  }
 
-.read-more.medium {
-  color: var(--medium);
-}
+  &.medium {
+    color: var(--medium);
+  }
 
-.read-more.github {
-  color: var(--github);
-}
+  &.github {
+    color: var(--github);
+  }
 
-.read-more.steam {
-  color: var(--steam);
-}
+  &.steam {
+    color: var(--steam);
+  }
 
-.read-more.switch {
-  color: var(--switch);
-}
+  &.switch {
+    color: var(--switch);
+  }
 
-.read-more.youtube {
-  color: var(--youtube);
-}
+  &.youtube {
+    color: var(--youtube);
+  }
 
-.read-more.psn {
-  color: var(--psn);
+  &.psn {
+    color: var(--psn);
+  }
 }
 
 img[alt="Me"] {
