@@ -21,7 +21,7 @@ A barebones place for my thoughts. Most of my writing is on the [elementary blog
 
 {{ post.content | strip_html | truncatewords: 24 }}
 
-[Read more →]({{ post.url }})
+[Read more]({{ post.url }}){: class="read-more"}
 
   {% endunless %}
 {% endfor %}
