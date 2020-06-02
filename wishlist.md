@@ -30,10 +30,10 @@ _A.k.a. a small number of things I’d absolutely love._
 
 | Image | Link | Price | Notes |
 |-------|------|-------|-------|
-| ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock) | **$279**ish? | Not released yet |
-| ![SSD](/images/ssd.jpg) | [2TB Samsung 860 QVO SSD](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-qvo-2-5-sata-iii-2tb-mz-76q2t0b-am/) | **$230** | Not picky about brand or model, but I'd like a 2TB SSD that works in the PS4 |
-| ![Bluetooth](/images/bluetooth.jpg) | [Aluratek Bluetooth Audio Transmitter](https://www.bestbuy.com/site/aluratek-bluetooth-audio-transmitter-black/6332920.p?skuId=6332920) | **$30** |  |
-| ![Pi Camera](/images/pi-camera.jpg) | [Pi NoIR Camera V2](https://www.raspberrypi.org/products/pi-noir-camera-v2/) | **$25** | Infrared, v2 |
+| ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock) | **$250** | Silver |
+| ![SSD](/images/ssd.jpg) | [2TB Samsung 860 QVO SSD](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-qvo-2-5-sata-iii-2tb-mz-76q2t0b-am/) | **$250** | Not picky about brand or model, but I'd like a 2TB SSD that works in the PS4 |
+| ![Bluetooth](/images/bluetooth.jpg) | [Aluratek Bluetooth Audio Transmitter](https://www.bestbuy.com/site/aluratek-bluetooth-audio-transmitter-black/6332920.p?skuId=6332920) | **$30** | Or similar: ~50 ft transmitter range, works when plugged into power  |
+| ![Pi Camera](/images/pi-camera.jpg) | [Pi NoIR Camera V2](https://www.raspberrypi.org/products/pi-noir-camera-v2/) | **$25** | Infrared camera for Raspberry Pi; does not need to be this exact model/listing |
 | ![PiDeco](/images/pideco.jpg) | [PiDeco Case](https://www.c4labs.com/product/pi-deco-camera-case-raspberry-pi-zero-zero-w-camera-module-v2-classic-wood/) | **$17** | For Pi Zero and camera |
 
 <!--
@@ -44,7 +44,7 @@ _A.k.a. a small number of things I’d absolutely love._
 
 ## GiftHero Wishlist
 
-I'm trying GiftHero as a more traditional, sprawling wishlist. It's sort of sorted by priority by default, but you can sort by price as well. It includes shortlist items, things from the idea list, and a whole bunch more.
+I use GiftHero as a more traditional, sprawling wishlist. It's _sort of_ sorted by priority by default, but you can sort by price as well. It includes shortlist items, things from the idea list, and a whole bunch more.
 
 <div style="text-align: center;" markdown="1">
 [View GiftHero Wishlist](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: class="button"}
@@ -99,49 +99,6 @@ _A.k.a. stuff to do instead of just… stuff._
 
 ---
 
-## Vinyl LPs
-
-_A.k.a. Katie got a turntable so I need some music…_ 🙃️
-
-In no particular order at all.
-
-- Blade Runner Soundtrack
-- Hamilton (Original Broadway Cast Recording)
-- Uncharted Nathan Drake Collection
-- [The Music of Destiny](https://bungiestore.com/products/the-music-of-destiny-volume-i-limited-edition-collectors-vinyl-box-set) - This was a limited-release, so it's on eBay for like $300. 😬️
-- Star Wars Soundtracks
-  - Episode I: The Phantom Menace
-  - Episode II: Attack of the Clones
-  - Episode III: Revenge of the Sith
-  - Episode V: The Empire Strikes Back
-  - Episode VI: Return of the Jedi
-  - Episode VII: The Force Awakens
-  - Episode VIII: The Last Jedi
-  - Episode IX: The Rise of Skywalker
-  - Solo: A Star Wars Story
-- Twenty-One Pilots
-  - Trench
-  - Blurryface
-  - Twenty-One Pilots (self-titled)
-- Fall Out Boy
-  - Take This to Your Grave
-  - Infinity on High
-  - American Beauty/American Psycho
-  - From Under the Cork Tree
-  - Save Rock and Roll
-  - Folie á Deux
-- Panic! at the Disco
-  - A Fever You Can't Sweat Out
-  - Too Weird to Live, Too Rare to Die
-  - Vices & Virtues
-  - Pretty. Odd.
-- Blue Neighborhood by Troye Sivan
-- Third Stage by Boston
-- Zelda & Chill
-- FANDOM by Waterparks
-
----
-
 ## LEGO
 
 _A.k.a. gifts for someone who grows older but refuses to grow up._
@@ -188,3 +145,50 @@ Instead of giving to me directly, you can always give to one of these causes. I�
 ### [Wikimedia Foundation](https://wikimediafoundation.org/)
 
 >Imagine a world in which every single human being can freely share in the sum of all knowledge.
+
+---
+
+<details markdown="1">
+<summary markdown="1">
+## Vinyl LPs
+</summary>
+
+_A.k.a. Katie got a turntable so I need some music…_ 🙃️
+
+In no particular order at all.
+
+- Blade Runner Soundtrack
+- Hamilton (Original Broadway Cast Recording)
+- Uncharted Nathan Drake Collection
+- [The Music of Destiny](https://bungiestore.com/products/the-music-of-destiny-volume-i-limited-edition-collectors-vinyl-box-set) - This was a limited-release, so it's on eBay for like $300. 😬️
+- Star Wars Soundtracks
+  - Episode I: The Phantom Menace
+  - Episode II: Attack of the Clones
+  - Episode III: Revenge of the Sith
+  - Episode V: The Empire Strikes Back
+  - Episode VI: Return of the Jedi
+  - Episode VII: The Force Awakens
+  - Episode VIII: The Last Jedi
+  - Episode IX: The Rise of Skywalker
+  - Solo: A Star Wars Story
+- Twenty-One Pilots
+  - Trench
+  - Blurryface
+  - Twenty-One Pilots (self-titled)
+- Fall Out Boy
+  - Take This to Your Grave
+  - Infinity on High
+  - American Beauty/American Psycho
+  - From Under the Cork Tree
+  - Save Rock and Roll
+  - Folie á Deux
+- Panic! at the Disco
+  - A Fever You Can't Sweat Out
+  - Too Weird to Live, Too Rare to Die
+  - Vices & Virtues
+  - Pretty. Odd.
+- Blue Neighborhood by Troye Sivan
+- Third Stage by Boston
+- FANDOM by Waterparks
+
+</details>
