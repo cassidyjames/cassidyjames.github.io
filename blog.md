@@ -13,6 +13,15 @@ A barebones place for my thoughts. Most of my writing is on the [elementary blog
     {% if post.updated %}
       {% assign date = post.updated %}
     {% endif %}
-- [{{ post.title }}]({{ post.url }}) {{ date | date: "%a, %b %e, %Y" }}
+### [{{ post.title }}]({{ post.url }}) **{{ date | date: "%a, %b %e, %Y" }}**
+
+{% if post.description %}
+#### {{ post.description }}
+{% endif %}
+
+{{ post.content | strip_html | truncatewords: 24 }}
+
+[Read more →]({{ post.url }})
+
   {% endunless %}
 {% endfor %}
