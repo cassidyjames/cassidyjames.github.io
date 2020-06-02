@@ -4,7 +4,7 @@ Want to buy me a drink, pay me back for something, help fund my apps, or otherwi
 my way? Here you go.
 
 
-<h2><i class="fa fa-fw fa-dollar-sign"></i> Square Cash</h2>
+<h2><i class="fa fa-fw fa-dollar-sign"></i> Cash App</h2>
 
 [![Venmo barcode](/images/cash.png){: class="card qr"}](https://cash.app/$cassidyjames)
 
