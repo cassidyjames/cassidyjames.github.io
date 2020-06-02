@@ -163,8 +163,6 @@ article time,
 
 aside.updated,
 aside.disclaimer {
-  @extend small;
-
   h1,
   h2,
   h3,
@@ -179,6 +177,8 @@ aside.disclaimer {
 
 aside.disclaimer {
   ul {
+    @extend small;
+
     list-style: none;
     margin-left: 0;
     padding-left: 0;
