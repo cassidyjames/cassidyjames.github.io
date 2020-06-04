@@ -1,3 +1,9 @@
+---
+redirect_from: 
+  - /resume
+  - /resume/
+---
+
 # Cassidy James Blaede
 
 ## Objective
