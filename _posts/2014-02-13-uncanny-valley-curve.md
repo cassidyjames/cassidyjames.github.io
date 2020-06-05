@@ -5,7 +5,7 @@ redirect_from: /uncanny
 updated: 2020-06-02
 ---
 
-The [Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley) is the idea that there’s a curve related to a human-like object’s **level of realism** and how **acceptable** we perceive it to be. It's a phenonmenon observed everywhere from robotics to animation and dolls.
+The [Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley) is the idea that there’s a curve related to a human-like object’s **level of realism** and how **acceptable** we perceive it to be. It's a phenomenon observed everywhere from robotics to animation and dolls.
 
 <figure markdown="1">
 ![The Uncanny Valley Curve](/images/blog/the-uncanny-valley-curve/valley.png){: class="card"}
@@ -52,4 +52,6 @@ In the end, the Uncanny Valley is an interesting concept to keep in mind when mo
 
 ---
 
-<small>An early version of this post and the associated graphics were originally authored by me at VLGUX.com. It has since been largely updated and rewritten here.</small>
+<small markdown="1">
+An [early version of this post](https://vlgux.com/blog/the-uncanny-valley/) was authored by me in 2014 for Visual Logic. It has since been updated and largely rewritten here.
+</small>
