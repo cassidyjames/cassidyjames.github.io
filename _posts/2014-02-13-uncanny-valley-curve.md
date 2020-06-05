@@ -1,6 +1,7 @@
 ---
 title: 'The “Uncanny Valley” Curve'
 description: How creepy robots relate to skeuomorphism and UX
+image: /images/blog/the-uncanny-valley-curve/valley.png
 redirect_from: /uncanny
 updated: 2020-06-05
 ---
