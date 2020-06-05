@@ -1,6 +1,7 @@
 ---
 title: What is a Raspberry Pi?
 description: Answering a question I've been asked several times in the past week
+image: /images/pi4_1600.jpg
 redirect_from:
   - pi
   - raspi
