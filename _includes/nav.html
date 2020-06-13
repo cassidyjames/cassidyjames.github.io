@@ -1,7 +1,7 @@
 <nav>
   {% assign current = page.url | downcase | split: '/' %}
 
-  <a href="/" {% if current[1] == null %}class='current'{% endif %}><img alt="Me" src="https://www.gravatar.com/avatar/{{ site.gravatar }}?s=240&d=blank" /> Home</a>
+  <a href="/" {% if current[1] == null %}class='current'{% endif %} title="Home"><img class="avatar" alt="Cassidy James" src="https://www.gravatar.com/avatar/{{ site.gravatar }}?s=240&d=blank" /></a>
   <a href="/blog" {% if current[1] == 'blog' %}class='current'{% endif %}>Blog</a>
   <a href="/wishlist" {% if current[1] == 'wishlist' %}class='current'{% endif %}>Wishlist</a>
   <a href="/pay" {% if current[1] == 'pay' %}class='current'{% endif %}>Pay</a>
