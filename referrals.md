@@ -9,6 +9,20 @@ Services or products I recommend. If you sign up/purchase using these links, I'l
 
 ---
 
+## Autonomous **Up to $200 off**
+
+Autonomous makes motorized standing desks, standing desk kits, office chairs, and accessories. They're relatively affordable for the quality you get, and have a ton of options.
+
+I have their home office SmartDesk DIY Kit in black (though I wish I would have gotten white to match other furniture!). I've slapped an IKEA Gerton tabletop on top for an awesome motorized convertible sit/stand desk.
+
+<div style="text-align: center;" markdown="1">
+[Shop Autonomous](https://bit.ly/2AHm3HE){: class="button"}
+</div>
+
+**Referral disclosure:** I earn 5–10% store credit for referrals, depending on the order value. [Details](https://www.autonomous.ai/customer/referrals).
+
+---
+
 ## Fastmail **10% off first year**
 
 Privacy-respecting and ad-free email. Awesome service, great web client, lightning fast mobile apps, great people. Keep your email private and out of the hands of giant ad networks.
@@ -59,7 +73,7 @@ I like the pre-made drinks for the convenience of a nutritionally-complete meal 
 [Get $10 off Soylent](http://rwrd.io/zv4svqh){: class="button"}
 </div>
 
-**Referral disclosure:** I receive $10 credit when you subscribe. [Details](https://soylent.com/pages/refer).
+**Referral disclosure:** I receive $10 store credit when you subscribe. [Details](https://soylent.com/pages/refer).
 
 ---
 
