@@ -142,7 +142,9 @@ aside blockquote p {
   padding-left: 0;
 }
 
-article p {
+article p,
+.article p,
+.referrals p {
   margin: 1.25em auto;
 }
 
