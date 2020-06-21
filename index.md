@@ -18,13 +18,13 @@
 
 I have a few apps available on AppCenter for [elementary OS](https://elementary.io). Check them out!
 
-| [![Ephemeral icon](https://github.com/cassidyjames/ephemeral/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [![Ideogram icon](https://github.com/cassidyjames/ideogram/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [![Dippi icon](https://cassidyjames.github.io/dippi/data/icons/128/com.github.cassidyjames.dippi.svg)](https://appcenter.elementary.io/com.github.cassidyjames.dippi) |
-|--|--|--|
-| [Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [Ideogram](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) |
+[![Ephemeral icon](https://github.com/cassidyjames/ephemeral/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [![Ideogram icon](https://github.com/cassidyjames/ideogram/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [![Dippi icon](https://cassidyjames.github.io/dippi/data/icons/128/com.github.cassidyjames.dippi.svg)](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
+--- | --- | ---
+[Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [Ideogram](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
 
-| [![Palette icon](https://github.com/cassidyjames/palette/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [![Principles icon](https://cassidyjames.github.io/principles/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [![Clairvoyant icon](https://cassidyjames.github.io/clairvoyant/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant) |
-|--|--|--|
-| [Palette](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [Principles](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [Clairvoyant](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant) |
+[![Palette icon](https://github.com/cassidyjames/palette/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [![Principles icon](https://cassidyjames.github.io/principles/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [![Clairvoyant icon](https://cassidyjames.github.io/clairvoyant/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant)
+--- | --- | ---
+[Palette](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [Principles](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [Clairvoyant](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant)
 
 ## What I Do
 
