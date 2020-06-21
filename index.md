@@ -22,7 +22,7 @@ I have a few apps available on AppCenter for [elementary OS](https://elementary.
 |--|--|--|
 | [Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [Ideogram](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) |
 
-| [![Palette icon](https://cassidyjames.github.io/palette/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [![Principles icon](https://cassidyjames.github.io/principles/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [![Clairvoyant icon](https://cassidyjames.github.io/clairvoyant/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant) |
+| [![Palette icon](https://github.com/cassidyjames/palette/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [![Principles icon](https://cassidyjames.github.io/principles/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [![Clairvoyant icon](https://cassidyjames.github.io/clairvoyant/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant) |
 |--|--|--|
 | [Palette](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [Principles](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [Clairvoyant](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant) |
 
