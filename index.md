@@ -18,7 +18,7 @@
 
 I have a few apps available on AppCenter for [elementary OS](https://elementary.io). Check them out!
 
-| [![Ephemeral icon](https://cassidyjames.github.io/ephemeral/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [![Ideogram icon](https://cassidyjames.github.io/ideogram/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [![Dippi icon](https://cassidyjames.github.io/dippi/data/icons/128/com.github.cassidyjames.dippi.svg)](https://appcenter.elementary.io/com.github.cassidyjames.dippi) |
+| [![Ephemeral icon](https://github.com/cassidyjames/ephemeral/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [![Ideogram icon](https://github.com/cassidyjames/ideogram/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [![Dippi icon](https://cassidyjames.github.io/dippi/data/icons/128/com.github.cassidyjames.dippi.svg)](https://appcenter.elementary.io/com.github.cassidyjames.dippi) |
 |--|--|--|
 | [Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [Ideogram](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) |
 
