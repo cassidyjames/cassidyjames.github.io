@@ -20,6 +20,6 @@ layout: default
 
 {% if page.checkout %}
 <div style="text-align: right;">
-  <a href="{{ page.checkout }}" class="button">Buy Now</a>
+  <a href="{{ page.checkout }}" class="button" onclick="plausible('Product: {{ page.title }}')">Buy Now</a>
 </div>
 {% endif %}
