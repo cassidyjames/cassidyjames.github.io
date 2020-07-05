@@ -48,7 +48,7 @@ _A.k.a. a small number of things I’d absolutely love._
 I use Gift Hero as a more traditional, sprawling wish list. It's _sort of_ sorted by priority by default, but you can sort by price as well. It includes shortlist items, things from the idea list, and a whole bunch more.
 
 <div style="text-align: center;" markdown="1">
-[View Gift Hero Wish List](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: class="button" onclick="Plausible('Wishlist: Gift Hero');"}
+[View Gift Hero Wish List](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: class="button" onclick="plausible('Wishlist: Gift Hero');"}
 </div>
 
 ---
@@ -65,13 +65,13 @@ I've started collecting quality pins for my backpack—like ones with good backs
 
 **18mm two-piece quick-release is required for my watch**
 
-I have a coral silicone set and a white cordura set, but I enjoy swapping out the watch bands on my Fossil Sport. It's the red model, so white, black, and red colors go well with it. [ClockWorkSynergy](https://www.clockworksynergy.com/){: onclick="Plausible('Wishlist: ClockWorkSynergy');"} is pretty affordable, but Fossil and others also sell watch bands/straps.
+I have a coral silicone set and a white cordura set, but I enjoy swapping out the watch bands on my Fossil Sport. It's the red model, so white, black, and red colors go well with it. [ClockWorkSynergy](https://www.clockworksynergy.com/){: onclick="plausible('Wishlist: ClockWorkSynergy');"} is pretty affordable, but Fossil and others also sell watch bands/straps.
 
 ### Fun gauges/plugs **$5–20**
 
 **0g/8mm size**
 
-I like almost anything! Bright colors, unique designs, and interesting patterns are always good. I like [Arctic Buffalo](https://arcticbuffalo.com/collections/0g-8mm-filter){: onclick="Plausible('Wishlist: Arctic Buffalo');"} since they're pretty affordable. Hot Topic also usually has a fun assortment.
+I like almost anything! Bright colors, unique designs, and interesting patterns are always good. I like [Arctic Buffalo](https://arcticbuffalo.com/collections/0g-8mm-filter){: onclick="plausible('Wishlist: Arctic Buffalo');"} since they're pretty affordable. Hot Topic also usually has a fun assortment.
 
 ### Hubless Wi-Fi smart lighting **$10–\$\$\$**
 
@@ -95,7 +95,7 @@ _A.k.a. stuff to do instead of just… stuff._
 * Regal Cinemas movie tickets (date night!)
 * Local Denver food gift certificates (more date nights!)
 * Denver museum or zoo tickets
-* [Denver Center for the Performing Arts](https://denvercenter.org){: onclick="Plausible('Wishlist: DCPA');"} gift certificate
+* [Denver Center for the Performing Arts](https://denvercenter.org){: onclick="plausible('Wishlist: DCPA');"} gift certificate
 * _Panic! at the Disco_, _Fall Out Boy_, or _Twenty-One Pilots_ concert tickets
 
 ---
@@ -104,7 +104,7 @@ _A.k.a. stuff to do instead of just… stuff._
 
 _A.k.a. gifts for someone who grows older but refuses to grow up._
 
-I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames){: onclick="Plausible('Wishlist: Brickset');"}. It’s usually kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
+I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames){: onclick="plausible('Wishlist: Brickset');"}. It’s usually kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
 
 ---
 
@@ -131,19 +131,19 @@ _A.k.a. do good on my behalf!_
 
 Instead of giving to me directly, you can always give to one of these causes. I’m passionate about each one and they all could use monetary support.
 
-### [Electronic Frontier Foundation](https://www.eff.org/){: onclick="Plausible('Wishlist: EFF');"}
+### [Electronic Frontier Foundation](https://www.eff.org/){: onclick="plausible('Wishlist: EFF');"}
 
 >Defending digital privacy, free speech, and innovation.
 
-### [GNOME Foundation](https://www.gnome.org/support-gnome/donate/){: onclick="Plausible('Wishlist: GNOME Foundation');"}
+### [GNOME Foundation](https://www.gnome.org/support-gnome/donate/){: onclick="plausible('Wishlist: GNOME Foundation');"}
 
 >Helping create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use.
 
-### [Girls Who Code](https://girlswhocode.com/){: onclick="Plausible('Wishlist: Girls Who Code');"}
+### [Girls Who Code](https://girlswhocode.com/){: onclick="plausible('Wishlist: Girls Who Code');"}
 
 >Closing the gender gap in tech, one girl at a time.
 
-### [Wikimedia Foundation](https://wikimediafoundation.org/){: onclick="Plausible('Wishlist: Wikimedia Foundation');"}
+### [Wikimedia Foundation](https://wikimediafoundation.org/){: onclick="plausible('Wishlist: Wikimedia Foundation');"}
 
 >Imagine a world in which every single human being can freely share in the sum of all knowledge.
 
