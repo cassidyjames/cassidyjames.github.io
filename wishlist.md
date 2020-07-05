@@ -43,12 +43,12 @@ _A.k.a. a small number of things I’d absolutely love._
 
 ---
 
-## GiftHero Wishlist
+## Gift Hero Wish List
 
-I use GiftHero as a more traditional, sprawling wishlist. It's _sort of_ sorted by priority by default, but you can sort by price as well. It includes shortlist items, things from the idea list, and a whole bunch more.
+I use Gift Hero as a more traditional, sprawling wish list. It's _sort of_ sorted by priority by default, but you can sort by price as well. It includes shortlist items, things from the idea list, and a whole bunch more.
 
 <div style="text-align: center;" markdown="1">
-[View GiftHero Wishlist](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: class="button"}
+[View Gift Hero Wish List](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: class="button" onclick="Plausible('Wishlist: Gift Hero');"}
 </div>
 
 ---
