@@ -113,6 +113,11 @@ p,
 ul,
 ol {
   margin: 0.5em auto;
+
+  ul,
+  ol {
+    margin: 0 auto;
+  }
 }
 
 hr {
@@ -120,10 +125,24 @@ hr {
   margin: 3em auto;
 }
 
+kbd {
+  background: var(--background-color);
+  border: 1px solid var(--faint);
+  border-radius: 0.125em;
+  box-shadow: inset 0 -1px rgba(255, 255, 255, 0.25);
+  color: var(--neutral);
+  display: inline-block;
+  font-family: inherit;
+  font-size: 0.8em;
+  font-weight: 600;
+  line-height: 1em;
+  padding: 0.25em 0.4em 0.33em;
+}
+
 small,
 aside p {
   font-size: smaller;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 blockquote {
