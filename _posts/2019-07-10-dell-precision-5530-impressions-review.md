@@ -1,5 +1,5 @@
 ---
-title: Dell Precision 5530 Impressions & Review
+title: Dell Precision 5530 Impressions
 description: A beastly Linux laptop, with some caveats
 image: /images/precision-elementary.jpg
 redirect_from: /5530
