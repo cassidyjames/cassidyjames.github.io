@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% assign date_string = page.date | date: "%a, %b %e, %Y" %}
+{% assign updated_string = page.updated | date: "%a, %b %e, %Y" %}
 
 <h1>Cassidy’s Blog</h1>
 
@@ -9,7 +11,7 @@ layout: default
 
   {% if page.description %}<p class="subtitle">{{ page.description }}</p>{% endif %}
 
-  {% if page.updated %}
+  {% if page.updated and updated_string != date_string %}
     <time class="updated-date" datetime="{{ page.updated | date:"%Y-%m-%d" }}">Updated {{ page.updated | date: "%a, %b %e, %Y" }}</time>
   {% else %}
     <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%a, %b %e, %Y" }}</time>
@@ -33,8 +35,6 @@ These are **my personal thoughts**, and don’t represent any official stance of
     {{ md | markdownify }}
   </aside>
 
-  {% assign date_string = page.date | date: "%a, %b %e, %Y" %}
-  {% assign updated_string = page.updated | date: "%a, %b %e, %Y" %}
   {% if page.updated and updated_string != date_string %}
   <aside class="updated">
     {% capture md %}

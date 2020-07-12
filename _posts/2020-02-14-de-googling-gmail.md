@@ -3,6 +3,7 @@ title: "De-Googling: Gmail"
 description: The first step I recommend
 hidden: true
 redirect_from: /gmail
+updated: 2020-02-14
 ---
 
 I've wanted to have more control over my email for a long time, and consequently migrated most accounts to non-@gmail.com email addresses that were set up as forwarders on my website's domain. As such, there are very few emails that actually go to my Gmail address. **This is a first step I recommend anyone even remotely thinking about de-Googling perform**; getting your email address out of the hands of any given company and owning it yourself is useful, but takes time to catch and change old accounts, inform (and remind!) old friends, etc. Do it early to prevent headaches later.
