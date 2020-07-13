@@ -57,13 +57,15 @@ I'll get into details later, but the basic specs of the Slimbook Pro X I receive
   - 19 Volt/3.42 Amp
   - European plug, but with a standard ["Mickey Mouse" C6 inlet](https://en.wikipedia.org/wiki/IEC_60320#C5) on the brick, meaning I could use an existing C5 cord with a US plug from another laptop
 
-### Weight and noise **Light and quiet**
+### Weight, build, and noise **Light, fairly solid, and quiet**
 
-#### It's (disconcertingly?) lightweight
+These physical characteristics are pretty subjective, at least how I'll cover them here—different people value different aspects of a laptop.
+
+#### Very (disconcertingly?) lightweight
 
 The most consistent thing I—and others when I hand it to them—think about this hardware is, "It's _so light!"_ Like, to the point where I was honestly concerned if there was even any hardware inside it when I picked it up for the first time. It may seem silly, but it reveals a few things:
 
-1. Magnesium—and whatever other materials they're employing here—is a great material for making lightweight laptops.
+1. Magnesium is a great material for making lightweight laptops.
 
 2. A glass touchscreen (like on [my Dell Precision 5530](/5530)) adds a _ton_ of heft—in addition to all the glare.
 
@@ -72,6 +74,24 @@ The most consistent thing I—and others when I hand it to them—think about th
 I would have to do a teardown (maybe eventually, but not today!), but I also wonder if the internal design is as efficient as it could be. Yes, a lightweight laptop is _great_ for throwing in a bag, and the Slimbook Pro X delivers there. But, is there just empty space inside? How is it so lightweight? If there's unused space, could it have been made thinner or even smaller in its other dimensions?
 
 I realize I've now spent several paragraphs on something that may seem trivial, but it is just so _absolutely_ jarring when you pick it up that it's deserved.
+
+#### Pretty solid build
+
+The laptop is made from magnesium alloy, plus some aluminum and plastic. Even with it's unexpected lightness, it doesn't feel plasticy—just slightly hollow? But the way it's all put together seems pretty solid.
+
+Why the “pretty” qualifier? Mostly due to the display bezel and a few perplexing seams in the chassis. For the most part, the laptop feels very rigid; the keyboard deck and sides don't flex, the bottom is mostly one big piece, and the back of the display is a solid piece. 
+
+But the display bezel is a black plastic, and on my (admittedly refurbished) model, that bezel is separating slightly from the display panel, with some glue visible—even affecting the webcam. This is almost certainly related to it being a refurbished model that was provided to me for free; however, the fact that it's possible for the bezel to separate in this way still concerns me a bit.
+
+<aside markdown="1">
+I have reached out to Slimbook as a courtesy to let them know about this issue, in case it is a more widespread problem. I will update this post if/when I hear back.
+</aside>
+
+On the bottom of the laptop are two long rubber feet spanning most of the length of the chassis. I like this style of feet, as it lifts the laptop a bit off of a table or desk, but looks fairly uninterrupted. There is also a large fan vent spanning most of the width towards the back side, and two small speaker vents up near the front. Next to the speaker vents, however, are two seams in the otherwise solid bottom panel. At first I thought these might be optional SD card reader or SIM tray covers, but due to their placement, it looks like they might be the speakers themselves. But why are they a separate material and visible on the outside? It is just strange.
+
+I also would be remiss to not mention the stickers: there are advertising stickers on the palm rest. Sometimes this is mandated by Intel or other component manufacturers—especially for smaller OEMs. It’s… fine. But it’s a bit tacky; nobody _wants_ stickers on their brand new $1,000 laptop, just like you wouldn't want to buy a brand new high-end car and have it come with bumper sticker advertisements. Slimbook even added their own “protected by magnesium” (alluding to the magnesium alloy used in the chassis) and “powered by GNU/Linux” stickers.
+
+Over all it _is_ a pretty solid feeling laptop, and these minor things only slightly take away from that.
 
 #### It's (usually) silent
 
