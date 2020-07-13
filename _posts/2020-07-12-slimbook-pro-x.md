@@ -11,6 +11,10 @@ redirect_from:
 updated: 2020-07-12
 ---
 
+<aside markdown="1">
+I was unable to get all of the photos I wanted before my baby had to go to bed—but I will update this post later with more!
+</aside>
+
 Slimbook recently had a [Linux-related developer promotion](https://slimbook.es/en/developers) where they called for anyone “involved with an open source project, developing for a Linux distribution, programming for GNU or even for the Linux Kernel” to contact them for the opportunity to get Slimbook hardware at a discount or possibly for free to help them with their work.
 
 I applied on behalf of my work on elementary, and to my surprise, they chose me! A few weeks later, a refurbished [Slimbook Pro X][pro-x] showed up at my door. If you follow me on Twitter, this may be old news:
