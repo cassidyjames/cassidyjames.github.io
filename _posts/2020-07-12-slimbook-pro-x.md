@@ -195,7 +195,7 @@ Ports-wise, it's pretty well-equipped. I may be weird here, but in my opinion, _
 - Barrel charging port
 - Full-size HDMI
 - USB 3.1 Gen 1 Type-A
-- USB 3.1 Gen 1 Type-C (but **not Thunderbolt**)
+- USB 3.1 Gen 1 Type-C (but **not Thunderbolt**, no DisplayPort alternate mode, and no charging)
 
 This is where I'm actually fine with Apple's and more recently Dell's direction on their laptops: give me _a bunch_ of USB-C/Thunderbolt ports, let me charge from all of them, and I'll figure the rest out. I already use a bunch of USB-C chargers and connections for my other devices, and I wish I could use the same ones here. For example, my Dell laptop came with a USB-C to Ethernet adapter. If I used Ethernet at my desk, I could just leave that attached to the Ethernet cable and plug it into one of many USB-C ports. Or I could plug in my Thunderbolt dock/display and have it connect to everything else. Or I could plug in my USB-C headphones that came with my phone. Or I could use the USB-C SD card reader that I also use with my phone and other devices.
 
