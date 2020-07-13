@@ -1,6 +1,7 @@
 ---
 title: A Look at the Slimbook Pro X
 description: Not a review, but some thoughts
+image: /images/blog/slimbook-pro-x/card.png
 redirect_from:
   - pro-x
   - prox
