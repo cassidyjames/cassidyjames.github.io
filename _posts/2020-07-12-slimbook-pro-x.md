@@ -12,7 +12,7 @@ updated: 2020-07-12
 ---
 
 <aside markdown="1">
-I was unable to get all of the photos I wanted before my baby had to go to bed—but I will update this post later with more!
+I was unable to get all of the photos I wanted before my baby had to go to bed—but for now I have included several photos from the Slimbook website.
 </aside>
 
 Slimbook recently had a [Linux-related developer promotion](https://slimbook.es/en/developers) where they called for anyone “involved with an open source project, developing for a Linux distribution, programming for GNU or even for the Linux Kernel” to contact them for the opportunity to get Slimbook hardware at a discount or possibly for free to help them with their work.
@@ -83,7 +83,7 @@ I realize I've now spent several paragraphs on something that may seem trivial, 
 
 The laptop is made from magnesium alloy, plus some aluminum and plastic. Even with its unexpected lightness, it doesn't feel plasticy—just slightly hollow? But the way it's all put together seems pretty solid.
 
-Why the “pretty” qualifier? Mostly due to the display bezel and a few perplexing seams in the chassis. For the most part, the laptop feels very rigid; the keyboard deck and sides don't flex, the bottom is mostly one big piece, and the back of the display is a solid piece. 
+Why the “pretty” qualifier? Mostly due to the display bezel and a few perplexing seams in the chassis. For the most part, the laptop feels very rigid; the keyboard deck and sides don't flex, the bottom is mostly one big piece, and the back of the display is a solid piece.
 
 But the display bezel is a black plastic, and on my (admittedly refurbished) model, that bezel is separating slightly from the display panel, with some glue visible—even affecting the webcam. This is almost certainly related to it being a refurbished model that was provided to me for free; however, the fact that it's possible for the bezel to separate in this way still concerns me a bit.
 
@@ -112,6 +112,11 @@ When you kick that NVIDIA card on, the fans seem to spin up _significantly_ more
 Since you spend most the time interacting with a laptop with its keyboard it's paramount to the experience. And the Slimbook Pro X delivers a mostly great keyboard here.
 
 I really like the **design and look** of the keyboard. It's a less common style these days with big, square, silver keycaps and little space between the keys. The result looks great, and feels really good to type on. The silver keys' color and texture mean they don't pick up as much oil or smudging as other keyboards I've used, which is nice. It also means that the _entire_ deck of the laptop is reflective, which has been a small annoyance when using the laptop outdoors.
+
+<figure markdown="1">
+![Backlight](/images/{{ page.url }}/backlight.jpg)
+<figcaption>Photo provided by Slimbook</figcaption>
+</figure>
 
 The keys are **backlit**, which is handy. However, the combination of the silver keys, inconsistent backlighting/bleed, and an annoying firmware issue take away from the benefit a bit. First, the silver keys mean that lighting up the characters on the keys actually make them _harder_ to read in all but pitch black environments. And then the lighting seems to be uneven, lighting up some parts of some keys significantly more than others, while also leaking out around the keys. Lastly, the Slimbook Pro X insists on always turning on the keyboard backlight when you start up, regardless of its previous state—the result is that I always want to turn it off, and if I forget, it's a tiny bit more unnecessary power draw.
 
@@ -153,7 +158,12 @@ I'm a bit of a nut when it comes to display size and resolution combinations as 
 
 While I prefer the look and crispness of HiDPI, it does come with the trade-off of much higher power usage and thus lower battery life. While the NVIDIA card (and probably the integrated Intel graphics) could handle something like a 3840×2160 display (1920×1080@2× for the same real estate but twice the detail), I can respect the decision to stick with loDPI here—especially given the relatively small internal battery. And for a loDPI display, it looks _great_. Colors seem accurate, it can get sufficiently bright, and the matte finish combined with no discernible layers on the display surface mean it often looks like the image is printed right onto the surface of the display.
 
-I definitely prefer this matte finish to glossy glass touch displays, like the one on [my Dell Precision 5530](/5530). If the Slimbook Pro X were HiDPI, its display would be what I would consider to be perfect.
+<figure markdown="1">
+![Hinge](/images/{{ page.url }}/hinge.jpg)
+<figcaption>Photo provided by Slimbook</figcaption>
+</figure>
+
+The display hinge actually opens fairly widely—which is really nice for working in a variety of situations—and the top and side bezels are nice and modernly slim. I also definitely prefer this matte finish to glossy glass touch displays, like the one on [my Dell Precision 5530](/5530). If the Slimbook Pro X were HiDPI, its display would be what I would consider to be perfect.
 
 #### **Webcam and IR camera**: Interesting!
 
@@ -166,6 +176,11 @@ I have _no_ idea how secure it is, though—I would recommend enabling full-disk
 #### **Ports & connections**: Needs more USB-C/Thunderbolt
 
 Ports-wise, it's pretty well-equipped. I may be weird here, but in my opinion, _too_ well-equipped—or at least not equipped in my ideal way. I don't need Ethernet (with a damage-prone flap) on a laptop, I don't need three USB-A ports (including one USB 2.0 port), I don't need a Kensington lock, and I definitely don't prefer a barrel-style charger. And yet, here's what you get:
+
+<figure markdown="1">
+![Ports](/images/{{ page.url }}/ports.jpg){: .card}
+<figcaption>Photo provided by Slimbook</figcaption>
+</figure>
 
 ##### Left Side
 
@@ -192,9 +207,19 @@ All that is to say: the ports and expansions here are _fine,_ though I do really
 
 I haven't cracked this laptop open at all, and any more, I am not really one to do so. Sometimes I will upgrade RAM or replace a disk with a larger/faster model, but lately, laptops have been good enough for me.
 
+<figure markdown="1">
+![Internals](/images/{{ page.url }}/internals.jpg){: .card}
+<figcaption>Photo provided by Slimbook</figcaption>
+</figure>
+
+
 According to [Slimbook's website][pro-x], the Slimbook Pro X can house up to two M.2 drives, seemingly up to 4 TB total. It can also accept up to 32 GB 2666 MHz RAM, though I'm not sure how many physical slots it has, or how mine is configured.
 
 Without the space for 2.5-in drives, I seriously wonder why the laptop is so light—and why its battery isn't larger. I may have to crack it open eventually after all, just to take a peek.
+
+<aside markdown="1">
+**Edit:** I found the above image on the Slimbook website. You can judge its internal design for yourself! Personally, I wonder what that space is on the upper-right side.
+</aside>
 
 ### Software
 
@@ -203,6 +228,11 @@ I don't plan to dive deeply into the software, but for completeness, here are so
 #### elementary OS
 
 Yep, it came with elementary OS! It was just a few updates behind the latest image, too—and that could easily be explained by those updates being pushed out after it was imaged and while it was in transit from overseas. Nice work, Slimbook! And yes, you can order it with elementary OS right from Slimbook as well.
+
+<figure markdown="1">
+![elementary OS](/images/{{ page.url }}/elementary-os.jpg)
+<figcaption>Photo provided by Slimbook</figcaption>
+</figure>
 
 It was _mostly_ stock, though with a few added apps: Firefox, LibreOffice, NVIDIA tools, and some Slimbook-specific apps were installed.
 
