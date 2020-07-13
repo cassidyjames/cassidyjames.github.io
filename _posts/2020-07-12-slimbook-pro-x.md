@@ -81,7 +81,7 @@ I realize I've now spent several paragraphs on something that may seem trivial, 
 
 #### Pretty solid build
 
-The laptop is made from magnesium alloy, plus some aluminum and plastic. Even with it's unexpected lightness, it doesn't feel plasticy—just slightly hollow? But the way it's all put together seems pretty solid.
+The laptop is made from magnesium alloy, plus some aluminum and plastic. Even with its unexpected lightness, it doesn't feel plasticy—just slightly hollow? But the way it's all put together seems pretty solid.
 
 Why the “pretty” qualifier? Mostly due to the display bezel and a few perplexing seams in the chassis. For the most part, the laptop feels very rigid; the keyboard deck and sides don't flex, the bottom is mostly one big piece, and the back of the display is a solid piece. 
 
