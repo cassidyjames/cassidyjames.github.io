@@ -44,6 +44,8 @@ I'll get into details later, but the basic specs of the Slimbook Pro X I receive
 - 8th Gen Intel® Core™ i7-8565U CPU
   - 4 cores (8 threads)
   - 1.8 GHz (up to 4.6 GHz turbo)
+- NVIDIA Geforce MX250
+  - 2 GB GDDR5 memory
 - 8 GB DDR4 2666 MHz RAM
 - 250 GB M.2 SSD
 - 720p webcam with stereo mic
@@ -75,7 +77,7 @@ I realize I've now spent several paragraphs on something that may seem trivial, 
 
 In my use of the Slimbook Pro X, it's a _very_ quiet machine. The fans stay quiet or entirely off most of the time. But there's a catch here: I don't usually use the NVIDIA graphics.
 
-The Slimbook Pro X packs an NVIDIA GPU, even in its very slim and lightweight package. Specifically, it comes with an NVIDIA Geforce MX250 and 2GB GDDR5 memory. I usually opt for good-enough integrated Intel graphics, but I had mentioned the relative lack of NVIDIA hardware as a way Slimbook could help out—and they delivered here.
+The Slimbook Pro X packs an NVIDIA GPU, even in its very slim and lightweight package. Specifically, it comes with an NVIDIA Geforce MX250. I usually opt for good-enough integrated Intel graphics, but I had mentioned the relative lack of NVIDIA hardware as a way Slimbook could help out—and they delivered here.
 
 When you kick that NVIDIA card on, the fans seem to spin up _significantly_ more. Even when not doing what I would consider GPU-intensive tasks; for example, just browsing the web. I guess it's putting that GPU to good use, making scrolling and animations that much smoother, but it's not really a benefit that I notice. And the battery hit is also significant. So unless I'm specifically testing NVIDIA integration or issues, I keep the laptop in Intel mode where it runs much cooler, and thus quieter.
 
@@ -86,6 +88,8 @@ When you kick that NVIDIA card on, the fans seem to spin up _significantly_ more
 Since you spend most the time interacting with a laptop with its keyboard it's paramount to the experience. And the Slimbook Pro X delivers a mostly great keyboard here.
 
 I really like the **design and look** of the keyboard. It's a less common style these days with big, square, silver keycaps and little space between the keys. The result looks great, and feels really good to type on. The silver keys' color and texture mean they don't pick up as much oil or smudging as other keyboards I've used, which is nice. It also means that the _entire_ deck of the laptop is reflective, which has been a small annoyance when using the laptop outdoors.
+
+The keys are **backlit**, which is handy. However, the combination of the silver keys, inconsistent backlighting/bleed, and an annoying firmware issue take away from the benefit a bit. First, the silver keys mean that lighting up the characters on the keys actually make them _harder_ to read in all but pitch black environments. And then the lighting seems to be uneven, lighting up some parts of some keys significantly more than others, while also leaking out around the keys. Lastly, the Slimbook Pro X insists on always turning on the keyboard backlight when you start up, regardless of its previous state—the result is that I always want to turn it off, and if I forget, it's a tiny bit more unnecessary power draw.
 
 The **feel and travel** of the keys is _perfect_ for me. There's a healthy amount of travel and cushion, which I love—it's not as low-profile-feeling as many chiclet-style keyboards, but it's not some mechanical keyboard either.
 
@@ -99,7 +103,7 @@ And yes: there is a **Windows-branded Super key**. We use the [Looped Square (�
 Shoutout to [Star Labs](https://starlabs.systems/?rfsn=4227837.e8f025) who just use a <kbd>Super</kbd> key! It's OS-agnostic and not overly branded, while still being distinctly Linux-y. Nice touch!
 </aside>
 
-Over all, I love the look and feel of the keyboard. The reflectiveness, function keys, and Windows key keep me from calling it perfect, but it is otherwise great.
+Over all, I love the look and feel of the keyboard. The reflectiveness, backlight, function keys, and Windows key keep me from calling it perfect, but it is otherwise great.
 
 #### **Trackpad**: Big, smooth, and hinged
 
@@ -115,7 +119,7 @@ It's also **pleasantly smooth**, which is a must for me. I don't think it's glas
 
 It's a **hinged design**, meaning it physically clicks at the bottom but gets progressively harder to click as you move up the surface—until it's impossible near the top. This is pretty standard right now for trackpads, with only Apple (to my knowledge) employing the crazy haptic engine needed to get perfectly even clicks across an entire surface. I _mostly_ just use tap-to-click instead of pressing for the actual click, but it is nice to have the physical click as an option. It does support area-based physical clicking if you want to enable that in your OS, i.e. so physically clicking near the bottom-right corner would right-click. I prefer just leaving it set to two-finger clicking for right-click.
 
-#### Display: Awesome for loDPI
+#### **Display**: Awesome for loDPI
 
 The display is 1920×1080 at 14-inches, meaning it falls into the loDPI camp. It's a great physical size and resolution combination, though—out of the box at 1× scaling, everything feels like the right physical size, if only slightly small.
 
