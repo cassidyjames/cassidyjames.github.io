@@ -5,7 +5,7 @@ redirect_from:
 
 # Cassidy’s Referrals
 
-Services or products I recommend. If you sign up/purchase using these links, I'll get a small cut. Sometimes you'll even save money, too.
+Services or products I recommend. If you sign up/purchase using these links, you'll save money and I may get a small cut.
 
 ---
 
