@@ -23,7 +23,7 @@ I have their home office SmartDesk DIY Kit in black (though I wish I would have 
 
 ---
 
-## Drizly **$5 off your first order**
+## Drizly **$5 off your first delivery**
 
 Alcohol delivery in the US. They partner with local shops so you can order beer, cider, liquor, mixers, etc. and have them show up at your door. Use promo code `vahqm`.
 
