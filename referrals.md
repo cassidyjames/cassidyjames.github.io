@@ -23,6 +23,18 @@ I have their home office SmartDesk DIY Kit in black (though I wish I would have 
 
 ---
 
+## Drizly **$5 off your first order**
+
+Alcohol delivery in the US. They partner with local shops so you can order beer, cider, liquor, mixers, etc. and have them show up at your door. Use promo code `vahqm`.
+
+<div style="text-align: center;" markdown="1">
+[Get $5 off Drizly](https://drizly.com/i/vahqm){: class="button"}
+</div>
+
+**Referral disclosure:** I receive $5 credit as well if you sign up and order a delivery.
+
+---
+
 ## Fastmail **10% off first year**
 
 Privacy-respecting and ad-free email. Awesome service, great web client, lightning fast mobile apps, great people. Keep your email private and out of the hands of giant ad networks.
