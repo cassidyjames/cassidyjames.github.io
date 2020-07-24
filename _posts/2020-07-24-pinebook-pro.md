@@ -36,7 +36,7 @@ The unique thing about PINE64 is that they are very open, and work closely with 
 
 Getting this out of the way since I know it will be what a lot of folks are interested in: elementary OS on Pinebook Pro is usable, but not what I would consider an experience that we would sign off on. We recommend a modern Intel Core i3 or better processor for a reason, and while many tout elementary OS as lightweight and great for lower-powered devices, that has never been a target for us. It's just not optimized for this class of hardware; animations are choppy, apps are slower than we'd like, and even lightweight web browsing can chug quite a bit on this hardware with elementary OS.
 
-As such, **I would not currently recommend purchasing a Pinebook Pro as a primary device to run elementary OS.** That said, there are some experimental builds of elementary OS for Pinebook Pro if you happen to be a fan and already have a Pinebook Pro sitting around to toy with.
+As such, **I would not currently recommend purchasing a Pinebook Pro as a primary device to run elementary OS.** That said, there is some ongoing work towards experimental builds of elementary OS for Pinebook Pro if you happen to be a fan and already have a Pinebook Pro sitting around to toy with. I'll share more either here or on the elementary blog once things are farther along.
 
 ### Hardware
 
@@ -68,7 +68,11 @@ The big difference from most laptops is the processor: it's an ARM-based Rockchi
 
 On the plus side, the processors draw much less power over all than most laptops. This means better battery life, and even enables a **completely fanless design**. Consequently, the laptop is silent while easily lasting through an entire day's worth of work. The lower power draw also means the laptop can charge off a USB-C phone charger, or even a portable battery typically advertised for topping off your phone or tablet.
 
-On the other hand, the lower performance of the processor and graphics definitely shows through, especially when running a full desktop software stack (like elementary OS). While general usage inside of a native app or two might feel great, multitasking slows things down a bit. Animations definitely suffer—though that may be due in part to a lack of GPU acceleration in the version of GTK we're using, and CPU-intensive tasks like compiling large software definitely take a hit.
+<aside class="card" markdown="1">
+I used Manjaro with KDE Plasma and the animations were smoother in places than on elementary OS for now, thanks to their UI being properly hardware accelerated. For elementary OS, we'll need to wait for GTK4 for substantial improvements to this.
+</aside>
+
+On the other hand, the lower performance of the processor and graphics definitely shows through, especially when running a full desktop software stack (like elementary OS). While general usage inside of a native app or two might feel great, multitasking slows things down a bit. Non-GPU-accelerated animations definitely suffer—though that's more of a software optimization issue, and CPU-intensive tasks like exporting graphics or compiling large software definitely take a hit.
 
 More on the experience of using it in a bit, though—let's move on to more hardware.
 
@@ -90,15 +94,17 @@ My one complaint is actually the resolution, but perhaps not in the way you'd ex
 I'm a bit of a nut when it comes to display size and resolution combinations as it relates to the physical size of the UI, integer scaling, loDPI/HiDPI. etc. Like seriously—I've written a whole [blog series](https://blog.elementary.io/what-is-hidpi/) on it, and even developed and maintain [an app called Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) to help people better understand it and make better purchasing decisions.
 </aside>
 
-The resolution is maybe just a bit _too high_. At 14", the 1920×1080 resolution means that text and the mouse cursor are _just a bit_ too small for my liking. Some folks might be fine with it, and it's definitely something you can get used to. But if you're coming from regularly using a 15.6&Prime; display with the same logical resolution (3840×2160, or 1920×1080@2x) or a 13.3&Prime; display with a lower logical resolution (e.g. 3200×1800 or 1600×900@2x), it just seems extra small.
+The resolution is maybe just a bit _too high_. At 14", the 1920×1080 resolution means that text and the mouse cursor are _just a bit_ too small for my liking. Some folks might be fine with it, and it's definitely something you can get used to. But if you're coming from regularly using a 15.6&Prime; display with the same logical resolution (3840×2160, or 1920×1080@2x) or a 13.3&Prime; display with a lower logical resolution (e.g. 3200×1800 or 1600×900@2x), it just makes the text and UI seem extra small.
 
-Normally, I'd argue that the manufacturer should have gone for a higher resolution like 3200×1800 (1600×900@2x) for HiDPI. Or maybe with 3840×2160 (exactly twice this resolution), the smaller text would be more bearable since it would at least be more crisp. But I'm certain trying to go for HiDPI would just exasperate the already-limited processing and graphical resources on this hardware.
+Normally, I'd argue that the manufacturer could have gone for a higher resolution like 3200×1800 (1600×900@2x) for HiDPI. Or maybe with 3840×2160 (exactly twice this resolution), the smaller text would be more bearable since it would at least be more crisp. But I'm certain trying to go for HiDPI would just exasperate the already-limited processing and graphical resources on this hardware.
 
 Lucky for me, an unreleased experimental feature for elementary OS is UI scaling based on text size, and it seems to be working pretty well. I've bumped the size to "Large", and everything is much more readable at a comfortable distance. At least I have a good excuse to [dogfood](https://blog.elementary.io/eating-our-own-dog-food/) this now?
 
 #### Keyboard & trackpad
 
 The keyboard definitely continues the "impressive, especially at this price point" trend of the Pinebook Pro. I opted for the ANSI (US layout) model, and the layout is perfect in my opinion. Keys feel like the perfect size, and everything is right where I'd expect it. Travel-wise, the keys have a decent amount of travel and a little of a click sound. I really like the amount of travel, and my only critique is that some keys don't feel like they travel perfectly vertically; especially the arrow keys due to their smaller size.
+
+I also appreciate the PINE64-branded Super or [<kbd>⌘</kbd> key](https://blog.elementary.io/why-the-looped-square-symbol/). It's cute, and since it's the only branding on the whole machine, it works well.
 
 <aside class="card" markdown="1">
 Since there are some [community efforts to update the keyboard firmware](https://github.com/jackhumbert/pinebook-pro-keyboard-updater), it's possible <kbd>Fn</kbd> key behavior is something that could be addressed. It's an interesting implication of the heavy community focus of PINE64.
@@ -108,11 +114,11 @@ The one big omission here is a keyboard backlight. It's absolutely understandabl
 
 ### Day-to-day usage
 
-In practice, I was able to do quite a bit of lightweight desktop and web development on the Pinebook Pro with few issues. In fact, this entire blog post was written and published on the Pinebook Pro, and I used the hardware for all elementary development for a week. Issue triage, code reviews, and feature development actually went fine. Compiling elementary apps took a bit longer than I'm used to, but not so much that it prevented me from doing my work. And all of the apps compile and run perfectly fine on this architecture, which is awesome.
+In practice, I was able to do quite a bit of lightweight desktop and web development on the Pinebook Pro with few issues. In fact, this entire blog post was written and published on the Pinebook Pro, and I used the hardware for all elementary development for a week. Issue triage, code reviews, and feature development actually went fine. Compiling elementary apps may have taken a bit longer than I'm used to, but not so much that it hindered me while doing my work. And all of the apps compile and run perfectly fine on this architecture, which is awesome.
 
-Having multiple browsers open while doing web development plus researching something would slow things down, and some heavier web apps were barely usable—Slack, in particular, was painful. Exporting high-resolution images from Glimpse—something I'm used to taking just a few seconds on my much, much more powerful Dell Precision—would sometimes take a minute or more. If anything, this hardware lets you know when something is a CPU-bound operations.
+Having multiple browsers open e.g. while doing web development plus researching something would slow things down a bit as well, and some heavier web apps were barely usable—Slack, in particular, was painful, as was [BigBlueButton](https://en.wikipedia.org/wiki/BigBlueButton) (the web-based conferencing software used by GUADEC). Exporting high-resolution images from Glimpse—something I'm used to taking just a few seconds on my much, much more powerful Dell Precision—would sometimes take a minute or more. If anything, this hardware lets you know when something is a CPU-bound operation.
 
-I was impressed over all with just how usable it was, though; I've attempted to use Raspberry Pi boards as desktop computers, and it just never felt worthwhile to me. Maybe it's because the Pinebook Pro has a great display, keyboard, and trackpad all attached, but it actually feels like a "real computer," just one that's on the slightly slower side. With dedicated software optimization and a more user-friendly out-of-the-box experience, I would be tempted to recommend Pinebook Pro to folks over a Chromebook—and definitely over a Windows laptop in this price range. And if you're a Linux-loving tinkerer, then it's still a great deal as-is today.
+I was impressed over all with just how usable it was, though; I've attempted to use Raspberry Pi boards as desktop computers, and it just never felt worthwhile to me. Maybe it's because the Pinebook Pro has a great display, keyboard, trackpad, and fast storage all in one package, but it actually feels like a "real computer." Just one that's on the slightly slower side. With dedicated software optimization and a more user-friendly out-of-the-box experience, I would be tempted to recommend Pinebook Pro to folks over a Chromebook—and definitely over a Windows laptop in this price range. And if you're a Linux-loving tinkerer, then it's a great deal as-is today.
 
 #### Out of the box experience
 
@@ -130,7 +136,7 @@ If you are super into Linux internals and want your operating system to be a buc
 
 ### My adventures getting elementary OS on Pinebook Pro
 
-I'm not going to dive into all of this—hopefully David Hewitt, Daniel Foré, and I can figure out how best to share this later on. But I do want to share some anecdotes about getting elementary OS to run on the Pinebook Pro, and maybe some things to avoid.
+I'm not going to dive into all of the behind-the-scenes of elementary OS images—hopefully David Hewitt, Daniel Foré, and I can figure out how best to share this later on. But I do want to share some anecdotes about getting elementary software to run on the Pinebook Pro, and maybe some things to avoid.
 
 <aside class="card" markdown="1">
 Unfortunately, the builds of Chromium OS and Android currently available are very out of date. I would not recommend running them full time, but it was fun to poke at different software running on the same hardware. Especially Chromium OS, since it made it easier to compare it side-by-side with an actual Chromebook.
@@ -142,7 +148,7 @@ I started my journey to play with elementary software on the Pinebook Pro by try
 
 I found an Ubuntu 20.04 image that was designed to work off the microSD card, and got started with it. The GNOME desktop environment was much more familiar than KDE Plasma, so I poked at it for a bit before getting started with Pantheon. I then added the various elementary PPAs and packages, and uninstalled most of the Ubuntu and GNOME things that don't come with elementary OS. The result was a functional though a bit buggy facsimile of an unstable build of elementary OS 6. I suspected the microSD card was partially at fault for some of the performance issues I was seeing, so I decided to investigate how to get it running off the eMMC next.
 
-After I tweeted about it, [Lukasz Erecinski shared a way to get it onto the eMMC](https://twitter.com/LukaszErecinsk1/status/1284611041192706049), which worked, but led to some issues. Apparently, something with the bootloader in the hacked together Ubuntu-to-elementary-OS build didn't actually tell the LCD to come on, meaning it was successfully booting to the eMMC, but I couldn't see anything.
+After I tweeted about it, [Lukasz Erecinski shared a way to get it onto the eMMC](https://twitter.com/LukaszErecinsk1/status/1284611041192706049) which worked, but led to some issues. Apparently, something with the bootloader in the hacked together Ubuntu-to-elementary-OS build didn't actually tell the LCD to come on, meaning it was successfully booting to the eMMC, but I couldn't see anything.
 
 <figure markdown="1">
 ![Pinebook Pro paritally disassembled](/images/{{ page.url }}/surgery.jpg){: .card}
@@ -167,7 +173,7 @@ Over all, I want to stress how impressed I am with Pinebook Pro. The hardware lo
 
 What's more interesting to me, however, is what this means for the future of Linux hardware. We've seen Android devices, Chromebooks, and some Windows machines adopt ARM-based processors, but it's never been a general-purpose platform like Intel architecture. Now with Apple planning to transition to their own proprietary ARM-based processors across all of their computers, it has caused some people to look more closely at ARM.
 
-Platforms like Pinebook Pro and its SOC make me hopeful for additional open-source-friendly ARM hardware in the future, and Linux-based OSes are uniquely positioned to take advantage of it. With an open source stack and a completely open source collection of native apps like we have with [elementary AppCenter](https://appcenter.elementary.io), we can trivially recompile the entire operating system _and ecosystem_ for these new processors—and they run great already. Proprietary apps and legacy apps from other platforms will take a lot more effort to port or virtualize, so we should take this head start and make it count.
+Platforms like Pinebook Pro and its SOC make me hopeful for additional open-source-friendly ARM hardware in the future, and Linux-based OSes are uniquely positioned to take advantage of them. With an open source stack and a completely open source collection of native apps like we have with [elementary AppCenter](https://appcenter.elementary.io), we can trivially recompile the entire operating system _and ecosystem_ for these new processors—and they run great already. Proprietary apps and legacy apps from other platforms will take a lot more effort to port or virtualize, so we should take this head start and make it count.
 
 ---
 
