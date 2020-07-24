@@ -69,7 +69,7 @@ The big difference from most laptops is the processor: it's an ARM-based Rockchi
 On the plus side, the processors draw much less power over all than most laptops. This means better battery life, and even enables a **completely fanless design**. Consequently, the laptop is silent while easily lasting through an entire day's worth of work. The lower power draw also means the laptop can charge off a USB-C phone charger, or even a portable battery typically advertised for topping off your phone or tablet.
 
 <aside class="card" markdown="1">
-I used Manjaro with KDE Plasma and the animations were smoother in places than on elementary OS for now, thanks to their UI being properly hardware accelerated. For elementary OS, we'll need to wait for GTK4 for substantial improvements to this.
+I used Manjaro with KDE Plasma and the animations were smoother in places than on elementary OS for now, thanks to their UI being properly hardware accelerated. For elementary OS, we'll likely need to wait for GTK4 for substantial improvements to this.
 </aside>
 
 On the other hand, the lower performance of the processor and graphics definitely shows through, especially when running a full desktop software stack (like elementary OS). While general usage inside of a native app or two might feel great, multitasking slows things down a bit. Non-GPU-accelerated animations definitely suffer—though that's more of a software optimization issue, and CPU-intensive tasks like exporting graphics or compiling large software definitely take a hit.
