@@ -1,5 +1,5 @@
 ---
-title: WIP: Pinebook Pro
+title: WIP Pinebook Pro
 description: Impressive hardware that gives a glimpse into an even brighter future
 image: /images/blog/pinebook-pro/card.png
 redirect_from:
