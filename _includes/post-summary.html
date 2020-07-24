@@ -1,0 +1,21 @@
+{% assign post=include.post %}
+
+{% assign date = post.date %}
+{% if post.updated %}
+  {% assign date = post.updated %}
+{% endif %}
+
+{% capture output %}
+### [{{ post.title }}]({{ post.url }}) **{{ date | date: "%a, %b %e, %Y" }}**
+
+{% if post.description %}
+#### {{ post.description }}
+{% endif %}
+
+{{ post.content | strip_html | truncatewords: 24 }}
+
+[Read more]({{ post.url }}){: class="read-more"}
+
+{% endcapture %}
+
+{{ output | markdownify }}
