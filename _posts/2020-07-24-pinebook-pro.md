@@ -1,6 +1,6 @@
 ---
 title: "Pinebook Pro"
-description: Impressive hardware that gives a glimpse into an even brighter future
+description: Impressive hardware that gives a glimpse of a bright future
 image: /images/blog/pinebook-pro/dan.jpg
 redirect_from:
   - pbp
@@ -8,7 +8,6 @@ redirect_from:
   - pinebook-pro
   - pinebookpro
 updated: 2020-07-24
-hidden: true
 ---
 
 I recently got my hands on a Pinebook Pro from PINE64, and have spent the past couple of weeks using it—admittedly in rotation with a [Dell Precision 5530](/5530), [Slimbook Pro X](/prox), and System76 Meerkat. I have thoughts. tl;dr: Pinebook Pro is an impressive piece of hardware that provides a glimpse into an even brighter future of Linux-toting hardware.
@@ -26,11 +25,17 @@ Photo by [Daniel Foré](https://twitter.com/DanielFore/status/128175636070356992
 
 ### Who is PINE64?
 
-PINE64 is a both a global community and a brand of hardware devices featuring ARM processors. Many of the devices are single-board computers—similar to a Raspberry Pi—for tinkering, hacking, and special-purpose commercial/industrial applications. PINE64 caught the attention of the Linux desktop community when they announced the Pinebook: an inexpensive laptop featuring an ARM processor on a PINE64 main board. They followed that up with the Pinebook Pro, a higher-end and faster laptop that's still incredibly affordable and often touted as an alternative to cheap Chromebooks that folks buy just to use with desktop Linux.
+[PINE64](https://pine64.org/) is a both a global community and a brand of hardware devices featuring ARM processors. Many of the devices are single-board computers—similar to a Raspberry Pi—for tinkering, hacking, and special-purpose commercial/industrial applications. PINE64 caught the attention of the Linux desktop community when they announced the Pinebook: an inexpensive laptop featuring an ARM processor on a PINE64 main board. They followed that up with the Pinebook Pro, a higher-end and faster laptop that's still incredibly affordable and often touted as an alternative to cheap Chromebooks that folks buy just to use with desktop Linux.
 
 PINE64 is also shipping the PinePhone, a smartphone designed to run various Linux-based OSes, and working on PineTime, a smartwatch platform in its early stages.
 
 The unique thing about PINE64 is that they are very open, and work closely with several different open source communities to encourage and enable the porting of OSes to their hardware. This can mean sending devices to maintainers (like with elementary), or it can mean special runs of hardware like the PinePhone UBPorts Community Edition, with which PINE64 donated $10 of each purchase to UBPorts. It also means an expansive wiki with all sorts of information about running different software, tweaking firmware, and even doing hardware modifications or upgrades.
+
+It even means that every part of the Pinebook Pro [can be purchased individually from PINE64](https://store.pine64.org/?)! So if you break something or want a spare, it's extremely easy to repair it yourself—which is huge. Consequently, Pinebook Pro is the perfect [Right to Repair](https://www.ifixit.com/Right-to-Repair/Intro) laptop.
+
+<aside markdown="1">
+>Pinebook Pro is the perfect [Right to Repair](https://www.ifixit.com/Right-to-Repair/Intro) laptop
+</aside>
 
 ### About elementary OS on Pinebook Pro
 
@@ -86,7 +91,7 @@ I love the look. One critique is that as sleek as the matte black finish is, the
 
 #### Display
 
-The display is impressive for this class of laptop. It's an IPS panel, and the colors look accurate to my eye. It's not washed out at all, and viewing angles are good. It does seem to get a bit dimmer at significant off-center angles than I'd love, but it's nothing that affects my daily usage.
+The display is impressive for this class of laptop. It's an IPS panel, and the colors look accurate to my eye. It's not washed out at all, and viewing angles are good. It does seem to get a bit dimmer at significant off-center angles than I'd love, but it's nothing that affects my daily usage. It also gets reasonably bright—as bright as I've ever needed it.
 
 My one complaint is actually the resolution, but perhaps not in the way you'd expect—unless you listen to my regular rants on social media, in which case: no, the horse is not dead and I will continue to beat it.
 
