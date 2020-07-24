@@ -52,3 +52,20 @@ Originally published on **{{ page.date | date: "%a, %b %e, %Y" }}**, but most re
   </aside>
   {% endif %}
 </article>
+
+<hr />
+
+<aside>
+  <h2>Up Next</h2>
+  {% if page.next %}
+    {% unless page.next.hidden %}
+      {% include post-summary.html post=page.next %}
+    {% endunless %}
+  {% endif %}
+
+  {% if page.previous %}
+    {% unless page.previous.hidden %}
+      {% include post-summary.html post=page.previous %}
+    {% endunless %}
+  {% endif %}
+</aside>
