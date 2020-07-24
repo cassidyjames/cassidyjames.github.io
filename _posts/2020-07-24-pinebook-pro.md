@@ -1,7 +1,7 @@
 ---
 title: "Pinebook Pro"
 description: Impressive hardware that gives a glimpse into an even brighter future
-image: /images/blog/pinebook-pro/dan.png
+image: /images/blog/pinebook-pro/dan.jpg
 redirect_from:
   - pbp
   - pinebook
