@@ -1,5 +1,5 @@
 ---
-title: "UNPUBLISHED Pinebook Pro"
+title: "Pinebook Pro"
 description: Impressive hardware that gives a glimpse into an even brighter future
 image: /images/blog/pinebook-pro/dan.png
 redirect_from:
