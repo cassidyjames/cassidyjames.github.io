@@ -6,6 +6,12 @@ layout: default
 
 <h1>Cassidy’s Blog</h1>
 
+{% if page.hidden %}
+<aside>
+    <p><strong>This blog post is not published. It might be unfinished, inaccurate, or otherwise not fit to be shared publicly.</strong></p>
+</aside>
+{% endif %}
+
 <article>
   <h2>{{ page.title }}</h2>
 
