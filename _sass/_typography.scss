@@ -172,6 +172,52 @@ aside blockquote p {
   padding-left: 0;
 }
 
+aside.card {
+
+  color: var(--neutral);
+  margin: 1em auto;
+  padding: 0 1em;
+
+  @media (min-width: 400px) {
+    float: right;
+    margin: 0 0 0.5em 1em;
+    width: 18em;
+  }
+
+  @media (min-width: 768px) {
+    margin-right: -9vw;
+    width: 25em;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0.75rem auto;
+    text-align: center;
+  }
+
+  table {
+    @extend small;
+
+    margin-bottom: 0.5em;
+    text-align: left;
+
+    td {
+      padding: 0.33em 0.25em;
+      vertical-align: top;
+
+      &:first-child {
+        font-weight: bold;
+        opacity: 0.85;
+        text-align: right;
+      }
+    }
+  }
+}
+
 article p,
 .article p,
 .referrals p {
