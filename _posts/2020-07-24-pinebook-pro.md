@@ -1,7 +1,7 @@
 ---
-title: WIP Pinebook Pro
+title: "UNPUBLISHED Pinebook Pro"
 description: Impressive hardware that gives a glimpse into an even brighter future
-image: /images/blog/pinebook-pro/card.png
+image: /images/blog/pinebook-pro/dan.png
 redirect_from:
   - pbp
   - pinebook
@@ -12,6 +12,13 @@ hidden: true
 ---
 
 I recently got my hands on a Pinebook Pro from PINE64, and have spent the past couple of weeks using it—admittedly in rotation with a [Dell Precision 5530](/5530), [Slimbook Pro X](/prox), and System76 Meerkat. I have thoughts. tl;dr: Pinebook Pro is an impressive piece of hardware that provides a glimpse into an even brighter future of Linux-toting hardware.
+
+<figure markdown="1">
+![Pinebook Pro](/images/{{ page.url }}/dan.jpg){: .card}
+<figcaption markdown="1">
+Photo by [Daniel Foré](https://twitter.com/DanielFore/status/1281756360703569920)
+</figcaption>
+</figure>
 
 <aside markdown="1">
 **PINE64 provided me with a Pinebook Pro to help elementary explore porting elementary OS to the hardware.** This does not affect my impressions of the hardware, but I am noting it for full transparency.
@@ -71,7 +78,7 @@ I doubt anyone would be able to tell this laptop costs a fraction of high-end la
 
 The design over all is minimal. It's all-black, with absolutely no logos or embellishments on the chassis. Four rubber feet at the corners keep the Pinebook Pro from sliding around, and provide a tiny bit of an air gap from the bottom metal of the chassis.
 
-I love the look. My one critique is that as sleek as the matte black finish is, the back of the display is a fingerprint magnet; I feel like I have to wipe the thing down daily so I don't look like some sort of greasy animal.
+I love the look. One critique is that as sleek as the matte black finish is, the back of the display is a fingerprint magnet; I feel like I have to wipe the thing down daily so I don't look like some sort of greasy animal. Another critique is that the fanless design plus the metal bottom acting a a heat sink means that **the bottom of the laptop can get really hot**—uncomfortably and maybe even dangerously so at times. It's fine when using on a desk, but actually putting it on your lap for long periods of time while stressing the processor becomes worrisome.
 
 #### Display
 
@@ -91,9 +98,76 @@ Lucky for me, an unreleased experimental feature for elementary OS is UI scaling
 
 #### Keyboard & trackpad
 
+The keyboard definitely continues the "impressive, especially at this price point" trend of the Pinebook Pro. I opted for the ANSI (US layout) model, and the layout is perfect in my opinion. Keys feel like the perfect size, and everything is right where I'd expect it. Travel-wise, the keys have a decent amount of travel and a little of a click sound. I really like the amount of travel, and my only critique is that some keys don't feel like they travel perfectly vertically; especially the arrow keys due to their smaller size.
+
+<aside class="card" markdown="1">
+Since there are some [community efforts to update the keyboard firmware](https://github.com/jackhumbert/pinebook-pro-keyboard-updater), it's possible <kbd>Fn</kbd> key behavior is something that could be addressed. It's an interesting implication of the heavy community focus of PINE64.
+</aside>
+
+The one big omission here is a keyboard backlight. It's absolutely understandable, but I didn't realize how often I did rely on that for hitting some less-used keys or Fn-key combinations in low light situations. My only other critique is with the Function keys: like the [Slimbook Pro X](/prox), the <kbd>F1</kbd>–<kbd>F12</kbd> keys default to their less-used F1–F12 functions, and require an extra <kbd>Fn</kbd> modifier to access things like brightness and volume. I'd prefer those media keys default to their media controls and require <kbd>Fn</kbd> to access the F1–F12 functions, or at least a function lock in hardware or software to allow that change.
+
 ### Day-to-day usage
 
-In practice, I _was_ able to do quite a bit of lightweight desktop and web development. However, having multiple browsers open while doing web development plus researching something would slow things down, and some heavier web apps were barely usable. Slack, in particular, was painful. I was impressed over all with just how usable it was, though; I've attempted to use Raspberry Pi boards as desktop computers, and it just never felt worthwhile to me. Maybe it's because the Pinebook Pro has a great display, keyboard, and trackpad all attached, but it actually feels like a "real computer," just one that's on the slightly slower side.
+In practice, I was able to do quite a bit of lightweight desktop and web development on the Pinebook Pro with few issues. In fact, this entire blog post was written and published on the Pinebook Pro, and I used the hardware for all elementary development for a week. Issue triage, code reviews, and feature development actually went fine. Compiling elementary apps took a bit longer than I'm used to, but not so much that it prevented me from doing my work. And all of the apps compile and run perfectly fine on this architecture, which is awesome.
+
+Having multiple browsers open while doing web development plus researching something would slow things down, and some heavier web apps were barely usable—Slack, in particular, was painful. Exporting high-resolution images from Glimpse—something I'm used to taking just a few seconds on my much, much more powerful Dell Precision—would sometimes take a minute or more. If anything, this hardware lets you know when something is a CPU-bound operations.
+
+I was impressed over all with just how usable it was, though; I've attempted to use Raspberry Pi boards as desktop computers, and it just never felt worthwhile to me. Maybe it's because the Pinebook Pro has a great display, keyboard, and trackpad all attached, but it actually feels like a "real computer," just one that's on the slightly slower side. With dedicated software optimization and a more user-friendly out-of-the-box experience, I would be tempted to recommend Pinebook Pro to folks over a Chromebook—and definitely over a Windows laptop in this price range. And if you're a Linux-loving tinkerer, then it's still a great deal as-is today.
+
+#### Out of the box experience
+
+PINE64 provided this Pinebook Pro to me explicitly for elementary work, so I didn't expect to keep the default software around long. However, it's worth covering in case you're considering purchasing a Pinebook Pro.
+
+Out of the box, the Pinebook Pro currently ships with Manjaro Linux. That's an… interesting choice to me. It seems like the reasoning is that Manjaro is the most optimized for the hardware right now, with support for all hardware and GPU acceleration of the user interface by default. If you're an existing Manjaro user, this is probably an awesome choice for you—and I do have to applaud the efforts of the Manjaro and KDE teams for making everything work well on this hardware.
+
+However, I have thoughts about Manjaro and the KDE Plasma UI. To me, the combination of Manjaro and KDE Plasma feel like they exhibited everything that non-Linux-users point out when complaining about Linux. On first boot, I landed in a white and green on black terminal-based UI, asking me to set up a user name, set a hostname, and add my user to certain user groups. It felt _extremely Linux_, and not in a good way. After that, there was a pretty boot screen and then the KDE greeter and UI. The default configuration of KDE used a dark mode, which also felt unnecessarily "Linux". I think folks should have the option of a dark style, but defaulting to it without offering a preference felt like an odd choice.
+
+Now, thanks to the design of KDE Plasma, almost everything about the user interface—including the visual style—can be changed. However, I don't think that's necessarily the best thing. Of course, I'm a UX architect at elementary and my opinions reflect the philosophies of elementary OS—but there is just **too much going on in KDE Plasma**. It feels more like a massive compilation of tools with which to build your own OS instead of an opinionated, thought-through experience. At the same time, even with all this built-in configuration and flexibility, some things were difficult to find or configure. For example, I couldn't find how to change the wallpaper in the system settings, and even using the universal search returned nothing useful. Apparently, you have to access a separate settings app from the overcrowded context menu on the desktop in order to change the wallpaper. This sort of experience was echoed several times when I wanted to change a few basic settings: there was so much going on combined with a subpar search that I would often give up before I found what I wanted.
+
+On the Manjaro side, things were mostly fine albeit unfamiliar to me coming from the Debian world of Raspberry Pi OS, Ubuntu, and elementary OS. The package manager felt old-school, with most packages lacking non-technical descriptions and screenshots. Installing an app or updates felt like an overly-technical affair with jargon-filled dialogs and logs asking the user to make decisions they might not know the answer to, or even be qualified to decide. I suppose some gatekeeping Arch Linux users might think that the administrator of a computer should be knowledgeable about complex system internals, but I just don't agree there—I've been a Linux user for half my life now, and I still found it too complex. I'd hate to give this to someone as their first impression of a Linux-based OS.
+
+If you are super into Linux internals and want your operating system to be a bucket of LEGOs, I suppose Manjaro and KDE Plasma could be _awesome_, and I would encourage you to give them a try. But I much prefer an opinionated design of something like GNOME or elementary OS over this.
+
+### My adventures getting elementary OS on Pinebook Pro
+
+I'm not going to dive into all of this—hopefully David Hewitt, Daniel Foré, and I can figure out how best to share this later on. But I do want to share some anecdotes about getting elementary OS to run on the Pinebook Pro, and maybe some things to avoid.
+
+<aside class="card" markdown="1">
+Unfortunately, the builds of Chromium OS and Android currently available are very out of date. I would not recommend running them full time, but it was fun to poke at different software running on the same hardware. Especially Chromium OS, since it made it easier to compare it side-by-side with an actual Chromebook.
+</aside>
+
+First, it's possible to boot alternative operating systems off of the microSD card which is awesome! Performance takes a bit of a hit due to the slower storage (and the fastest microSD card you can fine is highly recommended), but it makes it easy to try out builds of Chromium OS, Android, Debian, Ubuntu, etc. without committing and with low risk of soft-bricking your hardware—something I got some experience with.
+
+I started my journey to play with elementary software on the Pinebook Pro by trying to install and compile Pantheon (our desktop environment) and elementary apps on Manjaro. Much of it installed easily out of the box thanks to efforts from the Manjaro community to port Pantheon, but it seemed some components were a bit out of date or missing altogether for the ARM64 architecture. After my adventures there left me booting to the text-based TTY instead of a graphical login screen, I decided to try out some other OSes.
+
+I found an Ubuntu 20.04 image that was designed to work off the microSD card, and got started with it. The GNOME desktop environment was much more familiar than KDE Plasma, so I poked at it for a bit before getting started with Pantheon. I then added the various elementary PPAs and packages, and uninstalled most of the Ubuntu and GNOME things that don't come with elementary OS. The result was a functional though a bit buggy facsimile of an unstable build of elementary OS 6. I suspected the microSD card was partially at fault for some of the performance issues I was seeing, so I decided to investigate how to get it running off the eMMC next.
+
+After I tweeted about it, [Lukasz Erecinski shared a way to get it onto the eMMC](https://twitter.com/LukaszErecinsk1/status/1284611041192706049), which worked, but led to some issues. Apparently, something with the bootloader in the hacked together Ubuntu-to-elementary-OS build didn't actually tell the LCD to come on, meaning it was successfully booting to the eMMC, but I couldn't see anything.
+
+<figure markdown="1">
+![Pinebook Pro paritally disassembled](/images/{{ page.url }}/surgery.jpg){: .card}
+<figcaption>Spoiler: things went wrong.</figcaption>
+</figure>
+
+At first we thought the bootloader on the eMMC was toast altogether; this lead me to open up the Pinebook Pro to flip the internal eMMC switch, which would cause the Pinebook Pro to boot to the microSD card instead. This worked, but we still wanted to be able to boot to the eMMC. We re-enabled the eMMC and used the USB to serial adapter (which PINE64 thankfully included in the packaging for me!) to watch the boot process. The U-Boot bootloader outputs over serial, and then I was presented with a TTY login to the install on the eMMC. From here, we managed to wipe out the eMMC bootloader to force it to boot _back_ to the microSD card while keeping the eMMC mounted. From the microSD TTY, we flashed a known-good experimental elementary OS image (that David Hewitt had been working on) back to the eMMC. I rebooted, and the Pinebook Pro booted into it! I put everything back together, and have been running that image ever since.
+
+So, just be sure to not flash the eMMC unless you know it's an image made to be flashed to the eMMC—and if you do mess something up, know that you can flip that eMMC switch to boot to the microSD card and use the USB-to-serial adapter to debug.
+
+#### Disassembly and re-assembly
+
+Since I got some experience taking the Pinebook Pro apart and re-assembling it, I might as well share my thoughts. It was a breeze! I saw a bunch of warnings about it seeming fragile, so sharp that you could cut yourself, and hard to re-assemble, but honestly I didn't have any issues. To be fair, I've done a number of small electronics repairs and opened up quite a few laptops from various manufacturers, but the Pinebook Pro was among the easiest to pop open: just ten screws on the bottom panel, then it popped off. The only slightly tricky part was that the speakers are adhered to that bottom panel and have thin wires, but they popped off easily enough.
+
+There are two switches on the inside: one is a power cut-off for the eMMC module (useful for recovering from eMMC bootloader issues!), and the other switches the headphone jack over to work with the USB to serial adapter.
+
+Re-assembling was easy enough as well: just disassembly in reverse. All the screw posts lined up perfectly, and I re-attached the bottom panel without incident.
+
+### Wrap up… and the future
+
+Over all, I want to stress how impressed I am with Pinebook Pro. The hardware looks and feels like something far above its price point, and it's an excellent Linux tinker kit right now. With some more software work and improved thermals, I think it would have a chance at being an excellent mainstream but "budget" Linux machine.
+
+What's more interesting to me, however, is what this means for the future of Linux hardware. We've seen Android devices, Chromebooks, and some Windows machines adopt ARM-based processors, but it's never been a general-purpose platform like Intel architecture. Now with Apple planning to transition to their own proprietary ARM-based processors across all of their computers, it has caused some people to look more closely at ARM.
+
+Platforms like Pinebook Pro and its SOC make me hopeful for additional open-source-friendly ARM hardware in the future, and Linux-based OSes are uniquely positioned to take advantage of it. With an open source stack and a completely open source collection of native apps like we have with [elementary AppCenter](https://appcenter.elementary.io), we can trivially recompile the entire operating system _and ecosystem_ for these new processors—and they run great already. Proprietary apps and legacy apps from other platforms will take a lot more effort to port or virtualize, so we should take this head start and make it count.
 
 ---
 
