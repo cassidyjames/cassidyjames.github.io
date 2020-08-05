@@ -9,7 +9,7 @@ redirect_from:
 
 # Cassidy's Wi-Fi
 
-`cassidyjames.com/wifi` is a guest network that you are free to use **if you agree to the terms below**. Itmay be limited bandwidth-wise, so streaming and stuff may not work so great. But if you need to use the Internet, here you go.
+`cassidyjames.com/wifi` is a guest network that you are free to use **if you agree to the terms below**. It may be limited bandwidth-wise, so streaming and stuff may not work so great. But if you need to use the Internet, here you go.
 
 ## Agreement
 
@@ -32,7 +32,11 @@ _By using this network, you agree:_
 If you need a password:
 
 1. **Read the terms** above. Seriously.
-2. If you agree to the terms, use the password `I agree to the terms!`, including the exclamation point.
+2. If you agree to the terms, use the password `I agree to the terms!`, including the exclamation point. Alternatively, scan this QR code:
+
+<div style="margin: 1em auto;" class="qr card">
+  <img src="/images/wifi-qr.png" alt="Wi-Fi QR code" />
+</div>
 
 ## But… why?
 
