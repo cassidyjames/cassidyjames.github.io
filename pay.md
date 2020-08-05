@@ -6,7 +6,7 @@ my way? Here you go.
 
 <h2><i class="fa fa-fw fa-dollar-sign"></i> Cash App</h2>
 
-[![Venmo barcode](/images/cash.png){: class="card qr"}](https://cash.app/$cassidyjames)
+[![Venmo barcode](/images/cash.png)](https://cash.app/$cassidyjames){: .card.qr}
 
 [cash.app/$cassidyjames](https://cash.app/$cassidyjames)
 
@@ -23,7 +23,7 @@ Send to cassidy.james.blaede@gmail.com or my phone number.
 
 <h2>Venmo</h2>
 
-[![Venmo barcode](/images/venmo.png){: class="card qr"}](https://venmo.com/cassidyjames)
+[![Venmo barcode](/images/venmo.png)](https://venmo.com/cassidyjames){: .card.qr}
 
 [venmo.com/cassidyjames](https://venmo.com/cassidyjames)
 
