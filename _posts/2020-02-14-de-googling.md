@@ -2,7 +2,7 @@
 title: De-Googling
 description: …if only just a bit to start
 redirect_from: /dg
-updated: 2020-02-14
+updated: 2020-08-14
 ---
 
 I don’t believe corporations can be inherently "good" or "evil." However, I believe it is important to consider the motivations behind companies' business models, and better understand how they track you, use your data, etc.
@@ -25,11 +25,11 @@ I will keep these lists up-to-date with my progress and links to stand-alone blo
 
 Most of these were easier than expected. Some weren't actually products I use. Expect blog posts for each one.
 
-- Chrome → **Firefox** (and others)
-- Google Passwords → **Firefox** (and others)
+- [Chrome → **GNOME Web** (and others)](/blog/de-googling-chrome)
+- Google Passwords → **Firefox** and Bitwarden
 - Gmail → **Fastmail**
 - Google Podcasts → **Pocket Casts**
-- Google Search → **Startpage.com**
+- Google Search → Startpage.com → **DuckDuckGo**
 
 ### ▶️ In-Progress
 
