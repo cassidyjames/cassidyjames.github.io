@@ -3,6 +3,7 @@ title: "De-Googling: Chrome"
 description: Probably the easiest migration
 redirect_from: /chrome
 updated: 2020-08-14
+image: /images/blog/de-googling-chrome/card.png
 ---
 
 Moving away from Google Chrome was _probably_ the easiest migration in my [de-Googling efforts](/blog/de-googling). I'm not a huge user of bookmarks, history, or extensions, so those weren't tying me down. On the desktop, I just switched to a combination of [Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral/) (as my defaut) with [Epiphany/GNOME Web](https://wiki.gnome.org/Apps/Web/) as my main "real browser."
