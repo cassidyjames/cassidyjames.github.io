@@ -8,25 +8,31 @@ image: /images/mandalorian-season-two.jpg
 
 ## The Mandalorian
 
-Watch one chapter per week each Friday leading up to Season Two (October 30). Your choice: [_The Mandalorian_ **Season One**](https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD), or the behind-the-scenes [**Disney Gallery**: _The Mandalorian](https://www.disneyplus.com/series/disney-gallery-star-wars-the-mandalorian/2JXj6pZBPAyE) documentary series.
+Watch one chapter per week each Friday leading up to Season Two (October 30). Your choice: [_The Mandalorian_ **Season One**](https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD), or the behind-the-scenes [**Disney Gallery**: _The Mandalorian_](https://www.disneyplus.com/series/disney-gallery-star-wars-the-mandalorian/2JXj6pZBPAyE) documentary series.
 
 Note: **Disney Gallery may contain major spoilers**—it's best to only watch if you've seen all of _The Mandalorian_ Season One.
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
 [Join the GetTogether](https://gettogether.community/star-wars-viewing-party-2019/){: .button}
+
+<small>Or, join each event using the dates below.</small>
 </div>
 
-| Date   | Season One                         | Disney Gallery       |
-| :----- | :--------------------------------- | :------------------- |
-| Sep 4  | [Chapter 1: The Mandalorian][s1e1] | [1. Directing][g1]   |
-| Sep 11 | [Chapter 2: The Child][s1e2]       | [2. Legacy][g2]      |
-| Sep 18 | [Chapter 3: The Sin][s1e3]         | [3. Cast][g3]        |
+| Date     | Season One                         | Disney Gallery       |
+| :------- | :--------------------------------- | :------------------- |
+| [Sep 4]  | [Chapter 1: The Mandalorian][s1e1] | [1. Directing][g1]   |
+| [Sep 11] | [Chapter 2: The Child][s1e2]       | [2. Legacy][g2]      |
+| [Sep 18] | [Chapter 3: The Sin][s1e3]         | [3. Cast][g3]        |
 | Sep 25 | [Chapter 4: Sanctuary][s1e4]       | [4. Technology][g4]  |
 | Oct 2  | [Chapter 5: The Gunslinger][s1e5]  | [5. Practical][g5]   |
 | Oct 9  | [Chapter 6: The Prisoner][s1e6]    | [6. Process][g6]     |
 | Oct 16 | [Chapter 7: The Reckoning][s1e7]   | [7. Score][g7]       |
 | Oct 23 | [Chapter 8: Redemption][s1e8]      | [8. Connections][g8] |
 | Oct 30 | Season Two, Chapter 1              |                      |
+
+[Sep 4]: https://gettogether.community/events/7124/the-mandalorian-night-one/
+[Sep 11]:https://gettogether.community/events/7144/the-mandalorian-night-two/
+[Sep 18]: https://gettogether.community/events/7145/the-mandalorian-night-three/
 
 [s1e1]: https://www.disneyplus.com/video/30ea8a44-797d-4da8-b776-2e3636a2bf5a
 [s1e2]: https://www.disneyplus.com/video/0e2b152d-6736-4635-8b0d-4c15f7bb5253
