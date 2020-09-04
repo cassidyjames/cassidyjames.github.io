@@ -14,8 +14,6 @@ Note: **Disney Gallery may contain major spoilers**—it's best to only watch if
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
 [Join the GetTogether](https://gettogether.community/star-wars-viewing-party-2019/){: .button}
-
-[Add to Google Calendar](https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnBqMzZwYjQ2Z3AzZ2I5aTY5aWowYjlrYzhzamViOW82aGhqMmI5bmNncGo4ZHBnNzRvamdjOWlja18yMDIwMDkwNCBjYXNzaWR5LmphbWVzLmJsYWVkZUBt&amp;tmsrc=cassidy.james.blaede%40gmail.com&amp;scp=ALL)
 </div>
 
 | Date   | Season One                         | Disney Gallery       |
