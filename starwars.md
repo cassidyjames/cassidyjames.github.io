@@ -1,3 +1,7 @@
+---
+image: /images/mandalorian-season-two.jpg
+---
+
 # Star Wars Viewing Party
 
 ## The Mandalorian
