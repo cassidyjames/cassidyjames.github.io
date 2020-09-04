@@ -4,35 +4,67 @@ image: /images/mandalorian-season-two.jpg
 
 # Star Wars Viewing Party
 
+![Star Wars: The Mandalorian]({{ page.image }})
+
 ## The Mandalorian
 
-Watch one a week leading up to season two. Your choice: The Mandalorian **season one**, or the behind-the-scenes **Disney Gallery**.
+Watch one per week each Friday leading up to Season Two (October 30). Your choice: [The Mandalorian **Season One**](https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD), or the behind-the-scenes [**Disney Gallery**: The Mandalorian](https://www.disneyplus.com/series/disney-gallery-star-wars-the-mandalorian/2JXj6pZBPAyE) documentary series.
 
-## Season One
+<div style="margin: 2em auto; text-align: center;" markdown="1">
+[Add to Google Calendar](https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnBqMzZwYjQ2Z3AzZ2I5aTY5aWowYjlrYzhzamViOW82aGhqMmI5bmNncGo4ZHBnNzRvamdjOWlja18yMDIwMDkwNCBjYXNzaWR5LmphbWVzLmJsYWVkZUBt&amp;tmsrc=cassidy.james.blaede%40gmail.com&amp;scp=ALL){: .button}
+</div>
 
-1. The Mandalorian
-2. The Child
-3. The Sin
-4. Sanctuary
-5. The Gunslinger
-6. The Prisoner
-7. The Reckoning
-8. Redemption
+| Date   | Season One                         | Disney Gallery       |
+| :----- | :--------------------------------- | :------------------- |
+| Sep 4  | [Chapter 1: The Mandalorian][s1e1] | [1. Directing][g1]   |
+| Sep 11 | [Chapter 2: The Child][s1e2]       | [2. Legacy][g2]      |
+| Sep 18 | [Chapter 3: The Sin][s1e3]         | [3. Cast][g3]        |
+| Sep 25 | [Chapter 4: Sanctuary][s1e4]       | [4. Technology][g4]  |
+| Oct 2  | [Chapter 5: The Gunslinger][s1e5]  | [5. Practical][g5]   |
+| Oct 9  | [Chapter 6: The Prisoner][s1e6]    | [6. Process][g6]     |
+| Oct 16 | [Chapter 7: The Reckoning][s1e7]   | [7. Score][g7]       |
+| Oct 23 | [Chapter 8: Redemption][s1e8]      | [8. Connections][g8] |
+| Oct 30 | Season Two, Chapter 1              |                      |
 
-## Disney Gallery
+[s1e1]: https://www.disneyplus.com/video/30ea8a44-797d-4da8-b776-2e3636a2bf5a
+[s1e2]: https://www.disneyplus.com/video/0e2b152d-6736-4635-8b0d-4c15f7bb5253
+[s1e3]: https://www.disneyplus.com/video/8d1a536a-6815-4afe-ae71-cab7b3004a36
+[s1e4]: https://www.disneyplus.com/video/8be54b9a-0500-4543-a264-1229378f4620
+[s1e5]: https://www.disneyplus.com/video/dced26f5-70cc-47c1-960d-c41b99e98638
+[s1e6]: https://www.disneyplus.com/video/37bcdcd3-335d-40e5-abaa-7ca435ab7beb
+[s1e7]: https://www.disneyplus.com/video/defe8509-3e33-45e6-90e1-0a8f0f7917e1
+[s1e8]: https://www.disneyplus.com/video/2bb20bd2-cdcd-4f4c-b6bd-62339fb14087
 
-1. Directing
-2. Legacy
-3. Cast
-4. Technology
-5. Practical
-6. Process
-7. Score
-8. Connections
+[g1]: https://www.disneyplus.com/video/4b9bc917-870c-4f72-b60b-a5f0d0b3313d
+[g2]: https://www.disneyplus.com/video/76a95ebb-5eee-4f51-ab10-ce8aeeabef04
+[g3]: https://www.disneyplus.com/video/745e5fc6-38c6-4be4-b8a3-f16603975753
+[g4]: https://www.disneyplus.com/video/8112cabc-5ed9-4176-b0f8-b4baa0ab15f1
+[g5]: https://www.disneyplus.com/video/2e85c957-b8bd-490f-ba44-fe7469086e52
+[g6]: https://www.disneyplus.com/video/cbcca192-4a33-4a44-a1a7-003e5617857e
+[g7]: https://www.disneyplus.com/video/4a7de657-812c-4690-a1d7-7926408525c1
+[g8]: https://www.disneyplus.com/video/ad5be72c-4cb8-4051-b5a8-7c3c65f0223f
 
-### Add to Calendar
+<style>
+  table {
+    border-collapse: collapse;
+  }
 
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnBqMzZwYjQ2Z3AzZ2I5aTY5aWowYjlrYzhzamViOW82aGhqMmI5bmNncGo4ZHBnNzRvamdjOWlja18yMDIwMDkwNCBjYXNzaWR5LmphbWVzLmJsYWVkZUBt&amp;tmsrc=cassidy.james.blaede%40gmail.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+  table td, table th {
+    padding: 0.5em;
+  }
+
+  table td:first-child {
+    font-weight: bold;
+  }
+
+  table tr:nth-child(odd) td {
+    background: rgba(150, 150, 150, 0.1);
+  }
+
+  tr:last-child {
+    font-weight: bold;
+  }
+</style>
 
 ---
 
