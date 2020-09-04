@@ -8,10 +8,14 @@ image: /images/mandalorian-season-two.jpg
 
 ## The Mandalorian
 
-Watch one per week each Friday leading up to Season Two (October 30). Your choice: [The Mandalorian **Season One**](https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD), or the behind-the-scenes [**Disney Gallery**: The Mandalorian](https://www.disneyplus.com/series/disney-gallery-star-wars-the-mandalorian/2JXj6pZBPAyE) documentary series.
+Watch one chapter per week each Friday leading up to Season Two (October 30). Your choice: [_The Mandalorian_ **Season One**](https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD), or the behind-the-scenes [**Disney Gallery**: _The Mandalorian](https://www.disneyplus.com/series/disney-gallery-star-wars-the-mandalorian/2JXj6pZBPAyE) documentary series.
+
+Note: **Disney Gallery may contain major spoilers**—it's best to only watch if you've seen all of _The Mandalorian_ Season One.
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
-[Add to Google Calendar](https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnBqMzZwYjQ2Z3AzZ2I5aTY5aWowYjlrYzhzamViOW82aGhqMmI5bmNncGo4ZHBnNzRvamdjOWlja18yMDIwMDkwNCBjYXNzaWR5LmphbWVzLmJsYWVkZUBt&amp;tmsrc=cassidy.james.blaede%40gmail.com&amp;scp=ALL){: .button}
+[Join the GetTogether](https://gettogether.community/star-wars-viewing-party-2019/){: .button}
+
+[Add to Google Calendar](https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnBqMzZwYjQ2Z3AzZ2I5aTY5aWowYjlrYzhzamViOW82aGhqMmI5bmNncGo4ZHBnNzRvamdjOWlja18yMDIwMDkwNCBjYXNzaWR5LmphbWVzLmJsYWVkZUBt&amp;tmsrc=cassidy.james.blaede%40gmail.com&amp;scp=ALL)
 </div>
 
 | Date   | Season One                         | Disney Gallery       |
