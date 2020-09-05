@@ -1,12 +1,12 @@
 ---
-image: /images/mandalorian-season-two.jpg
+image: /images//starwars/mandalorian.png
 ---
 
 # Star Wars Viewing Party
 
 ![Star Wars: The Mandalorian]({{ page.image }})
 
-## The Mandalorian #MandoWatchAlong
+## The Mandalorian **#MandoWatchAlong**
 
 Watch one chapter per week each Friday leading up to Season Two (October 30). Your choice: [_The Mandalorian_ **Season One**](https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD), or the behind-the-scenes [**Disney Gallery**: _The Mandalorian_](https://www.disneyplus.com/series/disney-gallery-star-wars-the-mandalorian/2JXj6pZBPAyE) documentary series.
 
