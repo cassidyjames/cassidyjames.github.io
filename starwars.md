@@ -13,7 +13,7 @@ Watch one chapter per week each Friday leading up to Season Two (October 30). Yo
 Note: **Disney Gallery may contain major spoilers**—it's best to only watch if you've seen all of _The Mandalorian_ Season One.
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
-[Join the GetTogether](https://gettogether.community/star-wars-viewing-party-2019/){: .button} [Join the Discord](https://discord.gg/qFEyzE){: .button}
+[Join the GetTogether](https://gettogether.community/star-wars-viewing-party-2019/){: .button} [Join the Discord](https://discord.gg/3aagq4A){: .button}
 
 <small>Or, join each event using the dates below.</small>
 </div>
