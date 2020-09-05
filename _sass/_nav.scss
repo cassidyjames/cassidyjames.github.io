@@ -17,6 +17,7 @@ nav {
   a {
     color: inherit;
     display: flex;
+    flex-shrink: 0;
     font-size: 1rem;
     font-weight: 900;
     opacity: 1;
