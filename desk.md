@@ -25,6 +25,7 @@ I work 100% remotely, mostly from my home. As such, I’ve built myself a nice l
 - [Dell Precision 5530](/5530) laptop
 - USB-C to DisplayPort adapter
 - 2× Google Nest Mini smart speakers in a stereo pair
+- IKEA wireless Qi charger
 
 ## Art & Decor
 
