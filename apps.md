@@ -4,7 +4,7 @@ Collection of apps that I make, want to make, or wish existed for elementary OS.
 
 Also note that the names of in-progress apps and concepts are not set in stone, they're just how I currently refer to them.
 
-## Released
+## Released _Get them on AppCenter!_
 
 - [**Clairvoyant**](https://github.com/cassidyjames/clairvoyant): Magic 8-ball applet.
 
@@ -18,11 +18,13 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - [**Principles**](https://github.com/cassidyjames/principles): Remember Dieter Rams' ten principles of good design with an applet. Loads a random princple each time, and disappears onto your wallpaper.
 
-## In Progress
+## In Progress _(but probably not actively worked on)_
 
 - [**Anamorph**](https://github.com/cassidyjames/anamorph): De-squeeze anamorphic footage, i.e. that shot with a Moment Anamorphic lens.
 
 - [**Audio**](https://github.com/cassidyjames/audio): Play audio files. That's it. Utility for playing downloaded voicemails, personal recordings, etc. without opening up a full-fledged music app.
+
+- [**Codecard**](https://github.com/DevAlien/codecard): Share snippets of code as a pretty image, e.g. for social media.
 
 - [**Codestash**](https://github.com/cassidyjames/codestash): Stash your code for later. Inspired by [SourceNote for Mac](https://www.sourcenoteapp.com/).
 
@@ -30,13 +32,11 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - [**Rundown**](https://github.com/cassidyjames/rundown): Battery rundown app that waits until the battery is full, then power is unplugged, then it runs benchmarks until the battery dies. Use across hardware for consistent/comparable battery stats. Probably needs to do a variety of work behind the scenes, like loading webpages (WebKitGTK), maybe playing videos, occasionally hitting the CPU.
 
-## Just Concepts
+## Concepts _Contact me if you want to tackle one, and I can help with design!_
 
 - **Backdrop**: Small collection of curated wallpapers just for elementary OS. Maybe using an Unsplash collection as a back-end, or just shipping the wallpapers with the app.
 
 - **Clack**: A simple, no-frills notepad sort of app. Just the bare minimum needed to spit some text into a .txt file.
-
-- **Codecard**: Share snippets of code as a pretty image, e.g. for social media.
 
 - **Diffaroo**: Get a diff of the filesystem, packages, etc. from a known-good state, i.e. to see changes made from a stock image by an OEM.
 
