@@ -38,6 +38,8 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - **Codecard**: Share snippets of code as a pretty image, e.g. for social media.
 
+- **Diffaroo**: Get a diff of the filesystem, packages, etc. from a known-good state, i.e. to see changes made from a stock image by an OEM.
+
 - **Gotham**: Selectively force-enable a dark style support third-party apps, like Firefox. Would show a list of apps (perhaps just non-curated ones?), allowing you to toggle dark style support, which could copy the .desktop file and prepend it with an environment variable that followed the elementary dark style. Or something.
 
 - **Lyra**: Get lyrics and meaning for almost any song. Powered by the Genius API. Hook into MPRIS to see what's playing, but also search for songs/lyrics.
