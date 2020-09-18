@@ -32,6 +32,8 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - [**Rundown**](https://github.com/cassidyjames/rundown): Battery rundown app that waits until the battery is full, then power is unplugged, then it runs benchmarks until the battery dies. Use across hardware for consistent/comparable battery stats. Probably needs to do a variety of work behind the scenes, like loading webpages (WebKitGTK), maybe playing videos, occasionally hitting the CPU.
 
+- **Webshooter**: Your friendly neighborhood website screenshooter. Grab full-size screenshots of web pages at predefined sizes. Great for sharing prototypes.
+
 ## Concepts _Contact me if you want to tackle one, and I can help with design!_
 
 - **Backdrop**: Small collection of curated wallpapers just for elementary OS. Maybe using an Unsplash collection as a back-end, or just shipping the wallpapers with the app.
@@ -53,5 +55,3 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 - **Shortlist**: Better than wishlists. Pick a small number of items you want. This would likely be more a web service with native front-ends for at least elementary OS and Android.
 
 - **Stickers**: A collection of cute stickers that can be pasted into apps. Ideally featuring [Adorbs](https://samuelhewitt.com/adorbs), maybe any Telegram-compatible stickers?
-
-- **Webshooter**: Your friendly neighborhood website screenshooter. Grab full-size screenshots of web pages at predefined sizes. Great for sharing prototypes.
