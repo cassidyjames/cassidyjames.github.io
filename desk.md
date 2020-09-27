@@ -16,6 +16,8 @@ I work 100% remotely, mostly from my home. As such, I’ve built myself a nice l
 - 2× IKEA cable management baskets (underneath)
 - Random power strip with long cord, attached to desk with 3M Command Velcro to keep only one cord going from desk to wall
 
+See this [thread on Twitter](https://twitter.com/CassidyJames/status/1148366328127819777) for more details/photos.
+
 ## Workstation/Gear
 
 - [Workstream by Monoprice](https://www.monoprice.com/product?p_id=33535) monitor mount
