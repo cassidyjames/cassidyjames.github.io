@@ -3,8 +3,6 @@ title: Ephemeral 7 is Here
 description: "Developer tools, hard refresh, latest WebKit updates, support for elementary OS 6, and new site suggestions"
 updated: 2020-10-05
 image: /images/blog/ephemeral-7-developer-tools/repo.png
-
-hidden: true
 ---
 
 It's been nearly two years since I first released Ephemeral—the always-incognito web browser for elementary OS—on AppCenter. In that time, I've added zoom, a refined design, site suggestions, customizable search engines, a JavaScript toggle, find-in-page, touchpad gesture navigation, dark style support, and more.
@@ -56,7 +54,11 @@ Work on elementary OS 6 is under way, and with a new system stylesheet, it requi
 
 The new stylesheet for elementary OS 6 also gave me an opportunity to think about some new styling. Here's a sneak peek:
 
-
+<figure class="half" markdown="1">
+[![Ephemeral 7 on elementary OS 6](/images/blog/{{ page.slug }}/odin-light.png)](/images/blog/{{ page.slug }}/odin-light.png)
+[![Ephemeral 7 on elementary OS 6 (dark)](/images/blog/{{ page.slug }}/odin-dark.png)](/images/blog/{{ page.slug }}/odin-dark.png)
+<figcaption>Ephemeral 7 on elementary OS 6</figcaption>
+</figure>
 
 elementary OS 6 is also introducing a system-wide dark style preference. Ephemeral on elementary OS 6 will support this from day one instead of the in-app toggle as seen in elementary OS 5.x. Users of Ephemeral on other platforms or system stylesheets will continue to see the more GNOME-styled variant of the UI which looks more at home with Adwaita, Pop!, etc.
 
@@ -72,3 +74,13 @@ Site suggestions mean typing _omg_ will show a suggestion for [OMG! Ubuntu!](htt
 </figure>
 
 Ephemeral 7 comes with several new sites for "Friends of Ephemeral," Linux-specific news sites, and elementary OS Retailer sites. The result is more suggestions out of the box—and ones that I hope are relevant to Ephemeral and elementary OS users.
+
+## Get it on AppCenter
+
+Ephemeral 7 is [available today][appcenter] for the suggested price of $9 on AppCenter, and as a free update for existing paid users.
+
+<div style="text-align: center;" markdown="1">
+[![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)][appcenter]{: style="display: inline-block;"}
+</div>
+
+[appcenter]: http://appcenter.elementary.io/com.github.cassidyjames.ephemeral
