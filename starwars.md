@@ -23,16 +23,22 @@ Note: **Disney Gallery may contain major spoilers**—it's best to only watch if
 | [Sep 4]  | [Chapter 1: The Mandalorian][s1e1] | [1. Directing][g1]   |
 | [Sep 11] | [Chapter 2: The Child][s1e2]       | [2. Legacy][g2]      |
 | [Sep 18] | [Chapter 3: The Sin][s1e3]         | [3. Cast][g3]        |
-| Sep 25 | [Chapter 4: Sanctuary][s1e4]       | [4. Technology][g4]  |
-| Oct 2  | [Chapter 5: The Gunslinger][s1e5]  | [5. Practical][g5]   |
-| Oct 9  | [Chapter 6: The Prisoner][s1e6]    | [6. Process][g6]     |
-| Oct 16 | [Chapter 7: The Reckoning][s1e7]   | [7. Score][g7]       |
-| Oct 23 | [Chapter 8: Redemption][s1e8]      | [8. Connections][g8] |
-| Oct 30 | Season Two, Chapter 1              |                      |
+| [Sep 25] | [Chapter 4: Sanctuary][s1e4]       | [4. Technology][g4]  |
+| [Oct 2]  | [Chapter 5: The Gunslinger][s1e5]  | [5. Practical][g5]   |
+| [Oct 9]  | [Chapter 6: The Prisoner][s1e6]    | [6. Process][g6]     |
+| [Oct 16] | [Chapter 7: The Reckoning][s1e7]   | [7. Score][g7]       |
+| [Oct 23] | [Chapter 8: Redemption][s1e8]      | [8. Connections][g8] |
+| [Oct 30] | [Season Two, Chapter 1][s2e1]      |                      |
 
 [Sep 4]: https://gettogether.community/events/7124/the-mandalorian-night-one/
 [Sep 11]:https://gettogether.community/events/7144/the-mandalorian-night-two/
 [Sep 18]: https://gettogether.community/events/7145/the-mandalorian-night-three/
+[Sep 25]: https://gettogether.community/events/7549/the-mandalorian-night-four/
+[Oct 2]: https://gettogether.community/events/7550/the-mandalorian-night-five/
+[Oct 9]: https://gettogether.community/events/7633/the-mandalorian-night-six/
+[Oct 16]: https://gettogether.community/events/7634/the-mandalorian-night-seven/
+[Oct 23]: https://gettogether.community/events/7635/the-mandalorian-night-eight/
+[Oct 30]: https://gettogether.community/events/7636/the-mandalorian-season-2-debut/
 
 [s1e1]: https://www.disneyplus.com/video/30ea8a44-797d-4da8-b776-2e3636a2bf5a
 [s1e2]: https://www.disneyplus.com/video/0e2b152d-6736-4635-8b0d-4c15f7bb5253
@@ -42,6 +48,8 @@ Note: **Disney Gallery may contain major spoilers**—it's best to only watch if
 [s1e6]: https://www.disneyplus.com/video/37bcdcd3-335d-40e5-abaa-7ca435ab7beb
 [s1e7]: https://www.disneyplus.com/video/defe8509-3e33-45e6-90e1-0a8f0f7917e1
 [s1e8]: https://www.disneyplus.com/video/2bb20bd2-cdcd-4f4c-b6bd-62339fb14087
+
+[s2e1]: https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD
 
 [g1]: https://www.disneyplus.com/video/4b9bc917-870c-4f72-b60b-a5f0d0b3313d
 [g2]: https://www.disneyplus.com/video/76a95ebb-5eee-4f51-ab10-ce8aeeabef04
