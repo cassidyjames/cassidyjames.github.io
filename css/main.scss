@@ -44,9 +44,22 @@ img {
   transition: all 250ms;
 }
 
-.home .fa-ul {
-  font-size: 0.875em;
-  margin-left: 1.5em;
+.home {
+  .fa-ul {
+    font-size: 0.875em;
+    margin-left: 1.5em;
+  }
+
+  .card {
+    // float: left;
+    // max-width: 300px;
+    margin: 2em 0;
+    padding: 0.5em 1em;
+
+    h2 {
+      margin-top: 0;
+    }
+  }
 }
 
 .fa-ul > li {
@@ -136,9 +149,7 @@ img {
   }
 }
 
-.avatar,
-img[alt="Me"] {
-  background-image: url('https://cdn.rawgit.com/elementary/icons/master/status/symbolic/avatar-default-symbolic.svg');
+.avatar {
   background-position: center;
   background-size: cover;
   border: 1px solid var(--primary-color);
@@ -146,9 +157,7 @@ img[alt="Me"] {
   box-shadow:
     0 1px 6px 0 rgba(0, 0, 0, 0.12),
     0 1px 4px 0 rgba(0, 0, 0, 0.24);
-  float: left;
-  margin: 1em 1em 1em 0;
-  max-width: 8em;
+  margin: 0;
 
   nav & {
     float: left;

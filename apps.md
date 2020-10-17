@@ -1,22 +1,22 @@
 # Cassidy's Apps
 
-Collection of apps that I make, want to make, or wish existed for elementary OS. Sketches/wireframes might exist for some of these; if you're interested in taking one of these on, **let me know**.
+I have a few apps available on AppCenter for [elementary OS](https://elementary.io). Check them out!
+
+[![Ephemeral icon](https://github.com/cassidyjames/ephemeral/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [![Ideogram icon](https://github.com/cassidyjames/ideogram/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [![Dippi icon](https://github.com/cassidyjames/dippi/raw/main/data/icons/128/com.github.cassidyjames.dippi.svg)](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
+--- | --- | ---
+[Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [Ideogram](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
+
+[![Palette icon](https://github.com/cassidyjames/palette/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [![Principles icon](https://github.com/cassidyjames/principles/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [![Clairvoyant icon](https://github.com/cassidyjames/clairvoyant/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant)
+--- | --- | ---
+[Palette](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [Principles](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [Clairvoyant](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant)
+
+---
+
+# Concepts
+
+Collection of apps that I want to make or wish existed for elementary OS. Sketches/wireframes might exist for some of these; if you're interested in taking one of these on, **let me know**.
 
 Also note that the names of in-progress apps and concepts are not set in stone, they're just how I currently refer to them.
-
-## Released _Get them on AppCenter!_
-
-- [**Clairvoyant**](https://github.com/cassidyjames/clairvoyant): Magic 8-ball applet.
-
-- [**Dippi**](https://github.com/cassidyjames/dippi): Calculate display info like DPI and aspect ratio, helping with laptop/display purchasing decisions.
-
-- [**Ephemeral**](https://github.com/cassidyjames/ephemeral): A private-by-default, always-incognito browser. Like Firefox Focus. Share to your other browsers with one click.
-
-- [**Ideogram**](https://github.com/cassidyjames/ideogram): Insert emoji anywhere, even in non-native apps. Displays a GTK Emoji Picker, and then copies that to the clipboard, then pastes it.
-
-- [**Palette**](https://github.com/cassidyjames/palette): View and copy colors from the elementary brand palette, including semantic uses, HEX values, and GTK color constants.
-
-- [**Principles**](https://github.com/cassidyjames/principles): Remember Dieter Rams' ten principles of good design with an applet. Loads a random princple each time, and disappears onto your wallpaper.
 
 ## In Progress _(but probably not actively worked on)_
 
@@ -34,7 +34,7 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - **Webshooter**: Your friendly neighborhood website screenshooter. Grab full-size screenshots of web pages at predefined sizes. Great for sharing prototypes.
 
-## Concepts _Contact me if you want to tackle one, and I can help with design!_
+## Ideas _Contact me if you want to tackle one, and I can help with design!_
 
 - **Backdrop**: Small collection of curated wallpapers just for elementary OS. Maybe using an Unsplash collection as a back-end, or just shipping the wallpapers with the app.
 

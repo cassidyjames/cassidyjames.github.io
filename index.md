@@ -2,54 +2,38 @@
 title: Cassidy James Blaede
 ---
 
+![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256&d=blank){: .avatar width="128" height="128"}
+
 # Casper-y James Blaede <i>👻️</i>
-
-![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=240&d=blank)
-
-<div class="summary">
-  <ul class="fa-ul">
-    <li><i class="fa-li fa fa-briefcase"></i>Co-founder &amp; CXO at <a href="https://elementary.io/">elementary, Inc.</a></li>
-    <li><i class="fa-li fa fa-pencil-ruler"></i>Open source UX architect</li>
-    <li><i class="fa-li fa fa-heart"></i>Spouse and bestie of <a href="https://katiemkblaede.com/">Katie M. K. Blaede</a></li>
-    <li><i class="fa-li fa fa-map-marker"></i>Lives in <a href="https://www.google.com/maps/place/Englewood,+CO/@39.6888341,-104.9838867,12z/data=!4m2!3m1!1s0x876c807a9da33fb7:0x6620ef5f5fcfffc5">Englewood, CO (Denver area)</a></li>
-  </ul>
-</div>
-
-## Apps
-
-I have a few apps available on AppCenter for [elementary OS](https://elementary.io). Check them out!
-
-[![Ephemeral icon](https://github.com/cassidyjames/ephemeral/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [![Ideogram icon](https://github.com/cassidyjames/ideogram/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [![Dippi icon](https://github.com/cassidyjames/dippi/raw/main/data/icons/128/com.github.cassidyjames.dippi.svg)](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
---- | --- | ---
-[Ephemeral](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral) | [Ideogram](https://appcenter.elementary.io/com.github.cassidyjames.ideogram) | [Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
-
-[![Palette icon](https://github.com/cassidyjames/palette/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [![Principles icon](https://github.com/cassidyjames/principles/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [![Clairvoyant icon](https://github.com/cassidyjames/clairvoyant/raw/main/data/icons/128.svg)](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant)
---- | --- | ---
-[Palette](https://appcenter.elementary.io/com.github.cassidyjames.palette) | [Principles](https://appcenter.elementary.io/com.github.cassidyjames.principles) | [Clairvoyant](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant)
-
-## What I Do
-
-### Create
 
 I'm a **UX architect** who designs and builds useful, usable, and delightful **digital products** using **open technologies**.
 
-<a href="https://github.com/{{ site.github_user }}" class="read-more github"><i class="fab fa-fw fa-github"></i>Browse code on GitHub</a>
+<section class="code card" markdown="1">
+## Code & Collaboration
+
+I strive to **collaborate** with open source projects as much as possible, and share what I work on under **open licenses** whenever possible. 
+
+[<i class="fab fa-fw fa-github"></i>Browse code on GitHub](https://github.com/{{ site.github_user }}){: .read-more.github}
 
 <a href="https://wiki.gnome.org/CassidyBlaede" class="read-more gnome"><i class="fa fa-fw fa-info-circle"></i>View GNOME profile</a>
 
 <a href="/resume" class="read-more resume"><i class="far fa-fw fa-file-alt"></i>See résumé</a>
+</section>
 
-### Talk
+<section class="talks card" markdown="1">
+## Talks & Podcasts
 
-I **give talks** about UX and open source. I also sometimes appear on **podcasts** like Linux Unplugged to talk about my work.
+I give **talks** about UX and open source. I also sometimes appear on **podcasts** like Linux Unplugged to talk about my work.
 
 <a href="/talks" class="read-more talks"><i class="fa fa-fw fa-chalkboard-teacher"></i>View talks</a>
 
 <a href="https://linuxunplugged.com/guests/cassidyjames" class="read-more lup"><i class="fa fa-fw fa-microphone"></i>Listen on Linux Unplugged</a>
+</section>
 
-### Write
+<section class="writing card" markdown="1">
+## Writing & Social
 
-I **write things** on the internet about UX, tech, and what I&rsquo;m up to. Some people think some of those things are smart.
+I **write things** on the internet about UX, tech, and what I'm up to. I usually share these things on **social media**.
 
 <a href="/blog" class="read-more blog"><i class="fa fa-fw fa-rss"></i>Read posts on Blog</a>
 
@@ -58,8 +42,10 @@ I **write things** on the internet about UX, tech, and what I&rsquo;m up to. Som
 <a rel="me" href="{{ site.mastodon }}" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
 
 <a href="https://twitter.com/{{ site.twitter }}" class="read-more twitter"><i class="fab fa-fw fa-twitter"></i>See tweets</a>
+</section>
 
-### Photograph
+<section class="photography card" markdown="1">
+## Photography
 
 I take **photos** of my adventures (and my cat), mostly with my Pixel phone and Moment lenses.
 
@@ -70,8 +56,10 @@ I take **photos** of my adventures (and my cat), mostly with my Pixel phone and 
 <a href="https://instagram.com/{{ site.instagram }}" class="read-more instagram"><i class="fab fa-fw fa-instagram"></i>View photos on Instagram</a>
 
 <a href="https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede" class="read-more moment"><i class="fas fa-fw fa-credit-card"></i>Moment lenses (referral)</a>
+</section>
 
-### Play
+<section class="gaming card" markdown="1">
+## Gaming
 
 I play **games** when I can find the time. Usually on PS4, but occasionally on Switch, Steam, Android, and my GamePi.
 
@@ -82,3 +70,4 @@ I play **games** when I can find the time. Usually on PS4, but occasionally on S
 <a href="http://steamcommunity.com/id/{{ site.steam }}/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
 
 <a href="/gamepi" class="read-more gamepi"><i class="fa fa-fw fa-gamepad"></i>Learn about GamePi</a>
+</section>
