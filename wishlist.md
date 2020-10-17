@@ -31,13 +31,12 @@ _A.k.a. a small number of things I’d absolutely love._
 | Image | Link | Price | Notes |
 |-------|------|-------|-------|
 | ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock) | **$250** | Silver |
-| ![SSD](/images/ssd.jpg) | [2TB Samsung 860 QVO SSD](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-qvo-2-5-sata-iii-2tb-mz-76q2t0b-am/) | **$250** | Not picky about brand or model, but I'd like a 2TB SSD that works in the PS4 |
-| ![CineBloom](/images/cinebloom.png) | [62mm Moment CineBloom 20% filter](https://www.shopmoment.com/shop/62mm-cinebloom-diffusion-filters/20) | **$60** | |
 | ![Pi Camera](/images/pi-camera.jpg) | [Pi NoIR Camera V2](https://www.raspberrypi.org/products/pi-noir-camera-v2/) | **$25** | Infrared camera for Raspberry Pi; does not need to be this exact model/listing |
 | ![PiDeco](/images/pideco.jpg) | [PiDeco Case](https://www.c4labs.com/product/pi-deco-camera-case-raspberry-pi-zero-zero-w-camera-module-v2-classic-wood/) | **$17** | For Pi Zero and camera |
 | ![Counterweights](https://image.shopmoment.com/cdn-cgi/image/format=auto,quality=75,width=300,fit=cover,gravity=0.5x0.5,height=300/https://image.shopmoment.com/general/product/Moment-109-005-Counterweight-for-DJI-Osmo-Mobile-3-01.jpg?mtime=20200326162929) | [Moment Osmo 3 Counterweights](https://moment.8ocm68.net/M70XY) | **$15** | |
 
 <!--
+| ![CineBloom](/images/cinebloom.png) | [62mm Moment CineBloom 20% filter](https://www.shopmoment.com/shop/62mm-cinebloom-diffusion-filters/20) | **$60** | |
 | ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75** | Not picky, but I've heard of Gobe and Hoya brands |
 -->
 
@@ -59,23 +58,21 @@ _A.k.a. stuff I always enjoy._
 
 ### Pins **$5+**
 
-I've started collecting quality pins for my backpack—like ones with good backs, not the cheapo button ones—from cool causes, artists, and places.
+I collect quality pins for my backpack—like ones with good backs, not the cheapo button ones—from cool causes, artists, and places. You can find some examples on my Gift Hero list, but I'm open to anything you think I'd like.
 
 ### Watch bands/straps **$13–25**
 
 **18mm two-piece quick-release is required for my watch**
 
-I have a coral silicone set and a white cordura set, but I enjoy swapping out the watch bands on my Fossil Sport. It's the red model, so white, black, and red colors go well with it. [ClockWorkSynergy](https://www.clockworksynergy.com/){: onclick="plausible('Wishlist: ClockWorkSynergy');"} is pretty affordable, but Fossil and others also sell watch bands/straps.
+I have a coral silicone strap, a white cordura strap, and a black and gray striped NATO strap, but I enjoy swapping out the watch bands on my Fossil Sport. It's the red model, so white, black, and red colors go well with it.
+
+[ClockWorkSynergy](https://www.clockworksynergy.com/){: onclick="plausible('Wishlist: ClockWorkSynergy');"} is a pretty affordable source, but Fossil and others also sell watch bands/straps.
 
 ### Fun gauges/plugs **$5–20**
 
 **0g/8mm size**
 
 I like almost anything! Bright colors, unique designs, and interesting patterns are always good. I like [Arctic Buffalo](https://arcticbuffalo.com/collections/0g-8mm-filter){: onclick="plausible('Wishlist: Arctic Buffalo');"} since they're pretty affordable. Hot Topic also usually has a fun assortment.
-
-### Hubless Wi-Fi smart lighting **$10–\$\$\$**
-
-Feit smart bulbs, Philips WiZ bulbs, LIFX bulbs, funky light art, etc. are all very welcome. Ideally every bulb in my home would be smart… maybe someday soon!
 
 ### Board/card/party games **$10–50**
 
@@ -96,7 +93,7 @@ _A.k.a. stuff to do instead of just… stuff._
 * Local Denver food gift certificates (more date nights!)
 * Denver museum or zoo tickets
 * [Denver Center for the Performing Arts](https://denvercenter.org){: onclick="plausible('Wishlist: DCPA');"} gift certificate
-* _Panic! at the Disco_, _Fall Out Boy_, or _Twenty-One Pilots_ concert tickets
+* Concert tickets to Panic! at the Disco, Fall Out Boy, Twenty-One Pilots, or any of [these artists](https://www.last.fm/user/cassidyjames/library/artists)
 
 ---
 
@@ -154,7 +151,7 @@ Instead of giving to me directly, you can always give to one of these causes. I�
 ## Vinyl LPs
 </summary>
 
-_A.k.a. Katie got a turntable so I need some music…_ 🙃️
+_A.k.a. Katie got a turntable so I need some music for me, too…_ 🙃️
 
 In no particular order at all.
 
