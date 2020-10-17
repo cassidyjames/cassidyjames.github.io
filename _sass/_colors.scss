@@ -3,8 +3,8 @@
   --neutral: #333;
   --faint: #eee;
 
-  --primary-color: #452981;
-  --accent-color: #c6262e;
+  --primary-color: #333; // Header, footer, light style text
+  --accent-color: #{mix(#ffa154, #ad5f00, 33%)}; // Headers
   --secondary-accent-color: var(--primary-color);
   --secondary-accent-contrast: var(--background-color);
 
@@ -28,13 +28,13 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: #121212;
+    --background-color: #222;
     --neutral: #d4d4d4;
     --faint: #333;
 
     --primary-color: var(--neutral);
-    --accent-color: #ed5353;
-    --secondary-accent-color: #452981;
+    --accent-color: #{mix(#ffa154, #ad5f00, 67%)};
+    --secondary-accent-color: #111;
     --secondary-accent-contrast: var(--neutral);
   }
 }
