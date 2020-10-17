@@ -41,6 +41,14 @@ h1 {
   @media (min-width: 505px) {
     max-width: initial;
   }
+
+  i {
+    display: inline-block;
+    font-size: 0.5em;
+    font-style: inherit;
+    padding: 0 0.25em;
+    vertical-align: middle;
+  }
 }
 
 h2 {

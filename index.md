@@ -1,7 +1,8 @@
 ---
+title: Cassidy James Blaede
 ---
 
-# Cassidy James Blaede
+# Casper-y James Blaede <i>👻️</i>
 
 ![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=240&d=blank)
 
