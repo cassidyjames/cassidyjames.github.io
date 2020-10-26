@@ -36,7 +36,6 @@ _A.k.a. a small number of things I’d absolutely love._
 | ![Counterweights](https://image.shopmoment.com/cdn-cgi/image/format=auto,quality=75,width=300,fit=cover,gravity=0.5x0.5,height=300/https://image.shopmoment.com/general/product/Moment-109-005-Counterweight-for-DJI-Osmo-Mobile-3-01.jpg?mtime=20200326162929) | [Moment Osmo 3 Counterweights](https://moment.8ocm68.net/M70XY) | **$15** | |
 
 <!--
-| ![CineBloom](/images/cinebloom.png) | [62mm Moment CineBloom 20% filter](https://www.shopmoment.com/shop/62mm-cinebloom-diffusion-filters/20) | **$60** | |
 | ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75** | Not picky, but I've heard of Gobe and Hoya brands |
 -->
 
