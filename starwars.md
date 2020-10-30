@@ -13,7 +13,7 @@ Join us to watch **Season Two**! We'll be watching one chapter each debut Friday
 <div style="margin: 2em auto; text-align: center;" markdown="1">
 [Join the GetTogether](https://gettogether.community/star-wars-viewing-party-2019/){: .button} [Join the Discord](https://discord.gg/3aagq4A){: .button}
 
-<small>Or, join each event using the dates below.</small>
+<small>Or, join each GetTogether calendar event using the dates below.</small>
 </div>
 
 Date     | Time          | Disney+ Link
