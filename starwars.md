@@ -19,6 +19,8 @@ Join us to watch **Season Two**! We'll be watching one chapter each debut Friday
 Date     | Time          | Disney+ Link
 :---     |:----          | :-----------
 [Oct 30] | 8:30 PM MDT   | [S2E1: Chapter 9][s2e1]
+Nov 6    | 8:30 PM MDT   | S2E2: Chapter 10
+Nov 13   | 8:30 PM MDT   | S2E3: Chapter 11
 
 ### Season One
 
