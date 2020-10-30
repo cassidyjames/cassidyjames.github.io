@@ -8,15 +8,21 @@ image: /images//starwars/mandalorian.png
 
 ## The Mandalorian **#MandoWatchAlong**
 
-Watch one chapter per week each Friday leading up to Season Two (October 30). Your choice: [_The Mandalorian_ **Season One**](https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD), or the behind-the-scenes [**Disney Gallery**: _The Mandalorian_](https://www.disneyplus.com/series/disney-gallery-star-wars-the-mandalorian/2JXj6pZBPAyE) documentary series.
-
-Note: **Disney Gallery may contain major spoilers**—it's best to only watch if you've seen all of _The Mandalorian_ Season One.
+Join us to watch **Season Two**! We'll be watching one chapter each debut Friday.
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
 [Join the GetTogether](https://gettogether.community/star-wars-viewing-party-2019/){: .button} [Join the Discord](https://discord.gg/3aagq4A){: .button}
 
 <small>Or, join each event using the dates below.</small>
 </div>
+
+Date     | Time          | Season Two
+:---     |:----          | :---------
+[Oct 30] | 8:30 PM MDT | [Chapter 9][s2e1]
+
+### Season One
+
+For historcial purposes, this was our #MandoWatchAlong schedule for season one, leading up to the debut of season two.
 
 | Date     | Season One                         | Disney Gallery       |
 | :------- | :--------------------------------- | :------------------- |
@@ -28,7 +34,6 @@ Note: **Disney Gallery may contain major spoilers**—it's best to only watch if
 | [Oct 9]  | [Chapter 6: The Prisoner][s1e6]    | [6. Process][g6]     |
 | [Oct 16] | [Chapter 7: The Reckoning][s1e7]   | [7. Score][g7]       |
 | [Oct 23] | [Chapter 8: Redemption][s1e8]      | [8. Connections][g8] |
-| [Oct 30] | [Season Two, Chapter 1][s2e1]      |                      |
 
 [Sep 4]: https://gettogether.community/events/7124/the-mandalorian-night-one/
 [Sep 11]:https://gettogether.community/events/7144/the-mandalorian-night-two/
@@ -69,16 +74,12 @@ Note: **Disney Gallery may contain major spoilers**—it's best to only watch if
     padding: 0.5em;
   }
 
-  table td:first-child {
+  table td:first-child a {
     font-weight: bold;
   }
 
   table tr:nth-child(odd) td {
     background: rgba(150, 150, 150, 0.1);
-  }
-
-  tr:last-child {
-    font-weight: bold;
   }
 </style>
 
