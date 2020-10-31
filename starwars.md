@@ -19,7 +19,7 @@ Join us to watch **Season Two**! We'll be watching one chapter each debut Friday
 Date     | Time          | Disney+ Link
 :---     |:----          | :-----------
 [Oct 30] | 8:30 PM MDT   | [S2E1: Chapter 9][s2e1]
-Nov 6    | 8:30 PM MDT   | S2E2: Chapter 10
+[Nov 6]  | 8:30 PM MDT   | S2E2: Chapter 10
 Nov 13   | 8:30 PM MDT   | S2E3: Chapter 11
 
 ### Season One
@@ -46,6 +46,7 @@ For historcial purposes, this was our #MandoWatchAlong schedule for season one, 
 [Oct 16]: https://gettogether.community/events/7634/the-mandalorian-night-seven/
 [Oct 23]: https://gettogether.community/events/7635/the-mandalorian-night-eight/
 [Oct 30]: https://gettogether.community/events/7636/the-mandalorian-season-2-debut/
+[Nov 6]: https://gettogether.community/events/7962/the-mandalorian-chapter-10/
 
 [s1e1]: https://www.disneyplus.com/video/30ea8a44-797d-4da8-b776-2e3636a2bf5a
 [s1e2]: https://www.disneyplus.com/video/0e2b152d-6736-4635-8b0d-4c15f7bb5253
