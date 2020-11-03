@@ -7,7 +7,7 @@ redirect_from:
 
 This is my canonical birthday, Christmas, and any-other-time wish list. **It is up to date as of {{ site.time | date: '%B %-d, %Y' }}.**
 
-<details markdown="1">
+<details open="open" markdown="1">
 <summary markdown="1">
 ## Skip Amazon
 </summary>
@@ -16,6 +16,7 @@ I dislike Amazon since they’re extremely [anti-competitive](https://www.yalela
 
 **Buying from the company who makes the thing is usually best**, but I also recommend the following stores as they seem well-designed and reliable:
 - [Target](https://target.com) - Their online shopping is great, plus there's the convenience of picking up in store skipping shipping costs.
+- [Micro Center](https://microcenter.com) - They usually have all the Raspberry Pi stuff and lots of other electronics and accessories.
 - [Best Buy](https://bestbuy.com) - Pretty competitive for most electronics, aside from cheaper things like small accessories. In-store pickup is great.
 - [ClockWorkSynergy](https://www.clockworksynergy.com/) for watch bands/straps.
 - [Arctic Buffalo](https://arcticbuffalo.com/collections/0g-8mm-filter) for jewelry (guages/plugs).
