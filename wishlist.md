@@ -28,15 +28,16 @@ I dislike Amazon since they’re extremely [anti-competitive](https://www.yalela
 
 _A.k.a. a small number of things I’d absolutely love._
 
-| Image | Link | Price | Notes |
-|-------|------|-------|-------|
-| ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock) | **$250** | Silver |
-| ![Pi Camera](/images/pi-camera.jpg) | [Pi NoIR Camera V2](https://www.raspberrypi.org/products/pi-noir-camera-v2/) | **$25** | Infrared camera for Raspberry Pi; does not need to be this exact model/listing |
-| ![PiDeco](/images/pideco.jpg) | [PiDeco Case](https://www.c4labs.com/product/pi-deco-camera-case-raspberry-pi-zero-zero-w-camera-module-v2-classic-wood/) | **$17** | For Pi Zero and camera |
-| ![Counterweights](https://image.shopmoment.com/cdn-cgi/image/format=auto,quality=75,width=300,fit=cover,gravity=0.5x0.5,height=300/https://image.shopmoment.com/general/product/Moment-109-005-Counterweight-for-DJI-Osmo-Mobile-3-01.jpg?mtime=20200326162929) | [Moment Osmo 3 Counterweights](https://moment.8ocm68.net/M70XY) | **$15** | |
+Image | Link | Price | Notes
+------|------|-------|------
+![August](/images/august.png) | [August Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock) | **$250** | Silver
+![Pi 400](/images/pi400.png) | [Raspberry Pi 400](https://raspberrypi.org/products/raspberry-pi-400-unit) | **$70** | Just the "unit" itself; no accessories needed
+![Pi Camera](/images/pi-camera.jpg) | [Pi NoIR Camera V2](https://www.raspberrypi.org/products/pi-noir-camera-v2/) | **$25** | Infrared camera for Raspberry Pi; does not need to be this exact model/listing
+![PiDeco](/images/pideco.jpg) | [PiDeco Case](https://www.c4labs.com/product/pi-deco-camera-case-raspberry-pi-zero-zero-w-camera-module-v2-classic-wood/) | **$17** | For Pi Zero and camera |
+![Counterweights](https://image.shopmoment.com/cdn-cgi/image/format=auto,quality=75,width=300,fit=cover,gravity=0.5x0.5,height=300/https://image.shopmoment.com/general/product/Moment-109-005-Counterweight-for-DJI-Osmo-Mobile-3-01.jpg?mtime=20200326162929) | [Moment Osmo 3 Counterweights](https://moment.8ocm68.net/M70XY) | **$15** |
 
 <!--
-| ![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75** | Not picky, but I've heard of Gobe and Hoya brands |
+![Filters](/images/uv-cpl-filters.jpg) | 62mm CPL Filter | **$40–75** | Not picky, but I've heard of Gobe and Hoya brands
 -->
 
 ---
