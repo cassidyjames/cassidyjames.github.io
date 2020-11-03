@@ -30,7 +30,7 @@
   :root {
     --background-color: #{ mix(#452981, black, 50%) };
     --neutral: #{ mix(#e4c6fa, white, 25%) };
-    --faint: #452981;
+    --faint:  #{ mix(#452981, black, 75%) };
 
     --primary-color: var(--neutral);
     --accent-color: #{ mix(#ed5353, #ff8c82) };
