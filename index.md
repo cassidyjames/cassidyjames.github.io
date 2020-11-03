@@ -4,14 +4,14 @@ title: Cassidy James Blaede
 
 ![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256&d=blank){: .avatar width="128" height="128"}
 
-# Casper-y James Blaede <i>👻️</i>
+# Cassidy James Blaede
 
 I'm a **UX architect** who designs and builds useful, usable, and delightful **digital products** using **open technologies**.
 
 <section class="code card" markdown="1">
 ## Code & Collaboration
 
-I strive to **collaborate** with open source projects as much as possible, and share what I work on under **open licenses** whenever possible. 
+I strive to **collaborate** with open source projects as much as possible, and share what I work on under **open licenses** whenever possible.
 
 [<i class="fab fa-fw fa-github"></i>Browse code on GitHub](https://github.com/{{ site.github_user }}){: .read-more.github}
 
