@@ -31,6 +31,7 @@ _A.k.a. a small number of things I’d absolutely love._
 
 Image | Link | Price | Notes
 ------|------|-------|------
+![Oura](/images/oura.jpg) | [Oura Ring](https://ouraring.com/product/heritage-silver/step1) | **$299** | Heritage, Silver
 ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock) | **$250** | Silver
 ![Pi 400](/images/pi400.png) | [Raspberry Pi 400](https://raspberrypi.org/products/raspberry-pi-400-unit) | **$70** | Just the "unit" itself; no accessories needed
 ![Pi Camera](/images/pi-camera.jpg) | [Pi NoIR Camera V2](https://www.raspberrypi.org/products/pi-noir-camera-v2/) | **$25** | Infrared camera for Raspberry Pi; does not need to be this exact model/listing
