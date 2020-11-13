@@ -20,6 +20,7 @@ Oct 30 | 8:30 PM MDT   | [S2E1: Chapter 9][s2]
 Nov 6  | 8:30 PM MDT   | [S2E2: Chapter 10][s2]
 Nov 13 | 8:30 PM MST   | [S2E3: Chapter 11][s2]
 Nov 20 | 8:30 PM MST   | [S2E4: Chapter 12][s2]
+Nov 27 | 8:30 PM MST   | [S2E5: Chapter 13][s2]
 
 ### Season One
 
