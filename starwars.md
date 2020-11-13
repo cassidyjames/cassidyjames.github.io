@@ -11,16 +11,15 @@ image: /images//starwars/mandalorian.png
 Join us to watch **Season Two**! We'll be watching one chapter each debut Friday at 8:30 PM Mountain time. You can still join and watch any time!
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
-[Join the GetTogether](https://gettogether.community/star-wars-viewing-party-2019/){: .button} [Join the Discord](https://discord.gg/3aagq4A){: .button}
-
-<small>Or, join each GetTogether calendar event using the dates below.</small>
+[Join the Discord](https://discord.gg/3aagq4A){: .button}
 </div>
 
-Date     | Time          | Disney+ Link
-:---     |:----          | :-----------
-[Oct 30] | 8:30 PM MDT   | [S2E1: Chapter 9][s2e1]
-[Nov 6]  | 8:30 PM MDT   | S2E2: Chapter 10
-Nov 13   | 8:30 PM MDT   | S2E3: Chapter 11
+Date   | Time          | Disney+ Link
+:---   |:----          | :-----------
+Oct 30 | 8:30 PM MDT   | [S2E1: Chapter 9][s2]
+Nov 6  | 8:30 PM MDT   | [S2E2: Chapter 10][s2]
+Nov 13 | 8:30 PM MDT   | [S2E3: Chapter 11][s2]
+Nov 20 | 8:30 PM MDT   | [S2E4: Chapter 12][s2]
 
 ### Season One
 
@@ -57,7 +56,7 @@ For historcial purposes, this was our #MandoWatchAlong schedule for season one, 
 [s1e7]: https://www.disneyplus.com/video/defe8509-3e33-45e6-90e1-0a8f0f7917e1
 [s1e8]: https://www.disneyplus.com/video/2bb20bd2-cdcd-4f4c-b6bd-62339fb14087
 
-[s2e1]: https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD
+[s2]: https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD
 
 [g1]: https://www.disneyplus.com/video/4b9bc917-870c-4f72-b60b-a5f0d0b3313d
 [g2]: https://www.disneyplus.com/video/76a95ebb-5eee-4f51-ab10-ce8aeeabef04
