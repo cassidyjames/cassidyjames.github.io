@@ -1,7 +1,7 @@
 ---
 title: A New Chapter
 description: "tl;dr I'm going full-time at elementary"
-updated: 2020-08-01
+updated: 2018-08-01
 ---
 
 ## My Career at System76
