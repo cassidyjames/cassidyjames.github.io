@@ -10,11 +10,11 @@ redirect_from:
 updated: 2020-04-11
 ---
 
-> Sometimes I forget how much of a bubble I'm in. Every day, I interact with Linux users and developers, fellow tech geeks, etc. online. My social media feeds—thanks in large part to algorithmic timelines pushing me what they think I'd like—are largely a bunch of tech folks talking about tech things.
->
-> Much of that discourse is centered around open source. So I forget that _normal people_ out there in the world aren't constantly talking about or at least acutely aware of Raspberry Pi projects. Most of them don't even know what a Raspberry Pi is! So when I've been talking about Raspberry Pi projects to do at home while social distancing, I get weird looks or funny questions. Or even for some of those friends who sort of know about Raspberry Pis, they still have several questions.
->
-> In an effort to answer those questions and give anyone an introduction to Raspberry Pi, I've decided to write up this blog post targeted specifically to the less-techy or just less-Linuxy folks out there.
+Sometimes I forget how much of a bubble I'm in. Every day, I interact with Linux users and developers, fellow tech geeks, etc. online. My social media feeds—thanks in large part to algorithmic timelines pushing me what they think I'd like—are largely a bunch of tech folks talking about tech things.
+
+Much of that discourse is centered around open source. So I forget that _normal people_ out there in the world aren't constantly talking about or at least acutely aware of Raspberry Pi projects. Most of them don't even know what a Raspberry Pi is! So when I've been talking about Raspberry Pi projects to do at home while social distancing, I get weird looks or funny questions. Or even for some of those friends who sort of know about Raspberry Pis, they still have several questions.
+
+In an effort to answer those questions and give anyone an introduction to Raspberry Pi, I've decided to write up this blog post targeted specifically to the less-techy or just less-Linuxy folks out there.
 
 ### In a Nutshell
 
