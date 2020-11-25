@@ -35,6 +35,7 @@ Image | Link | Price | Notes
 ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://august.com/products/august-wifi-smart-lock) | **$250** | Silver
 ![Pi 400](/images/pi400.png) | [Raspberry Pi 400](https://raspberrypi.org/products/raspberry-pi-400-unit) | **$70** | Just the "unit" itself; no accessories needed
 ![Zelda 2](/images/zelda2.jpg) | [Zelda & Chill II on Vinyl](https://gamechops.bandcamp.com/campaign/zelda-chill-2) | **$32** | Pre-order for $25, plus $7 shipping
+![CLAW](/images/claw.png) | [Power Support CLAW for Stadia](https://store.google.com/product/power_support_holder_clip) | **$15** |
 ![Counterweights](https://image.shopmoment.com/cdn-cgi/image/format=auto,quality=75,width=300,fit=cover,gravity=0.5x0.5,height=300/https://image.shopmoment.com/general/product/Moment-109-005-Counterweight-for-DJI-Osmo-Mobile-3-01.jpg?mtime=20200326162929) | [Moment Osmo 3 Counterweights](https://moment.8ocm68.net/M70XY) | **$15** |
 
 ---
