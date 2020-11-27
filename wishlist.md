@@ -45,7 +45,7 @@ Image | Link | Price | Notes
 I use Gift Hero as a more traditional, sprawling wish list. It's _sort of_ sorted by priority by default, but you can sort by price as well. It includes shortlist items, things from the idea list, and a whole bunch more.
 
 <div style="text-align: center;" markdown="1">
-[View Gift Hero Wish List](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: class="button" onclick="plausible('Wishlist: Gift Hero');"}
+[View Gift Hero Wish List](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: .button onclick="plausible('Wishlist: Gift Hero');"}
 </div>
 
 ---
