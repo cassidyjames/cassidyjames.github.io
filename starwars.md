@@ -100,6 +100,8 @@ For historcial purposes, this was our #MandoWatchAlong schedule for season one, 
 
 ## The Clone Wars _Episode Guide_
 
+![The Clone Wars](/images/starwars/clone-wars.png)
+
 I don't claim to be an expert on Star Wars canon or _The Clone Wars_, but I do have some thoughts! The 3D-animated _The Clone Wars_ show is incredible; it expands the canon and lore of Star Wars itself, it develops and gives insight into beloved characters, and it introduces characters that are becoming central to the new canon stories.
 
 But there is also so. much. Clone. Wars. And there's a lot of… uh, more kid-oriented episodes and arcs—especially involving Jar Jar Binks and droids. So, this is my attempt at picking out the essential _The Clone Wars_ episodes, aimed at expanding on and filling in details of the canon—especially anything that is now cropping up in _The Mandalorian_.
