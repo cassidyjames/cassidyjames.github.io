@@ -1,8 +1,11 @@
 ---
+description: "Featuring _The Mandalorian_ weekly #MandoWatchAlong and a _Clone Wars_ episode guide"
 image: /images//starwars/mandalorian.png
 ---
 
-# Star Wars Viewing Party
+# Star Wars
+
+{{ page.description }}
 
 - [The Mandalorian](#the-mandalorian-mandowatchalong)
 - [The Clone Wars](#the-clone-wars-episode-guide)
