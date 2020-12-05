@@ -108,7 +108,15 @@ But there is also so. much. Clone. Wars. And there's a lot of… uh, more kid-or
 
 Also, a disclaimer: _The Clone Wars_ kind of has a timeline problem; episodes were not aired or numbered in their chronological order. It is mostly fine, but if you find things jumping around a little bit (especially if watching all of it), that's why.
 
-### The Clone Wars Movie
+**Episode rankings:** 
+
+🥇️ required viewing
+
+🥈️ worthwhile but less essential
+
+🥉️ non-essential, but fills in arcs/details
+
+### The Clone Wars Movie 🥉️
 
 Not really essential, though it introduces Ahsoka Tano. But in non-spoiler-y summary: Ahsoka Tano is a young Jedi padawan assigned to Anakin. In the movie, you get to see her learning from Anakin and their master/apprentice, teacher/learner relationship develop. She calls Anakin "skyguy" (a nickname that sticks throughout the series), and she gets the nickname "snips" for being a bit snippy with him. Anakin starts to learn to trust Ahsoka, and it's obvious she is picking up on his improvisational and often defiant style.
 
@@ -116,33 +124,33 @@ Not really essential, though it introduces Ahsoka Tano. But in non-spoiler-y sum
 
 Not much of Season One is essential viewing, actually. There are a lot of clone-focused episodes and some focused more on Padme, Jar Jar, and the introduction of Cad Bane (a bounty hunter whose character I just… hate). The Ryloth arc, however, is worthwhile because it shows some Ahsoka development, and the cost of the war.
 
-Ep | Title               | Details
-:- | :----               | :------
-9  | Cloak of Darkness   | Ahsoka development, introduction of Master Luminara
-19 | Storm Over Ryloth   | Ahsoka character development
-20 | Innocents of Ryloth | Introduces Cham Syndulla and continues Ryloth arc
-21 | Liberty on Ryloth   | Continues and concludes the Ryloth arc
+🏅️ | Ep | Title               | Details
+-- | :- | :----               | :------
+🥉️ | 9  | Cloak of Darkness   | Ahsoka development, introduction of Master Luminara
+🥈️ | 19 | Storm Over Ryloth   | Ahsoka character development
+🥈️ | 20 | Innocents of Ryloth | Introduces Cham Syndulla and continues Ryloth arc
+🥈️ | 21 | Liberty on Ryloth   | Continues and concludes the Ryloth arc
 
 ### Season Two
 
 Season Two introduces Mandalore, the Mandalorians, Death Watch, and a whole bunch of stuff related to _The Mandalorian_ show. While none of this is _required_ to understand and enjoy the events of _The Mandalorian_, it fills in a lot of backstory and lore. It also features the Holocron arc and some good Ahsoka/Barriss-focused episodes with the Geonosis arc.
 
-Ep | Title                 | Details
-:- | :----                 | :------
-1  | Holocron Heist        | Kicks off the Holocron arc with Cad Bane (boo) that might have implications in canon? Or at least fills in some major character motivations/implications.
-2  | Cargo of Doom         | Continues Holocron arc, features Ahsoka
-3  | Children of the Force | Concludes the Holocron arc
-5  | Landing at Point Rain | Kicks of Geonosis arc, featuring Ahsoka
-6  | Weapons Factory       | Focuses on Ahsoka and introduces Barriss, continues Geonosis arc
-7  | Legacy of Terror      | Continues Geonosis arc (less essential, but might as well watch)
-8  | Brain Invaders        | Fun "weird" episode, focuses on Ahsoka and Barriss, concludes the Geonosis arc
-11 | Lightsaber Lost       | Not essential, but a standalone Ahsoka-focused episode
-12 | The Mandalore Plot    | Hoo boy, kicks off the Mandalore arc and is required viewing
-13 | Voyage of Temptation  | Continues Mandalore arc, good Obi-Wan and Anakin development
-14 | Duchess of Mandalore  | Continues Mandalore arc, Death Watch, Republic occupation of Mandalore
-20 | Death Trap            | Boba Fett arc
-21 | R2 Come Home          | Continues Boba Fett arc
-22 | Lethal Trackdown      | Ahsoka, Concludes Boba Fett arc
+🏅️ | Ep | Title                 | Details
+-- | :- | :----                 | :------
+🥈️ | 1  | Holocron Heist        | Kicks off the Holocron arc with Cad Bane (boo) that might have implications in canon? Or at least fills in some major character motivations/implications.
+🥈️ | 2  | Cargo of Doom         | Continues Holocron arc, features Ahsoka
+🥈️ | 3  | Children of the Force | Concludes the Holocron arc
+🥈️ | 5  | Landing at Point Rain | Kicks of Geonosis arc, featuring Ahsoka
+🥇️ | 6  | Weapons Factory       | Focuses on Ahsoka and introduces Barriss, continues Geonosis arc
+🥉️ | 7  | Legacy of Terror      | Continues Geonosis arc (less essential, but might as well watch)
+🥈️ | 8  | Brain Invaders        | Fun "weird" episode, focuses on Ahsoka and Barriss, concludes the Geonosis arc
+🥉️ | 11 | Lightsaber Lost       | Not essential, but a standalone Ahsoka-focused episode
+🥇️ | 12 | The Mandalore Plot    | Hoo boy, kicks off the Mandalore arc and is required viewing
+🥈️ | 13 | Voyage of Temptation  | Continues Mandalore arc, Obi-Wan and Anakin development
+🥈️ | 14 | Duchess of Mandalore  | Continues Mandalore arc, Death Watch, Republic occupation of Mandalore
+🥉️ | 20 | Death Trap            | Young Boba Fett arc
+🥉️ | 21 | R2 Come Home          | Continues Boba Fett arc
+🥉️ | 22 | Lethal Trackdown      | Ahsoka, concludes Boba Fett arc
 
 ---
 
@@ -154,34 +162,65 @@ Ep | Title                 | Details
 
 There's some Mandalore-related stuff, but I really enjoy the Nightsisters and the implications they have on canon. Also, the Mortis arc is Star Wars getting weird, and I love it.
 
-Ep | Title               | Details
-:- | :----               | :------
-5  | Corruption          | Mandalore
-6  | The Academy         | Ahsoka, Mandalore
-7  | Assassin            | Ahsoka
-12 | Nightsisters        | Introduces Dathomir, Nightsisters and their arc
-13 | Monster             | Introduces Savage Opress (yes, really), continues Nightsisters arc
-14 | Witches of the Mist | Continues Nightsisters arc
-15 | Overlords           | Star Wars gets weird and I love it; kicks off Mortis arc
-16 | Altar of Mortis     | More weirdness, Anakin development
-17 | Ghosts of Mortis    | More weird, Anakin development
-21 | Padawan Lost        | Ahsoka
-22 | Wookiee Hunt        | Ahsoka
+🏅️ | Ep | Title               | Details
+-- | :- | :----               | :------
+   | 5  | Corruption          | Mandalore
+   | 6  | The Academy         | Ahsoka, Mandalore
+   | 7  | Assassin            | Ahsoka
+   | 12 | Nightsisters        | Introduces Dathomir, Nightsisters and their arc
+   | 13 | Monster             | Introduces Savage Opress (yes, really), continues Nightsisters arc
+   | 14 | Witches of the Mist | Continues Nightsisters arc
+   | 15 | Overlords           | Star Wars gets weird and I love it; kicks off Mortis arc
+   | 16 | Altar of Mortis     | More weirdness, Anakin development
+   | 17 | Ghosts of Mortis    | More weird, Anakin development
+   | 21 | Padawan Lost        | Ahsoka
+   | 22 | Wookiee Hunt        | Ahsoka
 
 ### Season Four
 
 Season Four includes the Umbara arc which I just enjoy, and has… implications. Some light Mandalore stuff, and then back to the Nightsisters and Maul.
 
-Ep | Title              | Details
-:- | :----              | :------
-7  | Darkness on Umbara | Kicks off the Umbara arc
-8  | The General        | Continues the Umbara arc
-9  | Plan of Dissent    | Continues the Umbara arc
-10 | Carnage of Krell   | Concludes the Umbara arc
-14 | A Friend in Need   | Ahsoka and Mandalorian-related, I think?
-19 | Massacre           | Back to Dathomir and the Nightsisters
-21 | Brothers           | Maul
-22 | Revenge            | Maul
+🏅️ | Ep | Title              | Details
+-- | :- | :----              | :------
+   | 7  | Darkness on Umbara | Kicks off the Umbara arc
+   | 8  | The General        | Continues the Umbara arc
+   | 9  | Plan of Dissent    | Continues the Umbara arc
+   | 10 | Carnage of Krell   | Concludes the Umbara arc
+🥇️ | 14 | A Friend in Need   | Ahsoka and Mandalorian-related, I think?
+   | 19 | Massacre           | Back to Dathomir and the Nightsisters
+   | 21 | Brothers           | Maul
+   | 22 | Revenge            | Maul
+   
+### Season Five
+
+🏅️ | Ep | Title              | Details
+-- | :- | :----              | :------
+   | 1  | Revival            | Mandalorian
+   | 14 | Eminence           | Mandalorian
+   | 15 | Shades of Reason   | Mandalorian
+   | 16 | The Lawless        | Mandalorian
+   
+### Season Six
+   
+### Season Seven
+
+_The Clone Wars_ was brought back 7 years after its initial run to conclude the series on Disney+. The first arc is fine and high production value, but non-essential. The rest is essential as it ties everything up and has implications for Ahsoka, Maul, Anakin, and more. Just watch it.
+
+
+🏅️ | Ep | Title                     | Details
+-- | :- | :----                     | :------
+🥉️ | 1  |                           | Bad Batch arc
+🥉️ | 2  |                           | Bad Batch arc
+🥉️ | 3  |                           | Bad Batch arc
+🥉️ | 4  |                           | Concludes Bad Batch arc
+🥈️ | 5  |                           | Ahsoka after leaving the Jedi order
+🥈️ | 6  |                           | Ahsoka after leaving the Jedi order
+🥈️ | 7  |                           | Ahsoka after leaving the Jedi order
+🥈️ | 8  |                           | Ahsoka after leaving the Jedi order
+🥇️ | 9  | Old Friends Not Forgotten | Series finale arc
+🥇️ | 10 | The Phantom Apprentice    | Series finale arc
+🥇️ | 11 | Shattered                 | Series finale arc
+🥇️ | 12 | Victory and Death         | Series finale arc
 
 ---
 
