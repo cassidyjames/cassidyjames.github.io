@@ -138,7 +138,7 @@ Ep | Title                 | Details
 8  | Brain Invaders        | Fun "weird" episode, focuses on Ahsoka and Barriss, concludes the Geonosis arc
 11 | Lightsaber Lost       | Not essential, but a standalone Ahsoka-focused episode
 12 | The Mandalore Plot    | Hoo boy, kicks off the Mandalore arc and is required viewing
-13 | Voyage of Temptation  | Continues Mandalore arc
+13 | Voyage of Temptation  | Continues Mandalore arc, good Obi-Wan and Anakin development
 14 | Duchess of Mandalore  | Continues Mandalore arc
 
 ---
