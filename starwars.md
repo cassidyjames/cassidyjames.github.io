@@ -1,6 +1,6 @@
 ---
 description: "Featuring _The Mandalorian_ weekly #MandoWatchAlong and a _Clone Wars_ episode guide"
-image: /images//starwars/mandalorian.png
+image: /images/starwars/mandalorian.jpg
 ---
 
 # Star Wars
@@ -100,7 +100,7 @@ For historcial purposes, this was our #MandoWatchAlong schedule for season one, 
 
 ## The Clone Wars _Episode Guide_
 
-![The Clone Wars](/images/starwars/clone-wars.png)
+![The Clone Wars](/images/starwars/clone-wars.jpg)
 
 I don't claim to be an expert on Star Wars canon or _The Clone Wars_, but I do have some thoughts! The 3D-animated _The Clone Wars_ show is incredible; it expands the canon and lore of Star Wars itself, it develops and gives insight into beloved characters, and it introduces characters that are becoming central to the new canon stories.
 
@@ -184,7 +184,7 @@ Ep | Title              | Details
 
 ## Skywalker Saga _Traveling Viewing Party (Archived)_
 
-![Star Wars Spoiler Room sign](/downloads/starwars-viewing.png)
+![Star Wars Spoiler Room sign](/downloads/starwars-viewing.jpg)
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
 [View the GetTogether](https://gettogether.community/star-wars-viewing-party-2019/){: .button}
