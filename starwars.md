@@ -100,7 +100,7 @@ Also, a disclaimer: _The Clone Wars_ kind of has a timeline problem; episodes we
 
 🥉️ non-essential, but fills in arcs/details
 
-### The Clone Wars Movie 🥉️
+### The Clone Wars **Movie 🥉️**
 
 Not really essential, though it introduces Ahsoka Tano. But in non-spoiler-y summary: Ahsoka Tano is a young Jedi padawan assigned to Anakin. In the movie, you get to see her learning from Anakin and their master/apprentice, teacher/learner relationship develop. She calls Anakin "skyguy" (a nickname that sticks throughout the series), and she gets the nickname "snips" for being a bit snippy with him. Anakin starts to learn to trust Ahsoka, and it's obvious she is picking up on his improvisational and often defiant style.
 
@@ -115,15 +115,15 @@ Not much of Season One is essential viewing, actually. There are a lot of clone-
 🥈️ | 20 | Innocents of Ryloth | Introduces Cham Syndulla and continues Ryloth arc
 🥈️ | 21 | Liberty on Ryloth   | Continues and concludes the Ryloth arc
 
-### Season Two
+### Season Two **Rise of the Bounty Hunters**
 
 Season Two introduces Mandalore, the Mandalorians, Death Watch, and a whole bunch of stuff related to _The Mandalorian_ show. While none of this is _required_ to understand and enjoy the events of _The Mandalorian_, it fills in a lot of backstory and lore. It also features the Holocron arc and some good Ahsoka/Barriss-focused episodes with the Geonosis arc.
 
 🏅️ | Ep | Title                 | Details
 -- | :- | :----                 | :------
-🥈️ | 1  | Holocron Heist        | Kicks off the Holocron arc with Cad Bane (boo) that might have implications in canon? Or at least fills in some major character motivations/implications.
-🥈️ | 2  | Cargo of Doom         | Continues Holocron arc, features Ahsoka
-🥈️ | 3  | Children of the Force | Concludes the Holocron arc
+🥉️ | 1  | Holocron Heist        | Kicks off the Holocron arc with Cad Bane (boo) that might have implications in canon? Or at least fills in some major character motivations/implications.
+🥉️ | 2  | Cargo of Doom         | Continues Holocron arc, features Ahsoka
+🥉️ | 3  | Children of the Force | Concludes the Holocron arc
 🥈️ | 5  | Landing at Point Rain | Kicks of Geonosis arc, featuring Ahsoka
 🥇️ | 6  | Weapons Factory       | Focuses on Ahsoka and introduces Barriss, continues Geonosis arc
 🥉️ | 7  | Legacy of Terror      | Continues Geonosis arc (less essential, but might as well watch)
@@ -142,13 +142,12 @@ Season Two introduces Mandalore, the Mandalorians, Death Watch, and a whole bunc
 
 ---
 
-### Season Three
+### Season Three **Secrets Revealed**
 
 There's some Mandalore-related stuff, but I really enjoy the Nightsisters and the implications they have on canon. Also, the Mortis arc is Star Wars getting weird, and I love it.
 
 🏅️ | Ep | Title               | Details
 -- | :- | :----               | :------
-🥉️ | 1  | Clone Cadets        | Domino squad, Kamino, light background on cloning
 🥇️ | 5  | Corruption          | Mandalore
 🥇️ | 6  | The Academy         | Ahsoka, Mandalore
    | 7  | Assassin            | Ahsoka
@@ -161,7 +160,7 @@ There's some Mandalore-related stuff, but I really enjoy the Nightsisters and th
    | 21 | Padawan Lost        | Ahsoka
    | 22 | Wookiee Hunt        | Ahsoka
 
-### Season Four
+### Season Four **Battle Lines**
 
 Season Four includes the Umbara arc which I just enjoy, and has… implications. Some light Mandalore stuff, and then back to the Nightsisters and Maul.
 
@@ -175,7 +174,7 @@ Season Four includes the Umbara arc which I just enjoy, and has… implications.
    | 19 | Massacre           | Back to Dathomir and the Nightsisters
    | 21 | Brothers           | Maul
    | 22 | Revenge            | Maul
-   
+
 ### Season Five
 
 🏅️ | Ep | Title              | Details
@@ -184,28 +183,28 @@ Season Four includes the Umbara arc which I just enjoy, and has… implications.
    | 14 | Eminence           | Mandalorian
    | 15 | Shades of Reason   | Mandalorian
    | 16 | The Lawless        | Mandalorian
-   
-### Season Six
-   
-### Season Seven
 
-_The Clone Wars_ was brought back seven years after its initial run to conclude the series on Disney+. The first arc is fine and high production value, but non-essential. The rest is essential as it ties everything up and has implications for Ahsoka, Maul, Anakin, and more. Just watch it.
+### Season Six **The Lost Missions**
+
+### Season Seven **The Final Season**
+
+_The Clone Wars_ was brought back seven years after its initial run to conclude the series on Disney+. The first arc is fine and high production value, but non-essential. The rest is essential as it ties everything up and has implications for Ahsoka, Maul, Anakin, and more. Just watch it. The last four episodes operate more as a four-part film and are required viewing.
 
 
 🏅️ | Ep | Title                     | Details
 -- | :- | :----                     | :------
-🥉️ | 1  |                           | Bad Batch arc
-🥉️ | 2  |                           | Bad Batch arc
-🥉️ | 3  |                           | Bad Batch arc
-🥉️ | 4  |                           | Concludes Bad Batch arc
-🥈️ | 5  |                           | Ahsoka after leaving the Jedi order
-🥈️ | 6  |                           | Ahsoka after leaving the Jedi order
-🥈️ | 7  |                           | Ahsoka after leaving the Jedi order
-🥈️ | 8  |                           | Ahsoka after leaving the Jedi order
-🥇️ | 9  | Old Friends Not Forgotten | Series finale arc
-🥇️ | 10 | The Phantom Apprentice    | Series finale arc
-🥇️ | 11 | Shattered                 | Series finale arc
-🥇️ | 12 | Victory and Death         | Series finale arc
+🥉️ | 1  | The Bad Batch             | Bad Batch arc
+🥉️ | 2  | A Distant Echo            | Bad Batch arc
+🥉️ | 3  | On the Wings of Keeradaks | Bad Batch arc
+🥉️ | 4  | Unfinished Business       | Concludes Bad Batch arc
+🥈️ | 5  | Gone with a Trace         | Ahsoka after leaving the Jedi order
+🥈️ | 6  | Deal No Deal              | Ahsoka
+🥇️ | 7  | Dangerous Debt            | Ahsoka, Mandalore
+🥇️ | 8  | Together Again            | Ahsoka, Mandalore
+🥇️ | 9  | Old Friends Not Forgotten | Finale Part I
+🥇️ | 10 | The Phantom Apprentice    | Finale Part II
+🥇️ | 11 | Shattered                 | Finale Part III
+🥇️ | 12 | Victory and Death         | Finale Part IV
 
 ---
 
