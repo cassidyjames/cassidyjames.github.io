@@ -164,6 +164,7 @@ There's some Mandalore-related stuff, but I really enjoy the Nightsisters and th
 
 🏅️ | Ep | Title               | Details
 -- | :- | :----               | :------
+🥉️ | 1  | Clone Cadets        | Domino squad, Kamino, light background on cloning
    | 5  | Corruption          | Mandalore
    | 6  | The Academy         | Ahsoka, Mandalore
    | 7  | Assassin            | Ahsoka
@@ -204,7 +205,7 @@ Season Four includes the Umbara arc which I just enjoy, and has… implications.
    
 ### Season Seven
 
-_The Clone Wars_ was brought back 7 years after its initial run to conclude the series on Disney+. The first arc is fine and high production value, but non-essential. The rest is essential as it ties everything up and has implications for Ahsoka, Maul, Anakin, and more. Just watch it.
+_The Clone Wars_ was brought back seven years after its initial run to conclude the series on Disney+. The first arc is fine and high production value, but non-essential. The rest is essential as it ties everything up and has implications for Ahsoka, Maul, Anakin, and more. Just watch it.
 
 
 🏅️ | Ep | Title                     | Details
