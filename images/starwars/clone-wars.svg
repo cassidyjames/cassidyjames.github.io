@@ -429,6 +429,71 @@
          id="feComposite2632"
          in2="offset" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter275">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood265" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite267" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="200"
+         result="blur"
+         id="feGaussianBlur269" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset271" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite273" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix277" />
+      <feFlood
+         id="feFlood279"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite281"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur283"
+         in="composite1"
+         stdDeviation="200"
+         result="blur" />
+      <feOffset
+         id="feOffset285"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite287"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -507,7 +572,8 @@
          sodipodi:role="line">Episode Guide</tspan></text>
     <g
        transform="matrix(0.18665062,0,0,0.18665062,264.13253,4.3650085)"
-       id="layer1-3">
+       id="layer1-3"
+       style="filter:url(#filter275)">
       <g
          id="g48">
         <path

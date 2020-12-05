@@ -30,6 +30,9 @@ Nov 6  | 8:30 PM MDT | [S2E2: Chapter 10][s2]
 Nov 13 | 8:30 PM MST | [S2E3: Chapter 11][s2]
 Nov 20 | 8:30 PM MST | [S2E4: Chapter 12][s2]
 Nov 27 | 8:30 PM MST | [S2E5: Chapter 13][s2]
+Dec 4  | 8:30 PM MST | [S2E6: Chapter 14][s2]
+Dec 11 | 8:30 PM MST | [S2E7: Chapter 15][s2]
+Dec 18 | 8:30 PM MST | [S2E8: Chapter 16][s2]
 
 ### Season One
 
@@ -76,25 +79,6 @@ For historcial purposes, this was our #MandoWatchAlong schedule for season one, 
 [g6]: https://www.disneyplus.com/video/cbcca192-4a33-4a44-a1a7-003e5617857e
 [g7]: https://www.disneyplus.com/video/4a7de657-812c-4690-a1d7-7926408525c1
 [g8]: https://www.disneyplus.com/video/ad5be72c-4cb8-4051-b5a8-7c3c65f0223f
-
-<style>
-  table {
-    border-collapse: collapse;
-  }
-
-  table td, table th {
-    padding: 0.5em;
-  }
-
-  table td:first-child {
-    font-variant-numeric: tabular-nums;
-    font-weight: bold;
-  }
-
-  table tr:nth-child(odd) td {
-    background: rgba(150, 150, 150, 0.1);
-  }
-</style>
 
 ---
 
@@ -165,8 +149,8 @@ There's some Mandalore-related stuff, but I really enjoy the Nightsisters and th
 🏅️ | Ep | Title               | Details
 -- | :- | :----               | :------
 🥉️ | 1  | Clone Cadets        | Domino squad, Kamino, light background on cloning
-   | 5  | Corruption          | Mandalore
-   | 6  | The Academy         | Ahsoka, Mandalore
+🥇️ | 5  | Corruption          | Mandalore
+🥇️ | 6  | The Academy         | Ahsoka, Mandalore
    | 7  | Assassin            | Ahsoka
    | 12 | Nightsisters        | Introduces Dathomir, Nightsisters and their arc
    | 13 | Monster             | Introduces Savage Opress (yes, really), continues Nightsisters arc
@@ -239,3 +223,21 @@ _The Clone Wars_ was brought back seven years after its initial run to conclude 
 - [PNG](/downloads/starwars-viewing.png) 1920×1080
 - [SVG](/downloads/starwars-viewing.svg) for editing; text not converted to paths
 
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  table td, table th {
+    padding: 0.5em;
+  }
+
+  table td:first-child {
+    font-variant-numeric: tabular-nums;
+    font-weight: bold;
+  }
+
+  table tr:nth-child(odd) td {
+    background: rgba(150, 150, 150, 0.1);
+  }
+</style>
