@@ -139,7 +139,7 @@ Ep | Title                 | Details
 11 | Lightsaber Lost       | Not essential, but a standalone Ahsoka-focused episode
 12 | The Mandalore Plot    | Hoo boy, kicks off the Mandalore arc and is required viewing
 13 | Voyage of Temptation  | Continues Mandalore arc, good Obi-Wan and Anakin development
-14 | Duchess of Mandalore  | Continues Mandalore arc
+14 | Duchess of Mandalore  | Continues Mandalore arc, Death Watch, Republic occupation of Mandalore
 
 ---
 
