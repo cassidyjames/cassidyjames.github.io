@@ -148,7 +148,7 @@ There's some Mandalore-related stuff, but I really enjoy the Nightsisters and th
 
 🏅️ | Ep | Title               | Details
 -- | :- | :----               | :------
-🥇️ | 5  | Corruption          | Mandalore
+🥉️ | 5  | Corruption          | Kicks off a Mandalore arc but is otherwise meh
 🥇️ | 6  | The Academy         | Ahsoka, Mandalore
    | 7  | Assassin            | Ahsoka
    | 12 | Nightsisters        | Introduces Dathomir, Nightsisters and their arc
