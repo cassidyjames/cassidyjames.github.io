@@ -146,19 +146,21 @@ Season Two introduces Mandalore, the Mandalorians, Death Watch, and a whole bunc
 
 There's some Mandalore-related stuff, but I really enjoy the Nightsisters and the implications they have on canon. Also, the Mortis arc is Star Wars getting weird, and I love it.
 
-🏅️ | Ep | Title               | Details
--- | :- | :----               | :------
-🥉️ | 5  | Corruption          | Kicks off a Mandalore arc but is otherwise meh
-🥉️ | 6  | The Academy         | Ahsoka, Mandalore, but again, kinda meh
-   | 7  | Assassin            | Ahsoka
-   | 12 | Nightsisters        | Introduces Dathomir, Nightsisters and their arc
-   | 13 | Monster             | Introduces Savage Opress (yes, really), continues Nightsisters arc
-   | 14 | Witches of the Mist | Continues Nightsisters arc
-   | 15 | Overlords           | Star Wars gets weird and I love it; kicks off Mortis arc
-   | 16 | Altar of Mortis     | More weirdness, Anakin development
-   | 17 | Ghosts of Mortis    | More weird, Anakin development
-   | 21 | Padawan Lost        | Ahsoka
-   | 22 | Wookiee Hunt        | Ahsoka
+🏅️ | Ep | Title                | Details
+-- | :- | :----                | :------
+🥉️ | 5  | Corruption           | Kicks off a Mandalore arc but is otherwise meh
+🥉️ | 6  | The Academy          | Ahsoka, Mandalore, but again, kinda meh
+🥉️ | 7  | Assassin             | Ahsoka
+🥈️ | 10 | Heroes on Both Sides | Intentions behind the war; introduces Lux; Ahsoka development
+🥈️ | 11 | Pursuit of Peace     | Continues previous arc
+   | 12 | Nightsisters         | Introduces Dathomir, Nightsisters and their arc
+   | 13 | Monster              | Introduces Savage Opress (yes, really), continues Nightsisters arc
+   | 14 | Witches of the Mist  | Continues Nightsisters arc
+   | 15 | Overlords            | Star Wars gets weird and I love it; kicks off Mortis arc
+   | 16 | Altar of Mortis      | More weirdness, Anakin development
+   | 17 | Ghosts of Mortis     | More weird, Anakin development
+   | 21 | Padawan Lost         | Ahsoka
+   | 22 | Wookiee Hunt         | Ahsoka
 
 ### Season Four **Battle Lines**
 
