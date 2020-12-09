@@ -152,8 +152,8 @@ There's some Mandalore-related stuff, but I really enjoy the Nightsisters and th
 🥉️ | 6  | The Academy          | Ahsoka, Mandalore, but again, kinda meh
 🥉️ | 7  | Assassin             | Ahsoka
 🥈️ | 10 | Heroes on Both Sides | Intentions behind the war; introduces Lux; Ahsoka development
-🥈️ | 11 | Pursuit of Peace     | Continues previous arc
-   | 12 | Nightsisters         | Introduces Dathomir, Nightsisters and their arc
+🥉️ | 11 | Pursuit of Peace     | Continues previous arc, more peeking behind the curtain
+   | 12 | Nightsisters         | Sith rule of two; Ventress backstory; Nightsisters arc
    | 13 | Monster              | Introduces Savage Opress (yes, really), continues Nightsisters arc
    | 14 | Witches of the Mist  | Continues Nightsisters arc
    | 15 | Overlords            | Star Wars gets weird and I love it; kicks off Mortis arc
@@ -190,7 +190,7 @@ Season Four includes the Umbara arc which I just enjoy, and has… implications.
 
 ### Season Seven **The Final Season**
 
-_The Clone Wars_ was brought back seven years after its initial run to conclude the series on Disney+. The first arc is fine and high production value, but non-essential. The rest is essential as it ties everything up and has implications for Ahsoka, Maul, Anakin, and more. Just watch it. The last four episodes operate more as a four-part film and are required viewing.
+_The Clone Wars_ was brought back seven years after its initial run to conclude the series on Disney+. The first arc is high production value, but meh story-wise and completely non-essential. The rest is essential as it ties everything up and has implications for Ahsoka, Maul, Anakin, and more. Just watch it. The last four episodes operate more as a four-part film and are required viewing.
 
 
 🏅️ | Ep | Title                     | Details
