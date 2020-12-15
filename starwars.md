@@ -136,12 +136,6 @@ Season Two introduces Mandalore, the Mandalorians, Death Watch, and a whole bunc
 🥉️ | 21 | R2 Come Home          | Continues Boba Fett arc
 🥉️ | 22 | Lethal Trackdown      | Ahsoka, concludes Boba Fett arc
 
----
-
-> **Note: this is as far as I am through my most recent watch-through! So anything after this point is based on other episode guides or just the episode descriptions plus my recollection.**
-
----
-
 ### Season Three **Secrets Revealed**
 
 There's some Mandalore-related stuff, but I really enjoy the Nightsisters and the implications they have on canon. Also, the Mortis arc is Star Wars getting weird, and I love it.
@@ -156,6 +150,15 @@ There's some Mandalore-related stuff, but I really enjoy the Nightsisters and th
 🥈 | 12 | Nightsisters         | Sith rule of two; Ventress backstory; Nightsisters arc
 🥈 | 13 | Monster              | Introduces Savage Opress (yes, really), continues Nightsisters arc
 🥈 | 14 | Witches of the Mist  | Continues Nightsisters arc
+
+---
+
+> **Note: this is as far as I am through my most recent watch-through! So anything after this point is based on other episode guides or just the episode descriptions plus my recollection.**
+
+---
+
+🏅️ | Ep | Title                | Details
+-- | :- | :----                | :------
    | 15 | Overlords            | Star Wars gets weird and I love it; kicks off Mortis arc
    | 16 | Altar of Mortis      | More weirdness, Anakin development
    | 17 | Ghosts of Mortis     | More weird, Anakin development
