@@ -153,9 +153,9 @@ There's some Mandalore-related stuff, but I really enjoy the Nightsisters and th
 🥉️ | 7  | Assassin             | Ahsoka
 🥈️ | 10 | Heroes on Both Sides | Intentions behind the war; introduces Lux; Ahsoka development
 🥉️ | 11 | Pursuit of Peace     | Continues previous arc, more peeking behind the curtain
-   | 12 | Nightsisters         | Sith rule of two; Ventress backstory; Nightsisters arc
-   | 13 | Monster              | Introduces Savage Opress (yes, really), continues Nightsisters arc
-   | 14 | Witches of the Mist  | Continues Nightsisters arc
+🥈 | 12 | Nightsisters         | Sith rule of two; Ventress backstory; Nightsisters arc
+🥈 | 13 | Monster              | Introduces Savage Opress (yes, really), continues Nightsisters arc
+🥈 | 14 | Witches of the Mist  | Continues Nightsisters arc
    | 15 | Overlords            | Star Wars gets weird and I love it; kicks off Mortis arc
    | 16 | Altar of Mortis      | More weirdness, Anakin development
    | 17 | Ghosts of Mortis     | More weird, Anakin development
