@@ -92,7 +92,7 @@ But there is also so. much. Clone. Wars. And there's a lot of… uh, more kid-or
 
 Also, a disclaimer: _The Clone Wars_ kind of has a timeline problem; episodes were not aired or numbered in their chronological order. It is mostly fine, but if you find things jumping around a little bit (especially if watching all of it), that's why.
 
-**Episode rankings:** 
+**Episode rankings:**
 
 🥇️ required viewing
 
@@ -151,7 +151,8 @@ There's some Mandalore-related stuff, but I really enjoy the Nightsisters and th
 🥈 | 13 | Monster              | Introduces Savage Opress (yes, really), continues Nightsisters arc
 🥈 | 14 | Witches of the Mist  | Continues Nightsisters arc
 🥇️ | 15 | Overlords            | Star Wars gets weird and I love it; kicks off Mortis arc
-🥇️ | 16 | Altar of Mortis      | More weirdness, Anakin development
+🥇️ | 16 | Altar of Mortis      | Mortis arc
+🥇️ | 17 | Ghosts of Mortis     | Mortis arc, Anakin development
 
 ---
 
@@ -161,7 +162,6 @@ There's some Mandalore-related stuff, but I really enjoy the Nightsisters and th
 
 🏅️ | Ep | Title                | Details
 -- | :- | :----                | :------
-   | 17 | Ghosts of Mortis     | More weird, Anakin development
    | 21 | Padawan Lost         | Ahsoka
    | 22 | Wookiee Hunt         | Ahsoka
 
