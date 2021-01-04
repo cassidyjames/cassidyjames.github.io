@@ -35,10 +35,7 @@ Image | Link | Price | Notes
 ------|------|-------|------
 ![Oura](/images/oura.jpg) | [Oura Ring](https://www.gifthero.com/items/84483b16-a778-4c63-8de5-a40f62562c66) | **$299** | Heritage, Silver
 ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://www.gifthero.com/items/e5dcf442-dbc5-4a58-b6b4-2ba3d382ca37) | **$250** | Silver
-![Pi 400](/images/pi400.png) | [Raspberry Pi 400](https://www.gifthero.com/items/3a367a27-253f-472a-98b5-bd7a22700065) | **$70** | Just the "unit" itself; no accessories needed
-![Zelda 2](/images/zelda2.jpg) | [Zelda & Chill II on Vinyl](https://www.gifthero.com/items/c48c253f-3357-41e0-8d2c-d0b73da1a275) | **$32** | Pre-order for $25, plus $7 shipping
 ![CLAW](/images/claw.png) | [Power Support CLAW for Stadia](https://www.gifthero.com/items/e7cf3708-e82d-4620-80c8-2e831608451f) | **$15** |
-![Counterweights](/images/osmo.jpg) | [Moment Osmo 3 Counterweights](https://www.gifthero.com/items/db7b8e0d-4045-4b9e-9714-d243dab3ac8f) | **$15** |
 
 ---
 
@@ -155,7 +152,6 @@ _A.k.a. Katie got a turntable so I need some music for me, too…_ 🙃️
 
 In no particular order at all.
 
-- Blade Runner Soundtrack
 - Hamilton (Original Broadway Cast Recording)
 - Uncharted Nathan Drake Collection
 - [The Music of Destiny](https://bungiestore.com/products/the-music-of-destiny-volume-i-limited-edition-collectors-vinyl-box-set) - This was a limited-release, so it's on eBay for like $300. 😬️
@@ -171,7 +167,6 @@ In no particular order at all.
   - Solo: A Star Wars Story
 - Twenty-One Pilots
   - Trench
-  - Blurryface
   - Twenty-One Pilots (self-titled)
 - Fall Out Boy
   - Take This to Your Grave
@@ -182,7 +177,6 @@ In no particular order at all.
   - Folie á Deux
 - Panic! at the Disco
   - A Fever You Can't Sweat Out
-  - Too Weird to Live, Too Rare to Die
   - Vices & Virtues
   - Pretty. Odd.
 - Blue Neighborhood by Troye Sivan
