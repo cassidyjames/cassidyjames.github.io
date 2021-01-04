@@ -61,11 +61,13 @@ I take **photos** of my adventures (and my cat), mostly with my Pixel phone and 
 <section class="gaming card" markdown="1">
 ## Gaming
 
-I play **games** when I can find the time. Usually on PS4, but occasionally on Switch, Steam, Android, and my GamePi.
+I play **games** when I can find the time. Usually on Stadia or PS4, but occasionally on Switch, Steam, Android, and my GamePi.
+
+<a href="/stadia" class="read-more stadia"><i class="fa fa-fw fa-stadia"></i>Add on Stadia</a>
 
 <a href="http://psnprofiles.com/blaede22" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
 
-<a href="switch" class="read-more switch"><i class="fab fa-fw fa-nintendo-switch"></i>Add on Nintendo Switch</a>
+<a href="/switch" class="read-more switch"><i class="fab fa-fw fa-nintendo-switch"></i>Add on Nintendo Switch</a>
 
 <a href="http://steamcommunity.com/id/{{ site.steam }}/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
 

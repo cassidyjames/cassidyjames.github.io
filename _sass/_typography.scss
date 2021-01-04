@@ -175,6 +175,10 @@ blockquote {
   padding-left: 0.5em;
 }
 
+.dim {
+  opacity: 0.67;
+}
+
 aside blockquote p {
   border: none;
   font-size: 1.75em;
@@ -185,7 +189,6 @@ aside blockquote p {
 }
 
 aside.card {
-
   color: var(--neutral);
   margin: 1em auto;
   padding: 0 1em;
