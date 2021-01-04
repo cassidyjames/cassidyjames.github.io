@@ -14,6 +14,13 @@
   --medium: #00ab6c;
   --pixelfed: #08d;
   --psn: #0068bf;
+
+  --stadia: #de3334;
+  --stadia-orange: #ff4c1d;
+  --stadia-purple: #9b0063;
+  --stadia-bg: white;
+  --stadia-fg: rgb(32,33,36);
+
   --steam: var(--neutral);
   --switch: #e6000a;
   --twitter: #55acee;
@@ -31,6 +38,10 @@
     --background-color: #{ mix(#452981, black, 50%) };
     --neutral: #{ mix(#e4c6fa, white, 25%) };
     --faint:  #{ mix(#452981, black, 75%) };
+
+    --stadia: #ff773d;
+    --stadia-bg: #202124;
+    --stadia-fg: white;
 
     --primary-color: var(--neutral);
     --accent-color: #{ mix(#ed5353, #ff8c82) };
