@@ -18,7 +18,7 @@ footer {
   }
 
   ul.social {
-    color: var(--white);
+    color: inherit;
     display: inline;
     font-size: 0; // Fix weird spacing issues
     list-style: none;
@@ -38,12 +38,10 @@ footer {
       display: inline-block;
       font-size: 1.5rem;
       font-weight: normal;
-      height: 1.5em;
-      line-height: 1.45em;
-      margin: 0.25em;
-      padding: 0.125em;
-      transition: all 200ms ease;
-      width: 1.5em;
+      line-height: 1em;
+      margin: 0.125em;
+      padding: 0.33em;
+      transition: none;
 
       &:hover,
       &:focus {
