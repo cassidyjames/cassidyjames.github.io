@@ -1,5 +1,6 @@
 ---
 description: "The Clone Wars Episode Guide"
+image: /images/starwars/clone-wars.jpg
 ---
 
 # Star Wars
