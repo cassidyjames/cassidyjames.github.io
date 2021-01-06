@@ -1,0 +1,45 @@
+html.starwars {
+  --sw-yellow: #ffe81f;
+  --sw-blue: #55ddff;
+
+  --background-color: black;
+  --faint: #333;
+  --primary-color: white;
+
+  --accent-color: var(--sw-yellow);
+  --secondary-accent-color: var(--sw-blue);
+  --secondary-accent-contrast: black;
+
+  body {
+    background-attachment: fixed;
+    background-image:
+      linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        black
+      ),
+      url('https://source.unsplash.com/uhjiu8FjnsQ');
+  }
+
+  // To fix nav overlapping with anchor linking
+  h3 {
+    margin-top: -48px;
+    padding-top: calc(1.25em + 48px);
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+
+  table td, table th {
+    padding: 0.5em;
+  }
+
+  table td:first-child {
+    font-variant-numeric: tabular-nums;
+    font-weight: bold;
+  }
+
+  table tr:nth-child(odd) td {
+    background: rgba(150, 150, 150, 0.1);
+  }
+}

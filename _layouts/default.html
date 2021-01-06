@@ -1,13 +1,20 @@
 <!DOCTYPE html>
-<html lang="en-us">
+{% capture classes %}
+  {% if page.url == '/' %}home {% endif %}
+
+  {{ page.url | replace: '.html', '' | slugify }}
+
+  {{ page.url | replace: '.html', '' | replace: '/', ' ' }}
+
+  {{ page.class }}
+
+  {% for class in page.classes %}
+    {{ class }}
+  {% endfor %}
+{% endcapture %}
+<html lang="en-us" class="{{ classes }}">
   {% include head.html %}
-  <body class="
-    {% if page.url == '/' %}home {% endif %}{{ page.url | replace: '.html', '' | slugify }}
-    {{ page.class }}
-    {% for class in page.classes %}
-      {{ class }}
-    {% endfor %}
-  ">
+  <body class="{{ classes }}">
     {% include nav.html %}
     <section class="grid main">
       <div>
