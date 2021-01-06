@@ -228,6 +228,29 @@ _The Clone Wars_ was brought back seven years after its initial run to conclude 
 - [SVG](/downloads/starwars-viewing.svg) for editing; text not converted to paths
 
 <style>
+  :root {
+    --sw-yellow: #ffe81f;
+    --sw-blue: #55ddff;
+
+    --background-color: black;
+    --faint: #333;
+    --primary-color: white;
+
+    --accent-color: var(--sw-yellow);
+    --secondary-accent-color: var(--sw-blue);
+    --secondary-accent-contrast: black;
+  }
+
+  body {
+    background-image:
+      linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        black
+      ),
+      url('https://source.unsplash.com/uhjiu8FjnsQ');
+      background-attachment: fixed;
+  }
+
   table {
     border-collapse: collapse;
   }
