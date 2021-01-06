@@ -29,6 +29,20 @@ I mostly play **Destiny 2** which is free to play for the base game, so you can 
     background-image: linear-gradient(to bottom, rgba(150, 150, 150, 0.075), rgba(150, 150, 150, 0.075));
   }
 
+  h1 {
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(
+      163deg,
+      var(--stadia-orange),
+      var(--stadia-purple)
+    );
+    letter-spacing: 0;
+    padding: 0.125em 0;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+  }
+
   h1::before {
     background-image: url('/images/stadia.svg');
     background-position: center;
@@ -49,7 +63,11 @@ I mostly play **Destiny 2** which is free to play for the base game, so you can 
   }
 
   a.button.stadia {
-    background-image: linear-gradient(to right, var(--stadia-orange), var(--stadia-purple));
+    background-image: linear-gradient(
+      to right,
+      var(--stadia-orange),
+      var(--stadia-purple)
+    );
     color: white;
   }
 </style>
