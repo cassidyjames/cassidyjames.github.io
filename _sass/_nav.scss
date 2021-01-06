@@ -24,19 +24,14 @@ nav {
     padding: 1em;
 
     &:hover,
-    &:focus {
-      background-color: var(--accent-color);
-      border: none;
-      color: inherit;
-      opacity: 0.75;
-      outline: none;
-      text-decoration: none;
-    }
-
+    &:focus,
     &.current,
     &:active {
       background-color: var(--accent-color);
+      border: none;
       color: var(--background-color);
+      outline: none;
+      text-decoration: none;
     }
   }
 
