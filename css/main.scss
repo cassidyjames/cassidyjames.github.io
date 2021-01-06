@@ -14,8 +14,9 @@
 @import "grid";
 @import "nav";
 
+@import "_pages";
+
 :root {
-  background: var(--secondary-accent-color);
   color-scheme: light dark;
 }
 
@@ -25,12 +26,17 @@
 
 body,
 html {
-  background-color: var(--background-color);
-  color: var(--primary-color);
   margin: 0;
 }
 
+html {
+  background: var(--secondary-accent-color);
+  scroll-behavior: smooth;
+}
+
 body {
+  background-color: var(--background-color);
+  color: var(--primary-color);
   display: flex;
   flex-direction: column;
 }
@@ -42,24 +48,6 @@ img {
 
 .animated {
   transition: all 250ms;
-}
-
-.home {
-  .fa-ul {
-    font-size: 0.875em;
-    margin-left: 1.5em;
-  }
-
-  .card {
-    // float: left;
-    // max-width: 300px;
-    margin: 2em 0;
-    padding: 0.5em 1em;
-
-    h2 {
-      margin-top: 0;
-    }
-  }
 }
 
 .fa-ul > li {

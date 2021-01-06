@@ -1,0 +1,60 @@
+html.stadia {
+  --background-color: var(--stadia-bg);
+  --primary-color: var(--stadia-fg);
+
+  --accent-color: var(--stadia);
+  --secondary-accent-color: var(--stadia-bg);
+  --secondary-accent-contrast: var(--stadia-fg);
+
+  &,
+  nav,
+  footer {
+    background-image: linear-gradient(
+      to bottom,
+      rgba(150, 150, 150, 0.075),
+      rgba(150, 150, 150, 0.075)
+    );
+  }
+
+  h1 {
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(
+      163deg,
+      var(--stadia-orange),
+      var(--stadia-purple)
+    );
+    letter-spacing: 0;
+    padding: 0.125em 0;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+  }
+
+  h1::before {
+    background-image: url('/images/stadia.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    content: "";
+    display: inline-block;
+    height: 1em;
+    margin-right: 0.125em;
+    vertical-align: bottom;
+    width: 1em;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    h1::before {
+      background-image: url('/images/stadia-dark.png');
+    }
+  }
+
+  a.button.stadia {
+    background-image: linear-gradient(
+      to right,
+      var(--stadia-orange),
+      var(--stadia-purple)
+    );
+    color: white;
+  }
+}
