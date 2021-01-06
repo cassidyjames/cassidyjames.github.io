@@ -49,13 +49,13 @@ footer {
       &:focus {
         background-color: var(--accent-color);
         background-image: linear-gradient(
-          rgba(var(--white), 0.125),
-          rgba(var(--black), 0.25)
+          rgba(white, 0.125),
+          rgba(black, 0.25)
         );
         box-shadow:
-          inset 0 1px 0 rgba(var(--white), 0.25),
-          inset 0 -1px 0 rgba(var(--black), 0.25),
-          0 0.0625em 0.125em rgba(var(--black), 0.5);
+          inset 0 1px 0 rgba(white, 0.25),
+          inset 0 -1px 0 rgba(black, 0.25),
+          0 0.0625em 0.125em rgba(black, 0.5);
         text-decoration: none;
         text-shadow: 0 1px 1px rgba(black, 0.5);
       }
@@ -64,21 +64,25 @@ footer {
     .github a:hover,
     .github a:focus {
       background-color: #444;
+      color: white;
     }
 
     .medium a:hover,
     .medium a:focus {
       background-color: var(--medium);
+      color: white;
     }
 
     .mastodon a:hover,
     .mastodon a:focus {
       background-color: var(--mastodon);
+      color: white;
     }
 
     .twitter a:hover,
     .twitter a:focus {
       background-color: var(--twitter);
+      color: white;
     }
 
     .unsplash a:hover,
@@ -91,6 +95,7 @@ footer {
     .pixelfed a:hover,
     .pixelfed a:focus {
       background-color: var(--pixelfed);
+      color: white;
     }
 
     .instagram a:hover,
@@ -103,11 +108,13 @@ footer {
     .square a:hover,
     .square a:focus {
       background-color: #3cd428;
+      color: white;
     }
 
     .email a:hover,
     .email a:focus {
       background-color: #FFB300;
+      color: white;
     }
   }
 }
