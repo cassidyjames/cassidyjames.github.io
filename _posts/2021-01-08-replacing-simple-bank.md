@@ -1,16 +1,12 @@
 ---
-title: "My Quest to Replace Simple Bank"
+title: "Replacing Simple Bank"
 description: "Apparently everyone else is still a decade behind the soon-to-close neobank"
 updated: 2021-01-08
 ---
 
-This sucks. BBVA US is closing Simple, migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app.
+This sucks. [BBVA US is closing Simple](https://www.simple.com/blog/simple-is-closing), migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app.
 
-[Announcement](https://www.simple.com/blog/simple-is-closing)
-
-[Twitter thread](https://twitter.com/CassidyJames/status/1347299178158804992)
-
-[Pt 2](https://twitter.com/CassidyJames/status/1347615632984928257)
+[Twitter thread](https://twitter.com/CassidyJames/status/1347299178158804992) [pt 2](https://twitter.com/CassidyJames/status/1347615632984928257)
 
 ## Simple
 
@@ -26,6 +22,10 @@ Looks slick, no shared/joint account support yet? But Shared Pockets might work!
 ## N24
 
 Only 2 "Spaces" (or 10 if you pay for a premium account.) Nowhere near equivalent to the unlimited amount of Goals and Expenses in Simple, nor our 31 Goals and 20 Expenses.
+
+## Chime
+
+[No joint/shared accounts.](https://chime.zendesk.com/hc/en-us/articles/115003650988-Does-Chime-offer-joint-accounts-)
 
 ## Qube
 
