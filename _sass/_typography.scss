@@ -26,6 +26,7 @@ a {
   &:focus {
     outline: none;
     text-decoration-skip: ink;
+    text-decoration-skip-ink: ink;
     text-decoration: underline;
   }
 }
@@ -188,6 +189,7 @@ abbr[title] {
   display: inline-block;
   text-decoration-color: var(--accent-color);
   text-decoration-line: underline;
+  text-decoration-skip-ink: none;
   text-decoration-style: wavy;
 
   &::after {
