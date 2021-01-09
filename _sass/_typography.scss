@@ -18,6 +18,7 @@ html {
 
 a {
   color: var(--accent-color);
+  display: inline-block;
   text-decoration: none;
   transition: opacity 250ms ease;
 
@@ -26,7 +27,32 @@ a {
     outline: none;
     text-decoration-skip: ink;
     text-decoration: underline;
+
+      &[target="_blank"]::after {
+        transform: translateX(0.125em);
+      }
   }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  a {
+    &[target="_blank"]::after {
+      content: "\2060→";
+      display: inline-block;
+      transition: transform 200ms ease;
+    }
+
+    &:hover,
+    &:focus {
+      &[target="_blank"]::after {
+        transform: translateX(0.125em);
+      }
+    }
 }
 
 h1 {

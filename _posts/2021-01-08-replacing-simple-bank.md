@@ -55,7 +55,7 @@ The best-looking app on the surface. [Only 2 "Spaces"](https://n26.com/en-us/spa
 
 ❌️ **Personal account** exists but doesn't inter-operate with other personal accounts.
 
-## Chime
+## [Chime](https://www.chime.com/)
 
 [No joint/shared accounts.](https://chime.zendesk.com/hc/en-us/articles/115003650988-Does-Chime-offer-joint-accounts-)
 
