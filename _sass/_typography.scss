@@ -30,25 +30,24 @@ a {
   }
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  a {
-    &[target="_blank"]::after {
-      content: "\2060→";
-      display: inline-block;
-      transition: transform 200ms ease;
-    }
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  &[target="_blank"]::after {
+    content: "\2060→";
+    display: inline-block;
+    transition: transform 200ms ease;
+  }
 
-    &:hover,
-    &:focus {
-      &[target="_blank"]::after {
-        transform: translateX(0.125em);
-      }
+  &:hover,
+  &:focus {
+    &[target="_blank"]::after {
+      transform: translateX(0.125em);
     }
+  }
 }
 
 h1 {
