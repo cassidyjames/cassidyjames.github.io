@@ -27,10 +27,6 @@ a {
     outline: none;
     text-decoration-skip: ink;
     text-decoration: underline;
-
-      &[target="_blank"]::after {
-        transform: translateX(0.125em);
-      }
   }
 }
 
