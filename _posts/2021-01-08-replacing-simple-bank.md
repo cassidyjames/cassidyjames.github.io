@@ -7,7 +7,7 @@ image: /images/blog/replacing-simple-bank/card.png
 
 ![Replacing Simple Bank]({{ page.image }})
 
-This sucks. [BBVA US is closing Simple](https://www.simple.com/blog/simple-is-closing), migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app. I've been [talking about this](https://twitter.com/CassidyJames/status/1347299178158804992) a little bit on Twitter [off and on](https://twitter.com/CassidyJames/status/1347615632984928257), and have found a _ton_ of other folks facing the same dilemma: what now? What can possibly replace Simple? So here's my journey in looking for a replacement.
+This sucks. [BBVA US is closing Simple](https://www.simple.com/blog/simple-is-closing), migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app. I've been [talking about this](https://twitter.com/CassidyJames/status/1347299178158804992) a little bit on Twitter [off and on](https://twitter.com/CassidyJames/status/1347615632984928257), and have found a _ton_ of other folks—including [a Change.org petition](http://chng.it/KXNzmJPx)—facing the same dilemma: what now? What can possibly replace Simple? So here's my journey in looking for a replacement.
 
 **Note:** I'll be updating this frequently as I do more research.
 
