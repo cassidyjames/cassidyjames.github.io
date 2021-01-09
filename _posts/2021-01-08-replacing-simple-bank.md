@@ -7,7 +7,7 @@ image: /images/blog/replacing-simple-bank/card.png
 
 ![Replacing Simple Bank]({{ page.image }})
 
-This sucks. [BBVA US is closing Simple](https://www.simple.com/blog/simple-is-closing), migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app. I've been [talking about this](https://twitter.com/CassidyJames/status/1347299178158804992) a little bit on Twitter [off and on](https://twitter.com/CassidyJames/status/1347615632984928257), and have found a _ton_ of other folks facing the same dilemma: what now? What can possibly replace Simple? So here's my journey in looking for a replacement. 
+This sucks. [BBVA US is closing Simple](https://www.simple.com/blog/simple-is-closing), migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app. I've been [talking about this](https://twitter.com/CassidyJames/status/1347299178158804992) a little bit on Twitter [off and on](https://twitter.com/CassidyJames/status/1347615632984928257), and have found a _ton_ of other folks facing the same dilemma: what now? What can possibly replace Simple? So here's my journey in looking for a replacement.
 
 **Note:** I'll be updating this frequently as I do more research.
 
@@ -55,6 +55,10 @@ The best-looking app on the surface. [Only 2 "Spaces"](https://n26.com/en-us/spa
 
 ❌️ **Personal account** exists but doesn't inter-operate with other personal accounts.
 
+## [Revolut](https://www.revolut.com/en-US/)
+
+No information on their website or help center about joint/shared accounts, so unfortunately not looking like an option. They do have group "Vaults" and group-pay for bills, so it _might_ be worth looking into more.
+
 ## [Chime](https://www.chime.com/)
 
 [No joint/shared accounts.](https://chime.zendesk.com/hc/en-us/articles/115003650988-Does-Chime-offer-joint-accounts-)
@@ -63,19 +67,15 @@ The best-looking app on the surface. [Only 2 "Spaces"](https://n26.com/en-us/spa
 
 Looks interesting—based around the envelope budgeting style like Simple, but is in beta. Qube Couples has not launched yet.
 
-## Current
+## [Current](https://current.com)
 
 Looks nice, but [no joint account support.](https://support.current.com/hc/en-us/articles/360043876754-Can-I-sign-up-for-a-joint-account-)
 
-## Monzo
+## [Monzo](https://monzo.com/usa/)
 
-Not launched in the US
+Not launched in the US; on a waitlist system.
 
-## Revolut
-
-No information on their website or help center about joint/shared accounts, so unfortunately not an option.
-
-## Google Pay Plex
+## [Google ~~Pay~~ Plex](https://www.theverge.com/2020/11/18/21571806/google-pay-relaunch-money-payments-finances-deals-offers-banking-plex#XflVHM)
 
 Not yet launched
 
