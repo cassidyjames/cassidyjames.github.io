@@ -1,7 +1,7 @@
 ---
 title: "My Quest to Replace Simple Bank"
 description: "Apparently everyone else is still a decade behind the soon-to-close neobank"
-updated: 2021-01-08
+updated: 2021
 ---
 
 This sucks. BBVA US is closing Simple, migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app.
