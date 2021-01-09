@@ -2,11 +2,14 @@
 title: "Replacing Simple Bank"
 description: "Apparently everyone else is still a decade behind the soon-to-close neobank"
 updated: 2021-01-08
+image: /images/blog/replacing-simple-bank/card.png
 ---
 
-This sucks. [BBVA US is closing Simple](https://www.simple.com/blog/simple-is-closing), migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app.
+![Replacing Simple Bank]({{ page.image }})
 
-[Twitter thread](https://twitter.com/CassidyJames/status/1347299178158804992) [pt 2](https://twitter.com/CassidyJames/status/1347615632984928257)
+This sucks. [BBVA US is closing Simple](https://www.simple.com/blog/simple-is-closing), migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app. I've been [talking about this](https://twitter.com/CassidyJames/status/1347299178158804992) a little bit on Twitter [off and on](https://twitter.com/CassidyJames/status/1347615632984928257), and have found a _ton_ of other folks facing the same dilemma: what now? What can possibly replace Simple? So here's my journey in looking for a replacement. 
+
+**Note:** I'll be updating this frequently as I do more research.
 
 ## Simple
 
@@ -14,7 +17,7 @@ I joined Simple soon after it launched, and it immediately replaced my previous 
 
 Here’s how we currently use Simple, and what we value:
 
-- **Excellent user experience** with everything from the website to the notifications and emails they send, to—of course—the stellar mobile app. The app is the big one, as it's one of the few banking apps that closely follows native Android guidelines while having its own distinct look and feel. It's fast, smooth, easy to do everything you can possibly do with your account right in the app. Seriously, this is mainly where all other banks are years behind. 
+- **Excellent user experience** with everything from the website to the notifications and emails they send, to—of course—the stellar mobile app. The app is the big one, as it's one of the few banking apps that closely follows native Android guidelines while having its own distinct look and feel. It's fast, smooth, easy to do everything you can possibly do with your account right in the app. Seriously, this is mainly where all other banks are years behind.
 
 - **Shared account.** By default, we each log into our account and see the Shared account. This is a bank account with its own account number under the hood (though you don't have to think about that). Its balance, transactions, goals, and expenses are shared and visible to both of us, and we each have a designated Shared debit card. When one of our cards is used, we both get a push notification, and the transaction is tagged with the profile picture of whoever’s card was used. This is where all incoming money (i.e. paychecks) go.
 
