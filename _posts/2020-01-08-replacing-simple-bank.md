@@ -12,13 +12,13 @@ This sucks. BBVA US is closing Simple, migrating away from the revolutionary sit
 - Shared (balance, transactions, goals, and expenses are shared)
 - Personal (instant transfer to/from Shared to personal accounts, i.e. for pocket money or gifts)
 
-## N24
-
-Only 2 "Spaces" (or 10 if you pay for a premium account.)
-
 ## One
 
-Looks slick, no Shared support yet
+Looks slick, no shared/joint account support yet? But Shared Pockets might work! Not as much automation as is built into Simple, though.
+
+## N24
+
+Only 2 "Spaces" (or 10 if you pay for a premium account.) Nowhere near equivalent to the unlimited amount of Goals and Expenses in Simple, nor our 31 Goals and 20 Expenses.
 
 ## Qube
 
