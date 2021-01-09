@@ -71,6 +71,10 @@ Looks interesting—based around the envelope budgeting style like Simple, but i
 
 Looks nice, but [no joint account support.](https://support.current.com/hc/en-us/articles/360043876754-Can-I-sign-up-for-a-joint-account-)
 
+## [Dave](https://dave.com)
+
+Seems focused on cash advances and side hustles which isn't appealing to me at all. No information on their site about shared/joint accounts or anything like Simple Goals.
+
 ## [Monzo](https://monzo.com/usa/)
 
 Not launched in the US; on a waitlist system.
