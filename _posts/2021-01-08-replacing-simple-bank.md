@@ -116,4 +116,6 @@ Every local one has the same decade-old looking mobile app and don't support any
 
 ---
 
+So that's where I'm at. I'm currently looking more into One Finance, as it seems like the best option I've found. It's also possible the BBVA US app will be _fine_ if they find a way to transfer over the Goals and Expenses from Simple, but I'm not that optimistic.
+
 I will continue this search and update this post with more details and options as I get them!
