@@ -183,11 +183,37 @@ code {
   padding: 0 0.5em;
 }
 
-abbr {
+abbr[title] {
+  cursor: help;
+  display: inline-block;
+  text-decoration-color: var(--accent-color);
   text-decoration-line: underline;
   text-decoration-style: wavy;
-  text-decoration-color: var(--accent-color);
-  cursor: help;
+
+  &::after {
+    background: var(--primary-color);
+    border-radius: 0.25em;
+    color: var(--background-color);
+    content: attr(title);
+    display: block;
+    font-size: 0.85em;
+    line-height: 1.25;
+    max-width: 24em;
+    opacity: 0;
+    padding: 0.5em 0.75em;
+    pointer-events: none;
+    position: absolute;
+    transition: opacity 150ms ease;
+    z-index: 1;
+
+    @media (hover: hover) and (pointer: fine) {
+      display: none;
+    }
+  }
+
+  &:hover::after {
+    opacity: 0.9;
+  }
 }
 
 small,

@@ -13,7 +13,7 @@ This sucks. [BBVA US is closing Simple](https://www.simple.com/blog/simple-is-cl
 
 ## Simple
 
-I joined Simple soon after it launched, and it immediately replaced my previous big bank account. My wife joined when we got married, and we managed two individual accounts for a while. When Simple launched Simple Shared, we were first in line—nearly literally; we beta tested it as soon as they announced it. Over the past decade, we have come to love and depend on the awesome features and incredibly straightforward experience of Simple.
+I joined Simple soon after it launched as an invite-only beta in 2012, and it immediately replaced my previous big bank account. My wife joined when we got married, and we managed two individual accounts for a while. When Simple launched Simple Shared, we were first in line—nearly literally; we beta tested it as soon as they announced it. Over the past decade, we have come to love and depend on the awesome features and incredibly straightforward experience of Simple.
 
 Here’s how we currently use Simple, and what we value:
 
