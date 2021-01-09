@@ -183,6 +183,13 @@ code {
   padding: 0 0.5em;
 }
 
+abbr {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: var(--accent-color);
+  cursor: help;
+}
+
 small,
 aside p {
   font-size: smaller;
