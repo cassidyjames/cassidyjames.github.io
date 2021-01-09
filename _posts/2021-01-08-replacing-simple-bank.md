@@ -1,7 +1,7 @@
 ---
 title: "Replacing Simple Bank"
 description: "Apparently everyone else is still a decade behind the soon-to-close neobank"
-updated: 2021-01-08
+updated: 2021-01-09
 image: /images/blog/replacing-simple-bank/card.png
 ---
 
