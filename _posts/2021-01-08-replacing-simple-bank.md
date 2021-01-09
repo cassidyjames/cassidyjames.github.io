@@ -51,7 +51,7 @@ The best-looking app on the surface. [Only 2 "Spaces"](https://n26.com/en-us/spa
 
 ❌️ **Spaces** are limited to two
 
-❌️ **Rules** exist for Spaces, but since due to the above, it's not practical to replace Simple Expenses
+❌️ **Rules** exist for Spaces, but due to the above, it's not practical to replace Simple Expenses
 
 ❌️ **Personal account** exists but doesn't inter-operate with other personal accounts.
 
