@@ -17,17 +17,44 @@ I joined Simple soon after it launched, and it immediately replaced my previous 
 
 Here’s how we currently use Simple, and what we value:
 
-- **Excellent user experience** with everything from the website to the notifications and emails they send, to—of course—the stellar mobile app. The app is the big one, as it's one of the few banking apps that closely follows native Android guidelines while having its own distinct look and feel. It's fast, smooth, easy to do everything you can possibly do with your account right in the app. Seriously, this is mainly where all other banks are years behind.
+### Excellent User Experience
 
-- **Shared account.** By default, we each log into our account and see the Shared account. This is a bank account with its own account number under the hood (though you don't have to think about that). Its balance, transactions, goals, and expenses are shared and visible to both of us, and we each have a designated Shared debit card. When one of our cards is used, we both get a push notification, and the transaction is tagged with the profile picture of whoever’s card was used. This is where all incoming money (i.e. paychecks) go, and from where the vast majority of debits are made.
+Everything from the website to the notifications and emails they send, to—of course—the stellar mobile app are well designed and well thought out. It's a classic case of deceptively simple, too; other banks have tried to copy the trendy design and typography, but don't seem to be in the same league when it comes to the actual _experience_. Simple was good when it first came out, and they've constantly improved and refined it over the past decade.
 
-- **Zero-based budget** with “envelopes” in the form of **31 Goals**. Goals are where you set aside money (like cash in an envelope!) for expected purchases that month, or save money for longer-term expenses (like contributing some money each month to our end of the year Christmas budget). Some of our Goals include Restaurants/take-out, Groceries/home supplies, Auto maintenance, and “sinking funds” for things like a self-insured vision fund (for contacts or glasses), and smartphone upgrades/replacements. Simple always defaults to showing your “Safe to Spend” balance, which is your account balance minus any Goals or Expenses. We keep our Safe to Spend at $50 as a tiny buffer for any small, unexpected things—but it is effectively a zero-based budget.
+The app is the big one, as it's one of the few banking apps that closely follows native Android guidelines while having its own distinct look and feel. It's fast, smooth, easy to do everything you can possibly do with your account right in the app. It also supports the system dark style out of the box.
 
-- **20 Expenses** automatically-funded and withdrawn-from buckets of money for known recurring things like rent, Internet, and Disney+. These are a lot like Goals, but with more paycheck-aware automation.
+Seriously, user experience is mainly where all other banks are years behind.
 
-- **Personal accounts** as our own pocket money. Simple has easy instant transfer to/from Shared and Personal accounts, so part of our budget is a small amount of money that we transfer from Shared into each of our Personal accounts with each pay period. We then use our Personal balances however we see fit, whether it’s for videogames, impulse purchases, personal subscriptions, or saving up for larger personal purchases that we don't justify including in our Shared budget. We also transfer our gift giving budget for one another (i.e. for birthdays and Christmas) into our Personal accounts to avoid spoiling gift purchases. We each have our own Personal debit card for this discretionary spending.
+### Simple Shared
 
-## [One Finance](https://www.onefinance.com/)
+Simple started with personal accounts, but added well-integrated Shared accounts a few years ago. Shared is a bank account with its own account number under the hood (though you don't have to think about that). Its balance, transactions, goals, and expenses are visible to both users, and each person has a designated Shared debit card in addition to their personal debit card.
+
+By default, my wife and I each log into our account and see the Shared account.  When one of our Shared cards is used, we both get a push notification with the merchant and amount, and the transaction is tagged with the profile picture of whoever’s card was used. This is where all incoming money (i.e. paychecks) go, and from where the vast majority of debits are made.
+
+### Goals
+
+Goals are where you set aside money (like cash in an envelope) for expected purchases that month, or save money for longer-term expenses (like contributing some money each month to an end of the year Christmas budget). Simple always defaults to showing your “Safe to Spend” balance, which is your account balance minus any Goals or Expenses.
+
+My wife and I use a <abbr title="Income minus expenses equals zero; give every dollar a “job” in the budget">"zero-based budget"</abbr> with “envelopes” in the form of 31 different Goals. Some of our Goals include Restaurants/take-out, Groceries/home supplies, Auto maintenance, and <abbr title="Virtual envelopes we add to each month for longer-term expenses">“sinking funds”</abbr> for things like a self-insured vision fund (for contacts or glasses), and smartphone upgrades/replacements. 
+
+We keep our Safe to Spend at $50 as a tiny buffer for any small, unexpected things—but it is effectively a zero-based budget.
+
+### Expenses
+
+Expenses are a newer feature of Simple, and they're like automated Goals. They're automatically-funded and withdrawn-from buckets of money for known recurring things—and they're even pay-period-aware, only setting money aside when your paycheck actually comes in, and managable based on your pay schedule. 
+
+We have 20 Expenses for things like rent, Internet service, and subscriptions like YouTube Music and Disney+.
+
+
+### Personal accounts
+
+We use our personal accounts as our own pocket money. Simple has easy instant transfer to/from Shared and Personal accounts, so part of our budget is a small amount of money that we transfer from Shared into each of our Personal accounts with each pay period. We then use our Personal balances however we see fit, whether it’s for videogames, impulse purchases, personal subscriptions, or saving up for larger personal purchases that we don't justify including in our Shared budget. We also transfer our gift giving budget for one another (i.e. for birthdays and Christmas) into our Personal accounts to avoid spoiling gift purchases. We each have our own Personal debit card for this discretionary spending.
+
+## The Alternatives
+
+Here are the alternatives to Simple that have been recommended to me (or that I've found), and how they measure up compared to Simple. Spoiler alert: nothing is quite on the same level yet.
+
+### [One Finance](https://www.onefinance.com/)
 
 Looks slick, but no shared/joint account support; however, [Shared Pockets might work](https://help.onefinance.com/hc/en-us/articles/360052767694-Joint-Accounts)! Doesn't appear to be as much automation as is built into Simple Expenses, though. Currently my front-runner.
 
@@ -41,7 +68,7 @@ Looks slick, but no shared/joint account support; however, [Shared Pockets might
 
 ✔️ **Personal account** since that's how One works by default: personal accounts plus Shared Pockets
 
-## [N26](https://n26.com/en-us)
+### [N26](https://n26.com/en-us)
 
 The best-looking app on the surface. [Only 2 "Spaces"](https://n26.com/en-us/spaces)—nowhere near equivalent to the unlimited amount of Goals and Expenses in Simple, nor our 31 Goals and 20 Expenses in use. Bummer.
 
@@ -55,34 +82,38 @@ The best-looking app on the surface. [Only 2 "Spaces"](https://n26.com/en-us/spa
 
 ❌️ **Personal account** exists but doesn't inter-operate with other personal accounts.
 
-## [Revolut](https://www.revolut.com/en-US/)
+### [Revolut](https://www.revolut.com/en-US/)
 
 No information on their website or help center about joint/shared accounts, so unfortunately not looking like an option. They do have group "Vaults" and group-pay for bills, so it _might_ be worth looking into more.
 
-## [Chime](https://www.chime.com/)
+### [Chime](https://www.chime.com/)
 
 [No joint/shared accounts.](https://chime.zendesk.com/hc/en-us/articles/115003650988-Does-Chime-offer-joint-accounts-)
 
-## [Qube](https://qubemoney.com/)
+### [Qube](https://qubemoney.com/)
 
 Looks interesting—based around the envelope budgeting style like Simple, but is in beta. Qube Couples has not launched yet.
 
-## [Current](https://current.com)
+### [Current](https://current.com)
 
 Looks nice, but [no joint account support.](https://support.current.com/hc/en-us/articles/360043876754-Can-I-sign-up-for-a-joint-account-)
 
-## [Dave](https://dave.com)
+### [Dave](https://dave.com)
 
 Seems focused on cash advances and side hustles which isn't appealing to me at all. No information on their site about shared/joint accounts or anything like Simple Goals.
 
-## [Monzo](https://monzo.com/usa/)
+### [Monzo](https://monzo.com/usa/)
 
 Not launched in the US; on a waitlist system.
 
-## [Google ~~Pay~~ Plex](https://www.theverge.com/2020/11/18/21571806/google-pay-relaunch-money-payments-finances-deals-offers-banking-plex#XflVHM)
+### [Google ~~Pay~~ Plex](https://www.theverge.com/2020/11/18/21571806/google-pay-relaunch-money-payments-finances-deals-offers-banking-plex#XflVHM)
 
 Not yet launched
 
-## Credit Union
+### Credit Union
 
 Every local one has the same decade-old looking mobile app and don't support anything like Simple Goals or Expenses.
+
+---
+
+I will continue this search and update this post with more details and options as I get them!
