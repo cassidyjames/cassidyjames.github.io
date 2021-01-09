@@ -6,6 +6,12 @@ updated: 2021-01-08
 
 This sucks. BBVA US is closing Simple, migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app.
 
+[Announcement](https://www.simple.com/blog/simple-is-closing)
+
+[Twitter thread](https://twitter.com/CassidyJames/status/1347299178158804992)
+
+[Pt 2](https://twitter.com/CassidyJames/status/1347615632984928257)
+
 ## Simple
 
 - 31 Goals (envelope-like budgeting buckets that are excluded from the "Safe to Spend")
