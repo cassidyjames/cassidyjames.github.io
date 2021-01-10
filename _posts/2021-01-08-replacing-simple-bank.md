@@ -102,6 +102,10 @@ Looks nice, but [no joint account support.](https://support.current.com/hc/en-us
 
 Seems focused on cash advances and side hustles which isn't appealing to me at all. No information on their site about shared/joint accounts or anything like Simple Goals.
 
+### [Varo](https://varomoney.com)
+
+[No shared/joint accounts.](https://faq.varomoney.com/hc/en-us/articles/360050197531-Does-Varo-Bank-offer-joint-Bank-Accounts-)
+
 ### [Monzo](https://monzo.com/usa/)
 
 Not launched in the US; on a waitlist system.
