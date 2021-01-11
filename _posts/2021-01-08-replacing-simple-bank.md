@@ -1,7 +1,7 @@
 ---
 title: "Replacing Simple Bank"
-description: "Apparently everyone else is still a decade behind the soon-to-close neobank"
-updated: 2021-01-09
+description: "Almost everyone else is still a decade behind the soon-to-close neobank"
+updated: 2021-01-10
 image: /images/blog/replacing-simple-bank/card.png
 ---
 
@@ -25,30 +25,43 @@ The app is the big one, as it's one of the few banking apps that closely follows
 
 Seriously, user experience is mainly where all other banks are years behind.
 
-### Simple Shared
+### Simple Shared + Personal accounts
 
 Simple started with personal accounts, but added well-integrated Shared accounts a few years ago. Shared is a bank account with its own account number under the hood (though you don't have to think about that). Its balance, transactions, goals, and expenses are visible to both users, and each person has a designated Shared debit card in addition to their personal debit card.
 
 By default, my wife and I each log into our account and see the Shared account.  When one of our Shared cards is used, we both get a push notification with the merchant and amount, and the transaction is tagged with the profile picture of whoever’s card was used. This is where all incoming money (i.e. paychecks) go, and from where the vast majority of debits are made.
 
+<aside markdown="1">
+**Example:** You order some home supplies from Target online, using your Shared card. You and your partner both get a push notification with _**Target.com** Your Name: $49.57_, and tapping it brings you to the transaction in your Shared account (where you mark it as coming from the Home Supplies goal).
+
+Later, you impulse-buy a candy bar and use your Personal card. Only you get a notification with _**7-Eleven** $1.49_, and tapping it brings you to the transaction in your Personal account.
+</aside>
+
+We use our personal accounts as our own pocket money. Simple has easy instant transfer to/from Shared and Personal accounts, so part of our budget is a small amount of money that we transfer from Shared into each of our Personal accounts with each pay period. We then use our Personal balances however we see fit, whether it’s for videogames, impulse purchases, personal subscriptions, or saving up for larger personal purchases that we don't justify including in our Shared budget. We also transfer our gift giving budget for one another (i.e. for birthdays and Christmas) into our Personal accounts to avoid spoiling gift purchases. We each have our own Personal debit card for this discretionary spending.
+
 ### Goals
 
-Goals are where you set aside money (like cash in an envelope) for expected purchases that month, or save money for longer-term expenses (like contributing some money each month to an end of the year Christmas budget). Simple always defaults to showing your “Safe to Spend” balance, which is your account balance minus any Goals or Expenses.
+Goals are where you set aside money (like cash in an envelope) for expected purchases that month, or save money for longer-term expenses (like contributing some money each month to an end of the year Christmas budget). Simple always defaults to showing your “Safe-to-Spend” balance, which is your account balance minus any Goals or Expenses. Under the hood, transactions come out of your actual balance (and thus the Safe-to-Spend), but can later be marked as coming out of a Goal.
 
-My wife and I use a <abbr title="Income minus expenses equals zero; give every dollar a “job” in the budget">"zero-based budget"</abbr> with “envelopes” in the form of 31 different Goals. Some of our Goals include Restaurants/take-out, Groceries/home supplies, Auto maintenance, and <abbr title="Virtual envelopes we add to each month for longer-term expenses">“sinking funds”</abbr> for things like a self-insured vision fund (for contacts or glasses), and smartphone upgrades/replacements. 
+<aside markdown="1">
+**Example:** You have $100 in Safe-to-Spend and $200 in a Groceries goal. You buy $70 worth of groceries, and initially your Safe-to-Spend is reduced to $30 ($100 - $70). At the end of the day, you come back and mark the grocery transaction as coming from your Groceries goal, which returns your Safe-to-Spend to $100 and reduces your Groceries goal to $130 ($200 - $70).
 
-We keep our Safe to Spend at $50 as a tiny buffer for any small, unexpected things—but it is effectively a zero-based budget.
+If you over-spend your Safe-to-Spend (but not the underlying account balance), you get a notice that you've overspent it and Simple seamlessly covers it from your Goals balances. It is kind of confusing to explain, but means there's no risk of declining e.g. a $1,000 rent payment even if there is only $100 in Safe-to-Spend; you can square it up later as long as that money is in your account/Goals _somewhere_.
+</aside>
+
+My wife and I use a <abbr title="Income minus expenses equals zero; give every dollar a “job” in the budget">"zero-based budget"</abbr> with “envelopes” in the form of 31 different Goals. Some of our Goals include Restaurants, Groceries, Home supplies, Auto maintenance, and <abbr title="Virtual envelopes we add to each month for longer-term expenses">“sinking funds”</abbr> for things like a self-insured vision fund (for contacts or glasses), and smartphone upgrades/replacements.
+
+We generally keep our Safe-to-Spend at $50–100 as a buffer for any small, unexpected things—but it is effectively a zero-based budget.
 
 ### Expenses
 
-Expenses are a newer feature of Simple, and they're like automated Goals. They're automatically-funded and withdrawn-from buckets of money for known recurring things—and they're even pay-period-aware, only setting money aside when your paycheck actually comes in, and managable based on your pay schedule. 
+Expenses are a newer feature of Simple, and they're like automated Goals. They're automatically-funded and withdrawn-from buckets of money for known recurring things—and they're even pay-period-aware, only setting money aside when your paycheck actually comes in, and managable based on your pay schedule. You can choose a specific merchant or category to come out of any given expense.
 
-We have 20 Expenses for things like rent, Internet service, and subscriptions like YouTube Music and Disney+.
+We have 20 Expenses for things like rent, Internet service, and subscriptions like YouTube Music and Disney+. This means we can set and forget these things; the Expense is "filled" when we are paid, and then the transactions automatically come out of the appropriate Expense when we're charged.
 
-
-### Personal accounts
-
-We use our personal accounts as our own pocket money. Simple has easy instant transfer to/from Shared and Personal accounts, so part of our budget is a small amount of money that we transfer from Shared into each of our Personal accounts with each pay period. We then use our Personal balances however we see fit, whether it’s for videogames, impulse purchases, personal subscriptions, or saving up for larger personal purchases that we don't justify including in our Shared budget. We also transfer our gift giving budget for one another (i.e. for birthdays and Christmas) into our Personal accounts to avoid spoiling gift purchases. We each have our own Personal debit card for this discretionary spending.
+<aside markdown="1">
+**Example:** You get paid on the 1st and 15th of the month. Disney+ charges you $7 on the 19th of the month. You can set your Disney+ Expense to fill halfway on each payday (so $3.50 each on the 1st and 15th), or fully on one of the paydays (like the 15th). When you're paid, that amount automatically goes into your Expense, meaning you never see it in your Safe-to-Spend. When the 19th comes around, your Disney+ charge automatically comes out of your Disney+ Expense instead of ever reducing your Safe-to-Spend.
+</aside>
 
 ## The Alternatives
 
@@ -56,17 +69,19 @@ Here are the alternatives to Simple that have been recommended to me (or that I'
 
 ### [One Finance](https://www.onefinance.com/)
 
-Looks slick, but no shared/joint account support; however, [Shared Pockets might work](https://help.onefinance.com/hc/en-us/articles/360052767694-Joint-Accounts)! Doesn't appear to be as much automation as is built into Simple Expenses, though. Currently my front-runner.
+Looks slick, but no shared/joint account support; however, [Shared Pockets might work](https://help.onefinance.com/hc/en-us/articles/360052767694-Joint-Accounts)! Doesn't appear to be as much automation as is built into Simple Expenses, though.
 
 ✔️ **Great app** design; feels distinct and native on Android. No dark style support at the moment though. 🙈️
 
-❓️ **Shared Pockets** instead of a Simple Shared account
+❓️ **Shared Pockets** instead of a Simple Shared account; but I still need to see if this is workable as a replacement.
 
-✔️ **Pockets** for envelope-style budgeting (replacing Simple Goals)
+✔️ **Personal account** since that's how One works by default: personal accounts plus Shared Pockets.
 
-❓️ **Expenses**? I have to look into this more
+❓️ **Pockets** for envelope-style budgeting (replacing Simple Goals). But it sounds like you have to mark your card as spending from a Pocket _before_ the transaction, which would be a huge pain; waiting to learn more.
 
-✔️ **Personal account** since that's how One works by default: personal accounts plus Shared Pockets
+❓️ **Expenses?** I have to look into Pockets and their automation more.
+
+**Note:** Someone from One has reached out to me and offered a demo of Shared Pockets, so I am looking forward to that.
 
 ### [N26](https://n26.com/en-us)
 
@@ -74,13 +89,13 @@ The best-looking app on the surface. [Only 2 "Spaces"](https://n26.com/en-us/spa
 
 ✔️ **Great app** design; feels native on Android and feels really well thought out. Great dark style, too!
 
-❌️ **Joint/shared accounts** not mentioned anywhere in their docs
-
-❌️ **Spaces** are limited to two
-
-❌️ **Rules** exist for Spaces, but due to the above, it's not practical to replace Simple Expenses
+❌️ **Joint/shared accounts** not mentioned anywhere in their docs.
 
 ❌️ **Personal account** exists but doesn't inter-operate with other personal accounts.
+
+❌️ **Spaces** are limited to two.
+
+❌️ **Rules** exist for Spaces, but due to the above, it's not practical to replace Simple Expenses.
 
 ### [Revolut](https://www.revolut.com/en-US/)
 
