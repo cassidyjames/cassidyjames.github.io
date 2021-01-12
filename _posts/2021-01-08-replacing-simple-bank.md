@@ -21,7 +21,7 @@ Here’s how we currently use Simple, and the four things we value most:
 
 ### 1. A Bank, First and Foremost
 
-So technically, Simple—and most online "banks"—will tell you they are a _banking service_ and not explicitly a _bank_; in Simple's case, BBVA US handles the actual bank side of things. But it was important to us that our online bank operated, well, like a bank. We were interested in a real bank account (with routing and account numbers), with real debit cards (e.g. provided by Visa or Mastercard), designed around being the primary way money comes into and goes out of our life.
+So technically, Simple—and most online "banks"—will tell you they are a _banking service_ and not explicitly a _bank;_ in Simple's case, BBVA US handles the actual bank side of things. But it was important to us that our online bank operated, well, like a bank. We were interested in a real bank account (with routing and account numbers), with real debit cards (e.g. provided by Visa or Mastercard), designed around being the primary way money comes into and goes out of our life.
 
 This distinction is important in the modern age of "neobanks," where so many are designed around cash advances, cryptocurrencies, penny investing, peer-to-peer transactions, merchant-specific perks, and a thousand other things that feel like they distract from the core of what a bank should be. Many of these neobanks also lack table-stakes features like check deposits or bill payment. Simple, on the other hand, has steadily added all the bank-like features we've needed to be our one and only bank account while living our financial lives as usual.
 
@@ -137,6 +137,16 @@ Chime might work for an individual account without budgeting needs, but it just 
 
 Looks interesting—based around the envelope budgeting style like Simple, but is in beta. Qube Couples has not launched yet.
 
+1. ✔️ **Designed to be a bank** with only checking and saving bank-related things presented in the app.
+
+2. ❌️ **Not a fan of their app**, as it seems simultaneously dated and over-designed. I kind of feel like it's an iOS port or something, as the design patterns don't feel at home on Android. No dark style support.
+
+3. ❌️ **Qube Couples** is supposedly in the works, but not available yet.
+
+4. ❓️ **Qubes** appear to be some sort of envelope-like system using virtual card numbers, but it isn't as seamless as Goals or Expenses.
+
+Qube looks like it could be a contender some day, but I would not recommend it in its current beta state; too many base features are missing.
+
 ### [Current](https://current.com)
 
 Looks nice, but [no joint account support.](https://support.current.com/hc/en-us/articles/360043876754-Can-I-sign-up-for-a-joint-account-)
@@ -149,13 +159,21 @@ Seems focused on cash advances and side hustles which isn't appealing to me at a
 
 [No shared/joint accounts.](https://faq.varomoney.com/hc/en-us/articles/360050197531-Does-Varo-Bank-offer-joint-Bank-Accounts-)
 
+## Others Considered
+
+These options were recommended to me or came up in my search for a replacement, but haven't launched yet or didn't meet the bar for me to actually sign up and try them out.
+
+### [Qapital](https://www.qapital.com/)
+
+Qapital charges $3/month for their basic savings features, $6/month for a debit card and investment features, and $12/month for their "Master" plan with "Money Missions" and early access to new features. I didn't sign up just to try it out, so I don't feel comfortable judging it alongside the options I did try.
+
 ### [Monzo](https://monzo.com/usa/)
 
 Not launched in the US; on a waitlist system.
 
 ### [Google ~~Pay~~ Plex](https://www.theverge.com/2020/11/18/21571806/google-pay-relaunch-money-payments-finances-deals-offers-banking-plex#XflVHM)
 
-Not yet launched
+Not yet launched; coming this year.
 
 ### Credit Union
 
