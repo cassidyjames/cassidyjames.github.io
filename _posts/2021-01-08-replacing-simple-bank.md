@@ -165,7 +165,7 @@ If I were to use one of these apps as a pool for my own pocket money alongside a
 
 One of the earliest and most popular peer-to-peer payment apps, Venmo was bought out by PayPal but continues to be its own thing.
 
-1. ❌️ **Not a bank**;  built around social peer-to-peer payments. Like Cash App, you can get a debit card to spend your balance, and can find the account and routing numbers under the hood for things like direct deposits or transfers. But it's clearly not designed to replace a regular bank.
+1. ❌️ **Not a bank**;  built around social peer-to-peer payments. Like Cash App, you can get a debit card to spend your balance, but it's clearly not designed to replace a regular bank.
 
 2. ❌️ **Confusing app** that doesn't feel native to Android _at all_. I feel like it used to be more straightforward, but the latest design update since it was bought by PayPal made it feel like a poorly-ported iOS app, and it's very confusing to use—even without a whole lot of functionality here.
 
