@@ -1,0 +1,7 @@
+html.blog {
+  // To fix nav overlapping with anchor linking
+  h3 {
+    margin-top: -48px;
+    padding-top: calc(1.25em + 48px);
+  }
+}
