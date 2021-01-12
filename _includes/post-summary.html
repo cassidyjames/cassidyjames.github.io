@@ -12,7 +12,7 @@
 #### {{ post.description }}
 {% endif %}
 
-{{ post.content | strip_html | truncatewords: 24 }}
+{{ post.content | markdownify | strip_html | truncatewords: 24 }}
 
 [Read more]({{ post.url }}){: class="read-more"}
 
