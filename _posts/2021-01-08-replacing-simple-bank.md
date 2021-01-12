@@ -147,6 +147,34 @@ Looks interesting—based around the envelope budgeting style like Simple, but i
 
 Qube looks like it could be a contender some day, but I would not recommend it in its current beta state; too many base features are missing.
 
+### [Cash App](https://cash.app)
+
+Cash App was initially a barebones peer-to-peer payment app launched by payment processor Square, but it has grown into an interesting potential bank replacement for some people.
+
+1. ❌️ **Not a bank**, though—it's still built around peer-to-peer payments with "investing" via Bitcoin or stocks bolted on. You _can_ get a debit card to spend your balance, and can find the account and routing numbers under the hood for things like direct deposits or transfers. But it's clearly not designed to replace a regular bank.
+
+2. ✔️ **Well-designed app** that has blossomed from an almost brutally-minimalist peer-to-peer app to something that helps you manage your balance and card, send or request money, and invest.
+
+3. ❌️ **No joint support**, though peer-to-peer payments do make sending money back and forth easy and instant.
+
+4. ❌️ **No budgeting** tools whatsoever.
+
+If I were to use one of these apps as a pool for my own pocket money alongside a joint account, it would be Cash App thanks to its simplicity—plus most people I need to pay have it as well, making it instant to pay people back or request a few bucks for something.
+
+### [Venmo](https://venmo.com)
+
+One of the earliest and most popular peer-to-peer payment apps, Venmo was bought out by PayPal but continues to be its own thing.
+
+1. ❌️ **Not a bank**;  built around social peer-to-peer payments. Like Cash App, you can get a debit card to spend your balance, and can find the account and routing numbers under the hood for things like direct deposits or transfers. But it's clearly not designed to replace a regular bank.
+
+2. ❌️ **Confusing app** that doesn't feel native to Android _at all_. I feel like it used to be more straightforward, but the latest design update since it was bought by PayPal made it feel like a poorly-ported iOS app, and it's very confusing to use—even without a whole lot of functionality here.
+
+3. ❌️ **No joint support**, but again, instant peer-to-peer transfers are here.
+
+4. ❌️ **No budgeting** tools whatsoever.
+
+At this point, Venmo seems to only be convenient if you have others in your life who use Venmo and are willing to put up with the convoluted app. But I'd recommend Cash App for a much better-designed app and service.
+
 ## Others Considered
 
 These options were recommended to me or came up in my search for a replacement, but haven't launched yet or didn't meet the bar for me to actually sign up and try them out.
