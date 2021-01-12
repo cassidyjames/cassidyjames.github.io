@@ -1,7 +1,7 @@
 ---
 title: "Replacing Simple Bank"
 description: "Almost everyone else is still a decade behind the soon-to-close neobank"
-updated: 2021-01-10
+updated: 2021-01-11
 image: /images/blog/replacing-simple-bank/card.png
 ---
 
@@ -9,15 +9,23 @@ image: /images/blog/replacing-simple-bank/card.png
 
 This sucks. [BBVA US is closing Simple](https://www.simple.com/blog/simple-is-closing), migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app. I've been [talking about this](https://twitter.com/CassidyJames/status/1347299178158804992) a little bit on Twitter [off and on](https://twitter.com/CassidyJames/status/1347615632984928257), and have found a _ton_ of other folks—including [a Change.org petition](http://chng.it/KXNzmJPx)—facing the same dilemma: what now? What can possibly replace Simple? So here's my journey in looking for a replacement.
 
-**Note:** I'll be updating this frequently as I do more research.
+<aside markdown="1">
+**Note:** I'll be updating this frequently as I do more research. And since Simple only ever served the US market, this piece will focus solely on options for US customers as well.
+</aside>
 
-## Simple
+## What Makes Simple Good?
 
 I joined Simple soon after it launched as an invite-only beta in 2012, and it immediately replaced my previous big bank account. My wife joined when we got married, and we managed two individual accounts for a while. When Simple launched Simple Shared, we were first in line—nearly literally; we beta tested it as soon as they announced it. Over the past decade, we have come to love and depend on the awesome features and incredibly straightforward experience of Simple.
 
-Here’s how we currently use Simple, and what we value:
+Here’s how we currently use Simple, and the four things we value most:
 
-### Excellent User Experience
+### 1. A Bank, First and Foremost
+
+So technically, Simple—and most online "banks"—will tell you they are a _banking service_ and not explicitly a _bank_; in Simple's case, BBVA US handles the actual bank side of things. But it was important to us that our online bank operated, well, like a bank. We were interested in a real bank account (with routing and account numbers), with real debit cards (e.g. provided by Visa or Mastercard), designed around being the primary way money comes into and goes out of our life.
+
+This distinction is important in the modern age of "neobanks," where so many are designed around cash advances, cryptocurrencies, penny investing, peer-to-peer transactions, merchant-specific perks, and a thousand other things that feel like they distract from the core of what a bank should be. Many of these neobanks also lack table-stakes features like check deposits or bill payment. Simple, on the other hand, has steadily added all the bank-like features we've needed to be our one and only bank account while living our financial lives as usual.
+
+### 2. Excellent User Experience
 
 Everything from the website to the notifications and emails they send, to—of course—the stellar mobile app are well designed and well thought out. It's a classic case of deceptively simple, too; other banks have tried to copy the trendy design and typography, but don't seem to be in the same league when it comes to the actual _experience_. Simple was good when it first came out, and they've constantly improved and refined it over the past decade.
 
@@ -25,7 +33,7 @@ The app is the big one, as it's one of the few banking apps that closely follows
 
 Seriously, user experience is mainly where all other banks are years behind.
 
-### Simple Shared + Personal accounts
+### 3. Simple Shared + Personal accounts
 
 Simple started with personal accounts, but added well-integrated Shared accounts a few years ago. Shared is a bank account with its own account number under the hood (though you don't have to think about that). Its balance, transactions, goals, and expenses are visible to both users, and each person has a designated Shared debit card in addition to their personal debit card.
 
@@ -39,7 +47,7 @@ Later, you impulse-buy a candy bar and use your Personal card. Only you get a no
 
 We use our personal accounts as our own pocket money. Simple has easy instant transfer to/from Shared and Personal accounts, so part of our budget is a small amount of money that we transfer from Shared into each of our Personal accounts with each pay period. We then use our Personal balances however we see fit, whether it’s for videogames, impulse purchases, personal subscriptions, or saving up for larger personal purchases that we don't justify including in our Shared budget. We also transfer our gift giving budget for one another (i.e. for birthdays and Christmas) into our Personal accounts to avoid spoiling gift purchases. We each have our own Personal debit card for this discretionary spending.
 
-### Goals
+### 4. Goals + Expenses
 
 Goals are where you set aside money (like cash in an envelope) for expected purchases that month, or save money for longer-term expenses (like contributing some money each month to an end of the year Christmas budget). Simple always defaults to showing your “Safe-to-Spend” balance, which is your account balance minus any Goals or Expenses. Under the hood, transactions come out of your actual balance (and thus the Safe-to-Spend), but can later be marked as coming out of a Goal.
 
@@ -51,10 +59,6 @@ If you over-spend your Safe-to-Spend (but not the underlying account balance), y
 
 My wife and I use a <abbr title="Income minus expenses equals zero; give every dollar a “job” in the budget">"zero-based budget"</abbr> with “envelopes” in the form of 31 different Goals. Some of our Goals include Restaurants, Groceries, Home supplies, Auto maintenance, and <abbr title="Virtual envelopes we add to each month for longer-term expenses">“sinking funds”</abbr> for things like a self-insured vision fund (for contacts or glasses), and smartphone upgrades/replacements.
 
-We generally keep our Safe-to-Spend at $50–100 as a buffer for any small, unexpected things—but it is effectively a zero-based budget.
-
-### Expenses
-
 Expenses are a newer feature of Simple, and they're like automated Goals. They're automatically-funded and withdrawn-from buckets of money for known recurring things—and they're even pay-period-aware, only setting money aside when your paycheck actually comes in, and managable based on your pay schedule. You can choose a specific merchant or category to come out of any given expense.
 
 We have 20 Expenses for things like rent, Internet service, and subscriptions like YouTube Music and Disney+. This means we can set and forget these things; the Expense is "filled" when we are paid, and then the transactions automatically come out of the appropriate Expense when we're charged.
@@ -62,6 +66,8 @@ We have 20 Expenses for things like rent, Internet service, and subscriptions li
 <aside markdown="1">
 **Example:** You get paid on the 1st and 15th of the month. Disney+ charges you $7 on the 19th of the month. You can set your Disney+ Expense to fill halfway on each payday (so $3.50 each on the 1st and 15th), or fully on one of the paydays (like the 15th). When you're paid, that amount automatically goes into your Expense, meaning you never see it in your Safe-to-Spend. When the 19th comes around, your Disney+ charge automatically comes out of your Disney+ Expense instead of ever reducing your Safe-to-Spend.
 </aside>
+
+We generally keep our Safe-to-Spend at $50–100 as a buffer for any small, unexpected things. But it is effectively a zero-based budget, and all managed within the Simple app thanks to Goals and Expenses.
 
 ## The Alternatives
 
@@ -71,39 +77,61 @@ Here are the alternatives to Simple that have been recommended to me (or that I'
 
 Looks slick, but no shared/joint account support; however, [Shared Pockets might work](https://help.onefinance.com/hc/en-us/articles/360052767694-Joint-Accounts)! Doesn't appear to be as much automation as is built into Simple Expenses, though.
 
-✔️ **Great app** design; feels distinct and native on Android. No dark style support at the moment though. 🙈️
+1. ✔️ **Designed to be a bank** service, nothing else. The default view in the app is your Pockets of money and recent transactions, another tab houses ways to move money (transferring in our out), and another tab shows details including your profile, card information, liked accounts, and statements. It's all very much bank stuff, and that's it.
 
-❓️ **Shared Pockets** instead of a Simple Shared account; but I still need to see if this is workable as a replacement.
+2. ✔️ **Great app** design; feels distinct and native on Android. No dark style support at the moment though. 🙈️
 
-✔️ **Personal account** since that's how One works by default: personal accounts plus Shared Pockets.
+3. ❓️ **Shared Pockets** between personal accounts instead of a joint Simple Shared account; but I still need to see if this is workable as a replacement.
 
-❓️ **Pockets** for envelope-style budgeting (replacing Simple Goals). But it sounds like you have to mark your card as spending from a Pocket _before_ the transaction, which would be a huge pain; waiting to learn more.
+4. ❓️ **Pockets** for envelope-style budgeting (replacing Simple Goals). But it sounds like you have to mark your card as spending from a Pocket _before_ the transaction, which would be a huge pain for e.g. online purchases and recurring charges; I'm waiting to learn more. I also have to look into Pockets and their automation more to see if they can replace Simple Expenses.
 
-❓️ **Expenses?** I have to look into Pockets and their automation more.
+One _sounds_ really close, and for some, it might be a workable replacement to Simple. But personally, marking a card as spending from a Pocket before the transaction goes through sounds untenable.
 
-**Note:** Someone from One has reached out to me and offered a demo of Shared Pockets, so I am looking forward to that.
+<aside markdown="1">
+**Note:** Someone from One has reached out to me and offered a demo of Shared Pockets, so I am looking forward to that and will update this piece when I know more.
+</aside>
 
 ### [N26](https://n26.com/en-us)
 
-The best-looking app on the surface. [Only 2 "Spaces"](https://n26.com/en-us/spaces)—nowhere near equivalent to the unlimited amount of Goals and Expenses in Simple, nor our 31 Goals and 20 Expenses in use. Bummer.
+Probably the best-looking app on the surface. [Only 2 "Spaces"](https://n26.com/en-us/spaces)—nowhere near equivalent to the unlimited amount of Goals and Expenses in Simple, nor our 31 Goals and 20 Expenses in use. Bummer.
 
-✔️ **Great app** design; feels native on Android and feels really well thought out. Great dark style, too!
+1. ✔️ **Mostly just bank stuff** in their app and on their website; the home tab has your balance and quick actions, the Spaces tab shows your envelope-style buckets of money, and the Cards tab shows your debit card information along with account numbers and some account-related actions. There is an Explore tab that shows some cashback perks and other partner offers, but it's pretty limited—and doesn't feel like it's trying to take over the whole app.
 
-❌️ **Joint/shared accounts** not mentioned anywhere in their docs.
+2. ✔️ **Great app** design; feels native on Android and feels really well thought out. Automatic or manual dark style, plus interesting, innovative features like "discrete mode" where dollar amounts are hidden when you wave your hand over the screen (enabled with the proximity sensor).
 
-❌️ **Personal account** exists but doesn't inter-operate with other personal accounts.
+3. ❌️ **Joint/shared accounts** not mentioned anywhere in their docs or app. The personal account doesn't appear to inter-operate with other personal accounts, either.
 
-❌️ **Spaces** are limited to two.
+4. ❌️ **Spaces** are limited to two. While Rules exist for automating Spaces, it's not practical to replace Simple Expenses since it's so limited
 
-❌️ **Rules** exist for Spaces, but due to the above, it's not practical to replace Simple Expenses.
+If you're looking for a very, _very_ simple personal replacement for Simple, N26 might do it for you. I am considering using it for my personal pocket money if I don't find a complete replacement for Simple Shared + Personal; but for anyone using more than two goals or expenses, it's not an option.
 
 ### [Revolut](https://www.revolut.com/en-US/)
 
 No information on their website or help center about joint/shared accounts, so unfortunately not looking like an option. They do have group "Vaults" and group-pay for bills, so it _might_ be worth looking into more.
 
+1. ❌️ **Not a bank service** up front; Revolut seems to be designed around international travelers and currency conversion. You _can_ dig deep in the app and find an account and routing number, but there is so much going on: a "Wealth" tab hawking cryptocurrencies alongide savings "Vaults," peer-to-peer payments and bill splitting, _tons_ of third-party offers and rewards that opt you into marketing emails and push notifications, travel features like access to airport lounges, and then the near-constant upsell to pay a monthly fee for a "Premium" or "Metal" account with _even more_ features. It's all a bit overwhelming.
+
+2. ✔️ **Extremely polished** app and design; it's very trendy, relatively well organized even with the _tons_ of functionality packed in, and has plenty of slick and smooth animations that help communicate the spatial design. Automatic or manual dark style support.
+
+3. ❌️ **Joint/shared accounts** not supported, though they have group "Vaults" and group-pay for bills. Personal accounts exist, if you can find the account details. Peer-to-peer transfers do help two personal accounts interoperate.
+
+4. ❓️ **Category-based budgeting plus Vaults** for expenses and saving. You can set a budget for different categories per-month, and you can transfer money in and out of Vaults. But the categories are really limited, and you can't associate a transaction with a Vault; you have to manually transfer money out of it.
+
+**Update:** After initially looking into their exceptionally slick app, someone shared this with me: [Revolut insiders reveal the human cost of a fintech unicorn's wild rise (Wired)](https://www.wired.co.uk/article/revolut-trade-unions-labour-fintech-politics-storonsky). Given that, I've lost interest in pursuing them more.
+
 ### [Chime](https://www.chime.com/)
 
-[No joint/shared accounts.](https://chime.zendesk.com/hc/en-us/articles/115003650988-Does-Chime-offer-joint-accounts-)
+[No joint/shared accounts.](https://chime.zendesk.com/hc/en-us/articles/115003650988-Does-Chime-offer-joint-accounts-). They are also in the middle of [a class-action lawsuit due to a multi-day outage](https://topclassactions.com/lawsuit-settlements/money/banking-news/chime-digital-bank-outage-class-action-settlement/), which sounds pretty rough and turned me off from spending much time with it or transferring much money in to try it out.
+
+1. ✔️ **Designed to be a bank** based on their website, app store listings, and available screenshots. The Home tab shows your balance and recent transactions, a Move Money tab houses transfers, a Pay Friends tab handles peer-to-peer payments, and an ATM Map helps you find places to withdraw cash.
+
+2. ❓️ **Okay app** that I didn't spend much time with (see above). It seems well laid-out, but doesn't feel entirely at home on Android. And no dark style support; it's blinding white all the time.
+
+3. ❌️ **Joint/shared accunts** not supported, though [they say they're aware](https://chime.zendesk.com/hc/en-us/articles/115003650988-Does-Chime-offer-joint-accounts-) of the want and working on a solution. While peer-to-peer transfers exist, there doesn't seem to be any way to share a balance between two people.
+
+4. ❌️ **No envelope budgeting**. Chime offers a Spending and a Savings account, but no envelope- or Goals-style budgeting tools.
+
+Chime might work for an individual account without budgeting needs, but it just seems too barebones for me.
 
 ### [Qube](https://qubemoney.com/)
 
