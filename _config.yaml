@@ -28,9 +28,6 @@ permalink: /blog/:title/
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
 
 collections:
   products:
