@@ -8,9 +8,11 @@ code {
   max-width: 100%;
 }
 
-code {
+pre code {
   overflow: auto;
   padding: 0.5em;
+  display: block;
+  color: inherit;
 }
 
 .highlight {
