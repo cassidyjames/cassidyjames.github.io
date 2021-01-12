@@ -55,6 +55,6 @@ Reveal `thousands.html`
 ```
 </details>
 
-Then I set up the HTML that I actually want to be included in the page. I use a `<span>` with a `read-time` class so I can style it later, and include the `formatted_words` and a description of how it's calculated in the `title` attribute. Inside the span, I do the simple math: number of `words` divided by my words-per-minute of 200 (and I add one so I never get `0`). I append `min read` so the end result is something like `3 min read`.
+Then I set up the HTML that I actually want to be included in the page. I use a `<span>` with a `read-time` class so I can style it later, and include the `formatted_words` and a description of how it's calculated in the `title` attribute. Inside the span, I do the simple math: number of `words` divided by my words-per-minute of 200 (and I add one so I never get `0`). I append `min read` so the end result is something like `4 min read`.
 
 That's it! Now I can just include `read-time.html` wherever I want to show the current page's estimated read time. I can even pass something other than `page.content` in if I want to calculate the read time of an arbitrary string.
