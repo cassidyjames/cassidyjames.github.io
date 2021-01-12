@@ -1,12 +1,11 @@
 details summary {
+  color: var(--accent-color);
   cursor: default;
-  transition: color 250ms ease;
 }
 
 details summary:hover,
 details summary:focus {
   outline: none;
-  color: var(--accent-color);
 }
 
 details summary::marker,
@@ -15,7 +14,7 @@ details summary::marker,
   display: none;
 }
 
-details summary ::after {
+details summary >::after {
   content: "▸";
   display: inline-block;
   margin-left: 0.5em;
