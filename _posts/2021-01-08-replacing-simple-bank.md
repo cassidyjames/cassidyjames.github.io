@@ -147,6 +147,10 @@ Looks interesting—based around the envelope budgeting style like Simple, but i
 
 Qube looks like it could be a contender some day, but I would not recommend it in its current beta state; too many base features are missing.
 
+## Others Considered
+
+These options were recommended to me or came up in my search for a replacement, but haven't launched yet or didn't meet the bar for me to actually sign up and try them out.
+
 ### [Current](https://current.com)
 
 Looks nice, but [no joint account support.](https://support.current.com/hc/en-us/articles/360043876754-Can-I-sign-up-for-a-joint-account-)
@@ -158,10 +162,6 @@ Seems focused on cash advances and side hustles which isn't appealing to me at a
 ### [Varo](https://varomoney.com)
 
 [No shared/joint accounts.](https://faq.varomoney.com/hc/en-us/articles/360050197531-Does-Varo-Bank-offer-joint-Bank-Accounts-)
-
-## Others Considered
-
-These options were recommended to me or came up in my search for a replacement, but haven't launched yet or didn't meet the bar for me to actually sign up and try them out.
 
 ### [Qapital](https://www.qapital.com/)
 
