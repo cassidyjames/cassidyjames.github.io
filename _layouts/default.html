@@ -18,10 +18,9 @@
     {% include nav.html %}
     <section class="grid main">
       <div>
-        {{ content }}
+        {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
       </div>
     </section>
     {% include footer.html %}
-    {% include scripts.html %}
   </body>
 </html>
