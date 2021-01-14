@@ -12,3 +12,7 @@ I mostly play **Destiny 2** which is free to play for the base game, so you can 
 [Stadia Pro][stadia] is a paid subscription that gets you up to 4K HDR and surround sound on Stadia, plus new games to claim and add to your library each month at no extra cost.
 
 [stadia]: https://stadia.com/link/referrals?si_rid=4101661881179489453&si_rt=1
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Google+Sans&display=swap');
+</style>
