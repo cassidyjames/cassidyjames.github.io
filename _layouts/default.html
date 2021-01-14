@@ -1,3 +1,6 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 {% capture classes %}
   {% if page.url == '/' %}home {% endif %}
@@ -12,9 +15,9 @@
     {{ class }}
   {% endfor %}
 {% endcapture %}
-<html lang="en-us" class="{{ classes }}">
+<html lang="en-us" class="{{ classes | strip_newlines | strip }}">
   {% include head.html %}
-  <body class="{{ classes }}">
+  <body class="{{ classes | strip_newlines | strip }}">
     {% include nav.html %}
     <section class="grid main">
       <div>
