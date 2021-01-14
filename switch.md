@@ -1,6 +1,10 @@
+---
+description: Since Nintendo doesn’t seem to understand how online services work, here’s my friend code
+---
+
 # Nintendo Switch
 
-Since Nintendo doesn't seem to understand how online services work, here's my friend code:
+{{ page.description }}:
 
 `SW-7374-7967-6583`
 
