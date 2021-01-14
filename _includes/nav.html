@@ -1,5 +1,4 @@
-<nav>
-  {% assign current = page.url | downcase | split: '/' %}
+<nav>{% assign current = page.url | downcase | split: '/' %}
 
   <a href="/" {% if current[1] == null %}class='current'{% endif %} title="Home"><img class="avatar" alt="Cassidy James" src="https://www.gravatar.com/avatar/{{ site.gravatar }}?s=240&d=blank" /></a>
   <a href="/blog" {% if current[1] == 'blog' %}class='current'{% endif %}>Blog</a>
@@ -9,27 +8,12 @@
   <a href="/referrals" {% if current[1] == 'referrals' %}class='current'{% endif %}>Referrals</a>
   <a href="/store" {% if current[1] == 'store' %}class='current'{% endif %}>Store</a>
 
-  {% if current[1] == 'resume' %}
-    <a href="/resume" class='current'>Résumé</a>
-  {% endif %}
-
-  {% if current[1] == 'gamepi' %}
-    <a href="/gamepi" class='current'>GamePi</a>
-  {% endif %}
-
-  {% if current[1] == 'support' %}
-    <a href="/support" class='current'>Support</a>
-  {% endif %}
-
-  {% if current[1] == 'minecraft' %}
-    <a href="/minecraft" class='current'>Minecraft</a>
-  {% endif %}
-
-  {% if current[1] == 'borrow' %}
-    <a href="/borrow" class='current'>Borrow</a>
-  {% endif %}
-
-  {% if current[1] == 'blog' %}
-    <a href="/feed.xml" class="feed">{% include icons/rss.svg %} Feed</a>
-  {% endif %}
+  {% if current[1] == 'blog' %}<a href="/feed.xml" class="feed">{% include icons/rss.svg %} Feed</a>{% endif %}
+  {% if current[1] == 'borrow' %}<a href="/borrow" class='current'>Borrow</a>{% endif %}
+  {% if current[1] == 'gamepi' %}<a href="/gamepi" class='current'>GamePi</a>{% endif %}
+  {% if current[1] == 'minecraft' %}<a href="/minecraft" class='current'>Minecraft</a>{% endif %}
+  {% if current[1] == 'resume' %}<a href="/resume" class='current'>Résumé</a>{% endif %}
+  {% if current[1] == 'stadia' %}<a href="/stadia" class='current'>Stadia</a>{% endif %}
+  {% if current[1] == 'switch' %}<a href="/switch" class='current'>Switch</a>{% endif %}
+  {% if current[1] == 'support' %}<a href="/support" class='current'>Support</a>{% endif %}
 </nav>

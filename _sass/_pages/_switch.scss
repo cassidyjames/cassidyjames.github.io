@@ -1,0 +1,30 @@
+html.switch {
+  --background-color: white;
+  --accent-color: var(--switch);
+  --primary-color: rgb(72, 72, 72);
+
+  --secondary-accent-color: #f0f0f0;
+  --secondary-accent-contrast: var(--primary-color);
+
+  @media (prefers-color-scheme: dark) {
+    --background-color: #323232;
+    --primary-color: #eee;
+    --secondary-accent-color: #2d2d2d;
+  }
+
+  font-family: 'Montserrat', Inter, sans-serif;
+
+  h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: -0.05em;
+  }
+
+  code {
+    display: block;
+    font-size: 2em;
+    margin: 1em auto;
+    padding: 0.5em;
+    text-align: center;
+  }
+}
