@@ -76,11 +76,6 @@ There's some Mandalore-related stuff, but I really enjoy the Nightsisters and th
 🥇️ | 15 | Overlords            | Star Wars gets weird and I love it; kicks off Mortis arc
 🥇️ | 16 | Altar of Mortis      | Mortis arc
 🥇️ | 17 | Ghosts of Mortis     | Mortis arc, Anakin development
-
-> **Note: this is as far as I am through my most recent watch-through! So anything after this point is based on other episode guides or just the episode descriptions plus my recollection.**
-
-🏅️ | Ep | Title                | Details
--- | :- | :----                | :------
    | 21 | Padawan Lost         | Ahsoka
    | 22 | Wookiee Hunt         | Ahsoka
 
@@ -94,6 +89,11 @@ Season Four includes the Umbara arc which I just enjoy, and has… implications.
    | 8  | The General        | Continues the Umbara arc
    | 9  | Plan of Dissent    | Continues the Umbara arc
    | 10 | Carnage of Krell   | Concludes the Umbara arc
+
+> **Note: this is as far as I am through my most recent watch-through! So anything after this point is based on other episode guides or just the episode descriptions plus my recollection.**
+
+🏅️ | Ep | Title              | Details
+-- | :- | :----              | :------
 🥇️ | 14 | A Friend in Need   | Ahsoka and Mandalorian-related, I think?
    | 19 | Massacre           | Back to Dathomir and the Nightsisters
    | 21 | Brothers           | Maul
