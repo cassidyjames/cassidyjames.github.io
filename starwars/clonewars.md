@@ -85,8 +85,8 @@ Season Four includes the Umbara arc which I just enjoy, and has… implications.
 
 🏅️ | Ep | Title              | Details
 -- | :- | :----              | :------
-   | 7  | Darkness on Umbara | Kicks off the Umbara arc
-   | 8  | The General        | Continues the Umbara arc
+🥉 | 7  | Darkness on Umbara | Kicks off the Umbara arc; plot is covered in next episode’s intro
+🥉 | 8  | The General        | Continues the Umbara arc; Clone-centric, mostly covered in next episode’s intro
    | 9  | Plan of Dissent    | Continues the Umbara arc
    | 10 | Carnage of Krell   | Concludes the Umbara arc
 
