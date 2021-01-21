@@ -5,6 +5,12 @@ updated: 2021-01-12
 image: /images/blog/replacing-simple-bank/card.png
 ---
 
+---
+
+>**NOTE:** This article is being heavily reworked… I also recently got debit cards for many of these options and have been giving them more of a try. I'll blast social media when I have a but update to share!
+
+---
+
 ![Replacing Simple Bank]({{ page.image }})
 
 This sucks. [BBVA US is closing Simple](https://www.simple.com/blog/simple-is-closing), migrating away from the revolutionary site and app to the BBVA US yet-another-bank-app. I've been [talking about this](https://twitter.com/CassidyJames/status/1347299178158804992) a little bit on Twitter [off and on](https://twitter.com/CassidyJames/status/1347615632984928257), and have found a _ton_ of other folks—including [a Change.org petition](http://chng.it/KXNzmJPx)—facing the same dilemma: what now? What can possibly replace Simple? So here's my journey in looking for a replacement.
