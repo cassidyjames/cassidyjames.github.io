@@ -33,6 +33,7 @@ Links point to the Gift Hero item, so please **confirm the gift on Gift Hero** i
 
 Image | Link | Price | Notes
 ------|------|-------|------
+![Nova3](/images/nova3.png) | [BOOX Nova3](https://www.gifthero.com/items/0ea99e8e-920d-4d59-92fb-e914bf090efc) | **$339** | Nova3 with free accessories
 ![Oura](/images/oura.jpg) | [Oura Ring](https://www.gifthero.com/items/84483b16-a778-4c63-8de5-a40f62562c66) | **$299** | Heritage, Silver
 ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://www.gifthero.com/items/e5dcf442-dbc5-4a58-b6b4-2ba3d382ca37) | **$250** | Silver
 ![CLAW](/images/claw.png) | [Power Support CLAW for Stadia](https://www.gifthero.com/items/e7cf3708-e82d-4620-80c8-2e831608451f) | **$15** |
