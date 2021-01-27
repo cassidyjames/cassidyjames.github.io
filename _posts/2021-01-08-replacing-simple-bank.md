@@ -3,6 +3,13 @@ title: "Replacing Simple Bank"
 description: "Almost everyone else is still a decade behind the soon-to-close neobank"
 updated: 2021-01-12
 image: /images/blog/replacing-simple-bank/card.png
+hidden: true
+---
+
+---
+
+>**NOTE:** This article is being heavily reworked… I also recently got debit cards for many of these options and have been giving them more of a try. I'll blast social media when I have a but update to share!
+
 ---
 
 ![Replacing Simple Bank]({{ page.image }})
