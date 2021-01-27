@@ -3,11 +3,12 @@ redirect_from:
   - /shortlist
   - /shortlist/
 ---
+
 # Cassidy’s Wishlist
 
 This is my canonical birthday, Christmas, and any-other-time wish list. **It is up to date as of {{ site.time | date: '%B %-d, %Y' }}.**
 
-<details open="open" markdown="1">
+<details markdown="1">
 <summary markdown="1">
 ## Skip Amazon
 </summary>
