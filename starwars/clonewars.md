@@ -96,7 +96,7 @@ Season Four includes the Umbara arc which I just enjoy, and has… implications.
 
 🏅️ | Ep | Title              | Details
 -- | :- | :----              | :------
-🥇️ | 14 | A Friend in Need   | Ahsoka and Mandalorian-related, I think?
+🥇️ | 14 | A Friend in Need   | Badass Ahsoka, Mandalorians, Death Watch, Darksaber, introduces Bo-Katan
    | 19 | Massacre           | Back to Dathomir and the Nightsisters
    | 21 | Brothers           | Maul
    | 22 | Revenge            | Maul
