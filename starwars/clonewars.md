@@ -91,12 +91,12 @@ Season Four includes the Umbara arc which I just enjoy, and has… implications.
 🥉 | 10 | Carnage of Krell       | Concludes the Umbara arc
 🥈 | 12 | Slaves of the Republic | Anakin, Obi-Wan, and Ahsoka; I mostly just enjoy this arc
 🥈 | 13 | Escape from Kadavo     | Anakin, Obi-Wan, and Ahsoka; completes previous arc
+🥇️ | 14 | A Friend in Need   | Badass Ahsoka, Mandalorians, Death Watch, Darksaber, introduces Bo-Katan
 
 > **Note: this is as far as I am through my most recent watch-through! So anything after this point is based on other episode guides or just the episode descriptions plus my recollection.**
 
 🏅️ | Ep | Title              | Details
 -- | :- | :----              | :------
-🥇️ | 14 | A Friend in Need   | Badass Ahsoka, Mandalorians, Death Watch, Darksaber, introduces Bo-Katan
    | 19 | Massacre           | Back to Dathomir and the Nightsisters
    | 21 | Brothers           | Maul
    | 22 | Revenge            | Maul
