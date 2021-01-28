@@ -4,6 +4,11 @@ nav {
   }
 
   background-color: var(--secondary-accent-color);
+  background-image: linear-gradient(
+    120deg,
+    transparent,
+    var(--accent-color)
+  );
   color: var(--secondary-accent-contrast);
   display: flex;
   fill: var(--secondary-accent-contrast);

@@ -20,6 +20,14 @@ html.starwars {
       url('https://source.unsplash.com/uhjiu8FjnsQ');
   }
 
+  nav {
+    background-image: none;
+  }
+
+  h1 {
+    @extend %unset-text-gradient;
+  }
+
   // To fix nav overlapping with anchor linking
   h3 {
     margin-top: -48px;

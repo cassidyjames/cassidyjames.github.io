@@ -14,7 +14,13 @@ html.switch {
 
   font-family: 'Montserrat', Inter, sans-serif;
 
+  nav {
+    background-image: none;
+  }
+
   h1 {
+    @extend %unset-text-gradient;
+
     font-size: 3rem;
     font-weight: 700;
     letter-spacing: -0.05em;
