@@ -36,7 +36,6 @@ Image | Link | Price | Notes
 ------|------|-------|------
 ![Oura](/images/oura.jpg) | [Oura Ring](https://www.gifthero.com/items/84483b16-a778-4c63-8de5-a40f62562c66) | **$299** | Heritage, Silver
 ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://www.gifthero.com/items/e5dcf442-dbc5-4a58-b6b4-2ba3d382ca37) | **$250** | Silver
-![Blu-ray](/images/blu-ray.jpg) | [External USB Blu-ray Drive](https://www.gifthero.com/items/84712481-f632-45de-9f62-ce4c1ab65f3b) | **$99** |
 ![CLAW](/images/claw.png) | [Power Support CLAW for Stadia](https://www.gifthero.com/items/e7cf3708-e82d-4620-80c8-2e831608451f) | **$15** |
 
 ---
@@ -108,7 +107,7 @@ I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyja
 
 _A.k.a. you don't know what to get, so let me choose!_
 
-* [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) or [Nintendo eShop](https://www.nintendo.com/giftcards) for games 🎮
+* [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games 🎮
 * [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, books, and games 📱
 * Micro Center (only available in-store) for Raspberry Pi and gadget stuff 🤓
 * [GameStop/ThinkGeek](https://www.gamestop.com/gift-cards) for games and geek stuff 🎲
@@ -168,6 +167,7 @@ In no particular order at all.
   - Episode IX: The Rise of Skywalker
   - Solo: A Star Wars Story
 - Twenty-One Pilots
+  - Regional at Best
   - Trench
   - Twenty-One Pilots (self-titled)
 - Fall Out Boy
@@ -177,6 +177,8 @@ In no particular order at all.
   - From Under the Cork Tree
   - Save Rock and Roll
   - Folie á Deux
+  - Believers Never Die
+  - Believers Never Die (Vol. 2)
 - Panic! at the Disco
   - A Fever You Can't Sweat Out
   - Vices & Virtues
