@@ -5,7 +5,7 @@ updated: 2021-01-28
 image: /images/blog/replacing-simple-bank/card.png
 hidden: true
 
-redirect_from: /blog/replacing-simple-bank
+redirect_from: /blog/replacing-simple-bank/
 permalink: /blog/replacing-simple-bank/coming-soon/
 ---
 
