@@ -107,7 +107,7 @@ Season Four includes the Umbara arc which I just enjoy, and has… implications.
 🥈️ | 17 | Sabotage                   | Conflict between Jedi and Republic; Mistrust in Jedi; Ahsoka
 🥇️ | 18 | The Jedi Who Knew Too Much | Continues arc; Ahsoka; Tarkin; strong Republic → Empire vibes
 🥇️ | 19 | To Catch a Jedi            | Continues arc; Ahsoka; Ventress; Barriss
-🥇️ | 20 | The Wrong Jedi             | Continues arc; conflict between Jedi and Republic; major Ahsoka development
+🥇️ | 20 | The Wrong Jedi             | Concludes arc; major Ahsoka development; major Anakin development
 
 > **Note: this is as far as I am through my most recent watch-through! So anything after this point is based on other episode guides or just the episode descriptions plus my recollection.**
 
