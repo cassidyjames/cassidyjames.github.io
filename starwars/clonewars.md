@@ -91,24 +91,25 @@ Season Four includes the Umbara arc which I just enjoy, and has… implications.
 🥉 | 10 | Carnage of Krell       | Concludes the Umbara arc
 🥈 | 12 | Slaves of the Republic | Anakin, Obi-Wan, and Ahsoka; I mostly just enjoy this arc
 🥈 | 13 | Escape from Kadavo     | Anakin, Obi-Wan, and Ahsoka; completes previous arc
-🥇️ | 14 | A Friend in Need   | Badass Ahsoka, Mandalorians, Death Watch, Darksaber, introduces Bo-Katan
-
-> **Note: this is as far as I am through my most recent watch-through! So anything after this point is based on other episode guides or just the episode descriptions plus my recollection.**
-
-🏅️ | Ep | Title              | Details
--- | :- | :----              | :------
-   | 19 | Massacre           | Back to Dathomir and the Nightsisters
-   | 21 | Brothers           | Maul
-   | 22 | Revenge            | Maul
+🥇️ | 14 | A Friend in Need       | Badass Ahsoka, Mandalorians, Death Watch, Darksaber, introduces Bo-Katan
+   | 19 | Massacre               | Back to Dathomir and the Nightsisters
+   | 21 | Brothers               | Maul
+   | 22 | Revenge                | Maul
 
 ### Season Five
 
-🏅️ | Ep | Title              | Details
--- | :- | :----              | :------
-   | 1  | Revival            | Mandalorian
-   | 14 | Eminence           | Mandalorian
-   | 15 | Shades of Reason   | Mandalorian
-   | 16 | The Lawless        | Mandalorian
+🏅️ | Ep | Title                      | Details
+-- | :- | :----                      | :------
+   | 1  | Revival                    | Mandalorian
+   | 14 | Eminence                   | Mandalorian; Maul
+   | 15 | Shades of Reason           | Mandalorian; Maul
+🥇️ | 16 | The Lawless                | Mandalorian; Maul
+🥈️ | 17 | Sabotage                   | Conflict between Jedi and Republic; Mistrust in Jedi; Ahsoka
+🥇️ | 18 | The Jedi Who Knew Too Much | Continues arc; Ahsoka; Tarkin; strong Republic → Empire vibes
+🥇️ | 19 | To Catch a Jedi            | Continues arc; Ahsoka; Ventress; Barriss
+🥇️ | 20 | The Wrong Jedi             | Continues arc; conflict between Jedi and Republic; major Ahsoka development
+
+> **Note: this is as far as I am through my most recent watch-through! So anything after this point is based on other episode guides or just the episode descriptions plus my recollection.**
 
 ### Season Six **The Lost Missions**
 
