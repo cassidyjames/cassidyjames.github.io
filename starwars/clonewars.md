@@ -92,26 +92,43 @@ Season Four includes the Umbara arc which I just enjoy, and has… implications.
 🥈 | 12 | Slaves of the Republic | Anakin, Obi-Wan, and Ahsoka; I mostly just enjoy this arc
 🥈 | 13 | Escape from Kadavo     | Anakin, Obi-Wan, and Ahsoka; completes previous arc
 🥇️ | 14 | A Friend in Need       | Badass Ahsoka, Mandalorians, Death Watch, Darksaber, introduces Bo-Katan
-   | 19 | Massacre               | Back to Dathomir and the Nightsisters
-   | 21 | Brothers               | Maul
-   | 22 | Revenge                | Maul
+🥈️ | 19 | Massacre               | Back to Dathomir and the Nightsisters
+🥈️ | 21 | Brothers               | Maul
+🥈️ | 22 | Revenge                | Maul
 
 ### Season Five
 
 🏅️ | Ep | Title                      | Details
 -- | :- | :----                      | :------
-   | 1  | Revival                    | Mandalorian
-   | 14 | Eminence                   | Mandalorian; Maul
-   | 15 | Shades of Reason           | Mandalorian; Maul
+🥈️ | 1  | Revival                    | Maul; Mandalorian
+🥉️ | 2  | A War on Two Fronts        | Onderon arc; Saw Gerrera; Ahsoka
+🥉️ | 3  | Front Runners              | Continues Onderon arc; Saw Gerrera; Ahsoka
+🥉️ | 4  | The Soft War               | Continues Onderon arc; Saw Gerrera; Ahsoka
+🥉️ | 5  | Tipping Points             | Concludes Onderon arc; Saw Gerrera; Ahsoka
+🥈️ | 6  | The Gathering              | Jedi lightsaber stuff; Ilum (becomes Starkiller Base)
+🥉️ | 7  | A Test of Strength         | Continues arc
+🥉️ | 8  | Bound for Rescue           | Continues arc
+🥉️ | 9  | A Necessary Bond           | Concludes arc
+🥈️ | 14 | Eminence                   | Mandalorian; Maul
+🥈️ | 15 | Shades of Reason           | Mandalorian; Maul
 🥇️ | 16 | The Lawless                | Mandalorian; Maul
 🥈️ | 17 | Sabotage                   | Conflict between Jedi and Republic; Mistrust in Jedi; Ahsoka
 🥇️ | 18 | The Jedi Who Knew Too Much | Continues arc; Ahsoka; Tarkin; strong Republic → Empire vibes
 🥇️ | 19 | To Catch a Jedi            | Continues arc; Ahsoka; Ventress; Barriss
 🥇️ | 20 | The Wrong Jedi             | Concludes arc; major Ahsoka development; major Anakin development
 
-> **Note: this is as far as I am through my most recent watch-through! So anything after this point is based on other episode guides or just the episode descriptions plus my recollection.**
-
 ### Season Six **The Lost Missions**
+
+🏅️ | Ep | Title        | Details
+-- | :- | :----        | :------
+🥉️ | 1  | The Unknown  | Order 66
+🥉️ | 2  | Conspiracy   | Continues arc
+🥉️ | 3  | Fugitive     | Continues arc
+🥉️ | 4  | Orders       | Concludes arc
+🥉️ | 10 | The Lost One | Prequel loose ends
+🥉️ | 11 | Voices       | Yoda arc; mythology of the Force; Qui-Gon Jinn
+🥉️ | 12 | Destiny      | Continues Yoda arc; Star Wars gets weird; mythology of the Force
+🥉️ | 13 | Sacrifice    | Concludes Yoda arc; Sith lore
 
 ### Season Seven **The Final Season**
 
