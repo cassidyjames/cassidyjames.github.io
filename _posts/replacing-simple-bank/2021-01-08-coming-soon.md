@@ -1,16 +1,11 @@
 ---
-title: "Coming Soon: Replacing Simple Bank"
-description: "I’m working on something…"
-updated: 2021-01-28
+title: "There’s No Good Replacement for Simple"
+description: "Alternatives exist, but they’re all lacking in one or more critical ways"
+updated: 2021-02-11
 image: /images/blog/replacing-simple-bank/card.png
-hidden: true
 
-redirect_from: /blog/replacing-simple-bank/
-permalink: /blog/replacing-simple-bank/coming-soon/
+permalink: /blog/replacing-simple-bank/
+redirect_to: https://www.androidpolice.com/2021/02/11/theres-no-good-replacement-for-simple/
 ---
 
 ![Replacing Simple Bank]({{ page.image }})
-
-### Hold Tight!
-
-I'm working on something exciting as a revamp of this previous post; I am working as quickly as possible to get it done! Sorry about the mess.
