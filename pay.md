@@ -5,26 +5,26 @@ my way? Here you go.
 
 <h2>Cash App</h2>
 
-<a href="https://cash.app/$cassidyjames">{% include picture src="cash.png" alt="Cash App barcode" class="qr card" %}</a>
+<a href="https://cash.app/$cassidyjames">{% include picture src="cash.png" alt="Cash App barcode" class="qr" %}</a>
 
 [$cassidyjames](https://cash.app/$cassidyjames)
 
 
 <h2>GPay</h2>
 
-<a href="https://gpay.app.goo.gl/pay-X0DNnUye74a">{% include picture src="gpay.png" alt="GPay barcode" class="qr card" %}</a>
+<a href="https://gpay.app.goo.gl/pay-X0DNnUye74a">{% include picture src="gpay.png" alt="GPay barcode" class="qr" %}</a>
 
 [cassidy.james.blaede@gmail.com](https://gpay.app.goo.gl/pay-X0DNnUye74a) (or my phone number)
 
 <h2>Venmo</h2>
 
-<a href="https://venmo.com/cassidyjames">{% include picture src="venmo.png" alt="Venmo barcode" class="qr card" %}</a>
+<a href="https://venmo.com/cassidyjames">{% include picture src="venmo.png" alt="Venmo barcode" class="qr" %}</a>
 
 [@cassidyjames](https://venmo.com/cassidyjames)
 
 
 <h2>PayPal</h2>
 
-<a href="https://paypal.me/cassidyjames">{% include picture src="paypal.png" alt="PayPal barcode" class="qr card" %}</a>
+<a href="https://paypal.me/cassidyjames">{% include picture src="paypal.png" alt="PayPal barcode" class="qr" %}</a>
 
 [@cassidyjames](https://paypal.me/cassidyjames)

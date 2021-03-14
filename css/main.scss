@@ -194,6 +194,9 @@ table {
     inset 1px 0 rgba(white, 0.5),
     inset -1px 0 rgba(white, 0.5),
     0 0.125em 1em rgba(black, 0.125);
+  display: inline-block;
+  margin-bottom: 1em;
+  margin-top: 1em;
 
   > img {
     border-radius: 0.4em;
@@ -209,9 +212,8 @@ table {
 }
 
 .qr {
-  display: block;
-  margin-bottom: 1em;
-  margin-top: 1em;
+  @extend .card;
+
   max-width: 256px;
 
   img {
