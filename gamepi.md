@@ -4,7 +4,9 @@ layout: gamepi
 
 # GamePi
 
-{% include picture src="gamepi.jpg" alt="GamePi" class="card" %}
+{% include picture src="gamepi.jpg" alt="GamePi" class="card" style="max-width: calc(33.33% - 0.25em)" %}
+{% include picture src="gamepi-playing.jpg" alt="GamePi" class="card" style="max-width: calc(33.33% - 0.25em)" %}
+{% include picture src="gamepi-triple.jpg" alt="GamePi" class="card" style="max-width: calc(33.33% - 0.25em)" %}
 
 GamePi is a retro gaming console I assemble, based on [Raspberry Pi][raspi] and
 [RetroPie][retropie].
