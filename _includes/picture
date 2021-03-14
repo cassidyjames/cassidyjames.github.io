@@ -1,0 +1,9 @@
+{% capture output %}
+  {% assign src = include.src | replace: "/images/", "" %}
+  {% assign webp = src | replace: ".png", ".webp" | replace: ".jpg", ".webp" %}
+
+  <picture class="include {{ include.class }}" title="{{ include.alt }}" style="{{ include.style }}">
+    <source srcset="/images/{{ webp }}" type="image/webp">
+    <img src="/images/{{ src }}" alt="{{ include.alt }}" />
+  </picture>
+{% endcapture %}{{ output | strip_newlines | strip }}
