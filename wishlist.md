@@ -34,9 +34,9 @@ Links point to the Gift Hero item, so please **confirm the gift on Gift Hero** i
 
 Image | Link | Price | Notes
 ------|------|-------|------
-![Oura](/images/oura.jpg) | [Oura Ring](https://www.gifthero.com/items/84483b16-a778-4c63-8de5-a40f62562c66) | **$299** | Heritage, Silver
-![August](/images/august.png) | [August Wi-Fi Smart Lock](https://www.gifthero.com/items/e5dcf442-dbc5-4a58-b6b4-2ba3d382ca37) | **$250** | Silver
-![DualSense Charger](/images/dualsense-charger.png) | [DualSense Charging Station](https://direct.playstation.com/en-us/accessories/accessory/dualsense-charging-station.3005837) | **$30** | Any retailer is fine, but I'd like the official Sony PS5 one
+![Oura](/images/oura.webp) | [Oura Ring](https://www.gifthero.com/items/84483b16-a778-4c63-8de5-a40f62562c66) | **$299** | Heritage, Silver
+![August](/images/august.webp) | [August Wi-Fi Smart Lock](https://www.gifthero.com/items/e5dcf442-dbc5-4a58-b6b4-2ba3d382ca37) | **$250** | Silver
+![DualSense Charger](/images/dualsense-charger.webp) | [DualSense Charging Station](https://direct.playstation.com/en-us/accessories/accessory/dualsense-charging-station.3005837) | **$30** | Any retailer is fine, but I'd like the official Sony PS5 one
 
 ---
 
@@ -66,7 +66,7 @@ I like almost anything! Bright colors, unique designs, and interesting patterns 
 
 ### Blu-rays
 
-Yes, really! I have a Plex server, so a Blu-ray or of your favorite movie would be a welcome addition. Or even DVDs if it's older older content that's not available on Blu-ray, like classics.
+Yes, really! I have a Plex server, so a Blu-ray or of your favorite movie would be a welcome addition. Or even DVDs if it's older older
 
 ### Board/card/party games **$10–50**
 

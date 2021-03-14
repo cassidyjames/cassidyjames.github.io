@@ -4,6 +4,4 @@
   <span class="read-time" title="Estimated ({{ formatted_words | strip }} words at 200 words per minute)">
     {{ words | divided_by: 200 | plus: 1 }} min read
   </span>
-{% endcapture %}
-
-{{ output | strip_newlines | strip }}
+{% endcapture %}{{ output | strip_newlines | strip }}

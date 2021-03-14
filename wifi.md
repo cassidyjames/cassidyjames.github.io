@@ -34,9 +34,7 @@ If you need a password:
 1. **Read the terms** above. Seriously.
 2. If you agree to the terms, use the password `I agree to the terms!`, including the exclamation point. Alternatively, scan this QR code:
 
-<div style="margin: 1em auto;" class="qr card">
-  <img src="/images/wifi-qr.png" alt="Wi-Fi QR code" />
-</div>
+{% include picture src="wifi-qr.png" alt="Wi-Fi QR code" style="margin: 1em auto;" class="qr card" %}
 
 ## But… why?
 
