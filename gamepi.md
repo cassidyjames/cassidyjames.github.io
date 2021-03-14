@@ -4,7 +4,7 @@ layout: gamepi
 
 # GamePi
 
-![GamePi](/images/gamepi.jpg)
+{% include picture src="gamepi.jpg" alt="GamePi" class="card" %}
 
 GamePi is a retro gaming console I assemble, based on [Raspberry Pi][raspi] and
 [RetroPie][retropie].
