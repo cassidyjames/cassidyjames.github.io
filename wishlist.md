@@ -36,6 +36,7 @@ Image | Link | Price | Notes
 ------|------|-------|------
 ![Oura](/images/oura.jpg) | [Oura Ring](https://www.gifthero.com/items/84483b16-a778-4c63-8de5-a40f62562c66) | **$299** | Heritage, Silver
 ![August](/images/august.png) | [August Wi-Fi Smart Lock](https://www.gifthero.com/items/e5dcf442-dbc5-4a58-b6b4-2ba3d382ca37) | **$250** | Silver
+![DualSense Charger](/images/dualsense-charger.png) | [DualSense Charging Station](https://direct.playstation.com/en-us/accessories/accessory/dualsense-charging-station.3005837) | **$30** | Any retailer is fine, but I'd like the official Sony PS5 one
 
 ---
 
@@ -57,27 +58,19 @@ _A.k.a. stuff I always enjoy._
 
 I collect quality pins for my backpack—like ones with good backs, not the cheapo button ones—from cool causes, artists, and places. You can find some examples on my Gift Hero list, but I'm open to anything you think I'd like.
 
-### Watch bands/straps **$13–25**
-
-**18mm two-piece quick-release is required for my watch**
-
-I have a coral silicone strap, a white cordura strap, and a black and gray striped NATO strap, but I enjoy swapping out the watch bands on my Fossil Sport. It's the 18mm red model, so white, black, and red colors go well with it.
-
-[ClockWorkSynergy](https://www.clockworksynergy.com/){: onclick="plausible('Wishlist: ClockWorkSynergy');"} and [Barton Watch Bands](https://www.bartonwatchbands.com/){: onclick="plausible('Wishlist: Barton Watch Bands');"} are pretty affordable sources with lots of variety, but Fossil and others also sell watch bands/straps.
-
 ### Fun gauges/plugs **$5–20**
 
 **0g/8mm size**
 
 I like almost anything! Bright colors, unique designs, and interesting patterns are always good. I like [Arctic Buffalo](https://arcticbuffalo.com/collections/0g-8mm-filter){: onclick="plausible('Wishlist: Arctic Buffalo');"} and [So Scene](https://www.soscene.com/0-gauge-8mm/){: onclick="plausible('Wishlist: So Scene');"} since they're both pretty affordable with a lot of variety. Hot Topic also usually has a fun assortment.
 
+### Blu-rays
+
+Yes, really! I have a Plex server, so a Blu-ray or of your favorite movie would be a welcome addition. Or even DVDs if it's older older content that's not available on Blu-ray, like classics.
+
 ### Board/card/party games **$10–50**
 
 I love simple and fun games to play with friends.
-
-### Wall art **$???**
-
-I have a nice little desk space since I work from home, and I could use a couple more pieces of art. Currently I have a black/gold circuit board print and a red/blue robot print.
 
 ---
 
@@ -184,6 +177,6 @@ In no particular order at all.
   - Pretty. Odd.
 - Blue Neighborhood by Troye Sivan
 - Third Stage by Boston
-- FANDOM by Waterparks
+- Waterparks (any album)
 
 </details>
