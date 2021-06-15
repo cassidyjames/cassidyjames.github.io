@@ -36,7 +36,6 @@ Image | Link | Price | Notes
 ------|------|-------|------
 ![Oura](/images/oura.webp) | [Oura Ring](https://www.gifthero.com/items/84483b16-a778-4c63-8de5-a40f62562c66) | **$299** | Heritage, Silver
 ![August](/images/august.webp) | [August Wi-Fi Smart Lock](https://www.gifthero.com/items/e5dcf442-dbc5-4a58-b6b4-2ba3d382ca37) | **$250** | Silver
-![Ratchet & Clank](/images/ratchet-clank.webp) | [Ratchet & Clank: Rift Apart](https://www.gifthero.com/items/56d6fcd9-0dc6-480f-9ec3-57f38c70e03c) | **$70** | PS5 version; any retailer is fine
 ![Sackboy](/images/sackboy.webp) | [Sackboy: A Big Adventure](https://www.gifthero.com/items/7ff32538-4554-4b2c-a07f-39c8e845faa0) | **$60** | PS5 version; any retailer is fine
 ![DualSense Charger](/images/dualsense-charger.webp) | [DualSense Charging Station](https://www.gifthero.com/items/daf0cdc2-224a-42fc-bbf7-bd3a9db8db7c) | **$30** | Any retailer is fine, but I'd like the official Sony PS5 one
 
