@@ -6,6 +6,50 @@
 Sorry, it's all done client-side on a static page, so JS is needed. You can download the [Dippi app for elementary OS][appcenter] to perform the same calculations offline—no JavaScript necessary.
 </noscript>
 
+<div class="result">
+  <div id="invalid" class="hidden">
+    <h2>Analyze a Display</h2>
+    <p>For LoDPI, a DPI range of <b>90–150 is ideal for desktops</b> while <b>124–156 is ideal for laptops</b>.</p>
+    <p>For HiDPI, <b>180–300 is ideal for desktops</b> while <b>248–312 is ideal for laptops</b>.</p>
+  </div>
+  <div id="low" class="hidden">
+    <h2>Very Low DPI</h2>
+    <p>Text and UI are likely to be too big for typical viewing distances. <b>Avoid if possible.</b></p>
+  </div>
+  <div id="lodpi-low" class="hidden">
+    <h2>Fairly Low DPI</h2>
+    <p>Text and UI might be too big for typical viewing distances, but it's <b>largely up to user preference</b> and physical distance from the display.</p>
+  </div>
+  <div id="lodpi-ideal" class="hidden">
+    <h2>Ideal for LoDPI</h2>
+    <p>Not HiDPI, but <b>a nice sweet spot</b>. Text and UI should be legible at typical viewing distances.</p>
+  </div>
+  <div id="lodpi-high" class="hidden">
+    <h2>Potentially Problematic</h2>
+    <p>Relatively high resolution, but not quite HiDPI. Text and UI <b>may be too small by default</b>, but forcing HiDPI would make them appear too large. The experience may be slightly improved by increasing the text size.</p>
+  </div>
+  <div id="hidpi-low" class="hidden">
+    <h2>Potentially Problematic</h2>
+    <p>HiDPI by default, but <b>text and UI may appear too large</b>. Turning off HiDPI and increasing the text size might help.</p>
+  </div>
+  <div id="hidpi-ideal" class="hidden">
+    <h2>Ideal for HiDPI</h2>
+    <p>Crisp HiDPI text and UI along with a readable size at typical viewing distances. <b>This is the jackpot.</b></p>
+  </div>
+  <div id="hidpi-high" class="hidden">
+    <h2>Fairly High for HiDPI</h2>
+    <p>Text and UI are likely to appear <b>too small for typical viewing distances</b>. Increasing the text size may help.</p>
+  </div>
+  <div id="high" class="hidden">
+    <h2>Too High DPI</h2>
+    <p>Text and UI will appear <b>too small for typical viewing distances</b>.</p>
+  </div>
+  <div id="unclear" class="hidden">
+    <h2>Potentially Problematic</h2>
+    <p>This display is in a very tricky range and is <b>not likely to work well</b> with integer scaling out of the box.</p>
+  </div>
+</div>
+
 <form action="/dippi" method="GET">
   <label class="row" for="diag">
     <span>Diagonal size:</span>
@@ -28,14 +72,6 @@ Sorry, it's all done client-side on a static page, so JS is needed. You can down
   </div>
   <input type="submit" value="Calculate" />
 </form>
-
-<div class="result">
-  <div id="invalid">
-    <h2>Analyze a Display</h2>
-    <p>For LoDPI, a DPI range of <b>90–150 is ideal for desktops</b> while <b>124–156 is ideal for laptops</b>.<p>
-    <p>For HiDPI, <b>180–300 is ideal for desktops</b> while <b>248–312 is ideal for laptops</b>.</p>
-  </div>
-</div>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
@@ -78,66 +114,64 @@ Sorry, it's all done client-side on a static page, so JS is needed. You can down
     }
 
     /* Do the math */
-    if (inches && width && height && type) {
-      let idealDpi = INTERNAL_IDEAL_DPI;
-      let idealRange = INTERNAL_IDEAL_RANGE;
-      let unclearRange = INTERNAL_UNCLEAR_RANGE;
+    let idealDpi = INTERNAL_IDEAL_DPI;
+    let idealRange = INTERNAL_IDEAL_RANGE;
+    let unclearRange = INTERNAL_UNCLEAR_RANGE;
 
-      if (type == "d") {
-        idealDpi = EXTERNAL_IDEAL_DPI;
-        idealRange = EXTERNAL_IDEAL_RANGE;
-        unclearRange = EXTERNAL_UNCLEAR_RANGE;
-      }
+    if (type == "d") {
+      idealDpi = EXTERNAL_IDEAL_DPI;
+      idealRange = EXTERNAL_IDEAL_RANGE;
+      unclearRange = EXTERNAL_UNCLEAR_RANGE;
+    }
 
-      let calculatedDpi = dpi(inches, width, height);
+    let calculatedDpi = dpi(inches, width, height);
 
-      if ( inches == 0 || width == 0 || height == 0 ) {
-        console.log("invalid");
-      }
+    if ( !inches || !width || !height ) {
+      document.getElementById("invalid").classList.remove("hidden");
+    }
 
-      else if (calculatedDpi < idealDpi - idealRange - INTERNAL_UNCLEAR_RANGE) {
-        console.log("low");
-      }
+    else if (calculatedDpi < idealDpi - idealRange - INTERNAL_UNCLEAR_RANGE) {
+      document.getElementById("low").classList.remove("hidden");
+    }
 
-      else if (calculatedDpi < idealDpi - idealRange) {
-        console.log("lodpi-low");
-      }
+    else if (calculatedDpi < idealDpi - idealRange) {
+      document.getElementById("lodpi-low").classList.remove("hidden");
+    }
 
-      else if (calculatedDpi <= idealDpi + idealRange) {
-        console.log("lodpi-ideal");
-      }
+    else if (calculatedDpi <= idealDpi + idealRange) {
+      document.getElementById("lodpi-ideal").classList.remove("hidden");
+    }
 
-      else if (calculatedDpi <= idealDpi + idealRange + unclearRange) {
-        console.log("lodpi-high");
-      }
+    else if (calculatedDpi <= idealDpi + idealRange + unclearRange) {
+      document.getElementById("lodpi-high").classList.remove("hidden");
+    }
 
-      else if (calculatedDpi < DPI_INFER_HIDPI) {
-        console.log("unclear");
-      }
+    else if (calculatedDpi < DPI_INFER_HIDPI) {
+      document.getElementById("unclear").classList.remove("hidden");
+    }
 
-      else if (calculatedDpi < (idealDpi - idealRange - unclearRange) * 2) {
-        console.log("unclear");
-      }
+    else if (calculatedDpi < (idealDpi - idealRange - unclearRange) * 2) {
+      document.getElementById("unclear").classList.remove("hidden");
+    }
 
-      else if (calculatedDpi < (idealDpi - idealRange) * 2) {
-        console.log("hidpi-low");
-      }
+    else if (calculatedDpi < (idealDpi - idealRange) * 2) {
+      document.getElementById("hidpi-low").classList.remove("hidden");
+    }
 
-      else if (calculatedDpi <= (idealDpi + idealRange) * 2) {
-        console.log("hidpi-ideal");
-      }
+    else if (calculatedDpi <= (idealDpi + idealRange) * 2) {
+      document.getElementById("hidpi-ideal").classList.remove("hidden");
+    }
 
-      else if (calculatedDpi <= (idealDpi + idealRange + unclearRange) * 2) {
-        console.log("hidpi-high");
-      }
+    else if (calculatedDpi <= (idealDpi + idealRange + unclearRange) * 2) {
+      document.getElementById("hidpi-high").classList.remove("hidden");
+    }
 
-      else if (calculatedDpi > (idealDpi + idealRange + unclearRange) * 2) {
-        console.log("high");
-      }
+    else if (calculatedDpi > (idealDpi + idealRange + unclearRange) * 2) {
+      document.getElementById("high").classList.remove("hidden");
+    }
 
-      else {
-        console.log("invalid");
-      }
+    else {
+      document.getElementById("invalid").classList.remove("hidden");
     }
 
     function dpi(inches, width, height) {
@@ -152,6 +186,10 @@ Sorry, it's all done client-side on a static page, so JS is needed. You can down
 </script>
 
 <style>
+  .hidden {
+    display: none;
+  }
+
   form {
     display: inline-block;
     margin: 1em 0;
