@@ -73,6 +73,17 @@ Sorry, it's all done client-side on a static page, so JS is needed. You can down
   <input type="submit" value="Calculate" />
 </form>
 
+<div class="appcenter" markdown="1">
+## Get it on AppCenter
+
+Dippi is primarily a native app designed for elementary OS. [Get it on AppCenter][appcenter] to calculate display info any time, online or off. It has extra features like logical resolution, scaling factor, aspect ratio, live calculation, and a nice diagram to help you out.
+
+<div style="text-align: center" markdown="1">
+[![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)][appcenter]
+</div>
+
+</div>
+
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     const DEFAULT_ASPECT_WIDTH = 16;
@@ -233,6 +244,10 @@ Sorry, it's all done client-side on a static page, so JS is needed. You can down
 
   input[type="submit"] {
     float: right;
+  }
+
+  a img {
+    display: inline-block;
   }
 </style>
 
