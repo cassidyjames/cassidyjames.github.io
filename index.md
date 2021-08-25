@@ -45,13 +45,10 @@ I **write things** on the internet about tech, OSes and what I'm up to. I usuall
 
 I play **games** when I can find the time. Usually on Stadia or PS4, but occasionally on Switch, Steam, Android, and my GamePi.
 
-<a href="/stadia" class="read-more stadia"><i class="fa fa-fw fa-stadia"></i>Add on Stadia</a>
-
-<a href="http://psnprofiles.com/blaede22" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
+<a href="http://psnprofiles.com/ahoneybun" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
 
 <a href="/switch" class="read-more switch"><i class="fab fa-fw fa-nintendo-switch"></i>Add on Nintendo Switch</a>
 
 <a href="http://steamcommunity.com/id/{{ site.steam }}/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
 
-<a href="/gamepi" class="read-more gamepi"><i class="fa fa-fw fa-gamepad"></i>Learn about GamePi</a>
 </section>
