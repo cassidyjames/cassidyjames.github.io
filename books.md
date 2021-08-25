@@ -3,7 +3,11 @@
 
 <h2>Linux Desktop</h2>
 
-<a href="https://www.amazon.com/Official-Ubuntu-Book-Matthew-Helmke-ebook/dp/B01IFCKT96">The Official Ubuntu Book</a>
+<a href="https://www.amazon.com/Official-Ubuntu-Book-Matthew-Helmke-ebook/dp/B01IFCKT96">The Official Ubuntu Book [Amazon]</a>
+
+<a href="https://www.barnesandnoble.com/w/the-official-ubuntu-book-matthew-helmke/1124175070">The Official Ubuntu Book [Barnes & Noble]</a>
+
+<a href="https://www.oreilly.com/library/view/the-official-ubuntu/9780134512501/">The Official Ubuntu Book [O'Reilly]</a>
 
 <h2>Linux Server</h2>
 
