@@ -2,9 +2,9 @@
 
 ## Desktop 
 
-- 34" 3440x1440 Alienware UltraWide display
+- [34" 3440x1440 Alienware UltraWide display](https://www.newegg.com/p/N82E16824260555)
 - Custom Desktop [Pop!_OS 21.04]
-    - AMD CPU
+    - AMD Ryzen 7 2700X
     - 32GB DDR4 3200MHz
     - AMD RX 580 8GB Model
 
