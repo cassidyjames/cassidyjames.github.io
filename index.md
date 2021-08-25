@@ -6,7 +6,7 @@ title: Aaron Honeycutt
 
 # Aaron Honeycutt
 
-I'm a **Happiness Engineer** who works at @system76.
+I'm a **Happiness Engineer** who works at [system76](https://system76.com/).
 
 <section class="code card" markdown="1">
 ## Code & Collaboration
