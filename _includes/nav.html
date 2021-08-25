@@ -3,9 +3,9 @@
   <a href="/" {% if current[1] == null %}class='current'{% endif %} title="Home"><img class="avatar" alt="Aaron Honeycutt" src="https://www.gravatar.com/avatar/{{ site.gravatar }}?s=240&d=blank" /></a>
 
   <a href="/blog" {% if current[1] == 'blog' %}class='current'{% endif %}>Blog</a>
-  <a href="/wishlist" {% if current[1] == 'wishlist' %}class='current'{% endif %}>Wishlist</a>
-  <a href="/pay" {% if current[1] == 'pay' %}class='current'{% endif %}>Pay</a>
   <a href="/books" {% if current[1] == 'books' %}class='current'{% endif %}>Books</a>
+  <a href="/pay" {% if current[1] == 'pay' %}class='current'{% endif %}>Pay</a>
+  <a href="/wishlist" {% if current[1] == 'wishlist' %}class='current'{% endif %}>Wishlist</a>
 
   {% if current[1] == 'stadia' %}<a href="/stadia" class='current'>Stadia</a>{% endif %}
   {% if current[1] == 'switch' %}<a href="/switch" class='current'>Switch</a>{% endif %}
