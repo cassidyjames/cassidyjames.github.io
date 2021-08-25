@@ -3,7 +3,10 @@
 ## Desktop 
 
 - 34" 3440x1440 Alienware UltraWide display
-- Custom Desktop
+- Custom Desktop [Pop!_OS 21.04]
+    - AMD CPU
+    - 32GB DDR4 3200MHz
+    - AMD RX 580 8GB Model
 
 ## Laptop
 

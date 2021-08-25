@@ -52,3 +52,5 @@ I play **games** when I can find the time. Usually on Stadia or PS4, but occasio
 <a href="http://steamcommunity.com/id/{{ site.steam }}/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
 
 </section>
+
+This website is hosted on [Linode]() and you can make your own using my [referral code](https://www.linode.com/?r=50012cb9448276b69b3d757fdf5aa3d4ad320064).
