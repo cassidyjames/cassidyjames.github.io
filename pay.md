@@ -1,30 +1,18 @@
-# Pay Cassidy
+# Pay Aaron
 
 Want to buy me a drink, pay me back for something, help fund my apps, or otherwise just throw money
 my way? Here you go.
 
 <h2>Cash App</h2>
 
-<a href="https://cash.app/$cassidyjames">{% include picture src="cash.png" alt="Cash App barcode" class="qr" %}</a>
+<a href="https://cash.app/$athoneycutt">{% include picture src="cash.png" alt="Cash App barcode" class="qr" %}</a>
 
-[$cassidyjames](https://cash.app/$cassidyjames)
+[$athoneycutt](https://cash.app/$athoneycutt)
 
 
 <h2>GPay</h2>
 
-<a href="https://gpay.app.goo.gl/pay-X0DNnUye74a">{% include picture src="gpay.png" alt="GPay barcode" class="qr" %}</a>
+<a href="https://gpay.app.goo.gl/pay-K5VVOx2p9Le">{% include picture src="gpay.png" alt="GPay barcode" class="qr" %}</a>
 
-[cassidy.james.blaede@gmail.com](https://gpay.app.goo.gl/pay-X0DNnUye74a) (or my phone number)
+[honeycuttaaron3@gmail.com](https://gpay.app.goo.gl/pay-X0DNnUye74a) (or my phone number)
 
-<h2>Venmo</h2>
-
-<a href="https://venmo.com/cassidyjames">{% include picture src="venmo.png" alt="Venmo barcode" class="qr" %}</a>
-
-[@cassidyjames](https://venmo.com/cassidyjames)
-
-
-<h2>PayPal</h2>
-
-<a href="https://paypal.me/cassidyjames">{% include picture src="paypal.png" alt="PayPal barcode" class="qr" %}</a>
-
-[@cassidyjames](https://paypal.me/cassidyjames)
