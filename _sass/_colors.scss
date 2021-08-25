@@ -3,8 +3,8 @@
   --neutral: #333;
   --faint: #f3f3f3;
 
-  --primary-color: #452981; // Light style text
-  --accent-color: #c6262e; // Headings
+  --primary-color: #002e99; // Light style text
+  --accent-color: #0d52bf; // Headings
   --secondary-accent-color: var(--primary-color); // Header, footer
   --secondary-accent-contrast: var(--background-color);
 
@@ -48,17 +48,17 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: #{ mix(#452981, black, 50%) };
-    --neutral: #{ mix(#e4c6fa, white, 25%) };
-    --faint:  #{ mix(#452981, black, 75%) };
+    --background-color: black;
+    --neutral: #{ mix(#8cd5ff, white, 25%) };
+    --faint: #0e141f;
 
     --stadia: #ff773d;
     --stadia-bg: #202124;
     --stadia-fg: white;
 
     --primary-color: var(--neutral);
-    --accent-color: #{ mix(#ed5353, #ff8c82) };
-    --secondary-accent-color: #452981;
+    --accent-color: #3689e6;
+    --secondary-accent-color: #002e99;
     --secondary-accent-contrast: var(--neutral);
   }
 }
