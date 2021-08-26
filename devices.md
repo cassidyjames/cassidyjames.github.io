@@ -14,7 +14,8 @@
 ## Laptop
 
 - System76 Galago Pro (galp3-b) [Arch Linux GNOME]
-    - Intel i5 8th Gen
+    - Intel i5-8250U
+    - 16GB DDR4 2400MHz
     - 500GB (Main OS)
     - 250GB (Testing OS)
 
