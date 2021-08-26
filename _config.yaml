@@ -34,11 +34,6 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "products"
-    values:
-      layout: "product"
-  - scope:
-      path: ""
       type: "posts"
     values:
       layout: "post"
