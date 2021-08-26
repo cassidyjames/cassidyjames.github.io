@@ -38,6 +38,8 @@ I **write things** on the internet about tech, OSes and what I'm up to. I usuall
 <section class="photography card" markdown="1">
 ## Photography
 
+<a rel="me" href="{{ site.pixelfed }}" class="read-more pixelfed"><i class="fas fa-fw fa-camera-retro"></i>View photos on PixelFed</a>
+
 </section>
 
 <section class="gaming card" markdown="1">
