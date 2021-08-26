@@ -18,6 +18,14 @@ Instead of giving to me directly, you can always give to one of these causes. Iâ
 
 >Helping create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use.
 
+### [elementary OS](https://elementary.io/get-involved#funding) 
+
+>Creating an open source and beautiful OS replacement for Windows and macOS. 
+
+### [Arch Linux](https://archlinux.org/donate/)
+
+>A lightweight and flexible LinuxÂ® distribution that tries to Keep It Simple.
+
 ## [Girls Who Code](https://girlswhocode.com/){: onclick="plausible('Wishlist: Girls Who Code');"}
 
 >Closing the gender gap in tech, one girl at a time.
