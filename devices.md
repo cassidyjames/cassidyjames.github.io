@@ -13,7 +13,7 @@
 
 ## Laptop
 
-- System76 Galago Pro (galp3-b) [Arch Linux GNOME]
+- [System76 Galago Pro](https://system76.com/laptops/galago) (galp3-b) [Arch Linux GNOME] 
     - Intel i5-8250U
     - 16GB DDR4 2400MHz
     - 500GB (Main OS)
@@ -21,6 +21,6 @@
 
 ## Mobile
 
-- Google Pixel 4 (T-Mobile) [Running Android 12 Beta]
-- PinePhone [postmarket OS Edition 3GB]
-- PineTime
+- [Google Pixel 4](https://www.gsmarena.com/google_pixel_4-9896.php) (T-Mobile) [Running Android 12 Beta]
+- [PinePhone](https://pine64.com/product-category/pinephone/) [postmarket OS Edition 3GB]
+- [PineTime](https://pine64.com/product-category/pinetime-smartwatch/)
