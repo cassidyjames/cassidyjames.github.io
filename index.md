@@ -55,4 +55,4 @@ I play **games** when I can find the time. Usually on Stadia or PS4, but occasio
 
 </section>
 
-This website is hosted on [Linode]() and you can make your own using my [referral code](https://www.linode.com/?r=50012cb9448276b69b3d757fdf5aa3d4ad320064).
+This website is hosted on [Linode](https://www.linode.com/) and you can make your own using my [referral code](https://www.linode.com/?r=50012cb9448276b69b3d757fdf5aa3d4ad320064).
