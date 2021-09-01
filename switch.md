@@ -1,5 +1,6 @@
 ---
 description: Since Nintendo doesn’t seem to understand how online services work, here’s my friend code
+theme-color: "#e60012"
 ---
 
 # Nintendo Switch
