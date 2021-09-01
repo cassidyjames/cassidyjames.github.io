@@ -1,6 +1,7 @@
 html.destiny {
-  --background-color: #{ mix(#fafafa, #95a3ab, 67%) };
-  --accent-color: #273445;
+  --background-color: #{ mix(#fafafa, #95a3ab, 75%) };
+  --accent-color: #0e141f;
+  --primary-color: #273445;
   --secondary-accent-color: var(--primary-color); // Header, footer
   --secondary-accent-contrast: var(--background-color);
 
@@ -14,9 +15,15 @@ html.destiny {
 
   h1 {
     color: inherit;
+    display: block;
     font-weight: 100;
-    letter-spacing: 0.5em;
+    letter-spacing: 0.4em;
+    margin: 0 auto 0.5em;
     text-align: center;
     text-transform: uppercase;
+
+    @media (max-width: 600px) {
+      font-size: 11vw;
+    }
   }
 }
