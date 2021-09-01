@@ -1,3 +1,7 @@
+---
+theme-color: "#de3334"
+---
+
 # Stadia
 
 I'm <a href="https://stadia.google.com/profile/4101661881179489453" class="profile">cassidyjames<span class="hash">#6270</span></a> on [Stadia], the free gaming service from Google. You buy your games and play them in up to 1080p anywhere on your phone, tablet, computer, or TV—with the controller you already have, or with the new Stadia controller.
