@@ -342,3 +342,12 @@ aside.disclaimer {
     }
   }
 }
+.profile {
+  color: inherit;
+  font-weight: bold;
+
+  .hash {
+    @extend .dim;
+    font-weight: normal;
+  }
+}
