@@ -1,3 +1,7 @@
+---
+theme-color: "#0e141f"
+---
+
 # Destiny
 
 I frequently play Destiny 2—mostly on PlayStation but occasionally on Stadia.
