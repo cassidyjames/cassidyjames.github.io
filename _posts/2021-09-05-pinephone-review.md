@@ -1,6 +1,6 @@
 ---
 title: Review of the PinePhone (postmarketOS 3GB version)
-description: My review of the PineTime
+description: Kinda of a current state article of the device as well
 updated: 2021-09-10
 ---
 
