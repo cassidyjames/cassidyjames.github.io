@@ -55,7 +55,7 @@ I took the screenshots in this post using `grim` like this `sleep 5; grim` this 
         - [Gtkeddit (Gtk4 and libadwaita)](https://gitlab.com/caveman250/Gtkeddit) [2]
         - [Giara (Gtk3 and libhandy)](https://gitlab.gnome.org/World/giara) [2]
     - Twitter client
-        -  Cawbird (Twitter client) [2]
+        - [Cawbird (Gtk3)](https://github.com/IBBoard/cawbird) [2]
 - Music
     - Spotify
         - [Spot (Gtk4 and libadwaita)](https://github.com/xou816/spot)[3]
