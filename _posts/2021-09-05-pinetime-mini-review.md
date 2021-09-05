@@ -34,10 +34,10 @@ I think one of the biggest missing features is weather information but I'm not s
 
 I've had the watch for a few weeks now and it came with 1.2.0 which was behind the 1.3.0 update. I updated to the 1.3.0 update then the 1.4.0 update which came out a few days ago which no issues at all! I had an odd issue connecting to a bluetooth connection issue where I couldn't connect the watch so I restarted it (holding the one button on the device) it would roll back to the original 1.2.0 firmware. [TrigoBruno])(https://twitter.com/TrigoBruno) told me that I should validate the firmware (Settings -> Firmware) which does seem to have correct the issue! 
 
-#### Issues
+## Issues
 
 So far the only issue I've had with the watch is that I can't seem to keep a connection with my Pixel 4 (running Android 12 Beta). I'm not sure if it is connected to the Android Beta, [Gadgetbridge via F-Droid](https://codeberg.org/Freeyourgadget/Gadgetbridge/), or InfiniTime but firmware 1.4.0 does seem to keep the connection longer then 1.2.0 or 1.3.0. Once this is fixed or I'm able to reconnect the watch ever time this will be the best replacement that I have found for the Pebble for my needs. 
 
 ## Should you get this?
 
-If your needs in a Smart Watch match with mine and you can deal with the bluetooth disconnects then I would say YES! For Android users you will need to install F-Droid if you haven't already to install the Android companion application Gadgetbridge. If you do get the watch be sure to throw money at the [developer of InfiniTime ](https://liberapay.com/JF002) to support their awesome work!
+If your needs in a Smart Watch match with mine and you can deal with the bluetooth disconnects then I would say *YES!* For Android users you will need to install F-Droid if you haven't already to install the Android companion application Gadgetbridge. If you do get the watch be sure to throw money at the [developer of InfiniTime ](https://liberapay.com/JF002) to support their awesome work!
