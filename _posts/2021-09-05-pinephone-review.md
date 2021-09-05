@@ -65,6 +65,8 @@ I took the screenshots in this post using `grim` like this `sleep 5; grim` this 
 
 <img src="/images/{{ page.url }}/Gtkeddit-Working.png" alt="drawing" width="200"/>
 
+Gtkeddit working with my personal Reddit account.
+
 | Setup 1 | Setup 2 | Setup 3b | 
 | ------- | ------- | -------- | 
 | ![Cawbird Setup 1](/images/{{ page.url }}/Cawbird-Setup1.png) | ![Cawbird Setup 2](/images/{{ page.url }}/Cawbird-Setup2.png) | ![Cawbird Setup 3b](/images/{{ page.url }}/Cawbird-Setup3b.png) |
@@ -73,6 +75,8 @@ I took the screenshots in this post using `grim` like this `sleep 5; grim` this 
 | ------- | ------- | 
 | ![Cawbird Setup 2](/images/{{ page.url }}/Cawbird-Setup4.png) | ![Cawbird Working](/images/{{ page.url }}/Cawbird-Working.png) |
 
+Cawbird working with my personal Twitter account.
+
 [3] Open a window on the device to sign into the service that it is providing.
 
 ### Almost There Features
@@ -80,20 +84,27 @@ I took the screenshots in this post using `grim` like this `sleep 5; grim` this 
 - Social Media applications
     - Tootle (Mastodon client) [1]
 
+<img src="/images/{{ page.url }}/Tootle-Not_Working.png" alt="drawing" width="200"/>
+
+As you can see the window doesn't fit the screen size so you can't click the button once you enter the server's URL.
+
 [1] Application doesn't work well on this device's screen to allow me to sign in without using a different device with a larger screen.
 
 ### Missing Features
 
 - Navigation [1]
 - Slack [2]
+- File Management [3]
 
 [1] There is recent work on fixing GPS issues but I haven't found a good application to use [OpenStreetMap](openstreetmap.org/) since GNOME Maps doesn't fit the device screen correctly yet.
 
 <img src="/images/{{ page.url }}/GNOME-Maps-Not_Working.png" alt="drawing" width="200"/>
 
-<figcaption>You can see that GPS is not working since it believes I am in Oregon not Colorado.</figcaption>
+You can see that GPS is not working since it believes I am in Oregon not Colorado.
 
 [2] There is a Flatpak version of Slack and it is in the [AUR](https://aur.archlinux.org/packages/slack-desktop/) though neither have an aarch64 build to install on the PinePhone.
+
+[3] The Portfolio application does this very well though when you connect the phone to a computer it doesn't show up in the File Manager so you can't just copy and paste files between the devices which is why I used `scp` to get the screenshots for this blog.
 
 ## Issues
 
