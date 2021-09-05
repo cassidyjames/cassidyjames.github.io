@@ -6,9 +6,7 @@ redirect_from:
 
 # Causes
 
-_A.k.a. do good on my behalf!_
-
-Instead of giving to me directly, you can always give to one of these causes. I’m passionate about each one and they all could use monetary support.
+I’m passionate about each of these projects and they all could use monetary support.
 
 ## [Electronic Frontier Foundation](https://www.eff.org/){: onclick="plausible('Wishlist: EFF');"}
 

@@ -12,11 +12,11 @@ birthday: '1992-12-31 00:08:00 -0600'
 # Site-wide social info
 donate: https://ahoneycutt.me/pay
 email: aaronhoneycutt@pm.me
-github_user: ahoneycutt # user with no @
+github_user: ahoneybun # user with no @
 gravatar: a112b4952ec7f583808683b2b289d2be # Gravatar md5 hash
 instagram:  # user with no @
 pixelfed: "https://pixelfed.social/ahoneybun" # whole URL since it's federated
-mastodon: "https://fosstodon.org/web/accounts/194490" # whole URL since it's federated
+mastodon: "https://fosstodon.org/@fishfulpenguin" # whole URL since it's federated
 steam: ahoneybun # user/alias, no @
 twitter: "@fishfulpenguin" # user including @
 
@@ -32,11 +32,6 @@ collections:
     permalink: /store/:path
 
 defaults:
-  - scope:
-      path: ""
-      type: "products"
-    values:
-      layout: "product"
   - scope:
       path: ""
       type: "posts"

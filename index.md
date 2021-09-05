@@ -38,6 +38,8 @@ I **write things** on the internet about tech, OSes and what I'm up to. I usuall
 <section class="photography card" markdown="1">
 ## Photography
 
+<a rel="me" href="{{ site.pixelfed }}" class="read-more pixelfed"><i class="fas fa-fw fa-camera-retro"></i>View photos on PixelFed</a>
+
 </section>
 
 <section class="gaming card" markdown="1">
@@ -52,3 +54,5 @@ I play **games** when I can find the time. Usually on Stadia or PS4, but occasio
 <a href="http://steamcommunity.com/id/{{ site.steam }}/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
 
 </section>
+
+This website is hosted on [Linode](https://www.linode.com/) and you can make your own using my [referral code](https://www.linode.com/?r=50012cb9448276b69b3d757fdf5aa3d4ad320064).
