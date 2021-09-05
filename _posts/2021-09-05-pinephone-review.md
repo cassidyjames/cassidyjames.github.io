@@ -19,6 +19,7 @@ updated: 2021-09-10
     - YouTube
     - Search terms
 - Taking photos and videos
+- Listing to music using Spotify
 
 ### What it needs
 
@@ -29,9 +30,33 @@ updated: 2021-09-10
 - Open Source (big big bonus!)
 - Linux kernel (won't have to worry about updates as long as the community works on it)
 - USB Type-C (with video out)
+- Siglo (native PineTime client)
+
+### Fully Working Features
+
+- Calls
+- Texts
+- Messsaging
+    - Telegram
+- Reddit clients
+    - [Giara (Gtk3 and libhandy based)](https://gitlab.gnome.org/World/giara) [1]
+    - [Giara (Gtk3 and libhandy based)](https://gitlab.gnome.org/World/giara) [2]
+
+[1] [2] These clients opens a Firefox window to login using the official Reddit site and allows the application to access your account. This works really well! 
+
+### Almost There Features
+
+- Social Media applications
+    - Tootle (Mastodon client) [1]
+    - Cawbird (Twitter client) [2]
+
+[1] [2] Neither application work well on this device's screen to allow me to sign in without using a different device with a larger screen.
 
 ### Missing Feature
 
 - Navigation [1]
+- Slack [2]
 
 [1] There is recent work on fixing GPS issues but I haven't found a good application to use [OpenStreetMap](openstreetmap.org/) since GNOME Maps doesn't fit the device screen correctly yet.
+
+[2] There is a Flatpak version of Slack and it is in the [AUR](https://aur.archlinux.org/packages/slack-desktop/) though neither have an aarch64 build to install on the PinePhone.
