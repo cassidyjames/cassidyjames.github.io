@@ -12,7 +12,7 @@ updated: 2021-09-05
 - Don't need to act on them (seems to be a trend on every Smart Watch but the Pebble)
 - Connect to Android (but I don't need more then 1 application to pair and use the watch)
 
-So far the PineTime (running [InfiniTime](https://github.com/JF002/)) does that and even more with the following...:
+So far the PineTime (running [InfiniTime](https://github.com/JF002/)) does that and even more with the following:
 
 ### Bonus Features
 
@@ -36,4 +36,8 @@ I've had the watch for a few weeks now and it came with 1.2.0 which was behind t
 
 #### Issues
 
-So far the only issue I've had with the watch is that I can't seem to keep a connection with my Pixel 4 (running Android 12 Beta). I'm not sure if it is connected to the Android Beta or [Gadgetbridge via F-Droid](https://codeberg.org/Freeyourgadget/Gadgetbridge/) not but firmware 1.4.0 does seem to keep the connection longer then 1.2.0 or 1.3.0. Once this is fixed or I'm able to reconnect the watch ever time this will be the best replacement that I have found for the Pebble for my needs. 
+So far the only issue I've had with the watch is that I can't seem to keep a connection with my Pixel 4 (running Android 12 Beta). I'm not sure if it is connected to the Android Beta, [Gadgetbridge via F-Droid](https://codeberg.org/Freeyourgadget/Gadgetbridge/), or InfiniTime but firmware 1.4.0 does seem to keep the connection longer then 1.2.0 or 1.3.0. Once this is fixed or I'm able to reconnect the watch ever time this will be the best replacement that I have found for the Pebble for my needs. 
+
+## Should you get this?
+
+If your needs in a Smart Watch match with mine and you can deal with the bluetooth disconnects then I would say YES! For Android users you will need to install F-Droid if you haven't already to install the Android companion application Gadgetbridge. If you do get the watch be sure to throw money at the [developer of InfiniTime ](https://liberapay.com/JF002) to support their awesome work!
