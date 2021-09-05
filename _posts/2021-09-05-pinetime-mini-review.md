@@ -4,7 +4,7 @@ description: My brief review of the PineTime
 updated: 2021-09-05
 ---
 
-*NOTE:* I've had the PineTime for about 2 weeks or so which means take this review lightly. If you have any questions please do reach out to me on Twitter!
+> *NOTE:* I've had the PineTime for about 2 weeks or so which means take this review lightly. If you have any questions please do reach out to me on Twitter!
 
 ## What I want in a Smart Watch
 
