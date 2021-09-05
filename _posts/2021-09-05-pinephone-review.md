@@ -55,7 +55,7 @@ updated: 2021-09-10
 - Spotify
     - [Spot (Gtk4 and libadwaita based)](https://github.com/xou816/spot)[3]
 
-[1] Basic email like Fastmail and Gmail will work just fine using this [article](https://support.system76.com/articles/using-geary) though ProtonMail will need the ProtonMail Bridge running on the device which I haven't tried.
+[1] Basic email like Fastmail and Gmail will work just fine using this [article](https://support.system76.com/articles/using-geary) though ProtonMail will need the ProtonMail Bridge running on the device which I haven't tried since the [AUR package](https://aur.archlinux.org/packages/protonmail-bridge/) doesn't target aarch64.
 
 [2] Opens a Firefox window to login using the official site and allows the application to access your account. This works really well! 
 
