@@ -52,12 +52,15 @@ I took the screenshots in this post using `grim` like this `sleep 5; grim` this 
     - Telegram
 - Social Media applications
     - Reddit clients
-        - [Gtkeddit (Gtk4 and libadwaita based)](https://gitlab.com/caveman250/Gtkeddit) [2]
-        - [Giara (Gtk3 and libhandy based)](https://gitlab.gnome.org/World/giara) [2]
+        - [Gtkeddit (Gtk4 and libadwaita)](https://gitlab.com/caveman250/Gtkeddit) [2]
+        - [Giara (Gtk3 and libhandy)](https://gitlab.gnome.org/World/giara) [2]
     - Twitter client
         -  Cawbird (Twitter client) [2]
-- Spotify
-    - [Spot (Gtk4 and libadwaita based)](https://github.com/xou816/spot)[3]
+- Music
+    - Spotify
+        - [Spot (Gtk4 and libadwaita)](https://github.com/xou816/spot)[3]
+    - Local Music 
+        - [Lollypop (Gtk3 and libhandy)](https://gitlab.gnome.org/World/lollypop)[4]
 
 [1] Basic email like Fastmail and Gmail will work just fine using this [article](https://support.system76.com/articles/using-geary) though ProtonMail will need the ProtonMail Bridge running on the device which I haven't tried since the [AUR package](https://aur.archlinux.org/packages/protonmail-bridge/) doesn't target aarch64.
 
@@ -78,6 +81,12 @@ Gtkeddit working with my personal Reddit account.
 Cawbird working with my personal Twitter account.
 
 [3] Open a window on the device to sign into the service that it is providing.
+
+<img src="/images/{{ page.url }}/Spot-Working.png" alt="drawing" width="200"/>
+
+[4] Loads local audio files in the Music folder (tested with MP3 files) though I did have to use `scp` to copy the files over since this is connected to the File Management missing feature.
+
+<img src="/images/{{ page.url }}/Lollypop-Working.png" alt="drawing" width="200"/>
 
 ### Almost There Features
 
