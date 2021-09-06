@@ -125,9 +125,7 @@ You can see that GPS is not working since it believes I am in Oregon not Colorad
 
 [3] The Portfolio application does this very well though when you connect the phone to a computer it doesn't show up in the File Manager so you can't just copy and paste files between the devices which is why I used `scp` to get the screenshots for this blog.
 
-## Issues
-
-The main issues with the device at least for my use case are the above 'Amost There Features' and 'Missing Features'.  
+### Paper Cuts
 
 - The Landscape keyboard could use some love as I think a split keyboard would work very well
 
@@ -136,6 +134,10 @@ The main issues with the device at least for my use case are the above 'Amost Th
 - Notification control could also use some love but to be fair we just got the **Clear All** button
 
 <img src="/images/{{ page.url }}/Notification-Control.png" alt="drawing" width="350"/>
+
+## Issues
+
+The main issues with the device at least for my use case are the 'Amost There Features', 'Missing Features' and'Paper Cuts' items above.
 
 ## Should you get this?
 
