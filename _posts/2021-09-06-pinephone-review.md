@@ -44,30 +44,34 @@ I took the screenshots in this post using `grim` like this `sleep 5; grim` this 
 ### Fully Working Features (these were tested on Arch Linux ARM)
 
 - Calls
-- Texts
+- Texts [1]
 - Bluetooth
 - Browser
-    - Firefox works for sites like YouTube with no issue.
-- Email [1]
+    - Firefox works for sites like YouTube with no issue. [2]
+- Email [3]
 - Messsaging
     - Telegram
 - Social Media applications
     - Reddit clients
-        - [Gtkeddit (Gtk4 and libadwaita)](https://gitlab.com/caveman250/Gtkeddit) [2]
-        - [Giara (Gtk3 and libhandy)](https://gitlab.gnome.org/World/giara) [2]
+        - [Gtkeddit (Gtk4 and libadwaita)](https://gitlab.com/caveman250/Gtkeddit) [4]
+        - [Giara (Gtk3 and libhandy)](https://gitlab.gnome.org/World/giara) [4]
     - Twitter client
-        - [Cawbird (Gtk3)](https://github.com/IBBoard/cawbird) [2]
+        - [Cawbird (Gtk3)](https://github.com/IBBoard/cawbird) [5]
 - Music
     - Spotify
-        - [Spot (Gtk4 and libadwaita)](https://github.com/xou816/spot)[3]
+        - [Spot (Gtk4 and libadwaita)](https://github.com/xou816/spot)[6]
     - Local Music 
-        - [Lollypop (Gtk3 and libhandy)](https://gitlab.gnome.org/World/lollypop)[4]
+        - [Lollypop (Gtk3 and libhandy)](https://gitlab.gnome.org/World/lollypop)[7]
 
-[1] Basic email like Fastmail and Gmail will work just fine using this [article](https://support.system76.com/articles/using-geary) though ProtonMail will need the ProtonMail Bridge running on the device which I haven't tried since the [AUR package](https://aur.archlinux.org/packages/protonmail-bridge/) doesn't target aarch64.
+| [1] Chatty | [2] Firefox |
+| ---------- | ----------- |
+| <img src="/images/{{ page.url }}/Chats.png" alt="drawing" width="350"/> | <img src="/images/{{ page.url }}/Firefox-YouTube.png" alt="drawing" width="350"/> |
 
-[2] Opens a Firefox window to login using the official site and allows the application to access your account. This works pretty well! 
+[3] Basic email like Fastmail and Gmail will work just fine using this [article](https://support.system76.com/articles/using-geary) though ProtonMail will need the ProtonMail Bridge running on the device which I haven't tried since the [AUR package](https://aur.archlinux.org/packages/protonmail-bridge/) doesn't target aarch64.
 
-<img src="/images/{{ page.url }}/Gtkeddit-Working.png" alt="drawing" width="200"/>
+[4] Opens a Firefox window to login using the official site and allows the application to access your account. This works pretty well! 
+
+<img src="/images/{{ page.url }}/Gtkeddit-Working.png" alt="drawing" width="350"/>
 
 Gtkeddit working with my personal Reddit account.
 
@@ -83,11 +87,13 @@ Cawbird working with my personal Twitter account.
 
 [3] Open a window on the device to sign into the service that it is providing.
 
-<img src="/images/{{ page.url }}/Spot-Working.png" alt="drawing" width="200"/>
+<img src="/images/{{ page.url }}/Spot-Working.png" alt="drawing" width="350"/>
+
+> I had to launch Spot using the Terminal since it doesn't seem to create a desktop file on the PinePhone.
 
 [4] Loads local audio files in the Music folder (tested with MP3 files) though I did have to use `scp` to copy the files over since this is connected to the File Management missing feature.
 
-<img src="/images/{{ page.url }}/Lollypop-Working.png" alt="drawing" width="200"/>
+<img src="/images/{{ page.url }}/Lollypop-Working.png" alt="drawing" width="350"/>
 
 ### Almost There Features
 
@@ -97,7 +103,7 @@ Cawbird working with my personal Twitter account.
 - Megapixels
     - Can take photos but not videos
 
-<img src="/images/{{ page.url }}/Tootle-Not_Working.png" alt="drawing" width="200"/>
+<img src="/images/{{ page.url }}/Tootle-Not_Working.png" alt="drawing" width="350"/>
 
 As you can see the window doesn't fit the screen size so you can't click the button once you enter the server's URL.
 
@@ -111,7 +117,7 @@ As you can see the window doesn't fit the screen size so you can't click the but
 
 [1] There is recent work on fixing GPS issues but I haven't found a good application to use [OpenStreetMap](openstreetmap.org/) since GNOME Maps doesn't fit the device screen correctly yet.
 
-<img src="/images/{{ page.url }}/GNOME-Maps-Not_Working.png" alt="drawing" width="200"/>
+<img src="/images/{{ page.url }}/GNOME-Maps-Not_Working.png" alt="drawing" width="350"/>
 
 You can see that GPS is not working since it believes I am in Oregon not Colorado.
 
@@ -121,7 +127,15 @@ You can see that GPS is not working since it believes I am in Oregon not Colorad
 
 ## Issues
 
-The main issues with the device at least for my use case are the above 'Amost There Features' and 'Missing Features'. 
+The main issues with the device at least for my use case are the above 'Amost There Features' and 'Missing Features'.  
+
+- The Landscape keyboard could use some love as I think a split keyboard would work very well
+
+<img src="/images/{{ page.url }}/Landscape-Keyboard.png" alt="drawing" width="500"/>
+
+- Notification control could also use some love but to be fair we just got the **Clear All** button
+
+<img src="/images/{{ page.url }}/Notification-Control.png" alt="drawing" width="350"/>
 
 ## Should you get this?
 
