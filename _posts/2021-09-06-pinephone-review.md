@@ -6,7 +6,7 @@ updated: 2021-09-06
 
 > *NOTE:* I've had the PinePhone for about 1 year though it has never been my daily driver. It has been running [Arch Linux ARM (ALARM)](https://github.com/dreemurrs-embedded/Pine64-Arch) most of that time though I have used [postmarketOS](https://wiki.postmarketos.org/wiki/PINE64_PinePhone_(pine64-pinephone)), [Mobian](https://wiki.mobian-project.org/doku.php?id=pinephone) and [Manjaro](https://forum.manjaro.org/t/manjaro-arm-beta13-with-phosh-pinephone/79665) a few different times.
 
-I took the screenshots in this post using `grim` like this `sleep 5; grim` this gave me the time to move to the application that I wanted to take a screenshot of since `grim` takes a screenshot right away. I then used `scp` to move the screenshots to my desktop computer to post them on this blog post.
+I took the screenshots in this post using `grim` like this `sleep 5; grim` this gave me the time to move to the application that I wanted to take a screenshot of since `grim` takes a screenshot right away. I then used `scp` to move the screenshots and photos to my desktop computer to post them on this blog post.
 
 ## What I use my current Smart Phone for
 
