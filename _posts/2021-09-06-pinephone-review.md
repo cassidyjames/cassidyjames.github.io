@@ -149,4 +149,4 @@ The main issues with the device at least for my use case are the 'Amost There Fe
 
 ## Should you get this?
 
-If your needs fit inline with the current limitations and missing or not working yet features and love Open Source on a Smart Phone with no Google or Apple then *MAYBE*. There is a lot working on this and I think depending on the person this can be a daily driver but I don't think it can be a normal user phone as there is some setup missing. With that said if you know what you are doing, can work around the limitations and want to get your hands dirty then there is *A Lot* to love about this device.
+If your needs fit inline with the 'Almost There Features', 'Missing Features', 'Paper Cuts' and love Open Source on a Smart Phone with no Google or Apple then *MAYBE*. There is a lot working on this and I think depending on the person this can be a daily driver but I don't think it can be a normal user phone as there is some setup missing. With that said if you know what you are doing, can work around the limitations and want to get your hands dirty then there is *A Lot* to love about this device.
