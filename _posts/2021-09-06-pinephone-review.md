@@ -101,13 +101,21 @@ Cawbird working with my personal Twitter account.
     - Mastodon
         - [Tootle (Gtk3)](https://github.com/bleakgrey/tootle) [1]
 - Megapixels
-    - Can take photos but not videos
+    - Can take photos but not videos [2]
 
 <img src="/images/{{ page.url }}/Tootle-Not_Working.png" alt="drawing" width="350"/>
 
-As you can see the window doesn't fit the screen size so you can't click the button once you enter the server's URL.
+> As you can see the window doesn't fit the screen size so you can't click the button once you enter the server's URL.
 
 [1] Application doesn't work well on this device's screen to allow me to sign in without using a different device with a larger screen.
+
+[2] Some sample photos
+
+Rear Camera
+
+| Photo 1 | Photo 2 | 
+| ------- | ------- | 
+| ![Photo 1](/images/{{ page.url }}/IMG20210906120653.jpg) | ![Photo 2](/images/{{ page.url }}/IMG20210906120701.jpg) |
 
 ### Missing Features
 
@@ -119,7 +127,7 @@ As you can see the window doesn't fit the screen size so you can't click the but
 
 <img src="/images/{{ page.url }}/GNOME-Maps-Not_Working.png" alt="drawing" width="350"/>
 
-You can see that GPS is not working since it believes I am in Oregon not Colorado.
+> You can see that GPS is not working since it believes I am in Oregon not Colorado.
 
 [2] There is a Flatpak version of Slack and it is in the [AUR](https://aur.archlinux.org/packages/slack-desktop/) though neither have an aarch64 build to install on the PinePhone.
 
