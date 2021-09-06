@@ -38,6 +38,8 @@ I **write things** on the internet about tech, OSes and what I'm up to. I usuall
 <section class="photography card" markdown="1">
 ## Photography
 
+I take photos from time to time. 
+
 <a rel="me" href="{{ site.pixelfed }}" class="read-more pixelfed"><i class="fas fa-fw fa-camera-retro"></i>View photos on PixelFed</a>
 
 </section>
@@ -45,7 +47,7 @@ I **write things** on the internet about tech, OSes and what I'm up to. I usuall
 <section class="gaming card" markdown="1">
 ## Gaming
 
-I play **games** when I can find the time. Usually on Stadia or PS4, but occasionally on Switch, Steam, Android, and my GamePi.
+I play **games** on PS5, Switch and Steam.
 
 <a href="http://psnprofiles.com/ahoneybun" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
 
@@ -55,4 +57,4 @@ I play **games** when I can find the time. Usually on Stadia or PS4, but occasio
 
 </section>
 
-This website is hosted on [Linode](https://www.linode.com/) and you can make your own using my [referral code](https://www.linode.com/?r=50012cb9448276b69b3d757fdf5aa3d4ad320064).
+This website is hosted on [Linode](https://www.linode.com/). You can create your own Linode account using my [referral code](https://www.linode.com/?r=50012cb9448276b69b3d757fdf5aa3d4ad320064).
