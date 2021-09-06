@@ -131,9 +131,11 @@ Rear Camera
 
 [2] There is a Flatpak version of Slack and it is in the [AUR](https://aur.archlinux.org/packages/slack-desktop/) though neither have an aarch64 build to install on the PinePhone.
 
-[3] The Portfolio application does this very well though when you connect the phone to a computer it doesn't show up in the File Manager so you can't just copy and paste files between the devices which is why I used `scp` to get the screenshots for this blog.
+[3] The Portfolio application does this very well though you aren't able to see MicroSD cards or external drives in the application until you mount it from either the Terminal or the GNOME Disks application.
 
 ### Paper Cuts
+
+- When you connect the phone to a computer it doesn't show up in the File Manager so you can't just copy and paste files between the devices which is why I used `scp` to get the screenshots for this blog.
 
 - The Landscape keyboard could use some love as I think a split keyboard would work very well
 
