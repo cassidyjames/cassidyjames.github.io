@@ -19,8 +19,7 @@ I took the screenshots in this post using `grim` like this `sleep 5; grim` this 
     - Telegram
     - Discord
 - Navigation
-- Internet browsing
-    - YouTube
+- Browser
     - Search
 - Taking photos and videos
 - Listing to music using Spotify
@@ -47,6 +46,8 @@ I took the screenshots in this post using `grim` like this `sleep 5; grim` this 
 - Calls
 - Texts
 - Bluetooth
+- Browser
+    - Firefox works for sites like YouTube with no issue.
 - Email [1]
 - Messsaging
     - Telegram
@@ -91,7 +92,10 @@ Cawbird working with my personal Twitter account.
 ### Almost There Features
 
 - Social Media applications
-    - Tootle (Mastodon client) [1]
+    - Mastodon
+        - [Tootle (Gtk3)](https://github.com/bleakgrey/tootle) [1]
+- Megapixels
+    - Can take photos but not videos
 
 <img src="/images/{{ page.url }}/Tootle-Not_Working.png" alt="drawing" width="200"/>
 
