@@ -121,6 +121,22 @@ img {
     color: var(--github);
   }
 
+  &.destiny {
+    i {
+      background-image: url('/images/destiny-dark.svg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      height: 1.25em;
+      vertical-align: middle;
+      width: 1.25em;
+
+      @media (prefers-color-scheme: dark) {
+        background-image: url('/images/destiny-light.svg');
+      }
+    }
+  }
+
   &.stadia {
     color: var(--stadia);
 
