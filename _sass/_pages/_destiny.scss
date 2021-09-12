@@ -1,0 +1,51 @@
+html.destiny {
+  --background-color: #0e141f;
+  --primary-color: #fafafa;
+  --accent-color: #273445;
+  --secondary-accent-color: var(--accent-color); // Header, footer
+  --secondary-accent-contrast: var(--primary-color);
+
+  @media (prefers-color-scheme: light) {
+    --background-color: #fafafa;
+    --accent-color: #0e141f;
+    --primary-color: #273445;
+    --secondary-accent-color:  #{ mix(#fafafa, #95a3ab, 75%) }; // Header, footer
+    --secondary-accent-contrast: var(--primary-color);
+  }
+
+  h1 {
+    color: inherit;
+    display: block;
+    font-weight: 100;
+    letter-spacing: 0.4em;
+    margin: 0 auto 0.5em;
+    text-align: center;
+    text-transform: uppercase;
+
+    @media (max-width: 599px) {
+      font-size: 9vw;
+    }
+
+    &::after {
+      background-image: url('/images/destiny-dark.svg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      content: "";
+      display: inline-block;
+      height: 0.75em;
+      vertical-align: baseline;
+      width: 0.75em;
+
+      @media (min-width: 600px) {
+        height: 1em;
+        margin-top: 0.33em;
+        width: 1em;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        background-image: url('/images/destiny-light.svg');
+      }
+    }
+  }
+}
