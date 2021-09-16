@@ -2,16 +2,18 @@
 title: Aaron Honeycutt
 ---
 
-![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256&d=blank){: .avatar width="128" height="128"}
+<!-- ![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256&d=blank){: .avatar width="128" height="128"} -->
 
 # Aaron Honeycutt
 
-I'm a **Happiness Engineer** who works at [system76](https://system76.com/).
+I'm a **Happiness Architect** working at [system76](https://system76.com/).
 
 <section class="code card" markdown="1">
 ## Code & Collaboration
 
 [<i class="fab fa-fw fa-github"></i>Browse code on GitHub](https://github.com/{{ site.github_user }}){: .read-more.github}
+
+[<i class="fab fa-fw fa-gitlab"></i>Browse code on GitLab](https://gitlab.com/{{ site.gitlab_user }}){: .read-more.gitlab}
 
 </section>
 

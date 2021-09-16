@@ -7,7 +7,7 @@
   <meta itemprop="name" content="{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}">
 
-  <link rel="alternate" type="application/rss+xml" title="Cassidy’s Blog" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="alternate" type="application/rss+xml" title="Aaron's Blog" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -48,8 +48,6 @@
   <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | prepend: site.baseurl | append: '?v=' | append: hash }}">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
   {% if jekyll.environment == "production" and site.url == "https://ahoneycutt.me" %}
-    <script async defer data-domain="ahoneycutt.me" src="https://stats.cassidyjames.com/js/index.js"></script>
-    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
   {% endif %}
   <!-- {{ site.url }} -->
 </head>
