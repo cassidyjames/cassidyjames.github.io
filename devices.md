@@ -7,17 +7,17 @@
     - AMD Ryzen 7 2700X
     - 32GB DDR4 3200MHz
     - AMD RX 580 8GB Model
-    - 500GB Samsung SSD 860 EVO (Main OS)
-    - 250GB Crucial M.2 SSD (Testing OS)
-    - 2TB Western Digital (Local Backups and Steam Games)
+    - 500GB Samsung SSD 860 EVO
+    - 250GB Crucial M.2 SSD 
+    - 2TB Western Digital 
 
 ## Laptop
 
 - [System76 Galago Pro](https://system76.com/laptops/galago) (galp3-b) 
     - Intel i5-8250U
     - 16GB DDR4 2400MHz
-    - 500GB (Main OS)
-    - 250GB (Backups)
+    - 500GB 
+    - 250GB 
 
 ## Mobile
 
