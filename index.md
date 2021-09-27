@@ -23,6 +23,8 @@ I'm a **Happiness Architect** working at [system76](https://system76.com/).
 I sometimes appear on **podcasts** like Linux Unplugged to talk about my work.
 
 <a href="https://linuxunplugged.com/guests/aaronhoneycutt" class="read-more lup"><i class="fa fa-fw fa-microphone"></i>Listen on Linux Unplugged</a>
+
+<a href="https://www.linux4everyone.com/guests/aaron-honeycutt" class="read-more lup"><i class="fa fa-fw fa-microphone"></i>Listen on Linux 4 Everyone</a>
 </section>
 
 <section class="writing card" markdown="1">
