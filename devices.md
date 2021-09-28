@@ -1,5 +1,7 @@
 # Devices
 
+Some information on the devices that I use daily.
+
 ## Desktop 
 
 - [34" 3440x1440 Alienware UltraWide display](https://www.newegg.com/p/N82E16824260555)
@@ -22,5 +24,5 @@
 ## Mobile
 
 - [Google Pixel 4](https://www.gsmarena.com/google_pixel_4-9896.php) 
-- [PinePhone](https://pine64.com/product-category/pinephone/) (postmarket OS Edition 3GB)
-- [PineTime](https://pine64.com/product-category/pinetime-smartwatch/)
+- [PinePhone](https://pine64.com/product-category/pinephone/) (postmarket OS Edition 3GB) : [Review](https://ahoneycutt.me/blog/pinephone-review/)
+- [PineTime](https://pine64.com/product-category/pinetime-smartwatch/) : [Review](https://ahoneycutt.me/blog/pinetime-mini-review/)
