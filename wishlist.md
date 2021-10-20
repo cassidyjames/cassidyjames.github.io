@@ -34,11 +34,12 @@ Links point to the Gift Hero item, so please **confirm the gift on Gift Hero** i
 
 Image | Link | Price | Notes
 ------|------|-------|------
-![Oura](/images/oura.webp) | [Oura Ring](https://www.gifthero.com/items/84483b16-a778-4c63-8de5-a40f62562c66) | **$299** | Heritage, Silver
-![StarPort](/images/starport.webp) | [StarPort USB-PD Hub](https://www.gifthero.com/items/79dc764a-c2dc-4a81-b3f1-9c36f716fa49) | **$83** |
 ![Horizon](/images/hfw.webp) | [Horizon Forbidden West](https://www.gifthero.com/items/d74ced60-5dd5-4ce7-941a-0be228055f79) | **$70** | PS5 version; any retailer is fine
 ![Sackboy](/images/sackboy.webp) | [Sackboy: A Big Adventure](https://www.gifthero.com/items/7ff32538-4554-4b2c-a07f-39c8e845faa0) | **$60** | PS5 version; any retailer is fine
+![Pixel 6 Case](/images/moment-p6.jpg) | [Moment Case for Pixel 6](https://www.gifthero.com/items/f35075d5-3df1-4d4b-922d-3a4ac214cc28) | **$50** |
 ![DualSense Charger](/images/dualsense-charger.webp) | [DualSense Charging Station](https://www.gifthero.com/items/daf0cdc2-224a-42fc-bbf7-bd3a9db8db7c) | **$30** | Any retailer is fine, but I'd like the official Sony PS5 one
+![Framework Skin](/images/dbrand-framework.png) | [dbrand Skin for Framework Laptop](https://www.gifthero.com/items/9454ed75-c568-4947-88f9-5fe5a16c3ff9) | **$25** | Top, white marble, with logo cutout
+![Pixel 6 Skin](/images/dbrand-pixel6.png) | [dbrand Skin for Pixel 6](https://www.gifthero.com/items/e085a604-c2bf-4ef9-a886-41c40279a620) | **$16** | Matte white back, matte black logo
 
 ---
 
