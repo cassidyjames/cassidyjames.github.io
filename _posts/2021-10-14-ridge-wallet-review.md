@@ -12,4 +12,16 @@ I've used a few minimalist wallets which mostly started with [Dash Wallets](http
 
 ### Ridge Wallet
 
-Since I got some ads on my social media feeds I've been looking at their wallets but I couldn't pull the trigger until recently since the base price is $85 USD while the Dash Wallets are around $20-$30 USD and the Simple wallet was free. 
+Since I got some ads on my social media feeds I've been looking at their wallets but I couldn't pull the trigger until recently since the base price is $85 USD while the Dash Wallets are around $20-$30 USD and the Simple wallet was free. I picked the "basic" version which is the [Aluminum Gunmetal version](https://ridge.com/collections/wallets/products/aluminum-gunmetal) and here is my review after having it and using it for about two weeks. 
+
+#### Review
+
+- Pros
+    - Pretty simple to use
+    - RFID blocking
+    - Compact 
+
+- Cons
+    - Pricey for most people
+    - Tough to use (in the way that the ads and videos show)
+
