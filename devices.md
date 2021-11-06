@@ -12,6 +12,7 @@ Some information on the devices that I use daily.
     - 500GB Samsung SSD 860 EVO
     - 250GB Crucial M.2 SSD 
     - 2TB Western Digital 
+- [System76 Launch keyboard](https://system76.com/accessories/launch)
 
 ## Laptop
 
