@@ -20,16 +20,26 @@ Since I got some ads on my social media feeds I've been looking at their wallets
 
 ![Back of the box](/images/{{ page.url }}/back-package.jpg)
 
-![Everything included](/image{{ page.url }}/complete-package.jpg)
+![Everything included](/images/{{ page.url }}/complete-package.jpg)
 
-#### Review
+### Review
 
 - Pros
-    - Pretty simple to use
     - RFID blocking
     - Compact 
+    - Metal build
+    - Not leather
 
 - Cons
     - Pricey for most people
-    - Tough to use (in the way that the ads and videos show)
+    - RFID blocking (I'll cover this in the paper cuts section)
+    - Tough to use (in the way that the ads and videos show anyway)
 
+### Paper Cuts
+
+- Kinda tough to get the cards out though this might change as the strap wears out a bit. 
+- Not good for if you have an HID card used for doors and other places. I keep mine in my pocket with the wallet though I may put it on my lanyard with my keys. 
+
+### Should you get this?
+
+If you match up with my needs or are pretty similar then yes! One of the big tips that I can give which I believe Ridge give as well is to put your top two cards on the top and bottom of the stack. 
