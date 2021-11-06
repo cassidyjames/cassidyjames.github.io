@@ -16,11 +16,11 @@ Since I got some ads on my social media feeds I've been looking at their wallets
 
 ### Photos
 
-![]()
+![Front of the box](/images/{{ page.url }}/front-package.jpg)
 
-![]()
+![Back of the box](/images/{{ page.url }}/back-package.jpg)
 
-![]()
+![Everything included](/image{{ page.url }}/complete-package.jpg)
 
 #### Review
 
