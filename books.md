@@ -1,6 +1,8 @@
 
 # Books
 
+Links to some books that are useful for the below subjects (mostly Linux).
+
 ## Linux Desktop
 
 The Official Ubuntu Book 9th Edition : [Amazon](https://www.amazon.com/Official-Ubuntu-Book-Matthew-Helmke-ebook/dp/B01IFCKT96), [Barnes & Noble](https://www.barnesandnoble.com/w/the-official-ubuntu-book-matthew-helmke/1124175070), [O'Reilly](https://www.oreilly.com/library/view/the-official-ubuntu/9780134512501/)
