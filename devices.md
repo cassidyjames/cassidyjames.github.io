@@ -24,6 +24,6 @@ Some information on the devices that I use daily.
 
 ## Mobile
 
-- [Google Pixel 4](https://www.gsmarena.com/google_pixel_4-9896.php) 
+- [Google Fi Pixel 6 128GB](https://www.gsmarena.com/google_pixel_6-11037.php) 
 - [PinePhone](https://pine64.com/product-category/pinephone/) (postmarket OS Edition 3GB) : [Review](https://ahoneycutt.me/blog/pinephone-review/)
 - [PineTime](https://pine64.com/product-category/pinetime-smartwatch/) : [Review](https://ahoneycutt.me/blog/pinetime-mini-review/)
