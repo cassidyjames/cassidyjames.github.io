@@ -12,6 +12,12 @@ layout: default
 </aside>
 {% endif %}
 
+{% if page.legacy %}
+<aside>
+    <p><strong>This blog post was migrated from an old version of my blog.</strong> Double-check that date for its relevance, and sorry about any formatting issues!</p>
+</aside>
+{% endif %}
+
 <article>
   <h2>{{ page.title }}</h2>
 
