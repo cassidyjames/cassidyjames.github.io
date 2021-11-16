@@ -26,4 +26,8 @@ When I started at System76 I was just using Linux (Ubuntu mainly but some Arch) 
 
 Outside of the *normal* users I would game and some times write code. Now pay attention to the italicized word there as what *advanced* users would label as *normal* users is very different then they would label themselves as. 
 
-##
+## Opposing views
+
+After about four years under my belt I've begun seeing Desktop Linux a bit differently. I've used to view my desktop and time as endless as in it doesn't matter if my desktop is broken I would have the time to set it all up again. I've grown tired of that mindset and the work that goes along with it. 
+
+I now understand the pain points of the ground felling apart under your feet and I'm excited about the technology being used to start that from happening. 
