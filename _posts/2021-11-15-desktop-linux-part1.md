@@ -1,7 +1,7 @@
 ---
 title: Desktop Linux Part 1
 description: My general thoughts of Desktop Linux 
-updated: 2021-11-15
+updated: 2021-11-16
 ---
 
 > *NOTE:* This isn't a beginner focused post as I will be using Linux terminology. 
