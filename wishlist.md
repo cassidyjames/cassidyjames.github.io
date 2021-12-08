@@ -4,7 +4,7 @@ redirect_from:
   - /shortlist/
 ---
 
-# Cassidyâ€™s Wishlist
+# Cassidy’s Wishlist
 
 This is my canonical birthday, Christmas, and any-other-time wish list. **It is up to date as of {{ site.time | date: '%B %-d, %Y' }}.**
 
@@ -13,7 +13,7 @@ This is my canonical birthday, Christmas, and any-other-time wish list. **It is 
 ## Skip Amazon
 </summary>
 
-I dislike Amazon since theyâ€™re extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox) and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652). So if you can, please purchase any items here somewhere other than Amazon.
+I dislike Amazon since they’re extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox) and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652). So if you can, please purchase any items here somewhere other than Amazon.
 
 **Buying from the company who makes the thing is usually best**, but I also recommend the following stores:
 - [Target](https://target.com) - Their online shopping is great, plus there's the convenience of picking up in store skipping shipping costs.
@@ -28,7 +28,7 @@ I dislike Amazon since theyâ€™re extremely [anti-competitive](https://www.y
 
 ## Shortlist
 
-_A.k.a. a small number of things Iâ€™d absolutely love._
+_A.k.a. a small number of things I’d absolutely love._
 
 Links point to the Gift Hero item, so please **confirm the gift on Gift Hero** if you purchase it to avoid conflicts.
 
@@ -60,7 +60,7 @@ _A.k.a. stuff I always enjoy._
 
 I collect quality pins for my backpackâ€”like ones with good backs, not the cheapo button onesâ€”from cool causes, artists, and places. You can find some examples on my Gift Hero list, but I'm open to anything you think I'd like.
 
-### Fun gauges/plugs **$5â€“20**
+### Fun gauges/plugs **$5–20**
 
 **0g/8mm size**
 
@@ -70,7 +70,7 @@ I like almost anything! Bright colors, unique designs, and interesting patterns 
 
 Yes, really! I have a Plex server, so a Blu-ray or of your favorite movie would be a welcome addition. Or even DVDs if it's older older
 
-### Board/card/party games **$10â€“50**
+### Board/card/party games **$10–50**
 
 I love simple and fun games to play with friends.
 
@@ -93,7 +93,7 @@ _A.k.a. stuff to do instead of justâ€¦ stuff._
 
 _A.k.a. gifts for someone who grows older but refuses to grow up._
 
-I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames){: onclick="plausible('Wishlist: Brickset');"}. Itâ€™s usually kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
+I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyjames){: onclick="plausible('Wishlist: Brickset');"}. It’s usually kept up to date, especially around Christmas and my birthday. As a general rule, duplicates are fine and all Star Wars ships are awesome.
 
 ---
 
@@ -101,16 +101,16 @@ I have a LEGO wishlist at [Brickset](http://brickset.com/sets/wantedby-cassidyja
 
 _A.k.a. you don't know what to get, so let me choose!_
 
-* [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games ðŸŽ®
-* [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for apps, movies, books, and games ðŸ“±
-* Micro Center (only available in-store) for Raspberry Pi and gadget stuff ðŸ¤“
-* [GameStop/ThinkGeek](https://www.gamestop.com/gift-cards) for games and geek stuff ðŸŽ²
-* [LEGO Store](https://shop.lego.com/en-US/Give-Gift-Card) for LEGOs, obviously ðŸ—
-* [Target](https://www.target.com/c/target-giftcards/all-occasions/-/N-5xsxtZ5rxa0) for whatever ðŸ¤·â€â™‚ï¸
-* [Best Buy](https://www.bestbuy.com/site/electronics/gift-cards/cat09000.c?id=cat09000#/) for gadgets ðŸ‘¨â€ðŸ’»
-* [Old Navy](http://oldnavy.gap.com/customerService/info.do?cid=35433) for fashion ðŸ•º
-* [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth ðŸ‘…
-* [Arctic Buffalo](https://arcticbuffalo.com/collections/gift-options/products/gift-card?variant=1040675312) for gauges/plugs ðŸ‘‚
+* [PlayStation Network](https://www.playstation.com/en-us/explore/playstationnetwork/psn-cards/) for games 🎮
+* [Google Play](https://play.google.com/intl/en_us/about/giftcards/) for audiobooks 📖
+* Micro Center (only available in-store) for Raspberry Pi and gadget stuff 👨‍💻
+* [GameStop/ThinkGeek](https://www.gamestop.com/gift-cards) for games and geek stuff 🃏🎲
+* [LEGO Store](https://shop.lego.com/en-US/Give-Gift-Card) for LEGOs, obviously 🏗️
+* [Target](https://www.target.com/c/target-giftcards/all-occasions/-/N-5xsxtZ5rxa0) for whatever 🎯
+* [Best Buy](https://www.bestbuy.com/site/electronics/gift-cards/cat09000.c?id=cat09000#/) for gadgets 🖱️⌨️
+* [Old Navy](http://oldnavy.gap.com/customerService/info.do?cid=35433) for fashion 🕺
+* [Sprouts](https://www.sprouts.com/giftcards) for the best gummy bears on Earth 👅
+* [Arctic Buffalo](https://arcticbuffalo.com/collections/gift-options/products/gift-card?variant=1040675312) for gauges/plugs 👂
 
 ---
 
@@ -118,7 +118,7 @@ _A.k.a. you don't know what to get, so let me choose!_
 
 _A.k.a. do good on my behalf!_
 
-Instead of giving to me directly, you can always give to one of these causes. Iâ€™m passionate about each one and they all could use monetary support.
+Instead of giving to me directly, you can always give to one of these causes. I’m passionate about each one and they all could use monetary support.
 
 ### [Electronic Frontier Foundation](https://www.eff.org/){: onclick="plausible('Wishlist: EFF');"}
 
@@ -143,13 +143,13 @@ Instead of giving to me directly, you can always give to one of these causes. I�
 ## Vinyl LPs
 </summary>
 
-_A.k.a. Katie got a turntable so I need some music for me, tooâ€¦_ ðŸ™ƒï¸
+_A.k.a. Katie got a turntable 
 
 In no particular order at all.
 
 - Hamilton (Original Broadway Cast Recording)
 - Uncharted Nathan Drake Collection
-- [The Music of Destiny](https://bungiestore.com/products/the-music-of-destiny-volume-i-limited-edition-collectors-vinyl-box-set) - This was a limited-release, so it's on eBay for like $300. ðŸ˜¬ï¸
+- [The Music of Destiny](https://bungiestore.com/products/the-music-of-destiny-volume-i-limited-edition-collectors-vinyl-box-set) - This was a limited-release, so it's on eBay for like $300. 😬
 - Star Wars Soundtracks
   - Episode I: The Phantom Menace
   - Episode II: Attack of the Clones
@@ -170,7 +170,7 @@ In no particular order at all.
   - American Beauty/American Psycho
   - From Under the Cork Tree
   - Save Rock and Roll
-  - Folie Ã¡ Deux
+  - Folie à Deux
   - Believers Never Die
   - Believers Never Die (Vol. 2)
 - Panic! at the Disco
