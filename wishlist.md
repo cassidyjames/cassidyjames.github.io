@@ -44,7 +44,7 @@ Image | Link | Price | Notes
 
 ## Gift Hero Wish List
 
-A more traditional, sprawling wish list. It's _sort of_ sorted by priority by default, but you can sort by price as well. It includes shortlist items, things from the idea list, and a whole bunch more.
+A more traditional, sprawling wish list. It’s _sort of_ sorted by priority by default, but you can sort by price as well. It includes shortlist items, things from the idea list, and a whole bunch more.
 
 <div style="text-align: center;" markdown="1">
 [View Gift Hero Wish List](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: .button onclick="plausible('Wishlist: Gift Hero');"}
@@ -58,7 +58,7 @@ _A.k.a. stuff I always enjoy._
 
 ### Pins **$5+**
 
-I collect quality pins for my backpackâ€”like ones with good backs, not the cheapo button onesâ€”from cool causes, artists, and places. You can find some examples on my Gift Hero list, but I'm open to anything you think I'd like.
+I collect quality pins for my backpack—ike ones with good backs, not the cheapo button ones—from cool causes, artists, and places. You can find some examples on my Gift Hero list, but I'm open to anything you think I'd like.
 
 ### Fun gauges/plugs **$5–20**
 
@@ -78,7 +78,7 @@ I love simple and fun games to play with friends.
 
 ## Experiences
 
-_A.k.a. stuff to do instead of justâ€¦ stuff._
+_A.k.a. stuff to do instead of just… stuff._
 
 * Meow Wolf tickets (opening in Denver, 2021)
 * Regal Cinemas movie tickets (date night!)
@@ -143,7 +143,7 @@ Instead of giving to me directly, you can always give to one of these causes. I�
 ## Vinyl LPs
 </summary>
 
-_A.k.a. Katie got a turntable 
+_A.k.a. Katie got a turntable…_ 😁
 
 In no particular order at all.
 
