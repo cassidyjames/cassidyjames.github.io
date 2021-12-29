@@ -35,7 +35,6 @@ Links point to the Gift Hero item, so please **confirm the gift on Gift Hero** i
 Image | Link | Price | Notes
 ------|------|-------|------
 ![Framework Skin](/images/dbrand-framework.png) | [dbrand Skin for Framework Laptop](https://www.gifthero.com/items/9454ed75-c568-4947-88f9-5fe5a16c3ff9) | **$25** | Top, white marble, with logo cutout
-![Pixel 6 Skin](/images/dbrand-pixel6.png) | [dbrand Skin for Pixel 6](https://www.gifthero.com/items/e085a604-c2bf-4ef9-a886-41c40279a620) | **$16** | Matte white back, matte black logo
 
 ---
 
