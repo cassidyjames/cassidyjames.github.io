@@ -34,6 +34,7 @@ Links point to the Gift Hero item, so please **confirm the gift on Gift Hero** i
 
 Image | Link | Price | Notes
 ------|------|-------|------
+![Chucks](/images/chucks.jpg) | [Low-top Chucks](https://www.gifthero.com/items/0a6662c1-d824-4ad6-b82c-e32d0f57908a) | **$55** | Mens 12, wide, black
 ![Framework Skin](/images/dbrand-framework.png) | [dbrand Skin for Framework Laptop](https://www.gifthero.com/items/9454ed75-c568-4947-88f9-5fe5a16c3ff9) | **$25** | Top, white marble, with logo cutout
 
 ---
