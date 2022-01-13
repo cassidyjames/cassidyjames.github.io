@@ -37,6 +37,7 @@ Personally, I am responsible for the overall experience and messaging of the com
 - Designed, developed, and launched six apps on AppCenter to dogfood the development process
 - Initiated and maintained comprehensive [brand resources](https://elementary.io/brand)
 - Coordinated multiple in-person development sprints with employees and open source contributors
+- Organized and coordinated the [elementary Developer Weekend](https://edw.elementary.io/), a two-day streamed event with multiple global speakers and live Q&A
 - Designed and implemented a [web-based AppCenter browsing experinece](https://medium.com/elementaryos/introducing-new-appcenter-sharing-urls-4da5ee92f12d)
 
 ##### Other Responsibilities
