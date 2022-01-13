@@ -8,33 +8,43 @@ redirect_from:
 
 ## Objective
 
-To design, implement, and continuously improve excellent user experiences, especially using and related to open source software.
+To design, implement, and continuously improve excellent experiences, especially using and related to open source software.
 
 ## Experience
 
-Twelve years of front-end web development, eight years of open source collaboration, and eight years of user experience design and architecture.
+Over a decade of open source collaboration. A decade of user experience architecture. A decade managing a successful open source company. And way too long doing front-end web development.
 
 ### elementary, Inc. _2011–present_
 
 #### Co-founder, Chief Experience Officer (CXO)
 
+I co-founded the company in 2011 and have helped it grow to sustain multiple employees while releasing 6 major OS releases, a pay-what-you-can app store, and multiple technology stack shifts like Python to Vala, GTK2 to GTK3, and Debian to Flatpak.
+
+Personally, I am responsible for the overall experience and messaging of the company and our products, user experience architecture, and being a liason between parties including end users, OEMs, developers, and other open source projects.
+
 ##### Responsibilities:
 
-- UX research & design
-- Front-end web development of [elementary.io](https://elementary.io)
-- Third-party developer outreach and evangelism
-- Documenting, evolving, and maintaining detailed [Human Interface Guidelines](https://elementary.io/docs/human-interface-guidelines)
-- User & developer documentation
-- [Issue tracking & triaging](https://github.com/search?o=desc&q=org%3Aelementary+cassidyjames&s=updated&type=Issues&utf8=%E2%9C%93)
-- Front-end desktop development in Vala and GTK+
+- UX research, design, and advocacy
+- Leading and managing organization-wide initiatives
+- Third-party developer outreach and advocacy
+- [Issue reporting, tracking, and triaging](https://github.com/search?o=desc&q=org%3Aelementary+cassidyjames&s=updated&type=Issues&utf8=%E2%9C%93)
 
 ##### Achievements:
 
-- Conceptualized, launched, and maintained monthly editorial content at [medium.com/elementaryos](https://medium.com/elementaryos)
+- Initiated and grew an [OEM program](https://elementary.io/oem) with three OEM retailers and two OEM partner devices
+- Initiated, researched, and conducted a user study for a [cross-desktop standardized dark style preference](https://blog.elementary.io/tags/#dark-style) that is now shipping in elementary OS 6 and GNOME 42 
+- Conceptualized, launched, and maintained [monthly editorial content](https://blog.elementary.io)
 - Designed, developed, and launched six apps on AppCenter to dogfood the development process
 - Initiated and maintained comprehensive [brand resources](https://elementary.io/brand)
-- Coordinated a week-long [design and development sprint](https://medium.com/elementaryos/the-denver-appcenter-sprint-85f12a667e03) for AppCenter
+- Coordinated multiple in-person development sprints with employees and open source contributors
 - Designed and implemented a [web-based AppCenter browsing experinece](https://medium.com/elementaryos/introducing-new-appcenter-sharing-urls-4da5ee92f12d)
+
+##### Other Responsibilities
+
+- Front-end web development of [elementary.io](https://elementary.io) and related web properties
+- Front-end desktop development and code review in Vala and GTK
+- User documentation
+- Documenting, evolving, and maintaining detailed [Human Interface Guidelines](https://elementary.io/docs/human-interface-guidelines)
 
 ### System76 _2014–2018_
 
@@ -46,8 +56,6 @@ Twelve years of front-end web development, eight years of open source collaborat
 - Front-end web development of [System76.com](https://system76.com) (2014–2017)
 - Working directly with marketing team to turn concepts & designs into code
 - Communicating with and translating between designers, engineers, stakeholders, and customers
-- Photo manipulation & video compositing
-- Front-end desktop development in Vala and GTK+
 - Constant collaborative design and development using git and GitHub
 
 ##### Achievements:
@@ -58,6 +66,11 @@ Twelve years of front-end web development, eight years of open source collaborat
 - Designed several critical customer-facing interfaces ([Product Configurator](https://system76.com/cart/configure/galp3), [OS Installer](https://github.com/elementary/installer/wiki), [USB Flasher](https://github.com/pop-os/popsicle/wiki/GUI-Design), [GPU Switching](https://github.com/pop-os/gnome-shell-extension-system76-power/wiki)) and helped bring them to life in code
 - Accepted as a member of the [GNOME Foundation](https://www.gnome.org/foundation/membership/) for work on GNOME and downstream projects
 - Attended and documented [GUADEC 2018](http://blog.system76.com/post/176340998478/guadec-conference-summary-2018), helping to represent System76 and Pop!_OS interests while building closer relationships with upstreams
+
+##### Other Responsibilities
+
+- Photo editing & video compositing
+- Front-end desktop development in Vala and GTK
 
 ### Visual Logic Group _2012–2013_
 
