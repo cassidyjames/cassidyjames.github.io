@@ -43,6 +43,7 @@ Personally, I am responsible for the overall experience and messaging of the com
 
 - Front-end web development of [elementary.io](https://elementary.io) and related web properties
 - Front-end desktop development and code review in Vala and GTK
+- Monthly update and Q&A [livestreams](https://youtube.com/c/elementaryinc) 
 - User documentation
 - Documenting, evolving, and maintaining detailed [Human Interface Guidelines](https://elementary.io/docs/human-interface-guidelines)
 
