@@ -11,7 +11,7 @@ I'm a **UX architect** who designs and builds useful, usable, and delightful **d
 <section class="code card" markdown="1">
 ## Code & Collaboration
 
-I strive to **collaborate** with open source projects as much as possible, and share what I work on under **open licenses** whenever possible.
+I strive to **collaborate** with open source projects as much as possible, and share what I work on under **free and open licenses**.
 
 [<i class="fab fa-fw fa-github"></i>Browse code on GitHub](https://github.com/{{ site.github_user }}){: .read-more.github}
 
