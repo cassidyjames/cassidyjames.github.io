@@ -63,7 +63,7 @@ Personally, I am responsible for the overall experience and messaging of the com
 - Researched, initiated, and documented an effort to offer HiDPI displays and improve the HiDPI experience on System76 products
 - Coordinated efforts working with upstream open source projects
 - Attended and documented [GNOME UX Hackfest 2017](http://blog.system76.com/post/167747412318/gnome-ux-hackfest-2017), helping to design future improvements to GNOME Shell and GDM
-- Designed several critical customer-facing interfaces ([Product Configurator](https://system76.com/cart/configure/galp3), [OS Installer](https://github.com/elementary/installer/wiki), [USB Flasher](https://github.com/pop-os/popsicle/wiki/GUI-Design), [GPU Switching](https://github.com/pop-os/gnome-shell-extension-system76-power/wiki)) and helped bring them to life in code
+- Designed several critical customer-facing interfaces ([Product Configurator](https://system76.com/laptops/lemp10/configure), [OS Installer](https://github.com/elementary/installer/wiki), [USB Flasher](https://github.com/pop-os/popsicle/wiki/GUI-Design), [GPU Switching](https://github.com/pop-os/gnome-shell-extension-system76-power/wiki)) and helped bring them to life in code
 - Accepted as a member of the [GNOME Foundation](https://www.gnome.org/foundation/membership/) for work on GNOME and downstream projects
 - Attended and documented [GUADEC 2018](http://blog.system76.com/post/176340998478/guadec-conference-summary-2018), helping to represent System76 and Pop!_OS interests while building closer relationships with upstreams
 
