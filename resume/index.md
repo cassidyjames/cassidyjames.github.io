@@ -87,6 +87,7 @@ Personally, I am responsible for the overall experience and messaging of the com
 
 #### Network Engineer Assistant (ITS Network Services)
 
+<!--
 - Configured and maintained switch firmware & configuration
 - Managed Wi-Fi monitoring service
 - Performed wireless site surveys
@@ -95,27 +96,32 @@ Personally, I am responsible for the overall experience and messaging of the com
 - Utilized various consoles for network and AP management
 - Created and managed wireless heatmaps
 - Tracked tasks and progress in a ticketing system
+-->
 
 ### LCS _2010–2011_
 
 #### Technical Support Analyst
 
+<!--
 - Provided support to internal staff and external clients via help desk
 - Assisted staff/clients with password resets, software installation, etc.
 - Wrote and maintained documentation through Sharepoint
 - Communicated technical concepts to facilitate understanding
 - Rapidly learned and mastered varied internal systems and programs
 - Tracked tasks and progress in a ticketing system
+-->
 
 ### Webspec Design, LLC. _2007–2010_
 
 #### Web Developer
 
+<!--
 - Front-end web development of small client websites
 - Training and supporting clients
 - Installing, configuring, developing, and supporting custom Wordpress-based
   websites and plugins
 - High-fidelity web design slicing & implementation
+-->
 
 ## Education
 
