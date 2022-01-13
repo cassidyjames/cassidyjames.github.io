@@ -1,7 +1,7 @@
 ---
 redirect_from: 
-  - /resume
-  - /resume/
+  - /resume/ux
+  - /resume/ux/
 ---
 
 # Cassidy James Blaede
