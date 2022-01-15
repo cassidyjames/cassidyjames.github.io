@@ -22,3 +22,10 @@ This is a storage device used to store data and in this case an OS.
 
 > *NOTE:* eMMC storage will be noticeably faster when compared to a microSD card.
 
+### Needed Items
+
+- PinePhone
+- 1x 4GB microSD card to be the JumpDrive
+- 1x 32GB or larger microSD card for the OS 
+
+The 3rd item is useful for trying different OSes as you just need to write the OS, swap out the card then power on the PinePhone. If you want to try more then two OSes (the one on the microSD card and on the eMMC) at a time. 
