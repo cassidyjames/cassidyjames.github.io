@@ -25,7 +25,7 @@ I dislike Amazon since they’re extremely [anti-competitive](https://www.yalela
 </details>
 
 ---
-
+<--
 ## Shortlist
 
 _A.k.a. a small number of things I’d absolutely love._
@@ -37,7 +37,7 @@ Image | Link | Price | Notes
 ![Chucks](/images/chucks.jpg) | [Low-top Chucks](https://www.gifthero.com/items/0a6662c1-d824-4ad6-b82c-e32d0f57908a) | **$55** | Mens 10, wide, black
 
 ---
-
+-->
 ## Gift Hero Wish List
 
 A more traditional, sprawling wish list. It’s _sort of_ sorted by priority by default, but you can sort by price as well. It includes shortlist items, things from the idea list, and a whole bunch more.
