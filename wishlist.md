@@ -25,7 +25,7 @@ I dislike Amazon since they’re extremely [anti-competitive](https://www.yalela
 </details>
 
 ---
-<--
+<!--
 ## Shortlist
 
 _A.k.a. a small number of things I’d absolutely love._
