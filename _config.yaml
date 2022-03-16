@@ -8,6 +8,7 @@ image: https://cassidyjames.com/images/card.png
 # Site-wide hardcoded (non-overridable by pages)
 made-in: Colorado
 birthday: '1992-02-01 00:08:00 -0600'
+timezone: UTC
 
 # Site-wide social info
 donate: https://cassidyjames.com/pay
