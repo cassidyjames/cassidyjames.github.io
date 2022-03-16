@@ -1,6 +1,6 @@
 ---
 title: Farewell, elementary
-updated: 2022-03-14
+updated: 2022-03-16
 
 hidden: true
 ---
