@@ -1,5 +1,6 @@
 <footer>
-  <p>© <span id="year">{{ site.time | date: '%Y' }}</span> {{ site.author }}. Made in {{ site.made-in }}.</p>
+  <p>© {{ site.time | date: '%Y' }} {{ site.author }}. Made in {{ site.made-in }}.</p>
+  <p>Site updated <time datetime="{{ site.time }}" title="{{ site.time }}">{{ site.time | date: "%b %e, %Y at %l:%M %p %Z" }}</time>.</p>
   <ul class="social">
     <li class="github">
       <a href="https://github.com/{{ site.github_user }}" title="GitHub">
