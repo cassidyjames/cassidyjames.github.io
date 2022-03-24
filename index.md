@@ -12,7 +12,7 @@ I'm a **UX architect** who designs and builds useful, usable, and delightful **d
 <section class="code card" markdown="1">
 ## Work
 
-I co-founded and am the Chief Experience Officer at elementary, Inc. Previously, I was the UX Architect at System76.
+I co-founded and am the Chief Experience Officer at **elementary, Inc.** Previously, I was the UX Architect at System76.
 
 <a href="https://elementary.io" class="read-more"><i class="fa fa-fw fa-info-circle"></i> Learn about elementary</a>
 

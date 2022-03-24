@@ -5,7 +5,7 @@
 
   .grid.main {
     width: 100%;
-    
+
     p,
     h1,
     h2 {
@@ -19,7 +19,7 @@
     font-size: 0.875em;
     margin-left: 1.5em;
   }
-  
+
   .cards {
     display: flex;
     flex-wrap: wrap;
@@ -27,7 +27,7 @@
     width: calc(var(--content-width) * 1.5);
     max-width: 100%;
     margin-inline: auto;
-    
+
     .card {
       margin: 0;
       max-width: 100%;
@@ -36,7 +36,11 @@
       padding: 0.5em 1em;
 
       h2 {
-        margin-top: 0;
+        margin-top: 0.25em;
+
+        + p {
+          margin: 1.5em auto;
+        }
       }
     }
   }
