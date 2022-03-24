@@ -8,6 +8,19 @@ title: Cassidy James Blaede
 
 I'm a **UX architect** who designs and builds useful, usable, and delightful **digital products** using **open technologies**.
 
+<div class="cards" markdown="1">
+<section class="code card" markdown="1">
+## Work
+
+I co-founded and am the Chief Experience Officer at elementary, Inc. Previously, I was the UX Architect at System76.
+
+<a href="https://elementary.io" class="read-more"><i class="fa fa-fw fa-info-circle"></i> Learn about elementary</a>
+
+<a href="https://system76.com" class="read-more"><i class="fa fa-fw fa-info-circle"></i> Learn about System76</a>
+
+<a href="/resume" class="read-more resume"><i class="far fa-fw fa-file-alt"></i>See résumé</a>
+</section>
+
 <section class="code card" markdown="1">
 ## Code & Collaboration
 
@@ -16,8 +29,6 @@ I strive to **collaborate** with open source projects as much as possible, and s
 [<i class="fab fa-fw fa-github"></i>Browse code on GitHub](https://github.com/{{ site.github_user }}){: .read-more.github}
 
 <a href="https://wiki.gnome.org/CassidyBlaede" class="read-more gnome"><i class="fa fa-fw fa-info-circle"></i>View GNOME profile</a>
-
-<a href="/resume" class="read-more resume"><i class="far fa-fw fa-file-alt"></i>See résumé</a>
 </section>
 
 <section class="talks card" markdown="1">
@@ -61,7 +72,7 @@ I take **photos** of my adventures (and my cat), mostly with my Pixel phone and 
 <section class="gaming card" markdown="1">
 ## Gaming
 
-I play **games** when I can find the time. Usually Destiny 2 on PS5, but occasionally other games on Stadia, Switch, Steam, Android, and my GamePi.
+I play **games** when I can find the time. Usually on PS5, but occasionally on Stadia, Switch, and—very rarely—Steam.
 
 <a href="/destiny" class="read-more destiny"><i class="fa fa-fw fa-destiny"></i>Add on Destiny</a>
 
@@ -72,6 +83,5 @@ I play **games** when I can find the time. Usually Destiny 2 on PS5, but occasio
 <a href="/switch" class="read-more switch"><i class="fab fa-fw fa-nintendo-switch"></i>Add on Nintendo Switch</a>
 
 <a href="http://steamcommunity.com/id/{{ site.steam }}/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
-
-<a href="/gamepi" class="read-more gamepi"><i class="fa fa-fw fa-gamepad"></i>Learn about GamePi</a>
 </section>
+</div>
