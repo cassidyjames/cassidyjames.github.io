@@ -1,6 +1,6 @@
 .home {
   h1 + p {
-    margin-bottom: 2em;
+    margin-bottom: 3em;
   }
 
   .grid.main {
@@ -23,12 +23,15 @@
   .cards {
     display: flex;
     flex-wrap: wrap;
-    gap: 2em;
+    gap: 3em;
     width: calc(var(--content-width) * 1.5);
     max-width: 100%;
     margin-inline: auto;
 
     .card {
+      background: none;
+      border: none;
+      box-shadow: none;
       margin: 0;
       max-width: 100%;
       flex-grow: 1;
