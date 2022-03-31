@@ -14,7 +14,7 @@ To design, implement, and continuously improve excellent experiences, especially
 
 Over a decade of open source collaboration. A decade of user experience architecture. A decade managing a successful open source company. And way too long doing front-end web development.
 
-### elementary, Inc. _2011–present_
+### elementary, Inc. _2011–2022_
 
 #### Co-founder, Chief Experience Officer (CXO)
 
