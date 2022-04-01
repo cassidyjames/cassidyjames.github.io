@@ -21,7 +21,7 @@ source ~/.bashrc
 
 Install jekyll and bundler:
 ```bash
-gem install jekyll bundler
+gem install bundler
 ```
 
 Install gems:

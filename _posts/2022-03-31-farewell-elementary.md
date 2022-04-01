@@ -1,5 +1,7 @@
 ---
 title: Farewell, elementary
+description: I’m moving on; here’s to the future!
+image: /images/blog/farewell-elementary/card-dark.png
 updated: 2022-03-31
 ---
 
