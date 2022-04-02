@@ -47,6 +47,8 @@ Dani replied that this was not acceptable and that she didn't agree to it, and y
 
 Dani then blocked me on social media, then publicly shared her version of the story—including private company financials (which has since been picked up by the usual suspects in open source punditry)—and actually _lowered_ her informal offer. She also offered to be bought out of her shares for an even lower sum.
 
+After sharing my previous post, Dani than claimed I was spinning a story in claiming we eliminated healthcare; this is not the case, as we did eliminate the healthcare reimbursements that I and my family used to pay for our healthcare. Dani claimed they were eliminated because they weren't used which is also inaccurate; I submitted my reimbursements using a system that was so convoluted our payroll provider cancelled the program, and when i forgot to manually submit it, my family had to temporarily use savings to cover our healthcare costs—I ended up sorting out the reimbursements to recover those costs, though. When the decision was raised to cut salaries and eliminate reimbursements, I pointed out that it affected me more than anyone else due to the higher health reimbursements (which were agreed to when I was hired on). Dani's claim that the reimbursements were unused is 100% false, and does not reflect the fact that cutting my pay and healthcare caused a significant financial burden on me and my family.
+
 ### Resolution & the Future
 
 Again, I am honestly not concerned about the money, but I do want to make sure any legal agreement I am being told to sign is reviewed by a lawyer representing me, and reflects an amicable deal. I don't think my efforts to negotiate were unreasonable, even if they took longer than I would have liked.
