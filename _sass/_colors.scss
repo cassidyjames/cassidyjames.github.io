@@ -40,6 +40,17 @@
   --solarized-yellow: #b58900;
 }
 
+html.alt-style {
+  --background-color: #fafafa;
+  --neutral: #333;
+  --faint: #f3f3f3;
+
+  --primary-color: #333; // Light style text
+  --accent-color: #222; // Headings
+  --secondary-accent-color: var(--primary-color); // Header, footer
+  --secondary-accent-contrast: var(--background-color);
+}
+
 @media print {
   :root {
     --background-color: white;
@@ -59,6 +70,17 @@
     --primary-color: var(--neutral);
     --accent-color: #{ mix(#ed5353, #ff8c82) };
     --secondary-accent-color: #452981;
+    --secondary-accent-contrast: var(--neutral);
+  }
+
+  html.alt-style {
+    --background-color: #222;
+    --neutral: #ddd;
+    --faint: #333;
+
+    --primary-color: var(--neutral);
+    --accent-color: #fff; // Headings
+    --secondary-accent-color: var(--faint); // Header, footer
     --secondary-accent-contrast: var(--neutral);
   }
 }
