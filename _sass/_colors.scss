@@ -46,7 +46,7 @@ html.alt-style {
   --faint: #f3f3f3;
 
   --primary-color: #333; // Light style text
-  --accent-color: #222; // Headings
+  --accent-color: #a10705; // Headings
   --secondary-accent-color: var(--primary-color); // Header, footer
   --secondary-accent-contrast: var(--background-color);
 }
@@ -79,7 +79,7 @@ html.alt-style {
     --faint: #333;
 
     --primary-color: var(--neutral);
-    --accent-color: #fff; // Headings
+    --accent-color: #ff8c82; // Headings
     --secondary-accent-color: var(--faint); // Header, footer
     --secondary-accent-contrast: var(--neutral);
   }
