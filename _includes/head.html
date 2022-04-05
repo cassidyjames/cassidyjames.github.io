@@ -53,4 +53,45 @@
     <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
   {% endif %}
   <!-- {{ site.url }} -->
+  <script>
+    function ready(fn) {
+      if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading"){
+        fn();
+      } else {
+        document.addEventListener("DOMContentLoaded", fn);
+      }
+    }
+
+    ready(function() {
+      var altStyleButton = document.querySelector("#alt-style");
+      altStyleButton.addEventListener("click", function(e){
+        setStyle("alt");
+        e.preventDefault();
+      });
+
+      var defaultStyleButton = document.querySelector("#default-style");
+      defaultStyleButton.addEventListener("click", function(e){
+        setStyle("default");
+        e.preventDefault();
+      });
+
+      setStyle(window.localStorage.style);
+
+      function setStyle(style) {
+        window.localStorage.style = style;
+
+        if (style == "alt") {
+          altStyleButton.classList.add("hidden");
+          defaultStyleButton.classList.remove("hidden");
+
+          document.querySelector("html").classList.add("alt-style");
+        } else {
+          defaultStyleButton.classList.add("hidden");
+          altStyleButton.classList.remove("hidden");
+
+          document.querySelector("html").classList.remove("alt-style");
+        }
+      }
+    });
+  </script>
 </head>

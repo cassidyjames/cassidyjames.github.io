@@ -17,6 +17,7 @@ nav {
   a {
     color: inherit;
     display: flex;
+    fill: inherit;
     flex-shrink: 0;
     font-size: 1rem;
     font-weight: 900;
@@ -30,6 +31,7 @@ nav {
       background-color: var(--accent-color);
       border: none;
       color: var(--background-color);
+      fill: var(--background-color);
       outline: none;
       text-decoration: none;
     }
@@ -44,15 +46,13 @@ nav {
     width: 2em;
   }
 
-  .feed {
-    svg {
-      fill: inherit;
-      height: 1em;
-      margin-right: 0.33em;
-      transform: translateY(0.125em);
-      vertical-align: middle;
-      width: 1em;
-    }
+  svg {
+    fill: inherit;
+    height: 1em;
+    margin-right: 0.33em;
+    transform: translateY(0.125em);
+    vertical-align: middle;
+    width: 1em;
   }
 }
 
