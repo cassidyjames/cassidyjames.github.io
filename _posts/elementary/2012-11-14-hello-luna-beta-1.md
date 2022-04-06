@@ -1,8 +1,7 @@
 ---
 title: Hello, Luna Beta 1
-author: cassidyjames
-image: /images/hello-luna-beta-1/pantheon.png
-thanks: true
+updated: 2012-11-14
+image: https://blog.elementary.io/images/hello-luna-beta-1/pantheon.png
 
 tags:
   - luna
@@ -19,7 +18,7 @@ Luna is our greatest undertaking yet, and along with it have come many new apps,
 
 **Pantheon** is our new desktop environment and shell. It consists of the greeter, panel, app launcher, dock, window manager, settings app, and theme. Our primary focus during our development of Pantheon has been to provide a clean but powerful stage for great apps. That means a shell that fades into the background when not in use and consumes very few system resources. But it also means building a desktop that has opportunities for tight integration and offering system services.
 
-![Pantheon](/images/hello-luna-beta-1/pantheon.png)
+![Pantheon](https://blog.elementary.io/images/hello-luna-beta-1/pantheon.png)
 
 Our login screen, **Pantheon Greeter**, is now built on LightDM. It features smooth graphics and animation with Clutter, displays the time and date with beautiful typography, and has built-in accessibility.
 

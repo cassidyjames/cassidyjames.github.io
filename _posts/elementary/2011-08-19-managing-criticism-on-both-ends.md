@@ -1,6 +1,6 @@
 ---
 title: Managing Criticism on Both Ends
-author: cassidyjames
+updated: 2011-08-19
 tags:
   - meta
   - evergreen

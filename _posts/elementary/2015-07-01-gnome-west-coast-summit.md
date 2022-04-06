@@ -1,12 +1,11 @@
 ---
 title: GNOME West Coast Summit
-author: cassidyjames
+updated: 2015-07-01
 image: https://66.media.tumblr.com/c632632fc9f7abf9170af2ac18393975/tumblr_inline_nqtvig9bYv1r2vnpt_1280.jpg
 tags:
   - event
   - gnome
   - hidpi
-thanks: true
 ---
 
 ![Whiteboard agenda](https://66.media.tumblr.com/2057fbee88ed339478361ff6b8370e60/tumblr_inline_nqturoVMxI1r2vnpt_1280.jpg)

@@ -1,7 +1,7 @@
 ---
 title: 10×10 Design Process
 description: The problem and a possible solution
-author: cassidyjames
+updated: 2013-01-21
 image: /images/10x10-design-process/sketch.jpg
 
 tags:
@@ -25,7 +25,7 @@ Instead, the designer should put work into researching and better developing the
 
 Something I've come across recently while researching user experience is a process called "10×10."
 
-![10x10 sketch](/images/10x10-design-process/sketch.jpg)
+![10x10 sketch](https://blog.elementary.io/images/10x10-design-process/sketch.jpg)
 
 It's an exercise from the book [Sketching User Experiences](https://books.google.com/books/about/Sketching_User_Experiences_The_Workbook.html?id=c-RAUXk3gbkC&hl=en) that basically goes like this:
 
