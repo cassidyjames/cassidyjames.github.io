@@ -7,7 +7,7 @@ redirect_from: /blog/ive-joined-the-nonprofit-endless-os-foundation/
 hidden: true
 ---
 
-A couple of weeks ago I wrote how I was [moving on](/blog/farewell-elementary) from my involvement at elementary, Inc. and the elementary open source project—something I described to many who asked as bittersweet. While that decision was not taken lightly, enough focus on the bitter; here’s the sweet:
+A bit over a week ago I wrote how I was [moving on](/blog/farewell-elementary) from my involvement at elementary, Inc. and the elementary open source project—something I described to many who asked as bittersweet. While that decision was not taken lightly, enough focus on the bitter; here’s the sweet:
 
 I have joined the nonprofit [Endless OS Foundation](https://www.endlessos.org/) as Partner Success Engineer!
 
