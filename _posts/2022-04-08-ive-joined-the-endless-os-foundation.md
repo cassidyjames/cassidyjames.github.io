@@ -2,9 +2,6 @@
 title: I’ve Joined the Endless OS Foundation
 description: A nonprofit with a worldwide mission I believe in
 updated: 2022-04-08
-
-redirect_from: /blog/ive-joined-the-nonprofit-endless-os-foundation/
-hidden: true
 ---
 
 A bit over a week ago I wrote how I was [moving on](/blog/farewell-elementary) from my involvement at elementary, Inc. and the elementary open source project—something I described to many who asked as bittersweet. While that decision was not taken lightly, enough focus on the bitter; here’s the sweet:
