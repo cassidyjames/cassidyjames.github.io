@@ -6,7 +6,7 @@ image: https://miro.medium.com/max/700/0*dA_gBTM9jaoFo2vJ.
 legacy: true
 ---
 
-This whole YouTube Music thing has been really poorly handled. It’s not entirely clear where the overlap is between existing services and subscriptions, what will happen to users’ content, and when anything is actually happening (some users are using the new YouTube Music app, but others, like me, got an ad for it and are still seeing the old version).
+This whole [YouTube Music thing](https://www.androidpolice.com/2018/05/24/updated-youtube-music-now-rolling-will-eventually-play-music-features/) has been really poorly handled. It’s not entirely clear where the overlap is between existing services and subscriptions, what will happen to users’ content, and when anything is actually happening (some users are using the new YouTube Music app, but others, like me, got an ad for it and are still seeing the old version).
 
 ![Black headphones leaning against a collection of vinyl records on a shelf]({{ page.image }})
 
@@ -23,7 +23,7 @@ Today Google announced it was doubling down on the success of the YouTube brand,
 
 ### YouTube Music
 
-Google Play Music and YouTube Music will be combined under the latter’s name, marking the largest change for the music service since its purchase and integration of Songza. It looks poised to take on Spotify with curated playlists, daily mixes, and that smart algorithmic curation from Songza. Users’ libraries amassed over the years (from both uploads and purchases on Google Play Music, plus likes on YouTube) will move over to the new app along with their playlists and custom radio stations.
+Google Play Music and YouTube Music will be combined under the latter’s name, marking the largest change for the music service since its [purchase](https://www.androidpolice.com/2014/07/01/google-buys-songza-has-no-immediate-plans-to-kill-the-app/) and [integration](https://www.androidpolice.com/2014/10/21/google-throws-songza-contextual-playlists-into-play-musics-material-design-update/) of Songza. It looks poised to take on Spotify with curated playlists, daily mixes, and that smart algorithmic curation from Songza. Users’ libraries amassed over the years (from both uploads and purchases on Google Play Music, plus likes on YouTube) will move over to the new app along with their playlists and custom radio stations.
 
 The YouTube name of course brings over a trove of both official music videos and user-uploaded covers that will be smartly tagged alongside the existing library of songs. It sounds like it should be much tidier than the existing YouTube music listening experience, while still allowing for easier discovery and filling any holes in the content selection.
 
@@ -35,13 +35,13 @@ With the integration of the Google Play library, it starts to feel a lot more li
 
 ### YouTube Podcasts
 
-YouTube Podcasts was the service nobody expected, but one that makes a lot of sense. Many podcasters already leverage the video sharing platform for distribution, and this new service brings that existing content plus the podcasts from the old Google Play Music service into one purpose-built app and site for podcast listening. The recently-announced doubling down on podcasts seems to be happening under this umbrella, with the tight integration into Google Search and Assistant being badged with a new YouTube Podcasts icon.
+YouTube Podcasts was the service nobody expected, but one that makes a lot of sense. Many podcasters already leverage the video sharing platform for distribution, and this new service brings that existing content plus the podcasts from the old Google Play Music service into one purpose-built app and site for podcast listening. The [recently-announced doubling down on podcasts](https://www.androidpolice.com/2018/04/30/google-big-plans-improve-podcasts-boost-android-listeners/) seems to be happening under this umbrella, with the tight integration into Google Search and Assistant being badged with a new YouTube Podcasts icon.
 
 What we’ve seen of the new app looks great with all of the features you’d expect, including cross-device syncing, playback speed controls, dead air removal, a sleep timer, and auto-queuing of older or newer episodes. Stay tuned for a deeper dive into this app once we’ve had some hands-on time.
 
 ### Farewell, Google Play
 
-What about the other Google Play services? Google Play Newsstand was already pulled out of the Google Play brand with the introduction of a revamped Google News. Google Play Books will be simplified to Google Books, where it will retain its large library of ebooks, digital comics, and audiobooks. So it would appear the YouTube brand is focused on audio and video content, while Google is dismantling the “Play” part of the Google Play brand.
+What about the other Google Play services? Google Play Newsstand was already pulled out of the Google Play brand with [the introduction of a revamped Google News](https://www.androidpolice.com/2018/05/08/google-news-overhauled-new-interface-features-merged-play-newsstands/). Google Play Books will be simplified to Google Books, where it will retain its large library of ebooks, digital comics, and audiobooks. So it would appear the YouTube brand is focused on audio and video content, while Google is dismantling the “Play” part of the Google Play brand.
 
 As such, the Google Play Store on Android will simply be renamed to the Google Store, still surfacing content from each of the YouTube and Google services, including apps and games for Android and Chrome OS (which makes the lack of Android branding make some sense). This might be confusing at first, but since the experience stays largely the same, it feels like users will adapt pretty quickly.
 
