@@ -1,12 +1,12 @@
 ---
-title: Cassidy James Blaede
+title: Home
 ---
 
 ![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256&d=blank){: .avatar width="128" height="128"}
 
 # Cassidy James Blaede
 
-I'm a **UX architect** who designs and builds useful, usable, and delightful **digital products** using **open technologies**.
+{{ site.description }}
 
 <div class="cards" markdown="1">
 <section class="code card" markdown="1">
