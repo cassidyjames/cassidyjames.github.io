@@ -20,7 +20,7 @@ Over a decade of open source collaboration. A decade of user experience architec
 
 I work as a bridge between the foundation's dozens of impact partners—the organizations on the ground deploying the open source, Linux-based [Endless OS](https://www.endlessos.org/os) and other technologies around the world—and the Endless engineering team. My job is to ensure our mutual success by improving processes and documentation and supporting both our partners and engineers however I can.
 
-[Read More](/blog/ive-joined-the-endless-os-foundationt)
+[Read More](/blog/ive-joined-the-endless-os-foundation)
 
 ### elementary, Inc. _2011–2022_
 
