@@ -15,7 +15,9 @@ I'm a **UX architect** who designs and builds useful, usable, and delightful **d
 Partner Success Engineer at the **Endless OS Foundation**. Previously, I co-founded elementary, Inc. and was the UX Architect at System76.
 
 <a href="https://endlessos.org" class="read-more"><i class="fa fa-fw fa-info-circle"></i> Learn about Endless</a>
+
 <a href="https://elementary.io" class="read-more"><i class="fa fa-fw fa-info-circle"></i> Learn about elementary</a>
+
 <a href="https://system76.com" class="read-more"><i class="fa fa-fw fa-info-circle"></i> Learn about System76</a>
 
 <a href="/resume" class="read-more resume"><i class="far fa-fw fa-file-alt"></i>See résumé</a>
