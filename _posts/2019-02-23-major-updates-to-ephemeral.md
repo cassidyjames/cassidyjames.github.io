@@ -1,7 +1,7 @@
 ---
 title: Major Updates to Ephemeral
 description: What’s new with the always-incognito web browser
-updated: 2019-05-15
+updated: 2019-02-23
 legacy: true
 
 image: https://miro.medium.com/max/1400/1*v1WOWAngiyB9tAjuaqjn4Q.png
