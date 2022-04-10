@@ -67,7 +67,7 @@ The first version of Ephemeral simply pulled any other installed web browsers in
 
 Clearly this wasn’t the best long-term solution. So I added a new browser menu with some handy behavior. By default, it shows the standard “export” icon that’s expected when sharing data out to external apps. Clicking this brings up a menu of any installed web browsers. Choosing one of these browsers opens the site in that browser.
 
-<figure markdown="1">
+<figure class="half" markdown="1">
 ![Screenshot](https://miro.medium.com/max/5612/1*CjKF7gUDosjkFZKuxfF91g@2x.png)
 ![Screenshot](https://miro.medium.com/max/5612/1*KmNK_BHLT9ZvR7yKF6AuOA@2x.png)
 <figcaption>New Browser Menu without a default selected. Plus, Ephemeral remembers your previously-chosen browser.</figcaption>
@@ -87,7 +87,7 @@ Instead, I took inspiration from Firefox Focus yet again, and compiled a list of
 URL suggestions with multiple domains show a menu, and single domains autocomplete
 
 
-<figure markdown="1">
+<figure class="half" markdown="1">
 ![Screenshot](https://miro.medium.com/max/4096/1*B6ds8x8bzIq9JKdg-Nf67A.jpeg)
 ![Screenshot](https://miro.medium.com/max/4096/1*O1170zpy4U4xWFt_fKY1Og.jpeg)
 <figcaption>URL suggestions with multiple domains show a menu, and single domains autocomplete</figcaption>
