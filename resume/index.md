@@ -14,13 +14,21 @@ To design, implement, and continuously improve excellent experiences, especially
 
 Over a decade of open source collaboration. A decade of user experience architecture. A decade managing a successful open source company. And way too long doing front-end web development.
 
+### Endless OS Foundation _2022–_
+
+#### Partner Success Engineer
+
+I work as a bridge between the foundation's dozens of impact partners—the organizations on the ground deploying the open source, Linux-based [Endless OS](https://www.endlessos.org/os) and other technologies around the world—and the Endless engineering team. My job is to ensure our mutual success by improving processes and documentation and supporting both our partners and engineers however I can.
+
+[Read More](/blog/ive-joined-the-endless-os-foundationt)
+
 ### elementary, Inc. _2011–2022_
 
 #### Co-founder, Chief Experience Officer (CXO)
 
 I co-founded the company in 2011 and have helped it grow to sustain multiple employees while releasing 6 major OS releases, a pay-what-you-can app store, and multiple technology stack shifts like Python to Vala, GTK2 to GTK3, and Debian to Flatpak.
 
-Personally, I am responsible for the overall experience and messaging of the company and our products, user experience architecture, and being a liason between parties including end users, OEMs, developers, and other open source projects.
+Personally, I was responsible for the overall experience and messaging of the company and products, user experience architecture, and being a liason between parties including end users, OEMs, developers, and other open source projects.
 
 ##### Responsibilities:
 
