@@ -12,7 +12,7 @@ tags:
   - elementary
 ---
 
-![icon](https://miro.medium.com/max/512/1*ngAOt2L66W0QUXBiHYsrnQ@2x.png)
+![icon](https://miro.medium.com/max/512/1*ngAOt2L66W0QUXBiHYsrnQ@2x.png){: width="128" height="128 }
 
 Ever since [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/#focus) landed on Android, I’ve been a fan. It’s an interesting idea of making privacy a habit by default instead of a separate mode you manually enable; on Android, you can set it as your default web browser meaning Google doesn’t vacuum up all of your browsing history in Chrome and sites don’t get persistent cookies and other trackers following you everywhere.
 
