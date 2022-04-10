@@ -5,6 +5,11 @@ updated: 2019-05-15
 legacy: true
 
 image: https://miro.medium.com/max/1400/1*v1WOWAngiyB9tAjuaqjn4Q.png
+
+tags:
+  - Ephemeral
+  - AppCenter
+  - elementary
 ---
 
 ![Ephemeral, the always-incognito web browser]({{ page.image }})
@@ -13,11 +18,11 @@ Today I’m happy to announce the latest release of the private-by-default brows
 
 ## What is Ephemeral?
 
-If you’re just hearing about it for the first time (or need a refresher): Ephemeral is the private-by-default, always-incognito browser for elementary OS. It’s heavily inspired by Firefox Focus—a mobile web browser—but designed and developed specifically for elementary OS using standard libraries for the platform like GTK, Granite, and WebKit.
+If you’re just hearing about it for the first time (or need a refresher): Ephemeral is the private-by-default, always-incognito browser for elementary OS. It’s heavily inspired by [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/#focus)—a mobile web browser—but designed and developed specifically for elementary OS using standard libraries for the platform like GTK, Granite, and WebKit.
 
 The primary design is that you set it as your default browser, and thus any links you click on from other apps are opened in a new instance that’s completely separated from your normal browsing. It rejects third-party cookies, uses a privacy-respecting search engine, and prevents ad trackers from following you around the web.
 
-Ephemeral is available on AppCenter for a suggested price of $9.
+Ephemeral is [available on AppCenter](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral/) for a suggested price of $9.
 
 ## Ephemeral 5.0
 
@@ -47,7 +52,7 @@ Hannes Schulze worked to make the URL entry and suggestions much nicer. We refin
 
 Hannes also improved the matching of suggestions; for example, typing “out” will now suggest “theoutline.com”. If there’s a domain that begins with “out,” it’ll show up above those fuzzier matches as well. And user-added domains are always listed above the default popular domains.
 
-This work utilizes Dazzle, a library of fancy and typically animated widgets that’s used in projects like Epiphany (GNOME Web) and GNOME Builder—it’s great to see it in action on elementary OS.
+This work utilizes [Dazzle](https://gitlab.gnome.org/GNOME/libdazzle), a library of fancy and typically animated widgets that’s used in projects like Epiphany (GNOME Web) and GNOME Builder—it’s great to see it in action on elementary OS.
 
 ### Refined Alert and Prompt Dialogs
 
@@ -57,4 +62,4 @@ David Hewitt worked to replace the rough built-in WebKit dialogs for JavaScript 
 
 ## Get Ephemeral
 
-Ephemeral is available on AppCenter for elementary OS for $9 or pay-what-you-want. Version 5.0 is available today while 5.1 should be rolling out shortly.
+Ephemeral is [available on AppCenter](https://appcenter.elementary.io/com.github.cassidyjames.ephemeral/) for elementary OS for $9 or pay-what-you-want. Version 5.0 is available today while 5.1 should be rolling out shortly.
