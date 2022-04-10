@@ -3,6 +3,7 @@ title: 10×10 Design Process
 description: The problem and a possible solution
 updated: 2013-01-21
 image: /images/10x10-design-process/sketch.jpg
+legacy: true
 
 tags:
   - design

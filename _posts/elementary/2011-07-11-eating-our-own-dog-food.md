@@ -2,6 +2,7 @@
 title: Eating Our Own Dogfood
 description: Woof!
 updated: 2011-07-11
+legacy: true
 tags:
   - meta
 ---
