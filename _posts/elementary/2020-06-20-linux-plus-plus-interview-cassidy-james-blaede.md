@@ -2,12 +2,14 @@
 title: Linux++ Interviews Cassidy
 description: An excerpt from Linux++ issue 20
 author: linuxplusplus
-image: /images/linux-plus-plus-interview-cassidy-james-blaede/feature.png
+image: https://blog.elementary.io/images/linux-plus-plus-interview-cassidy-james-blaede/feature.png
+legacy: elementary
+updated: 2020-06-20
 tags:
   - interview
 ---
 
-![Linux++]({{ page.image }}){: srcset="/images/{{ page.slug }}/feature@2x.png 2x" width="800" height="266"}
+![Linux++]({{ page.image }}){: srcset="https://blog.elementary.io/images/{{ page.slug }}/feature@2x.png 2x" width="800" height="266"}
 
 <aside markdown="1">
 >Below is an excerpt of Linux++ issue 20. Be sure to read [the full article][article].
