@@ -1,7 +1,8 @@
 ---
 title: Parental Controls & Metered Data Hackfest
 description: Working with GNOME on shared features
-date: '2019-03-22T00:48:49.069Z'
+updated: 2019-03-22
+legacy: elementary
 author: cassidyjames
 image: https://cdn-images-1.medium.com/max/2000/1*1RRs1e_qsZVBgvddOEUElw.jpeg
 tags:

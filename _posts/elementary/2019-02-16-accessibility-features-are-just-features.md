@@ -1,7 +1,8 @@
 ---
 title: Accessibility Features Are Just Features
 description: An OS-wide curb-cutting effort
-date: '2019-02-16T19:54:18.288Z'
+updated: 2019-02-16
+legacy: elementary
 author: cassidyjames
 image: https://cdn-images-1.medium.com/max/1600/0*3Q6Snc6Qga_HsPK7
 tags:

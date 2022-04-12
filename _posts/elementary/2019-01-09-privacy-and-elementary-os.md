@@ -1,8 +1,9 @@
 ---
 title: Privacy and elementary OS
 description: How we protect your data from ourselves and others
-date: '2019-01-09T16:21:00.830Z'
+updated: 2019-01-09
 author: cassidyjames
+legacy: elementary
 image: https://cdn-images-1.medium.com/max/1600/1*A6acK8YdY-_VS414hveMlw.jpeg
 tags:
   - privacy
@@ -93,12 +94,7 @@ elementary OS—and everything else we do—has always been completely open sour
 
 Lastly, I’d like to remind you how we can have this stance: our users are not the product of elementary. We sell a pay-what-you-want OS and facilitate the sale of pay-what-you-want apps. We don’t make advertising deals, we don’t collect or sell data, and we aren’t funded by massive tech giants. We have a direct relationship with our customers and users.
 
-Daniel has written about this a bit more in depth:
-
-<div>
-{% assign post = site.posts | where:"slug", "you-are-not-the-product" | first %}
-{% include featured.html post=post %}
-</div>
+Daniel has written about this [a bit more in depth](https://blog.elementary.io/you-are-not-the-product).
 
 By ensuring our relationship and funding model is clear and direct with users, we eliminate all business incentives to harvest data. And that’s critical in order to actually respect and defend your privacy.
 
