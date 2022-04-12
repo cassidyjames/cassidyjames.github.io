@@ -7,15 +7,23 @@ layout: default
 <h1>Cassidy’s Blog</h1>
 
 {% if page.hidden %}
-<aside>
+  <aside>
     <p><strong>This blog post is not published. It might be unfinished, inaccurate, or otherwise not fit to be shared publicly.</strong></p>
-</aside>
+  </aside>
 {% endif %}
 
 {% if page.legacy %}
-<aside>
-    <p><strong>This blog post was migrated from an old version of my blog.</strong> Double-check that date for its relevance, and sorry about any formatting issues!</p>
-</aside>
+  <aside>
+    <p>
+      {% if page.legacy == "elementary" %}
+        <strong>This blog post was cross-posted from <a href="https://blog.elementary.io" target="_blank">the elementary blog</a>.</strong>
+      {% else %}
+        <strong>This blog post was migrated from an old version of my blog.</strong>
+      {% endif %}
+
+      Double-check that date for its relevance, and sorry about any formatting issues!
+    </p>
+  </aside>
 {% endif %}
 
 <article>
@@ -32,6 +40,10 @@ layout: default
   {% include read-time.html content=page.content %}
 
   {{ content }}
+
+  {% if page.legacy == 'elementary' %}
+    {% include cc-by-sa.html %}
+  {% endif %}
 
   <hr style="clear: both;" />
 
