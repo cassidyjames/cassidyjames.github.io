@@ -4,6 +4,7 @@ description: It’s time for the FreeDesktop to catch up
 date: '2019-05-17T23:00:22.252Z'
 author: cassidyjames
 image: https://cdn-images-1.medium.com/max/1952/1*NwP8sxbRTq7pzJLhDE2rnA@2x.png
+legacy: elementary
 tags:
   - gnome
   - fdo
@@ -32,18 +33,9 @@ However, there’s a groundswell for user-determined dark style preference acros
 
 In my time contributing to elementary and GNOME, I’ve become familiar with pleas from users to implement official support for arbitrary themes — while that itself is a large and controversial topic, I have been working over the past few years to better understand the _why_ behind these requests. In addition to listening to folks across the elementary, Pop!\_OS, and GNOME issue trackers, social media, and in-person at hackfests, meetups, and conferences, I also decided to conduct a study to see if I could identify patterns in the data; over 1,500 users of various OSes and environments like Android, GNOME, Ubuntu, and macOS (and dozens more) participated, giving me a decent look into this group of users. I wanted to look into behaviors and opinions around three distinct areas of user interfaces: custom styles, dark modes, and night light modes.
 
-A longer-form writeup of the study is available [here]({{ site.baseurl }}{% post_url 2019/2019-05-17-user-interface-study-findings %}), but in summary, I found that **an overwhelming majority (88%) of respondents said they sometimes or always use a dark style** when given the choice, and **81% of that group are using dark modes to address factors outside of their device** like getting headaches, combating eye strain, or working in a darker office. The study also dove into night light and some other interesting findings, but this is the most relevant bit to me regarding a dark style preference.
+A longer-form writeup of the study is available [here]({{ site.baseurl }}{% post_url elementary/2019-05-17-user-interface-study-findings %}), but in summary, I found that **an overwhelming majority (88%) of respondents said they sometimes or always use a dark style** when given the choice, and **81% of that group are using dark modes to address factors outside of their device** like getting headaches, combating eye strain, or working in a darker office. The study also dove into night light and some other interesting findings, but this is the most relevant bit to me regarding a dark style preference.
 
-Clearly there’s an accessibility and usability angle here. And as with [other accessibility efforts]({{ site.baseurl }}{% post_url 2019/2019-02-16-accessibility-features-are-just-features %}), it’s important to not relegate a dark style preference to a buried “Universal Access” or “Accessibility” feature, as that makes it less discoverable, less tested, and less likely to be used by folks who could greatly benefit, but don’t consider themselves “disabled.”
-
----
-
-<div>
-{% assign post = site.posts | where:"slug", "accessibility-features-are-just-features" | first %}
-{% include featured.html post=post %}
-</div>
-
----
+Clearly there’s an accessibility and usability angle here. And as with [other accessibility efforts]({{ site.baseurl }}{% post_url elementary/2019-02-16-accessibility-features-are-just-features %}), it’s important to not relegate a dark style preference to a buried “Universal Access” or “Accessibility” feature, as that makes it less discoverable, less tested, and less likely to be used by folks who could greatly benefit, but don’t consider themselves “disabled.”
 
 ## Prior Art
 
@@ -54,7 +46,7 @@ Luckily for us, other platforms have settled into strikingly similar implementat
 macOS implemented a system-wide dark style in two phases. First, the system UI (like the dock and panel) followed a user-settable dark preference. Second, Apple implemented it in their first-party default apps and opened it up to third party apps.
 
 <figure class="card" markdown="1">
-![Yosemite]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/macos-yosemite-light-dark-800.png){: srcset="{{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/macos-yosemite-light-dark-1600.png 2x"}
+![Yosemite](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/macos-yosemite-light-dark-800.png){: srcset="https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/macos-yosemite-light-dark-1600.png 2x"}
 <figcaption markdown="1">
 "Dark menu bar and Dock" setting in macOS Yosemite; screenshot from [512 Pixels](https://512pixels.net/2018/06/on-macos-mojaves-dark-mode/)
 </figcaption>
@@ -63,7 +55,7 @@ macOS implemented a system-wide dark style in two phases. First, the system UI (
 The first phase in macOS Yosemite made sense to cater to users of “pro” apps that already use a dark UI style by default, like Photoshop or most video editors. This meant that users of those apps had a less jarring experience between their primary app UI and the system UI. It was a nice step, but was only the start.
 
 <figure markdown="1">
-![Mojave]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/macos-general-preferences-800.png){: srcset="{{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/macos-general-preferences-1600.png 2x"}
+![Mojave](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/macos-general-preferences-800.png){: srcset="https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/macos-general-preferences-1600.png 2x"}
 <figcaption markdown="1">
 Appearance preference added in macOS Mojave; screenshots from [512 Pixels](https://512pixels.net/2018/06/on-macos-mojaves-dark-mode/)
 </figcaption>
@@ -82,8 +74,8 @@ The end result on macOS: a very consistent system with a few standout light thir
 Windows 10 looks a bit messier than macOS due to its wide use of multiple toolkits, but the idea is largely the same to macOS. A user can set a dark style preference, and that’s enabled in the system UI plus “modern UI” apps by default (since it was a supported feature of that toolkit from day one).
 
 <figure class="half card" markdown="1">
-![Windows 10 Light]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/windows-10-settings-light-style.png)
-![Windows 10 Dark]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/windows-10-settings-dark-style.png)
+![Windows 10 Light](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/windows-10-settings-light-style.png)
+![Windows 10 Dark](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/windows-10-settings-dark-style.png)
 <figcaption markdown="1">
 Light or dark "app mode" in Windows 10 settings; screenshots from [Windows Experience Blog](https://blogs.windows.com/windowsexperience/2019/04/01/windows-10-tip-dark-theme-in-file-explorer/)
 </figcaption>
@@ -96,8 +88,8 @@ Some apps with the older Windows toolkit (like Explorer, their file manager) als
 Similar to macOS, Android implemented a dark style in two phases: first the system UI, then opening up the API to apps.
 
 <figure class="half card" markdown="1">
-![Pixel Launcher Light]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/android-pixel-launcher-light-800.png){: srcset="{{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/android-pixel-launcher-light-1600.png 2x"}
-![Pixel Launcher Dark]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/android-pixel-launcher-dark-800.png){: srcset="{{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/android-pixel-launcher-dark-1600.png 2x"}
+![Pixel Launcher Light](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/android-pixel-launcher-light-800.png){: srcset="https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/android-pixel-launcher-light-1600.png 2x"}
+![Pixel Launcher Dark](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/android-pixel-launcher-dark-800.png){: srcset="https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/android-pixel-launcher-dark-1600.png 2x"}
 <figcaption markdown="1">
 Light or dark style in Android 9 Pie; screenshots from [Android Police](https://www.androidpolice.com/2017/10/17/pixel-launcher-pixel-2-automatic-dark-light-themes-based-wallpaper/)
 </figcaption>
@@ -106,9 +98,9 @@ Light or dark style in Android 9 Pie; screenshots from [Android Police](https://
 In Android 9 Pie, Google introduced a user preference for a dark style (by default based on the wallpaper, but also user-togglable) that set some parts of the system UI to a darker style. Some first-party apps like the dialer and Messages also followed this style, while other apps like the keyboard and Google News would switch to their own dark style when Battery Saver was on to save power on OLED screens.
 
 <figure class="third card" markdown="1">
-![Dialer]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/android-dialer-light-dark-800.png)
-![Settings]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/android-settings-light-dark-800.png)
-![Keep Notes]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/android-keep-notes-light-dark-800.png)
+![Dialer](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/android-dialer-light-dark-800.png)
+![Settings](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/android-settings-light-dark-800.png)
+![Keep Notes](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/android-keep-notes-light-dark-800.png)
 <figcaption markdown="1">
 Various apps following the system "Dark Theme"
 </figcaption>
@@ -123,7 +115,7 @@ Android also includes a sort of “smart invert” option in the toolkit that in
 Much like macOS before it, iOS 13 introduced its own dark style preference, called "Appearance." It behaves much the same as on macOS with the system UI getting a darker tint. Apple also ships some wallpapers with light/dark appearance support.
 
 <figure markdown="1">
-![iOS Wallpapers]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/iOS-13-dark-mode-wallpapers.png)
+![iOS Wallpapers](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/iOS-13-dark-mode-wallpapers.png)
 <figcaption markdown="1">
 Wallpapers following the "Appearance" settings in iOS 13; screenshots from [MacRumors](https://www.macrumors.com/guide/ios-dark-mode/)
 </figcaption>
@@ -132,7 +124,7 @@ Wallpapers following the "Appearance" settings in iOS 13; screenshots from [MacR
 Apps are encouraged to build against the latest iOS and use system controls when possible for automatic dark style support, but to also extensively test and adapt their apps where needed for both light and dark styles.
 
 <figure markdown="1">
-![iOS Wallpapers]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/iOS-13-dark-mode-schedules.png)
+![iOS Wallpapers](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/iOS-13-dark-mode-schedules.png)
 <figcaption markdown="1">
 Light and Dark "Appearance" settings in iOS 13; screenshots from [MacRumors](https://www.macrumors.com/guide/ios-dark-mode/)
 </figcaption>
@@ -145,8 +137,8 @@ Interestingly, iOS 13 also includes an automatic schedule feature for the dark s
 Dark style support—not just for app UI but also websites—is shipping or coming soon across upcoming versions of all major browsers on macOS, Windows, Android, and Chrome OS.
 
 <figure class="half" markdown="1">
-![Safari Light]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/webkit-light-800.png){: srcset="{{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/webkit-light-1600.png 2x"}
-![Safari Dark]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/webkit-dark-800.png){: srcset="{{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/webkit-dark-1600.png 2x"}
+![Safari Light](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/webkit-light-800.png){: srcset="https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/webkit-light-1600.png 2x"}
+![Safari Dark](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/webkit-dark-800.png){: srcset="https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/webkit-dark-1600.png 2x"}
 <figcaption markdown="1">
 WebKit.org in Safari; screenshots from [WebKit.org](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
 </figcaption>
@@ -155,12 +147,12 @@ WebKit.org in Safari; screenshots from [WebKit.org](https://webkit.org/blog/8840
 If the browser is requesting a dark style (because the OS is), _and_ the website has expressed support for a dark style, then the browser provides dark-styled standard widgets like buttons and text entries, and the website uses its dark styles as defined in a CSS media query.
 
 <figure class="half" markdown="1">
-![Firefox Light]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/firefox-elementary-blog-light-800.png){: srcset="{{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/firefox-elementary-blog-light.png 2x"}
-![Firefox Dark]({{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/firefox-elementary-blog-dark-800.png){: srcset="{{ site.baseurl }}/images/the-need-for-a-freedesktop-dark-style-preference/firefox-elementary-blog-dark.png 2x"}
+![Firefox Light](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/firefox-elementary-blog-light-800.png){: srcset="https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/firefox-elementary-blog-light.png 2x"}
+![Firefox Dark](https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/firefox-elementary-blog-dark-800.png){: srcset="https://blog.elementary.io/images/the-need-for-a-freedesktop-dark-style-preference/firefox-elementary-blog-dark.png 2x"}
 <figcaption>This site in Firefox with a Light and Dark style</figcaption>
 </figure>
 
-We're currently [supporting this on the blog]({{ site.baseurl }}{% post_url 2019/2019-08-15-welcome-to-the-new-blog %}) with pure CSS, but web developers can also hook off this media query using JavaScript and do pretty much whatever they want to cater to a dark UI.
+We're currently [supporting this on the blog]({{ site.baseurl }}{% post_url elementary/2019-08-15-welcome-to-the-new-blog %}) with pure CSS, but web developers can also hook off this media query using JavaScript and do pretty much whatever they want to cater to a dark UI.
 
 ## Key Requirements
 

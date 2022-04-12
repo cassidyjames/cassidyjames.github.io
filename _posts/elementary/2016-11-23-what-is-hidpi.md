@@ -1,8 +1,9 @@
 ---
 title: What is HiDPI
 description: and Why Does it Matter?
-date: '2016-11-23T19:33:39.241Z'
+updated: 2016-11-23
 author: cassidyjames
+legacy: elementary
 image: https://cdn-images-1.medium.com/max/800/1*VRciIe3d3U-EYduVMs1YCw.png
 tags:
   - hidpi

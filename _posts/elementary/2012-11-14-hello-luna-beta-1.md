@@ -2,7 +2,7 @@
 title: Hello, Luna Beta 1
 updated: 2012-11-14
 image: https://blog.elementary.io/images/hello-luna-beta-1/pantheon.png
-legacy: true
+legacy: elementary
 
 tags:
   - luna

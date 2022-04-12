@@ -1,13 +1,14 @@
 ---
 title: "Why the Looped Square (⌘) Symbol?"
 author: cassidyjames
-date: 2018-03-01
-image: /images/why-the-looped-square-symbol/card.png
+updated: 2018-03-01
+legacy: elementary
+image: https://blog.elementary.io/images/why-the-looped-square-symbol/card.png
 tags:
   - design
 ---
 
-![⌘](/images/{{ page.slug }}/card.png){: width="800" height="450"}
+![⌘](https://blog.elementary.io/images/{{ page.slug }}/card.png){: width="800" height="450"}
 
 Keyboard shortcuts in elementary OS are the same no matter if it’s a Windows-branded keyboard or not; we just use the ⌘ [looped square (aka St. John’s Arms, place of interest, or command symbol)](https://en.wikipedia.org/wiki/Looped_square) icon to denote the Super key. Daniel Foré actually covered this pretty well in a recent Google+ post talking about the keyboard settings:
 

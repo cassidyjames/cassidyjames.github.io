@@ -2,8 +2,9 @@
 title: We’re Back from LAS 2018
 description: Sharing knowledge and wisdom in Denver, Colorado
 author: cassidyjames
-date: 2018-09-12T05:19:15.486Z
-image: /assets/images/were-back-from-libre-application-summit-2018/1mRaQK_yUWddw-WKriNzBog.jpeg
+updated: 2018-09-12
+legacy: elementary
+image: https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1mRaQK_yUWddw-WKriNzBog.jpeg
 tags:
   - event
   - flatpak
@@ -19,7 +20,7 @@ The event was three days of talks and impromptu hacking, plus one day of BoFs (b
 ## Talks
 
 <figure markdown="1">
-![Talks in the large common area](/assets/images/were-back-from-libre-application-summit-2018/1jWaChSq_hnllR-NjvxdNnw.jpeg)
+![Talks in the large common area](https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1jWaChSq_hnllR-NjvxdNnw.jpeg)
 <figcaption markdown="1">
 Talks in the large common area
 </figcaption>
@@ -36,9 +37,9 @@ Both were very well received and spurred on great questions and discussions imme
 ## BoFs & Hacking
 
 <figure class="third" markdown="1">
-![](/assets/images/were-back-from-libre-application-summit-2018/1opoZeVS4nB1ePFMps02ngg.jpeg)
-![](/assets/images/were-back-from-libre-application-summit-2018/1ANsDztIXPda3v1HtKQP_MA.jpeg)
-![BoFs and hacking in the swanky venue](/assets/images/were-back-from-libre-application-summit-2018/1MtjU7xXTlvhvEIoVT9wyDg.jpeg)
+![](https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1opoZeVS4nB1ePFMps02ngg.jpeg)
+![](https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1ANsDztIXPda3v1HtKQP_MA.jpeg)
+![BoFs and hacking in the swanky venue](https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1MtjU7xXTlvhvEIoVT9wyDg.jpeg)
 <figcaption markdown="1">
 BoFs and hacking in the swanky venue
 </figcaption>
@@ -47,8 +48,8 @@ BoFs and hacking in the swanky venue
 The BoFs at LAS were very informal. There were sessions about Flatpak, CI, GTK, Vala, and more. Across a few evenings and the BoF day, we also worked on tackling saving AppCenter payment methods so it’s easier to one-click purchase apps in the future. We made great progress on the design and UI prototypes. We also identified the changes that need to happen on the API side to support reusing payment methods without us having to store raw payment card data on the client or our servers.
 
 <figure class="half" markdown="1">
-![](/assets/images/were-back-from-libre-application-summit-2018/16g-4klpkbe27v1JGiBRWNQ@2x.png)
-![Prototype UI for reusing payment methods](/assets/images/were-back-from-libre-application-summit-2018/1dYWsdfx__gZeoRg3vHv9rQ@2x.png)
+![](https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/16g-4klpkbe27v1JGiBRWNQ@2x.png)
+![Prototype UI for reusing payment methods](https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1dYWsdfx__gZeoRg3vHv9rQ@2x.png)
 <figcaption>Prototype UI for reusing payment methods</figcaption>
 </figure>
 
@@ -59,10 +60,10 @@ This work is ongoing and doesn’t have a set completion date, but we’re excit
 It wouldn’t be an open source conference without the social events! We joined fellow LASers around Denver at Vine Street Pub, Slice Works, The 1UP barcade, the System76 factory, and some of us even took a day trip up to Mount Evans. It was great to both meet back up with familiar faces and make new friends as we got away from the computers and bonded over food, drinks, games, and nature.
 
 <figure class="half" markdown="1">
-![](/assets/images/were-back-from-libre-application-summit-2018/1ZnXbNP25TeI95AW2Mt9ZtA.jpeg)
-![](/assets/images/were-back-from-libre-application-summit-2018/1MpWXi5lgKsylFUa0ckSg4Q.jpeg)
-![](/assets/images/were-back-from-libre-application-summit-2018/1mRaQK_yUWddw-WKriNzBog.jpeg)
-![](/assets/images/were-back-from-libre-application-summit-2018/1Aw9oWTTHfZruWYv5BfwNaw.jpeg)
+![](https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1ZnXbNP25TeI95AW2Mt9ZtA.jpeg)
+![](https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1MpWXi5lgKsylFUa0ckSg4Q.jpeg)
+![](https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1mRaQK_yUWddw-WKriNzBog.jpeg)
+![](https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1Aw9oWTTHfZruWYv5BfwNaw.jpeg)
 </figure>
 
 ## Thanks
