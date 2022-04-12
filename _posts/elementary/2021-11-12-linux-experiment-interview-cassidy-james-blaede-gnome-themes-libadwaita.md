@@ -2,7 +2,9 @@
 title: Cassidy on GNOME, Themes, and More
 description: The Linux Experiment interviews Cassidy for a video
 author: the-linux-experiment
-image: /images/linux-experiment-interview-cassidy-james-blaede-gnome-themes-libadwaita/card.png
+image: https://blog.elementary.io/images/linux-experiment-interview-cassidy-james-blaede-gnome-themes-libadwaita/card.png
+legacy: elementary
+updated: 2021-11-12
 tags:
   - gnome
   - interview
@@ -31,7 +33,7 @@ Below are the questions provided by Nick and Cassidy's answers, lightly edited f
 >First, you have the people making the GNOME desktop. GNOME is less like a traditional top-down software company and really more like [a collective of people](https://foundation.gnome.org/membership/) with overlapping ideals but often very different opinions! This is great for a diversity of thought but sometimes can be frustrating because there is not a singular person or vision you can point to for the ultimate direction of GNOME; you have to look at the direction as a whole, and understand that there are many, many people who are generally steering GNOME in the direction it is going.
 
 <figure markdown="1" style="margin: 3rem auto;">
-![GUADEC Group Photo](/images/{{ page.slug }}/GUADEC2019.jpg)
+![GUADEC Group Photo](https://blog.elementary.io/images/{{ page.slug }}/GUADEC2019.jpg)
 <figcaption markdown="1">
 Group photo from the [GNOME User and Developer Conference 2019](/elementary-at-guadec-2019/). Contributors pictured include individuals from CodeThink, Collabora, elementary, Endless, Igalia, Purism, Red Hat, System76, Ubuntu, and more.
 </figcaption>
@@ -62,12 +64,12 @@ Group photo from the [GNOME User and Developer Conference 2019](/elementary-at-g
 
 <figure class="half">
   <picture>
-    <source srcset="/images/elementary-os-6-odin-released/onboarding-dark.png" media="(prefers-color-scheme: dark)">
-    <img alt="Onboarding" src="/images/elementary-os-6-odin-released/onboarding.png" width="532" height="450" />
+    <source srcset="https://blog.elementary.io/images/elementary-os-6-odin-released/onboarding-dark.png" media="(prefers-color-scheme: dark)">
+    <img alt="Onboarding" src="https://blog.elementary.io/images/elementary-os-6-odin-released/onboarding.png" width="532" height="450" />
   </picture>
   <picture>
-    <source srcset="/images/elementary-os-6-odin-released/appearance-dark.png" media="(prefers-color-scheme: dark)">
-    <img alt="Desktop Appearance settings" src="/images/elementary-os-6-odin-released/appearance.png" width="862" height="664" />
+    <source srcset="https://blog.elementary.io/images/elementary-os-6-odin-released/appearance-dark.png" media="(prefers-color-scheme: dark)">
+    <img alt="Desktop Appearance settings" src="https://blog.elementary.io/images/elementary-os-6-odin-released/appearance.png" width="862" height="664" />
   </picture>
 <figcaption markdown="1">
 **Left:** Dark style and accent colors in the Welcome screen | **Right:** _System Settings_ → _Desktop_ → _Appearance_
@@ -114,14 +116,14 @@ Group photo from the [GNOME User and Developer Conference 2019](/elementary-at-g
 
 <figure class="half card">
   <picture>
-    <img alt="GNOME Message Dialog" src="/images/{{ page.slug }}/gnome-message-dialog.png" width="800" height="276" />
+    <img alt="GNOME Message Dialog" src="https://blog.elementary.io/images/{{ page.slug }}/gnome-message-dialog.png" width="800" height="276" />
   </picture>
   <picture>
-    <img alt="GNOME Action Dialog" src="/images/{{ page.slug }}/gnome-action-dialog.png" width="484" height="283" />
+    <img alt="GNOME Action Dialog" src="https://blog.elementary.io/images/{{ page.slug }}/gnome-action-dialog.png" width="484" height="283" />
   </picture>
   <picture>
-    <source srcset="/images/{{ page.slug }}/message-dialog-dark.png" media="(prefers-color-scheme: dark)">
-    <img alt="elementary Message Dialog" src="/images/{{ page.slug }}/message-dialog.png" width="549" height="301" />
+    <source srcset="https://blog.elementary.io/images/{{ page.slug }}/message-dialog-dark.png" media="(prefers-color-scheme: dark)">
+    <img alt="elementary Message Dialog" src="https://blog.elementary.io/images/{{ page.slug }}/message-dialog.png" width="549" height="301" />
   </picture>
 <figcaption markdown="1">
 **Left:** GNOME Message Dialog | **Right:** GNOME Action Dialog | **Below:** elementary Dialog
