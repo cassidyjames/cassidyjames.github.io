@@ -1,7 +1,7 @@
 ---
 title: The Need for a FreeDesktop Dark Style Preference
 description: It’s time for the FreeDesktop to catch up
-date: '2019-05-17T23:00:22.252Z'
+updated: 2019-05-17
 author: cassidyjames
 image: https://cdn-images-1.medium.com/max/1952/1*NwP8sxbRTq7pzJLhDE2rnA@2x.png
 legacy: elementary

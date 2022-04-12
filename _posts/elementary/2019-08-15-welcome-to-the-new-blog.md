@@ -2,8 +2,9 @@
 title: Welcome to the New Blog
 description: Why we left Medium, and how!
 author: cassidyjames
-image: /images/elementary-blog-code-1600.jpg
+image: https://blog.elementary.io/images/elementary-blog-code-1600.jpg
 legacy: elementary
+updated: 2019-08-15
 tags:
   - meta
   - design

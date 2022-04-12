@@ -1,7 +1,8 @@
 ---
 title: 2019 UI Study Results
 description: 'Regarding Custom Styles, Dark Modes, and Night Light'
-date: '2019-05-17T03:17:09.181Z'
+updated: 2019-05-17
+legacy: elementary
 author: cassidyjames
 tags:
   - ui-study
