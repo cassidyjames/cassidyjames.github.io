@@ -8,7 +8,7 @@ legacy: true
 
 This whole [YouTube Music thing](https://www.androidpolice.com/2018/05/24/updated-youtube-music-now-rolling-will-eventually-play-music-features/) has been really poorly handled. It’s not entirely clear where the overlap is between existing services and subscriptions, what will happen to users’ content, and when anything is actually happening (some users are using the new YouTube Music app, but others, like me, got an ad for it and are still seeing the old version).
 
-![Black headphones leaning against a collection of vinyl records on a shelf]({{ page.image }})
+![Black headphones leaning against a collection of vinyl records on a shelf]({{ page.image }}){: width="700" height="465" }
 
 The problem, it seems, is Google’s lack of orchestration and vision for their products. Sometimes Google really gets things right, but right now, media and entertainment is not one of them.
 
