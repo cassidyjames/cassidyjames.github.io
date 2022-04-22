@@ -4,7 +4,7 @@ layout: compress
 ---
 <!DOCTYPE html>
 {% capture classes %}
-  {% site.domain | replace: '.', '-' %}
+  {{ site.domain | replace: '.', '-' }}
 
   {% if page.url == '/' %}home {% endif %}
 
