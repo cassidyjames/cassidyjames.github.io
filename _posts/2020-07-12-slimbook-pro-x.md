@@ -25,7 +25,7 @@ I applied on behalf of my work on elementary, and to my surprise, they chose me!
       <p><strong>Cassidy James Blaede</strong> @CassidyJames<br />
       Unboxing something from @SlimbookEs 📦️👀️</p>
 
-      <img alt="Video thumbnail" src="/images/{{ page.url }}/twitter-thumb.png" />
+      <img alt="Video thumbnail" src="/images/{{ page.url }}/twitter-thumb.png" width="564" height="307" />
       <p>11:21 AM · Jun 18, 2020</p>
     </blockquote>
   </a>
@@ -114,7 +114,7 @@ Since you spend most the time interacting with a laptop with its keyboard it's p
 I really like the **design and look** of the keyboard. It's a less common style these days with big, square, silver keycaps and little space between the keys. The result looks great, and feels really good to type on. The silver keys' color and texture mean they don't pick up as much oil or smudging as other keyboards I've used, which is nice. It also means that the _entire_ deck of the laptop is reflective, which has been a small annoyance when using the laptop outdoors.
 
 <figure markdown="1">
-![Backlight](/images/{{ page.url }}/backlight.jpg)
+![Backlight](/images/{{ page.url }}/backlight.jpg){: width="736" height="399" }
 <figcaption>Photo provided by Slimbook</figcaption>
 </figure>
 
@@ -159,7 +159,7 @@ I'm a bit of a nut when it comes to display size and resolution combinations as 
 While I prefer the look and crispness of HiDPI, it does come with the trade-off of much higher power usage and thus lower battery life. While the NVIDIA card (and probably the integrated Intel graphics) could handle something like a 3840×2160 display (1920×1080@2× for the same real estate but twice the detail), I can respect the decision to stick with loDPI here—especially given the relatively small internal battery. And for a loDPI display, it looks _great_. Colors seem accurate, it can get sufficiently bright, and the matte finish combined with no discernible layers on the display surface mean it often looks like the image is printed right onto the surface of the display.
 
 <figure markdown="1">
-![Hinge](/images/{{ page.url }}/hinge.jpg)
+![Hinge](/images/{{ page.url }}/hinge.jpg){: width="736" height="399" }
 <figcaption>Photo provided by Slimbook</figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ I have _no_ idea how secure it is, though—I would recommend enabling full-disk
 Ports-wise, it's pretty well-equipped. I may be weird here, but in my opinion, _too_ well-equipped—or at least not equipped in my ideal way. I don't need Ethernet (with a damage-prone flap) on a laptop, I don't need three USB-A ports (including one USB 2.0 port), I don't need a Kensington lock, and I definitely don't prefer a barrel-style charger. And yet, here's what you get:
 
 <figure markdown="1">
-![Ports](/images/{{ page.url }}/ports.jpg){: .card}
+![Ports](/images/{{ page.url }}/ports.jpg){: .card width="736" height="415" }
 <figcaption>Photo provided by Slimbook</figcaption>
 </figure>
 
@@ -208,7 +208,7 @@ All that is to say: the ports and expansions here are _fine,_ though I do really
 I haven't cracked this laptop open at all, and any more, I am not really one to do so. Sometimes I will upgrade RAM or replace a disk with a larger/faster model, but lately, laptops have been good enough for me.
 
 <figure markdown="1">
-![Internals](/images/{{ page.url }}/internals.jpg){: .card}
+![Internals](/images/{{ page.url }}/internals.jpg){: .card width="736" height="491" }
 <figcaption>Photo provided by Slimbook</figcaption>
 </figure>
 
@@ -230,7 +230,7 @@ I don't plan to dive deeply into the software, but for completeness, here are so
 Yep, it came with elementary OS! It was just a few updates behind the latest image, too—and that could easily be explained by those updates being pushed out after it was imaged and while it was in transit from overseas. Nice work, Slimbook! And yes, you can order it with elementary OS right from Slimbook as well.
 
 <figure markdown="1">
-![elementary OS](/images/{{ page.url }}/elementary-os.jpg)
+![elementary OS](/images/{{ page.url }}/elementary-os.jpg){: width="736" height="399" }
 <figcaption>Photo provided by Slimbook</figcaption>
 </figure>
 
