@@ -157,9 +157,13 @@ I brought up my reservations with first-run tutorial patterns, but I think if im
 We agreed that there are really five different components to the idea of user education and help as far as a GNOME-based OS is concerned:
 
 1. Help Guide (which is launched on first login in GNOME today),
+
 2. First-Run Overlay (like what Endless wants to implement),
+
 3. A sort of feature gallery in Initial Setup to show some features and how to access them,
+
 4. On-demand videos or tutorials that apps or the shell could call over some API (eg. in-context “help” actions that pull up a help UI focused on that feature), and
+
 5. Progressive disclosure/education through something like tooltips
 
 None of these are mutually exclusive, and each one could be worked on. We spent a small amount of time working on some designs for a first-run overlay, but the tricky part there is more implementation than design.
