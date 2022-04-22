@@ -1,5 +1,6 @@
 ---
 title: Home
+class: cassidyjames
 ---
 
 ![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256&d=blank){: .avatar width="128" height="128"}

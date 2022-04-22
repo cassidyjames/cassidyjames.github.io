@@ -4,6 +4,8 @@ layout: compress
 ---
 <!DOCTYPE html>
 {% capture classes %}
+  {% site.domain | replace: '.', '-' %}
+
   {% if page.url == '/' %}home {% endif %}
 
   {{ page.url | replace: '.html', '' | slugify }}

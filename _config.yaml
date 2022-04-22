@@ -4,6 +4,7 @@ description: Building useful, usable, delightful products that respect privacy.
 author: Cassidy James Blaede
 theme-color: "#452981"
 image: /images/card.png
+domain: cassidyjames.com
 
 # Site-wide hardcoded (non-overridable by pages)
 made-in: Colorado
