@@ -17,5 +17,7 @@ image: /images/starwars/clone-wars.jpg
   - [Season Six](clonewars#season-six-the-lost-missions)
   - [Season Seven](clonewars#season-seven-the-final-season)
 - [The Mandalorian](mandalorian)
+- The Book of Boba Fett (coming soon)
+- [Obi-Wan Kenobi](kenobi)
 - [Skywalker Saga](skywalker-saga)
 - [Spoiler Room Sign](spoiler-room)
