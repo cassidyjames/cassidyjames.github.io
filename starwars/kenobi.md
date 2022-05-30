@@ -18,11 +18,9 @@ redirect_from:
   - /starwars/obiwankenobi
 ---
 
-# Obi-Wan Kenobi
+# ![Star Wars: Obi-Wan Kenobi](/images/starwars/kenobi.png)
 
 ## #KenobiWatchAlong
-
-![Star Wars: Obi-Wan Kenobi](/images/starwars/kenobi.jpg)
 
 Join us to watch Obi-Wan Kenobi on Disney+! We'll be watching one chapter each debut Friday at 8:30 PM Mountain time. You can still join and watch any time!
 
@@ -32,7 +30,9 @@ Join us to watch Obi-Wan Kenobi on Disney+! We'll be watching one chapter each d
 
 Date   | Time        | Disney+ Link
 :---   |:----        | :-----------
-May 27 | 8:30 PM MDT | [S1E1][s1], [S1E2][s1]
-June 3 | 8:30 PM MDT | [S1E3][s1]
+May 27 | 8:30 PM MDT | [Part I][s1e1], [Part II][s1e2]
+June 3 | 8:30 PM MDT | [Part III][s1]
 
 [s1]: https://www.disneyplus.com/series/obi-wan-kenobi/2JYKcHv9fRJb
+[s1e1]: https://www.disneyplus.com/video/8b783732-c891-482f-aeb9-6a52182abd70
+[s1e2]: https://www.disneyplus.com/video/e8d5ea97-e72f-49dd-b617-c3a35000f598
