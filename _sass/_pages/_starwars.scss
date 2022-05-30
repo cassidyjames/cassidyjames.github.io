@@ -13,10 +13,7 @@ html.starwars {
   body {
     background-attachment: fixed;
     background-image:
-      linear-gradient(
-        rgba(0, 0, 0, 0.5),
-        black
-      ),
+      linear-gradient(rgba(0, 0, 0, 0.5), black),
       url('https://source.unsplash.com/uhjiu8FjnsQ');
   }
 
@@ -41,5 +38,17 @@ html.starwars {
 
   table tr:nth-child(odd) td {
     background: rgba(150, 150, 150, 0.1);
+  }
+}
+
+html.starwars.kenobi {
+  body {
+    background-attachment: fixed;
+    background-image:
+      linear-gradient(rgba(0, 0, 0, 0.5), black),
+      url("/images/starwars/kenobi.jpg");
+    background-position: 80%;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 }
