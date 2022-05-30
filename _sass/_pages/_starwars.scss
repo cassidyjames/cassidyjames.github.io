@@ -42,6 +42,9 @@ html.starwars {
 }
 
 html.starwars.kenobi {
+  --sw-blue: transparent;
+  --secondary-accent-contrast: white;
+
   body {
     background-attachment: fixed;
     background-image:
@@ -50,5 +53,18 @@ html.starwars.kenobi {
     background-position: 80%;
     background-repeat: no-repeat;
     background-size: cover;
+  }
+
+  nav {
+    background-image: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0)
+    );
+
+    a:not(.current):not(:hover) {
+      text-shadow:
+        0 0 1em black,
+        0 0 0.5em black;
+    }
   }
 }
