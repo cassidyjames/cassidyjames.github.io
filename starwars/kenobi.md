@@ -1,6 +1,8 @@
 ---
 title: "Star Wars"
 description: "Obi-Wan Kenobi"
+image: /images/starwars/kenobi.jpg
+
 redirect_from:
   - /hello-there
   - /hellothere
