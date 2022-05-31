@@ -27,7 +27,11 @@ html.starwars {
     }
   }
 
-  // To fix nav overlapping with anchor linking
+  h2 {
+    margin-top: -48px;
+    padding-top: calc(1em + 48px);
+  }
+
   h3 {
     margin-top: -48px;
     padding-top: calc(1.25em + 48px);
@@ -52,45 +56,41 @@ html.starwars {
 }
 
 html.starwars.kenobi {
-  --background-color: #dfcfb8;
+  --rgb-bg: 223, 207, 184;
+  --background-color: rgb(var(--rgb-bg));
 
   body {
     background-attachment: fixed;
     background-image:
-      linear-gradient(rgba(223, 207, 184, 0.75), var(--background-color)),
+      linear-gradient(rgba(var(--rgb-bg), 0.75), var(--background-color)),
       url("/images/starwars/kenobi.jpg");
     background-position: 80%;
     background-repeat: no-repeat;
     background-size: cover;
   }
 
-  &.alt-style body {
-    background-image: none;
-
-    nav {
-      background: black;
-    }
-  }
-
   nav {
-    background-image: linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0)
-    );
+    background-color: rgba(var(--rgb-bg), 0.9);
+    box-shadow: 0 0 64px rgba(0, 0, 0, 0.5);
+    color: var(--primary-color);
+    fill: var(--primary-color);
+    transition:
+      background 200ms ease,
+      box-shadow 200ms ease;
 
-    a:not(.current):not(:hover) {
-      text-shadow:
-        0 0 1em black,
-        0 0 0.5em black;
+    &.at-top {
+      background-color: transparent;
+      box-shadow: none;
     }
   }
 
   h1 img {
     filter: brightness(0);
+    opacity: 0.67;
   }
 
   @media (prefers-color-scheme: dark) {
-    --background-color: black;
+    --rgb-bg: 0, 0, 0;
 
     body {
       background-image:
@@ -98,8 +98,26 @@ html.starwars.kenobi {
         url("/images/starwars/kenobi.jpg");
     }
 
+    nav {
+      background-color: rgba(var(--rgb-bg), 0.5);
+    }
+
     h1 img {
       filter: none;
+    }
+  }
+
+  &.alt-style {
+    body {
+      background-image: none;
+    }
+
+    nav {
+      background-image: linear-gradient(
+        to top,
+        var(--accent-color) 1px,
+        var(--background-color) 1px
+      );
     }
   }
 }

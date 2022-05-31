@@ -27,6 +27,21 @@ layout: compress
         {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
       </div>
     </section>
+
     {% include footer.html %}
+
+    <script>
+      let nav = document.querySelector('nav');
+
+      setNavClass (document.scrollingElement.scrollTop);
+
+      window.addEventListener ('scroll', event => {
+        setNavClass (document.scrollingElement.scrollTop);
+      });
+
+      function setNavClass(scroll) {
+        nav.classList.toggle('at-top', scroll < 1);
+      }
+    </script>
   </body>
 </html>
