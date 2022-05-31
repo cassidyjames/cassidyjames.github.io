@@ -29,7 +29,7 @@ Join us to watch along with new episodes of the latest Star Wars shows on Disney
 
 ## Timeline
 
-Scott wanted a canonical timeline, so here's a rough table released and confirmed TV and film media. There are _a ton_ of comics and books, but this doesn't get into that (at least not yet). 
+Scott wanted a canonical timeline, so here's a rough table of released and confirmed TV and film media. There's _a ton_ of comics and books, but this doesn't get into that (at least not yet). 
 
 &nbsp; | Media                                | Timeline  | Release   | Notes
 :----- | :----                                | :-------  | :-------  | :----
