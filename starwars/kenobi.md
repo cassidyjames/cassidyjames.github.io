@@ -25,7 +25,7 @@ redirect_from:
 
 ## #KenobiWatchAlong
 
-Join us to watch Obi-Wan Kenobi on Disney+! We'll be watching one chapter each debut ~~Friday~~ **Wednesday** at **8:30 PM Mountain time**. You can still join and watch any time!
+Join us to watch [Obi-Wan Kenobi on Disney+][s1]! We'll be watching one chapter each debut ~~Friday~~ **Wednesday** at **8:30 PM Mountain time**. You can still join and watch any time!
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
 [Join the Discord](https://discord.gg/3aagq4A){: .button}
