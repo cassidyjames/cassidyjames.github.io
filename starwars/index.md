@@ -21,3 +21,47 @@ image: /images/starwars/clone-wars.jpg
 - [Obi-Wan Kenobi](kenobi)
 - [Skywalker Saga](skywalker-saga)
 - [Spoiler Room Sign](spoiler-room)
+
+## In-Universe Chronological Order
+
+Scott wanted a timeline, so here's a rough canonical timeline of released and confirmed media.
+
+### Timeline
+
+&nbsp; | Media                                | Timeline  | Release   | Notes
+:----- | :----                                | :-------  | :-------  | :----
+       | **High Republic**                    |           |           |
+➕️     | The Acolyte                          | ~130 BBY  | TBA       |
+       | **Age of Republic**                  |           |           |
+🎬️     | Episode I: The Phantom Menace        | 32 BBY    | 1999      |
+🎬️     | Episode II: Attack of the Clones     | 22 BBY    | 2002      |
+📺️     | The Clone Wars                       | 22–19 BBY | 2008–2020 |
+🎬️     | Episode III: Revenge of the Sith     | 19 BBY    | 2005      |
+       | **Age of Rebellion**                 |           |           |
+📺️     | The Bad Batch                        | 19 BBY–   | 2021–     |
+🎞️     | Solo                                 | 10 BBY    | 2018      | Prologue in 13 BBY
+➕️     | Obi-Wan Kenobi                       | 9 BBY     | 2022–     |
+📺️     | Rebels                               | 5–0 BBY   | 2014–2018 |
+➕️     | Andor                                |           | 2022      |
+🎞️     | Rogue One                            | 0 BBY     | 2016      | Prologue in 13 BBY
+🎬️     | Episode IV: A New Hope ("Star Wars") | 0 BBY/ABY | 1977      |
+🎬️     | Episode V: The Empire Strikes Back   | 3 ABY     | 1980      |
+🎬️     | Episode VI: Return of the Jedi       | 4 ABY     | 1983      |
+➕️     | Ahsoka                               | 9 ABY     | 2023      |
+➕️     | The Mandalorian                      | 9 ABY     | 2019–     |
+➕️     | The Book of Boba Fett                | 9 ABY     | 2021–     |
+       | **Age of Resistance**                |           |           |
+📺️     | Resistance                           | 34–35 ABY | 2018–2020 |
+🎬️     | Episode VII: The Force Awakens       | 34 ABY    | 2015      | 
+🎬️     | Episode VIII: The Last Jedi          | 34 ABY    | 2017      |
+🎬️     | Episode IX: The Rise of Skywalker    | 35 ABY    | 2019      |
+
+### Key
+
+🎬️ Skywalker Saga film \
+🎞️ "A Star Wars Story" anthology film \
+📺️ Animated series \
+➕️ Live action Disney+ series
+
+**BBY**: years _Before the Battle of Yavin_, or before Episode IV \
+**ABY**: years _After the Battle of Yavin_, or after Episode IV
