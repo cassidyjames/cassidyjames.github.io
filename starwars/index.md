@@ -7,26 +7,27 @@ image: /images/starwars/clone-wars.jpg
 
 {{ page.description }}
 
-- [The Clone Wars](clonewars)
-  - [Movie](clonewars#the-clone-wars-movie-️)
-  - [Season One](clonewars#season-one)
-  - [Season Two](clonewars#season-two-rise-of-the-bounty-hunters)
-  - [Season Three](clonewars#season-three-secrets-revealed)
-  - [Season Four](clonewars#season-four-battle-lines)
-  - [Season Five](clonewars#season-five)
-  - [Season Six](clonewars#season-six-the-lost-missions)
-  - [Season Seven](clonewars#season-seven-the-final-season)
-- [The Mandalorian](mandalorian)
-- The Book of Boba Fett (coming soon)
-- [Obi-Wan Kenobi](kenobi)
-- [Skywalker Saga](skywalker-saga)
-- [Spoiler Room Sign](spoiler-room)
+- Animated series
+  - [The Clone Wars](clonewars)
+    - [Movie](clonewars#the-clone-wars-movie-️)
+    - [Season One](clonewars#season-one)
+    - [Season Two](clonewars#season-two-rise-of-the-bounty-hunters)
+    - [Season Three](clonewars#season-three-secrets-revealed)
+    - [Season Four](clonewars#season-four-battle-lines)
+    - [Season Five](clonewars#season-five)
+    - [Season Six](clonewars#season-six-the-lost-missions)
+    - [Season Seven](clonewars#season-seven-the-final-season)
+- Disney+ series
+  - [The Mandalorian](mandalorian)
+  - [Obi-Wan Kenobi](kenobi)
+- Films
+  - [Skywalker Saga](skywalker-saga)
+- Other
+  - [Spoiler Room Sign](spoiler-room)
 
-## In-Universe Chronological Order
+## Timeline
 
-Scott wanted a timeline, so here's a rough canonical timeline of released and confirmed media.
-
-### Timeline
+Scott wanted a canonical timeline, so here's a rough table released and confirmed TV and film media. There are _a ton_ of comics and books, but this doesn't get into that (at least not yet). 
 
 &nbsp; | Media                                | Timeline  | Release   | Notes
 :----- | :----                                | :-------  | :-------  | :----
