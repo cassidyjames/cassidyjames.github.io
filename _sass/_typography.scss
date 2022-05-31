@@ -18,6 +18,7 @@ html {
 
 a {
   color: var(--accent-color);
+  fill: var(--accent-color);
   text-decoration: none;
   transition: opacity 250ms ease;
 
@@ -52,6 +53,7 @@ h6 a {
 
 h1 {
   color: var(--accent-color);
+  fill: var(--accent-color);
   font-size: 5rem;
   font-weight: 900;
   letter-spacing: -0.097em;
@@ -163,6 +165,7 @@ code {
   border: 1px solid var(--faint);
   border-radius: 0.125em;
   color: var(--neutral);
+  fill: var(--neutral);
   font-size: 0.8em;
 }
 
@@ -180,6 +183,7 @@ kbd {
 
 code {
   color: var(--neutral);
+  fill: var(--neutral);
   padding: 0 0.25em;
 }
 
@@ -197,6 +201,7 @@ abbr[title] {
     color: var(--background-color);
     content: attr(title);
     display: block;
+    fill: var(--background-color);
     font-size: 0.85em;
     line-height: 1.25;
     max-width: 24em;
@@ -245,6 +250,7 @@ aside blockquote p {
 
 aside.card {
   color: var(--neutral);
+  fill: var(--neutral);
   margin: 1em auto;
   padding: 0 1em;
 
@@ -318,6 +324,7 @@ aside.disclaimer {
   h6,
   h6 {
     color: var(--primary-color);
+    fill: var(--primary-color);
     font-size: 1.25em;
     letter-spacing: normal;
   }
@@ -345,6 +352,7 @@ aside.disclaimer {
 }
 .profile {
   color: inherit;
+  fill: inherit;
   font-weight: bold;
 
   .hash {
