@@ -50,9 +50,9 @@ Scott wanted a canonical timeline, so here's a rough table released and confirme
 🎬️     | Episode IV: A New Hope ("Star Wars") | 0 BBY/ABY | 1977      |
 🎬️     | Episode V: The Empire Strikes Back   | 3 ABY     | 1980      |
 🎬️     | Episode VI: Return of the Jedi       | 4 ABY     | 1983      |
-➕️     | Ahsoka                               | 9 ABY     | 2023      |
 ➕️     | The Mandalorian                      | 9 ABY     | 2019–     |
 ➕️     | The Book of Boba Fett                | 9 ABY     | 2021–     | Flashbacks to ~4 BBY
+➕️     | Ahsoka                               | 9 ABY     | 2023      |
        | **Age of Resistance**                |           |           |
 📺️     | Resistance                           | 34–35 ABY | 2018–2020 |
 🎬️     | Episode VII: The Force Awakens       | 34 ABY    | 2015      | 
