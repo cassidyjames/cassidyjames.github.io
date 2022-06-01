@@ -20,10 +20,20 @@ html.starwars {
     --accent-color: var(--sw-yellow);
 
     body {
-      background-attachment: fixed;
-      background-image:
-        linear-gradient(rgba(0, 0, 0, 0.25), black),
-        url('https://source.unsplash.com/uhjiu8FjnsQ');
+      background: none;
+
+      &::before {
+        background-image:
+          linear-gradient(rgba(0, 0, 0, 0.25), black),
+          url('https://source.unsplash.com/uhjiu8FjnsQ');
+        background-position: center;
+        background-repeat: no-repeat;
+        content: "Before";
+        height: 100vh;
+        position: fixed;
+        width: 100vw;
+        z-index: -1;
+      }
     }
   }
 
@@ -60,14 +70,31 @@ html.starwars.kenobi {
   --background-color: rgb(var(--rgb-bg));
 
   body {
-    background-attachment: fixed;
-    background-image:
-      linear-gradient(rgba(var(--rgb-bg), 0.75), var(--background-color)),
-      url("/images/starwars/kenobi.jpg");
-    background-position: 80%;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: none;
+
+    &::before {
+      background-image:
+        linear-gradient(rgba(var(--rgb-bg), 0.75), var(--background-color)),
+        url("/images/starwars/kenobi.jpg");
+      background-position: 80%;
+      background-repeat: no-repeat;
+      background-size: cover;
+      content: "Before";
+      height: 100vh;
+      width: 100vw;
+      position: fixed;
+    }
   }
+
+  // body {
+  //   background-attachment: fixed;
+  //   background-image:
+  //     linear-gradient(rgba(var(--rgb-bg), 0.75), var(--background-color)),
+  //     url("/images/starwars/kenobi.jpg");
+  //   background-position: 80%;
+  //   background-repeat: no-repeat;
+  //   background-size: cover;
+  // }
 
   nav {
     background-color: rgba(var(--rgb-bg), 0.9);
@@ -92,11 +119,11 @@ html.starwars.kenobi {
   @media (prefers-color-scheme: dark) {
     --rgb-bg: 0, 0, 0;
 
-    body {
-      background-image:
-        linear-gradient(rgba(0, 0, 0, 0.5), var(--background-color)),
-        url("/images/starwars/kenobi.jpg");
-    }
+    // body {
+    //   background-image:
+    //     linear-gradient(rgba(0, 0, 0, 0.5), var(--background-color)),
+    //     url("/images/starwars/kenobi.jpg");
+    // }
 
     nav {
       background-color: rgba(var(--rgb-bg), 0.5);
@@ -109,7 +136,7 @@ html.starwars.kenobi {
   }
 
   &.alt-style {
-    body {
+    body::before {
       background-image: none;
     }
 
