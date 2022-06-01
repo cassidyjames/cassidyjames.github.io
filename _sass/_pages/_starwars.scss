@@ -72,6 +72,7 @@ html.starwars.kenobi {
     background: none;
 
     &::before {
+      background-color: var(--background-color);
       background-image:
         linear-gradient(rgba(var(--rgb-bg), 0.75), var(--background-color)),
         url("/images/starwars/kenobi.jpg");
