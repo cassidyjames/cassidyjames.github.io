@@ -65,7 +65,7 @@ Next, you'll want to tell `bundler` to use a local path instead of trying to use
 a root-owned path:
 
 ```sh
-bundle config set --local path '~/.bundle'
+bundle config set --local path 'vendor/bundle'
 ```
 
 Then install the Ruby dependencies (assuming your project has a `Gemfile`):
