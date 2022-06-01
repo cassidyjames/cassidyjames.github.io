@@ -78,6 +78,11 @@ html.starwars.kenobi {
       background-position: 80%;
       background-repeat: no-repeat;
       background-size: cover;
+      content: " ";
+      height: 100vh;
+      position: fixed;
+      width: 100vw;
+      z-index: -1;
     }
   }
 
