@@ -38,6 +38,7 @@ Date                 | Episode          | Decription
 Fri, May 27          | [Part I][s1e1]   | When agents of the Empire pose a new threat, Obi-Wan Kenobi emerges after years of hiding.
 &nbsp;               | [Part II][s1e2]  | On a dangerous crime-ridden world, Obi-Wan becomes a target.
 [Wed, June 1][event] | [Part III][s1e3] | Obi-Wan searches for allies.
+[Wed, June 8][event] | [Part IV][s1]    | 
 
 [s1]: https://www.disneyplus.com/series/obi-wan-kenobi/2JYKcHv9fRJb
 [trailer]: https://www.disneyplus.com/video/4a2924c5-68e7-44b7-9d46-a89bc37f8276
