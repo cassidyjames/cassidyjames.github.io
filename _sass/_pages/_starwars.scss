@@ -111,7 +111,9 @@ html.starwars {
     }
 
     td, th {
+      line-height: 1.5;
       min-width: 6em;
+      vertical-align: top;
     }
 
     @media (prefers-color-scheme: dark) {
