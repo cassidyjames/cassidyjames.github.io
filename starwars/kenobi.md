@@ -37,8 +37,10 @@ Date                 | Episode          | Decription
 &nbsp;               | [Recap]          | Revisit the major moments that shaped the bond between Anakin Skywalker and Obi-Wan Kenobi.
 Fri, May 27          | [Part I][s1e1]   | When agents of the Empire pose a new threat, Obi-Wan Kenobi emerges after years of hiding.
 &nbsp;               | [Part II][s1e2]  | On a dangerous crime-ridden world, Obi-Wan becomes a target.
-[Wed, June 1][event] | [Part III][s1e3] | Obi-Wan searches for allies.
-[Wed, June 8][event] | [Part IV][s1]    | 
+Wed, June 1          | [Part III][s1e3] | Obi-Wan searches for allies.
+[Wed, June 8][s1e4]  | [Part IV][s1]    | 
+[Wed, June 15][s1e5] | [Part V][s1]     | 
+[Wed, June 22][s1e6] | [Part VI][s1]    | 
 
 [s1]: https://www.disneyplus.com/series/obi-wan-kenobi/2JYKcHv9fRJb
 [trailer]: https://www.disneyplus.com/video/4a2924c5-68e7-44b7-9d46-a89bc37f8276
@@ -47,4 +49,6 @@ Fri, May 27          | [Part I][s1e1]   | When agents of the Empire pose a new t
 [s1e2]: https://www.disneyplus.com/video/e8d5ea97-e72f-49dd-b617-c3a35000f598
 [s1e3]: https://www.disneyplus.com/video/6db62709-3160-432f-bc63-6316e1510a11
 
-[event]: https://discord.gg/3aagq4A?event=980929550773002240
+[s1e4]: https://discord.gg/3aagq4A?event=981761253389246515
+[s1e5]: https://discord.gg/3aagq4A?event=981772686122446868
+[s1e6]: https://discord.gg/3aagq4A?event=981772988393336882
