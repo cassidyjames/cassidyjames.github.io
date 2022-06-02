@@ -110,6 +110,10 @@ html.starwars {
       opacity: 0.67;
     }
 
+    td, th {
+      min-width: 6em;
+    }
+
     @media (prefers-color-scheme: dark) {
       --rgb-bg: 0, 0, 0;
 
