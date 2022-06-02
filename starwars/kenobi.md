@@ -1,6 +1,6 @@
 ---
-title: "Star Wars"
-description: "Obi-Wan Kenobi"
+title: "Obi-Wan Kenobi"
+description: "Join us to watch the latest Star Wars show on Disney+!"
 image: /images/starwars/kenobi.jpg
 
 redirect_from:
@@ -29,22 +29,26 @@ Join us to watch [Obi-Wan Kenobi on Disney+][s1]! We'll be watching one chapter 
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
 [Join the Discord](https://discord.gg/3aagq4A){: .button}
+
+<small>Or click the dates below for the specific events.</small>
 </div>
 
-Date                 | Episode          | Decription
-:---                 | :------          | :---------
-&nbsp;               | [Trailer]        | View a promo of this release.
-&nbsp;               | [Recap]          | Revisit the major moments that shaped the bond between Anakin Skywalker and Obi-Wan Kenobi.
-Fri, May 27          | [Part I][s1e1]   | When agents of the Empire pose a new threat, Obi-Wan Kenobi emerges after years of hiding.
-&nbsp;               | [Part II][s1e2]  | On a dangerous crime-ridden world, Obi-Wan becomes a target.
-Wed, June 1          | [Part III][s1e3] | Obi-Wan searches for allies.
-[Wed, June 8][s1e4]  | [Part IV][s1]    | 
-[Wed, June 15][s1e5] | [Part V][s1]     | 
-[Wed, June 22][s1e6] | [Part VI][s1]    | 
+Event           | Episode          | Decription
+:----           | :------          | :---------
+&nbsp;          | [Trailer]        | View a promo of this release.
+&nbsp;          | [Recap]          | Revisit the major moments that shaped the bond between Anakin Skywalker and Obi-Wan Kenobi.
+May 27          | [Part I][s1e1]   | When agents of the Empire pose a new threat, Obi-Wan Kenobi emerges after years of hiding.
+&nbsp;          | [Part II][s1e2]  | On a dangerous crime-ridden world, Obi-Wan becomes a target.
+June 1          | [Part III][s1e3] | Obi-Wan searches for allies.
+[June 8][s1e4]  | [Part IV][s1]    | 
+[June 15][s1e5] | [Part V][s1]     | 
+[June 22][s1e6] | [Part VI][s1]    | 
 
 [s1]: https://www.disneyplus.com/series/obi-wan-kenobi/2JYKcHv9fRJb
+
 [trailer]: https://www.disneyplus.com/video/4a2924c5-68e7-44b7-9d46-a89bc37f8276
 [recap]: https://www.disneyplus.com/video/0aeb290f-7a28-4d22-badc-a95b64afd010
+
 [s1e1]: https://www.disneyplus.com/video/8b783732-c891-482f-aeb9-6a52182abd70
 [s1e2]: https://www.disneyplus.com/video/e8d5ea97-e72f-49dd-b617-c3a35000f598
 [s1e3]: https://www.disneyplus.com/video/6db62709-3160-432f-bc63-6316e1510a11
