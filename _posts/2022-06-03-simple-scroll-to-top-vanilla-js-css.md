@@ -17,14 +17,10 @@ Works without JavaScript, technically even works without CSS.
 First, I create an anchor (link) that points to the top of the page, using the age-old `href="#"`. This tells the browser to scroll to an empty ID, which in practice means the top of the page. If I want to scroll to a specific section other than the top of the whole page, I could include the ID of the element to scroll to, e.g. `href="#specific-id"`.
 
 ```html
-<body class="at-top">
-  <a class="back-to-top" href="#">Back to top</a>
-</body>
+<a class="back-to-top" href="#">Back to top</a>
 ```
 
 I could stop here and technically it would work! It would show up wherever placed in the DOM, and clicking it will take you to the top of the page.
-
-In this instance, I've also added an `at-top` class to the body, because I'll toggle that in JS later. By adding it by default, I make it the JavaScript's responsibility to remove it, ensuring the button is visible even when JS is disabled.
 
 ### JavaScript
 
