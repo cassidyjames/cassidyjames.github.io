@@ -94,7 +94,7 @@ html {
 }
 
 .at-top .back-to-top,
-.at-bottom back-to-top {
+.at-bottom .back-to-top {
   opacity: 0;
   pointer-events: none;
 }
@@ -104,4 +104,58 @@ Feel free to style it up however else you see fit, i.e. as a button or just as a
 
 ---
 
-What do you think? Am I doing anything terribly wrong or unneeded here? Let me know on social media or via email using the links in the footer!
+What do you think? Am I doing anything terribly wrong or unneeded here? Let me know on social media or via email using the links in the footer! And just for fun, I've added the exact code embedded on this page to this page. 😉️
+
+<a class="back-to-top" href="#">Back to top</a>
+
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .back-to-top {
+    bottom: 1em;
+    opacity: 0.9;
+    position: fixed;
+    right: 1em;
+    transition: opacity 200ms ease;
+    z-index: 1;
+  }
+
+  .back-to-top:hover {
+    opacity: 1;
+  }
+
+  .at-top .back-to-top,
+  .at-bottom .back-to-top {
+    opacity: 0;
+    pointer-events: none;
+  }
+</style>
+
+<script>
+  let debounceTimeout;
+  let body = document.querySelector('body');
+  let scrollingElement = document.scrollingElement;
+
+  setScrollClass();
+
+  window.addEventListener('scroll', setScrollClass);
+  window.addEventListener('resize', setScrollClass);
+
+  function setScrollClass() {
+    if (debounceTimeout) {
+      window.cancelAnimationFrame(debounceTimeout);
+    }
+
+    debounceTimeout = window.requestAnimationFrame(function () {
+      let scrollTop = scrollingElement.scrollTop;
+      let scrollHeight = scrollingElement.scrollHeight;
+      let innerHeight = window.innerHeight;
+      let scrollBottom = scrollHeight - innerHeight - scrollTop;
+
+      body.classList.toggle('at-top', scrollTop < 48);
+      body.classList.toggle('at-bottom', scrollBottom < 48);
+    });
+  }
+</script>
