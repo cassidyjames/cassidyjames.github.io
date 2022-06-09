@@ -40,7 +40,7 @@ Event           | Episode          | Decription
 May 27          | [Part I][s1e1]   | When agents of the Empire pose a new threat, Obi-Wan Kenobi emerges after years of hiding.
 &nbsp;          | [Part II][s1e2]  | On a dangerous crime-ridden world, Obi-Wan becomes a target.
 June 1          | [Part III][s1e3] | Obi-Wan searches for allies.
-[June 8][s1e4]  | [Part IV][s1]    | 
+[June 8][s1e4]  | [Part IV][s1]    |  Obi-Wan plots a mission.
 [June 15][s1e5] | [Part V][s1]     | 
 [June 22][s1e6] | [Part VI][s1]    | 
 
