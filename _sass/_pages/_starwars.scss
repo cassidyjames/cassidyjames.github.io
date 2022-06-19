@@ -63,6 +63,10 @@ html.starwars {
     background: rgba(150, 150, 150, 0.1);
   }
 
+  tr.era {
+    font-weight: bold;
+  }
+
   &.kenobi {
     --rgb-bg: 223, 207, 184;
     --background-color: rgb(var(--rgb-bg));

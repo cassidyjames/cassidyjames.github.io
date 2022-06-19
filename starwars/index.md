@@ -31,44 +31,100 @@ Join us to watch along with new episodes of the latest Star Wars shows on Disney
 
 Scott wanted a canonical timeline, so here's a rough table of released and confirmed TV and film media. There's _a ton_ of comics and books, but this doesn't get into that (at least not yet). 
 
-&nbsp; | Media                                | Timeline  | Release   | Notes
-:----- | :----                                | :-------  | :-------  | :----
-       | **High Republic**                    |           |           |
-➕️     | The Acolyte                          | ~130 BBY  | TBA       |
-       | **Age of Republic**                  |           |           |
-🎬️     | Episode I: The Phantom Menace        | 32 BBY    | 1999      |
-🎬️     | Episode II: Attack of the Clones     | 22 BBY    | 2002      |
-📺️     | The Clone Wars                       | 22–19 BBY | 2008–2020 |
-🎬️     | Episode III: Revenge of the Sith     | 19 BBY    | 2005      |
-       | **Age of Rebellion**                 |           |           |
-📺️     | The Bad Batch                        | 19 BBY–   | 2021–     |
-🎞️     | Solo                                 | 10 BBY    | 2018      | Prologue in 13 BBY
-➕️     | Obi-Wan Kenobi                       | 9 BBY     | 2022–     |
-📺️     | Rebels                               | 5–0 BBY   | 2014–2018 |
-➕️     | Andor                                |           | 2022      |
-🎞️     | Rogue One                            | 0 BBY     | 2016      | Prologue in 13 BBY
-🎬️     | Episode IV: A New Hope ("Star Wars") | 0 BBY/ABY | 1977      |
-🎬️     | Episode V: The Empire Strikes Back   | 3 ABY     | 1980      |
-🎬️     | Episode VI: Return of the Jedi       | 4 ABY     | 1983      |
-➕️     | The Mandalorian                      | 9 ABY     | 2019–     |
-➕️     | The Book of Boba Fett                | 9 ABY     | 2021–     | Flashbacks to ~4 BBY
-➕️     | Ahsoka                               | 9 ABY     | 2023      |
-       | **Age of Resistance**                |           |           |
-📺️     | Resistance                           | 34–35 ABY | 2018–2020 |
-🎬️     | Episode VII: The Force Awakens       | 34 ABY    | 2015      | 
-🎬️     | Episode VIII: The Last Jedi          | 34 ABY    | 2017      |
-🎬️     | Episode IX: The Rise of Skywalker    | 35 ABY    | 2019      |
+### Filter & Key
 
-### Key
+<label for="saga">
+  <input name="filter" id="saga" type="checkbox" checked="checked" />
+  🎬️ Skywalker Saga film
+</label>
 
-🎬️ Skywalker Saga film \
-🎞️ "A Star Wars Story" anthology film \
-📺️ Animated series \
-➕️ Live action Disney+ series
+<label for="anthology">
+  <input name="filter" id="anthology" type="checkbox" checked="checked" />
+  🎞️ "A Star Wars Story" anthology film
+</label>
+
+<label for="animated">
+  <input name="filter" id="animated" type="checkbox" checked="checked" />
+  📺️ Animated series
+</label>
+
+<label for="disney">
+  <input name="filter" id="disney" type="checkbox" checked="checked" />
+  ➕️ Live action Disney+ series
+</label>
+
+<label for="book">
+  <input name="filter" id="book" type="checkbox" checked="checked" />
+  📖 Novel
+</label>
 
 **BBY**: years _Before the Battle of Yavin_, or before Episode IV \
 **ABY**: years _After the Battle of Yavin_, or after Episode IV
 
+### Table
+
+<table style="text-align: left;">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Media</th>
+      <th>Timeline</th>
+      <th>Release</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for media in site.data.starwars %}
+      {% assign timeline = media.timeline | plus: 0 %}
+      <tr class="filterable {{ media.type }}">
+        <td>
+          {% if media.type == "saga" %}
+            🎬️
+          {% elsif media.type == "anthology" %}
+            🎞️
+          {% elsif media.type == "animated" %}
+            📺️
+          {% elsif media.type == "disney" %}
+            ➕️
+          {% elsif media.type == "book" %}
+            📖
+          {% endif %}
+        </td>
+        <td>{{ media.title }}</td>
+        <td>
+          {{ timeline | abs }}
+          {% if timeline < 0 %}
+            BBY
+          {% elsif timeline == 0 %}
+            BBY/ABY
+          {% elsif timeline > 0 %}
+            ABY
+          {% endif %}
+        </td>
+        <td>{{ media.release }}</td>
+        <td>{{ media.notes }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
 ## More
 
 - [Spoiler Room Sign](spoiler-room)
+
+<script>
+  let filterInputs = document.querySelectorAll('input[name="filter"]');
+  let filterRows = document.querySelectorAll('tr.filterable');
+  
+  filterInputs.forEach(input => {
+    console.log(input);
+
+    input.addEventListener('change', event => {      
+      let rows = document.querySelectorAll('tr.' + input.getAttribute('id'));
+      
+      rows.forEach(row => {
+        row.classList.toggle('hidden', !input.checked);
+      });
+    });
+  });
+</script>

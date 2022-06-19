@@ -1,0 +1,27 @@
+type,title,timeline,timeline_end,release,release_end,notes
+era,High Republic,-130,,,,
+disney,The Acolyte,-130,,TBA,, 
+era,Age of Republic,-32,,,,
+saga,Episode I: The Phantom Menace,-32,,1999,, 
+saga,Episode II: Attack of the Clones,-22,,2002,, 
+animated,The Clone Wars,-22,-19,2008,2020, 
+saga,Episode III: Revenge of the Sith,-19,,2005,, 
+era,Age of Rebellion,-19,,,,
+animated,The Bad Batch,-19,TBA,2021,TBA, 
+book,Thrawn,-16,-2,2017,,
+anthology,Solo,-10,,2018,,Prologue in 13 BBY
+disney,Obi-Wan Kenobi,-9,,2022,TBA, 
+animated,Rebels,-5,0,2014,2018, 
+disney,Andor,-5,0,2022,, 
+anthology,Rogue One,0,,2016,,Prologue in 13 BBY
+saga,Episode IV: A New Hope (“Star Wars”),0,,1977,, 
+saga,Episode V: The Empire Strikes Back,3,,1980,, 
+saga,Episode VI: Return of the Jedi,4,,1983,, 
+disney,The Mandalorian,9,,2019,TBA, 
+disney,The Book of Boba Fett,9,,2021,TBA,Flashbacks to ~4 BBY
+disney,Ahsoka,9,,2023,, 
+era,Age of Resistance,34,,,,
+animated,Resistance,34,35,2018,2020, 
+saga,Episode VII: The Force Awakens,34,,2015,, 
+saga,Episode VIII: The Last Jedi,34,,2017,, 
+saga,Episode IX: The Rise of Skywalker,35,,2019,,
