@@ -1,6 +1,7 @@
 ---
 title: Use GrapheneOS to extend the life of a Pixel
 description: The security- and privacy-focused OS can be bent back into a Pixel experience
+image: /images/blog/graphene-os-extend-life-of-pixel/card.png
 
 updated: 2022-06-20
 ---
