@@ -31,7 +31,9 @@ Luckily, I just helped a family member get GrapheneOS installed and running a Go
 
 GrapheneOS is built from the latest Android sources, so it includes most of the features you would see in Android itself including the same visual design across the lock screen, home screen, notifications shade, and settings app.
 
-The one place I see GrapheneOS lacking is with the keyboard; unfortunately the swipe-to-type feature of Gboard (as well as many of the other additions, like stickers and voice typing) are proprietary and thus not incuded. However, you can [install Gboard from Google Play](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) to restore that experience.
+As of recently, GrapheneOS also includes an easy way to enable Google Play store (and related services) while keeping them "sandboxed" or secured from the rest of the OS: open the pre-installed "Apps" app, find "Google Play Store", and hit "Install". Easy.
+
+One place I see GrapheneOS lacking is with the keyboard; unfortunately the swipe-to-type feature of Gboard (as well as many of the other additions, like stickers and voice typing) are proprietary and thus not incuded. However, you can [install Gboard from Google Play](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) to restore that experience.
 
 Similarly, GrapheneOS comes with a simple but capable camera app—but much of Google's Pixel camera magic is proprietary, and thus can only be restored using the [Google Camera app from Google Play](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera).
 
