@@ -8,6 +8,8 @@ updated: 2022-06-20
 
 I have an old Pixel 3 sitting around as a test device, and several family members have Pixel 3As. Unfortunately, these devices have all received their last Android system update from Google, meaning they'll start to fall behind on both features and eventually security fixes—even if _much_ of the security in Android these days is delivered by Google Play Services which will continue to provide updates for the forseeable future.
 
+![GrapheneOS logo on a phone]({{ page.image }}){: .card }
+
 Regardless, it would make me feel much more comfortable to continue receiving OS updates. Luckily, [GrapheneOS](https://grapheneos.org/) is a security and privacy focused build of Android that targets Pixels due to their industry-leading hardware security features combined with the ability to unlock their bootloaders. GrapheneOS effectively uses the same hardware features Google developed to keep the stock software secure and private from attackers, and uses them to protect the hardened version of the OS.
 
 ### Installing & Using GrapheneOS
