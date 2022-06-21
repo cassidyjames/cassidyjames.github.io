@@ -14,7 +14,7 @@ Regardless, it would make me feel much more comfortable to continue receiving OS
 
 Now, initially, I might recommend [installing GrapheneOS](https://grapheneos.org/install/web) and using it how it's designed. The web-based installation is _super_ easy if you have access to a Chromium-based browser, like Google Chrome, Microsoft Edge, Brave, Vivaldi, etc.
 
-There's a catch with using GrapheneOS out of the box, though: doesn't come with _any_ Google apps or services. Instead, you're in command of your own hardware, and can choose where to get your apps. The obvious and oft-recommended option is [F-Droid](https://f-droid.org/), which is a completely open source app store and repoitory. However, much of the software is outdated, and the app itself is a bit clunky. But if you need to revive an old device and just need a couple of apps (or specific apps that are open source), it can be an option.
+There's a catch with using GrapheneOS out of the box, though: it doesn't come with _any_ Google apps or services. Instead, you're in command of your own hardware, and can choose where to get your apps. The obvious and oft-recommended option is [F-Droid](https://f-droid.org/), which is a completely open source app store and repoitory. However, much of the software is outdated, and the app itself is a bit clunky. But if you need to revive an old device and just need a couple of apps (or specific apps that are open source), it can be an option.
 
 Another option I see recommended is the [Aurora Store](https://auroraoss.com/), which is an open source front-end to the Google Play Store's back-end. The advantage is that you can install free apps without signing in, so you don't need a Google account—but many apps do require Google services to be running on your phone, anyway, so it can still be hit or miss.
 
@@ -32,7 +32,7 @@ Luckily, I just helped a family member get GrapheneOS installed and running a Go
 
 GrapheneOS is built from the latest Android sources, so it includes most of the features you would see in Android itself including the same visual design across the lock screen, home screen, notifications shade, and settings app.
 
-As of recently, GrapheneOS also includes an easy way to enable Google Play store (and related services) while keeping them "sandboxed" or secured from the rest of the OS: open the pre-installed "Apps" app, find "Google Play Store", and hit "Install". Easy.
+As of recently, GrapheneOS also includes an easy way to enable the Google Play Store (and related services) while keeping them "sandboxed" or secured from the rest of the OS: open the pre-installed "Apps" app, find "Google Play Store", and hit "Install". Easy.
 
 One place I see GrapheneOS lacking is with the keyboard; unfortunately the swipe-to-type feature of Gboard (as well as many of the other additions, like stickers and voice typing) are proprietary and thus not incuded. However, you can [install Gboard from Google Play](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) to restore that experience.
 
