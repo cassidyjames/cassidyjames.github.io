@@ -26,8 +26,10 @@
       {% assign image = page.image | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
     <meta property="twitter:image" content="{{ image }}" />
+    <meta property="og:image" content="{{ image }}" />
   {% else %}
     <meta property="twitter:image" content="{{ site.image | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:image" content="{{ site.image | prepend: site.baseurl | prepend: site.url }}" />
   {% endif %}
 
   <meta name="twitter:card" content="summary_large_image">
