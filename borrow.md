@@ -8,4 +8,3 @@ What Cassidy is borrowing and what's being borrowed from Cassidy.
 
 ## Others Have
 
-- Rise of the Tomb Raider for PS4 _Cory_
