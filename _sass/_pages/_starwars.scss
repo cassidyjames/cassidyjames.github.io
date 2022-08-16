@@ -155,4 +155,28 @@ html.starwars {
       );
     }
   }
+
+  &.andor {
+    --accent-color: #890e11;
+    --background-color: #e6d6bc;
+
+    h1 img {
+      filter: brightness(0) invert(14%) sepia(43%) saturate(4969%) hue-rotate(343deg) brightness(89%) contrast(107%);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      --accent-color: #de5d60;
+      --background-color: black;
+
+      h1 img {
+        filter: none;
+      }
+    }
+
+    table td {
+      line-height: 1.5;
+      min-width: 7em;
+      vertical-align: top;
+    }
+  }
 }
