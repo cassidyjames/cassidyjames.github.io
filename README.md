@@ -1,36 +1,14 @@
 # cassidyjames.com
 
-My personal website.
+My personal website, and an unintentional Jekyll theme for others to base their sites off of. 😅
 
 ## Building
 
-You'll need the following dependencies:
-```
-ruby-full build-essential zlib1g-dev
-```
+I recommend using `toolbox` for development, especially if you're on Endless OS or Fedora Silverblue. See [this blog post](https://cassidyjames.com/blog/github-pages-jekyll-fedora-silverblue/) for details on how to get set up.
 
-We recommend installing gems to a (hidden) directory in your home folder:
-```bash
-echo '' >> ~/.bashrc
-echo '# Install Ruby Gems to ~/.gems' >> ~/.bashrc
-echo 'export GEM_HOME="$HOME/.gems"' >> ~/.bashrc
-echo 'export PATH="$HOME/.gems/bin:$PATH"' >> ~/.bashrc
-echo '' >> ~/.bashrc
-source ~/.bashrc
-```
+Once you're set up, build and serve locally with:
 
-Install jekyll and bundler:
-```bash
-gem install bundler
-```
-
-Install gems:
-```bash
-bundle install
-```
-
-Build and serve locally with:
-```bash
+```shell
 bundle exec jekyll serve --host 0.0.0.0
 ```
 
