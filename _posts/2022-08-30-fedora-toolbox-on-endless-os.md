@@ -17,7 +17,7 @@ Download registry.fedoraproject.org/f35/fedora-toolbox:36 (500MB)? [y/N]: y
 Error: failed to pull image registry.fedoraproject.org/f36/fedora-toolbox:36
 ```
 
-It turns out the between Endless OS packaging up Toolbox and the Fedora 36 release, Fedora changed the URL structure of their registry—they removed the `/f36/` bit in the middle, but the toolbox CLI is trying to look there! Fortunately, this is an easy fix; instead of the magic `--distro` and ``--release` flags, you can point directly to the version on the registry:
+It turns out the between Endless OS packaging up Toolbox and the Fedora 36 release, Fedora changed the URL structure of their registry—they removed the `/f36/` bit in the middle, but the toolbox CLI is trying to look there! Fortunately, this is an easy fix; instead of the magic `--distro` and `--release` flags, you can point directly to the version on the registry:
 
 ```
 toolbox create --image registry.fedoraproject.org/fedora-toolbox:36
