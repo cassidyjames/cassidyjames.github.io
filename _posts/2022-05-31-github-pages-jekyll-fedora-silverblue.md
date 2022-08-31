@@ -1,9 +1,9 @@
 ---
-title: Developing a GitHub Pages/Jekyll Site on Fedora Silverblue
+title: Developing a GitHub Pages/Jekyll Site on Fedora Silverblue or Endless OS
 description: Documenting for my own purposes—but hopefully it's helpful!
 image: /images/blog/github-pages-jekyll-fedora-silverblue/toolbox.gif
 
-updated: 2022-05-31
+updated: 2022-08-31
 ---
 
 For the past decade, I've used Ubuntu or Ubuntu-based distributions like
@@ -11,16 +11,19 @@ elementary OS. As such, I've gotten used to or put up with certain workflows,
 like how to hack on the many, many Jekyll-based and GitHub-hosted sites I
 operate or contribute to.
 
-Well, for various reasons, I've jump on board the Fedora Silverblue train
-lately, and it's time to re-learn some things—it's hard to say if it's better
-or worse, but it _is_ different. Here's what I've learned and how I get up and
-running on Fedora (specifically, Silverblue) today:
+Well, for various reasons, I've jumped on board the Fedora Silverblue train on
+my personal machine lately, and it's time to re-learn some things—it's hard to
+say if it's better or worse, but it _is_ different. Here's what I've learned and
+how I get up and running on Fedora (specifically, Silverblue) today:
+
+**Note (Aug 31, 2022):** This also works well if you're on Endless OS,
+especially after [setting up a Fedora Toolbox on Endless OS](/blog/fedora-toolbox-on-endless-os)!
 
 ### Toolbx is your friend!
 
 First, you're going to want to get used to [Toolbx](https://containertoolbx.org/).
-Toolbx is a way to run "containers" on Fedora (and other OSes)—think of it like 
-Docker but for your own playground on your desktop. It's especially useful if 
+Toolbx is a way to run "containers" on Fedora (and other OSes)—think of it like
+Docker but for your own playground on your desktop. It's especially useful if
 you're rocking a futuristic image-based OS like Fedora Silverblue or Endless OS!
 
 <figure markdown="1">
