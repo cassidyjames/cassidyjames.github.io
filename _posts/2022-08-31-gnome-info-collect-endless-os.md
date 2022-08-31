@@ -10,7 +10,7 @@ When `gnome-info-collect` was announced, I had a lot to say about it and the ove
 
 I still think there's a lot to be done here; namely, only the people who are technical enough to install a package, run it from a Terminal, and undestand and agree to the data being sent are going to be counted. This will lead to **extreme** selection bias; what about the tens of thousands of people using GNOME on Endless OS who might not even know it, don't know or want to know how to use a Terminal, and certainly would not be able to manually download and run this tool? Certainly the fact they are GNOME users using their computer every day still counts for something?
 
-<asode markdown="1">
+<aside markdown="1">
 >Only the people who are technical enough to install a package, run it from a Terminal, and undestand and agree to the data being sent are going to be counted.
 </aside>
 
