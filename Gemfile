@@ -3,4 +3,4 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-sitemap', group: :jekyll_plugins
 gem 'jekyll-redirect-from'
 
-gem "webrick", "~> 1.7"
+gem 'webrick', '~> 1.7'
