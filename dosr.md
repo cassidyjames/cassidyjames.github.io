@@ -1,3 +1,7 @@
+---
+redirect_to: "https://gettogether.community/denver-open-source-remoters-club/"
+---
+
 # Denver Open Source Remoters Club
 
 **Due to the COVID-19 pandemic, DOSR meetups are cancelled for the foreseeable future.** You are still welcome to join the Get Together community for notifications about future events once they resume.
