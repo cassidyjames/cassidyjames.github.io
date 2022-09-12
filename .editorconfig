@@ -1,7 +1,6 @@
 # EditorConfig <http://EditorConfig.org>
 root = true
 
-# elementary defaults
 [*]
 charset = utf-8
 end_of_line = lf
