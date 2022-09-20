@@ -38,7 +38,9 @@ Look at the mainstream, proprietary app stores: popular apps there have paid mar
 
 ###  Where does this show up, anyway?
 
-If you spend your time prepping good metadata for your app and nobody sees it, what's the point? Luckily, the default software centers/"app stores" across millions of installs of Linux-based OSes as well as the web will make great use of your metadata to show off your app. So far, I know of:
+If you spend your time prepping good metadata for your app and nobody sees it, what's the point? Should you just invest your time into making a website, instead?
+
+Luckily, the default software centers/"app stores" across millions of installs of Linux-based OSes as well as the web will make great use of your metadata to show off your app. So far, I know of:
 
 - [Flathub website](https://beta.flathub.org/)
 - GNOME Software
@@ -74,6 +76,13 @@ Basically, make sure you have good metainfo so your app can look like this:
 Same app listing on Flathub, Apps for GNOME, AppCenter, and KDE Discover.
 </figcaption>
 </figure>
+
+And as an important note: since this data is a cross-desktop standard, it can show up in new, innovative ways! For example,
+
+- An app launcher could use your app's branding for accent colors
+- A desktop environment could use 
+- Your app could use this info in its About dialog
+- **It works offline**, so it's far superior to a website, as it can share information
 
 ### Let's get into metainfo
 
