@@ -16,7 +16,7 @@ In a dangerous era, Cassian Andor embarks on a path destined to turn him into a 
 Join us to watch [Andor on Disney+][s1]! We'll be watching one chapter each debut **Wednesday** at **8:30 PM Mountain time**. You can still join and watch any time!
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
-[Join the Discord](https://discord.gg/3aagq4A){: .button}
+[Join the Discord](https://discord.gg/YRNuc7xv?event=1010372527274594544){: .button}
 
 <!--small>Or click the dates below for the specific events.</small-->
 </div>
