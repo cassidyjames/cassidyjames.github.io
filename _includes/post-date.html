@@ -1,0 +1,11 @@
+{% if page.updated and updated_string != date_string %}
+  <time
+    class="updated-date"
+    datetime="{{ page.updated | date:"%Y-%m-%d" }}"
+    title="Originally posted {{ page.date | date: "%a, %b %e, %Y" }}"
+  >
+    Updated {{ page.updated | date: "%a, %b %e, %Y" }}
+  </time>
+{% else %}
+  <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date: "%a, %b %e, %Y" }}</time>
+{% endif %}

@@ -307,10 +307,6 @@ article time,
   cursor: default;
 }
 
-.read-time::before {
-  content: "| ";
-}
-
 .subtitle {
   font-size: 1.33em;
   margin: 0 auto 0.25em;
