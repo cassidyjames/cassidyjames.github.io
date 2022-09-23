@@ -3,8 +3,20 @@ title: Use GrapheneOS to extend the life of a Pixel
 description: The security- and privacy-focused OS can be bent back into a Pixel experience
 image: /images/blog/graphene-os-extend-life-of-pixel/card.png
 
-updated: 2022-06-20
+updated: 2022-09-23
 ---
+
+### Important Update
+
+As of [August 18, 2022](https://grapheneos.org/releases#2022081800), the GrapheneOS project considers their support of Pixel 3 finished, and effectively says users should stop using the device (empahsis mine):
+
+>We've fulfilled our commitment to providing extended support releases for the end-of-life 3rd generation Pixels until the next major OS release and **all users on those devices should have moved to devices… such as the highly recommended 6th generation Pixels**… we may continue extended support releases for legacy 3rd generation Pixels based on Android 12.1 in a more limited capacity, but we haven't determined how we'll handle it going forward.
+
+At this point, I'm not sure if it's better to run a hardened GrapheneOS with fewer updates, or something like LineageOS which might receive more updates. As of now, both are based on Android 12L.
+
+---
+
+## Original Post
 
 I have an old Pixel 3 sitting around as a test device, and several family members have Pixel 3As. Unfortunately, these devices have all received their last Android system update from Google, meaning they'll start to fall behind on both features and eventually security fixes—even if _much_ of the security in Android these days is delivered by Google Play Services which will continue to provide updates for the forseeable future.
 
