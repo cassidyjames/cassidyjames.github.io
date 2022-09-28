@@ -3,7 +3,7 @@
 <noscript markdown="1">
 ## This page requires JavaScript
 
-Sorry, it's all done client-side on a static page, so JS is needed. You can download the [Dippi app for elementary OS][appcenter] to perform the same calculations offline—no JavaScript necessary.
+Sorry, it's all done client-side on a static page, so JS is needed. You can download the [Dippi app for Linux][flathub] to perform the same calculations offline—no JavaScript necessary.
 </noscript>
 
 <div class="result">
@@ -74,12 +74,14 @@ Sorry, it's all done client-side on a static page, so JS is needed. You can down
 </form>
 
 <div class="appcenter" markdown="1">
-## Get it on AppCenter
+## Get it on Flathub
 
-Dippi is primarily a native app designed for elementary OS. [Get it on AppCenter][appcenter] to calculate display info any time, online or off. It has extra features like logical resolution, scaling factor, aspect ratio, live calculation, and a nice diagram to help you out.
+![Icon](https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.github.cassidyjames.dippi.png)
 
-<div style="text-align: center" markdown="1">
-[![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)][appcenter]
+Dippi is primarily a native app designed for GNOME and Linux-based operating systems. [Get it on Flathub][flathub] to calculate display info any time, online or off. It has extra features like logical resolution, scaling factor, aspect ratio, live calculation, and a nice diagram to help you out.
+
+<div style="text-align: center">
+<a href='https://flathub.org/apps/details/com.github.cassidyjames.clairvoyant'><img width='180' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.svg'/></a>
 </div>
 
 </div>
@@ -251,4 +253,4 @@ Dippi is primarily a native app designed for elementary OS. [Get it on AppCenter
   }
 </style>
 
-[appcenter]: https://appcenter.elementary.io/com.github.cassidyjames.dippi
+[flathub]: https://flathub.org/apps/details/com.github.cassidyjames.dippi
