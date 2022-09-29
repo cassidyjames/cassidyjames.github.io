@@ -26,7 +26,7 @@ Event    | Episode                     | Description
 [Sep 21] | [1. Kassa][s1e1]            | Cassian Andor’s reckless search for answers about his past makes him a wanted man.
 &nbsp;   | [2. That Would Be Me][s1e2] | Cassian attempts to lay low on Ferrix as agents of the law close in.
 &nbsp;   | [3. Reckoning][s1e3]        | Cassian’s desperation to avoid arrest leads him to a mysterious man with unknown connections.
-[Sep 28] | Episode 4                   |
+[Sep 28] | [4. Aldhani][s1e4]          | Out of options, Cassian is recruited for a dangerous mission to infiltrate an Imperial garrison.
 Oct 5             | Episode 5                   |
 Oct 12            | Episode 6                   |
 Oct 19            | Episode 7                   |
@@ -40,6 +40,7 @@ Nov 23            | Episode 12                  |
 [s1e1]: https://www.disneyplus.com/series/andor/3xsQKWG00GL5
 [s1e2]: https://www.disneyplus.com/series/andor/3xsQKWG00GL5
 [s1e3]: https://www.disneyplus.com/series/andor/3xsQKWG00GL5
+[s1e4]: https://www.disneyplus.com/series/andor/3xsQKWG00GL5
 
 [discord]: https://discord.gg/3aagq4A
 [sep 21]: https://discord.gg/YRNuc7xv?event=1010372527274594544
