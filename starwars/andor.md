@@ -21,12 +21,12 @@ Join us to watch [Andor on Disney+][s1]! We'll be watching one chapter each debu
 <small>Or click the dates below for the specific events.</small>
 </div>
 
-Event             | Episode                     | Description
-:----             | :------                     | :---------
-[Sep 21]          | [1. Kassa][s1e1]            | Cassian Andor’s reckless search for answers about his past makes him a wanted man.
-&nbsp;            | [2. That Would Be Me][s1e2] | Cassian attempts to lay low on Ferrix as agents of the law close in.
-&nbsp;            | [3. Reckoning][s1e3]        | Cassian’s desperation to avoid arrest leads him to a mysterious man with unknown connections.
-[Sep 28][discord] | Episode 4                   |
+Event    | Episode                     | Description
+:----    | :------                     | :---------
+[Sep 21] | [1. Kassa][s1e1]            | Cassian Andor’s reckless search for answers about his past makes him a wanted man.
+&nbsp;   | [2. That Would Be Me][s1e2] | Cassian attempts to lay low on Ferrix as agents of the law close in.
+&nbsp;   | [3. Reckoning][s1e3]        | Cassian’s desperation to avoid arrest leads him to a mysterious man with unknown connections.
+[Sep 28] | Episode 4                   |
 Oct 5             | Episode 5                   |
 Oct 12            | Episode 6                   |
 Oct 19            | Episode 7                   |
@@ -43,6 +43,7 @@ Nov 23            | Episode 12                  |
 
 [discord]: https://discord.gg/3aagq4A
 [sep 21]: https://discord.gg/YRNuc7xv?event=1010372527274594544
+[sep 28]: https://discord.gg/Y6WZfGN7?event=1024839324933574728
 
 ---
 
