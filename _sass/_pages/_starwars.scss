@@ -140,6 +140,50 @@ html.starwars {
     }
   }
 
+  &.andor {
+    --rgb-bg: 230, 214, 188;
+    --background-color: rgb(var(--rgb-bg));
+    --accent-color: #890e11;
+
+    body {
+      background: none;
+
+      &::before {
+        background-image:
+          linear-gradient(rgba(var(--rgb-bg), 0.5), var(--background-color)),
+          url("/images/starwars/andor/scrap.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        content: " ";
+        height: 100vh;
+        position: fixed;
+        width: 100vw;
+        z-index: -1;
+      }
+    }
+
+    h1 img {
+      filter: brightness(0) invert(14%) sepia(43%) saturate(4969%) hue-rotate(343deg) brightness(89%) contrast(107%);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      --rgb-bg: 0, 0, 0;
+      --background-color: rgb(var(--rgb-bg));
+      --accent-color: #de5d60;
+
+      h1 img {
+        filter: none;
+      }
+    }
+
+    table td {
+      line-height: 1.5;
+      min-width: 7em;
+      vertical-align: top;
+    }
+  }
+
   &.alt-style {
     body::before {
       background-image: none;
@@ -153,30 +197,6 @@ html.starwars {
         var(--accent-color) 1px,
         transparent 1px
       );
-    }
-  }
-
-  &.andor {
-    --accent-color: #890e11;
-    --background-color: #e6d6bc;
-
-    h1 img {
-      filter: brightness(0) invert(14%) sepia(43%) saturate(4969%) hue-rotate(343deg) brightness(89%) contrast(107%);
-    }
-
-    @media (prefers-color-scheme: dark) {
-      --accent-color: #de5d60;
-      --background-color: black;
-
-      h1 img {
-        filter: none;
-      }
-    }
-
-    table td {
-      line-height: 1.5;
-      min-width: 7em;
-      vertical-align: top;
     }
   }
 }
