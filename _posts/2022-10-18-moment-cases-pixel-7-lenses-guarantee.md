@@ -2,11 +2,20 @@
 title: Moment Cases No Longer Support M-Series Lenses for Google Pixel Phones
 description: Despite an “upgrade guarantee,” there are no plans for M-Series photo cases for Pixel 7
 updated: 2022-10-18
+
+image: /images/blog/moment-cases-pixel-7-lenses-guarantee/pixel-6-to-pixel-7-moment-case.jpg
 ---
 
 Moment made a name for themselves by providing quality mobile photography lenses and cases for iPhones, Pixels, and Samsung Galaxy phones, but it seems the company will have to switch things up due to ever-changing phone camera optics.
 
 In 2017, just a month before Pixel 2 was released, Moment went so far as to provide [a "guarantee"](https://www.youtube.com/watch?v=j1fwXPVr_jY) that they would "make new photo cases for iPhone, Pixel, and Galaxy devices from here until the end of cell phones!” The video ends with a link to **shopmoment.com/guarantee**, which at the time lead to an accompanying web page repeating the “Photo Case Upgrade Guarantee.” However, after just five years they've seemingly reneged on their guarantee and no longer offer M-Series photo cases for the Pixel 6a and Pixel 7 phones.
+
+<figure markdown="1">
+![Pixel 6 and Pixel 7 Moment Cases]({{ page.image }}){: .card }
+<figcaption markdown="1">
+**Left:** Moment Case for Pixel 6 | **Right:** Moment Case for Pixel 7
+</figcaption>
+</figure>
 
 In their [Pixel 7 case Q&A section](https://www.shopmoment.com/products/moment-case-for-pixel-7-with-mforce/7-black), Moment cites “changes in the field of view of the onboard cameras” of the Pixel 7 series for their lack of M-Series lens support. Curiously, Moment _did_ make an M-Series lens mount case for Pixel 6 series which shares the same main sensor as the Pixel 7 series, but warned that “M-Series lenses may vignette when used with Pixel 6 & Pixel 6 Pro.”
 
