@@ -2,6 +2,7 @@
 title: How to make a delightful Flatpak app listing
 description: Tips to make your app shine on Flathub, GNOME Software, and beyond
 updated: 2022-04-30
+hidden: true
 ---
 
 Over the years I've helped build [an app ecosystem](https://blog.elementary.io/tags/#appcenter) built on open standards like Flatpak and AppStream, and these days [I work with](/blog/ive-joined-the-endless-os-foundation) organizations deploying Flatpak-based computers to dozens, hundreds, or thousands of people at a time. One of the recurring places I've noticed app developers struggling is their app's metainfo—the structured data that essentially forms an app's marketing page across all the app stores.

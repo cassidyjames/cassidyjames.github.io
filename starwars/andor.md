@@ -27,10 +27,10 @@ Event    | Episode                     | Description
 &nbsp;   | [2. That Would Be Me][s1e2] | Cassian attempts to lay low on Ferrix as agents of the law close in.
 &nbsp;   | [3. Reckoning][s1e3]        | Cassian’s desperation to avoid arrest leads him to a mysterious man with unknown connections.
 [Sep 28] | [4. Aldhani][s1e4]          | Out of options, Cassian is recruited for a dangerous mission to infiltrate an Imperial garrison.
-Oct 5             | Episode 5                   |
-Oct 12            | Episode 6                   |
-Oct 19            | Episode 7                   |
-Oct 26            | Episode 8                   |
+Oct 5             | 5. The Axe Forgets |
+Oct 12            | 6. The Eye         |
+Oct 19            | 7. Announcement    | The fallout from the Aldhani heist is swift and seismic, shaking the Imperial Security Bureau on Coruscant into action, and prompting more intrigue for Senator Mon Mothma. Meanwhile, Cassian Andor returns home to find a much changed Ferrix.
+Oct 26            | 8. Narkina 5       | While lying low, Cassian is swept up in an Imperial crackdown with little more than a false identity as protection. The Empire are unaware of his true past, but send him to toil in a high security prison. Meanwhile, the Imperial Security Bureau continues to piece together intelligence on acts of sedition.
 Nov 2             | Episode 9                   |
 Nov 9             | Episode 10                  |
 Nov 16            | Episode 11                  |
