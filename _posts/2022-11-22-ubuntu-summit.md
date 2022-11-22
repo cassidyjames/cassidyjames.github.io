@@ -45,6 +45,8 @@ The summit was designed around talks, panels, and workshops as the primary sched
 
 ### Non-code contributions welcome! How non-coders can contribute to open source projects _Michelangelo Guarise_
 
+Michelangelo Guarise is an entrepreneur, FOSS enthusiast, maker, professor, and avid technologist. He founded [Volumio](https://volumio.com/), a popular open source music player with a vibrant community.
+
 >Usually we think to open source projects as efforts done by developers for developers. But that should, and not always is, the case.
 >
 >If we want to expand the potential outreach of Open Source projects it's vital to onboard a diverse and multidisciplinary team of contributors.
@@ -59,7 +61,11 @@ Michelangelo actually gave his talk immediately following mine, which was perfec
 
 _Talk starts at 5:44:25_
 
-### Community Michaelangelo
+### Why every project should build a community, yours included _Michelangelo Guarise_
+
+Michelangelo from Volumio gave another great talk diving more into the community building and management aspect of open source projects, based on his lessons learned in the field over the past eight years.
+
+This one is another must-watch for anyone involved in building an open source project or community; the video should be available on the [Ubuntu OnAir YouTube channel](https://www.youtube.com/@UbuntuOnAir) in the coming weeks.
 
 ### Ubuntu Snap Store
 
