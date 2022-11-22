@@ -43,7 +43,7 @@ It was great to see contributors to GNOME representing various organizations inc
 
 The summit was designed around talks, panels, and workshops as the primary scheduled material with various social events in the evenings. Between the two of us, Georges and I attended the following talks:
 
-### Non-code contributions welcome! How non-coders can contribute to open source projects _Michelangelo Guarise_
+### [Non-code contributions welcome! How non-coders can contribute to open source projects _Michelangelo Guarise_](https://events.canonical.com/event/2/contributions/13/)
 
 Michelangelo Guarise is an entrepreneur, FOSS enthusiast, maker, professor, and avid technologist. He founded [Volumio](https://volumio.com/), a popular open source music player with a vibrant community.
 
@@ -61,13 +61,43 @@ Michelangelo actually gave his talk immediately following mine, which was perfec
 
 _Talk starts at 5:44:25_
 
-### Why every project should build a community, yours included _Michelangelo Guarise_
+### [Why every project should build a community, yours included _Michelangelo Guarise_](https://events.canonical.com/event/2/contributions/14/)
 
 Michelangelo from Volumio gave another great talk diving more into the community building and management aspect of open source projects, based on his lessons learned in the field over the past eight years.
 
+![Michelangelo giving his talk](/images/blog/ubuntu-summit/michelangelo-community.jpg)
+
 This one is another must-watch for anyone involved in building an open source project or community; the video should be available on the [Ubuntu OnAir YouTube channel](https://www.youtube.com/@UbuntuOnAir) in the coming weeks.
 
+### Ubuntu on Arm
+
+### [Linux Lads Live Podcast Recording](https://events.canonical.com/event/2/contributions/18/)
+
+>The [Linux Lads](https://linuxlads.com/) are a group of podcasters based across Ireland and the United States. We have been publishing for over four years and cover a wide range of topics from desktop Linux to Vim shortcuts and everything in between. Our aim is to promote the joy of using open source software and to have some fun in the process!
+
+They hosted a sort of hybrid podcast/panel session where they introduced themselves and then fielded questions from the live audience.
+
+>The Linux Lads podcast is targeted at the community and hobbyist user in the world of Linux and open source software in general. We will be recording a live episode at the Summit with an informal panel discussion. Audience participation is not only welcomed but encouraged.
+>
+>This will not be an overly technical discussion but one that is aimed at the average desktop Linux user. This will be a light-hearted, inclusive and (hopefully) humourous event.
+
+The episode has not been released yet, but know that I asked a few questions that got interesting responses: **Are there any specific desktop workflows or features that they really like?** and **How could open source projects and desktops make their lives easier?** You'll have to listen to the episode when it's live, but some of the responses focused on window management (tiling and snapping) and PipeWire for audio production. It was a great perspective!
+
+If you're into Linux or open source, be sure to [subscribe to their podcast](https://linuxlads.com/subscribe/) to listen to the next episode when it airs.
+
 ### Ubuntu Snap Store
+
+### [Freelancing (and more) with Free Software _Ryan Gorley_](https://events.canonical.com/event/2/contributions/49/)
+
+Ryan Gorley is a friend of mine who is a design and marketing professional with nearly 20 years of experience. His formal education is in architectural design and marketing, and he's the founder and creative director at Freehive, a creative agency that specializes in web design, graphic design, and 3D animation all using open source software.
+
+He delivered a great hybrid pre-recoded talk and live Q&A session.
+
+>The [Ubuntu 22.04 release video](https://www.youtube.com/watch?v=REdxblQpsDE) created by [Freehive](https://freehive.com/) was an example of the kind of professional work that is possible using Ubuntu and other free and open source creative tools. Ryan Gorley, the Creative Director at Freehive, will share the background behind his agency's use of open source software in its graphic design, animation, and other work for clients large and small. His goal in the presentation is to help creative professionals who aspire to be free of restrictive, expensive, and coercive commercial software to recognize the opportunities freely available to them. He will suggest a course, through his own experience, for their own adoption of community developed and supported alternatives.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-gBthZMoX5E?start=20665" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+My favorite part of his talk—besides just how polished his work and the talk itself are—is that all of the apps he shows off are available for free on Endless OS, with no payment or subscriptions required.
 
 ### Writing and Publishing books using Free Software
 
