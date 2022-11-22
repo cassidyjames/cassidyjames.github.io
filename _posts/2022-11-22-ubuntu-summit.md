@@ -15,9 +15,19 @@ Endless OS is the Linux-based operating system from the Endless OS Foundation—
 
 ## Presenting
 
-Georges and I each presented at the summit; I gave a talk while Georges co-hosted a GNOME panel.
+Georges and I each presented at the summit; I gave a talk about app store listings while Georges co-hosted a GNOME panel.
 
-### How to Make a Delightful App Listing _Cassidy_
+### [How to Make a Delightful App Listing _Cassidy_](https://events.canonical.com/event/2/contributions/4/)
+
+Over the years I’ve helped build an app ecosystem built on open standards, and now at the Endless OS Foundation I work with organizations around the world deploying computers that run on Linux and open source technologies to dozens, hundreds, or thousands of people at a time.
+
+One of the recurring places I’ve noticed app developers struggling is their app’s metainfo—the structured data that essentially forms an app’s marketing page across all the app stores including Ubuntu Software, GNOME Software, KDE Discover, elementary AppCenter, and more.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pqBbiT40Eak?start=18907" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+_Talk starts at 5:15:07_
+
+Over all I feel like my talk was well-received, and I was thrilled to get a handful of great, relevant questions from the audience!
 
 ### State of GNOME _Georges and several other GNOME contributors_
 
@@ -40,6 +50,8 @@ Nathan Haines "Ideas are worthless; what matters is the execution"; different fo
 LibCamera → PipeWire people meeting and chatting
 
 Game night: Touchpad while typing in Settings
+
+Native messaging portal
 
 ## Social
 
