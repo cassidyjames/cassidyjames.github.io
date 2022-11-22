@@ -71,6 +71,8 @@ This one is another must-watch for anyone involved in building an open source pr
 
 ### Ubuntu on Arm
 
+I'm a fan of alternate architectures; Endless OS is primarily geared towards x86 (64-bit Intel and AMD) processors, thought we do have builds for ARM over the years. Personally, I own several versions of Raspberry Pi computers and a Pinebook Pro, which are ARM-based.
+
 ### [Linux Lads Live Podcast Recording](https://events.canonical.com/event/2/contributions/18/)
 
 >The [Linux Lads](https://linuxlads.com/) are a group of podcasters based across Ireland and the United States. We have been publishing for over four years and cover a wide range of topics from desktop Linux to Vim shortcuts and everything in between. Our aim is to promote the joy of using open source software and to have some fun in the process!
@@ -99,6 +101,8 @@ He delivered a great hybrid pre-recoded talk and live Q&A session.
 
 My favorite part of his talk—besides just how polished his work and the talk itself are—is that all of the apps he shows off are available for free on Endless OS, with no payment or subscriptions required.
 
+### [How We're Making the New Ubuntu Software App and What's Next](https://events.canonical.com/event/2/contributions/26/)
+
 ### [Collaborating on Music Remotely with Ubuntu Studio, Ardour, and GitHub _Lorenzo's Music_](https://events.canonical.com/event/2/contributions/46/)
 
 [Lorenzo's Music](https://www.lorenzosmusic.com/) is an experimental creative commons band that exclusively uses open source tools and software to produce music and videos—and they shared their workflow in an informal workshop.
@@ -116,9 +120,27 @@ It was a fascinating and fun session where they showed how they edit collaborati
 
 They also treated the summit closing party with a live set on a boat! You can [read about their whole trip](https://www.lorenzosmusic.com/2022/11/performing-at-ubuntu-summit-prague.html) on their blog.
 
+### [Flavors and Release Team Panel](https://events.canonical.com/event/2/contributions/108/)
+
+Since Endless OS is Ubuntu-adjacent, I thought it would be interesting to attend this session alongside the various aspiring Ubuntu flavors.
+
+>A breakout panel session for flavor-related discussions, with some members of both the Release Team and the Technical Board. Occasion to sit down together and work through pain points in being an Ubuntu flavor, improvements to the cooperation, clarification on what it means to be an Ubuntu flavor and how to become one.
+
+Over all it wasn't directly relevant to Endless OS, and there wasn't much new information for me—I had similar conversations in the past when working on elementary OS—but it seemed like a valuable session for those aspiring Ubuntu flavors.
+
+### [Ubuntu on RISC-V: State of Things](https://events.canonical.com/event/2/contributions/111/)
+
+Much like the Ubuntu on ARM session, this was interesting to peer into the alternate architecture world.
+
+>A short presentation outlining the state of things of Ubuntu on RISC-V. What is the state of RISC-V? What devices are actually available and which we currently support? What's the maturity of the ecosystem? What are our plans?
+
+I was happy to learn that there are actually a handful of developer boards out there similar to the Raspberry Pi with RISC-V processors; something I may explore in my personal projects. And if they continue to become more widely-available, perhaps we could consider the architecture when building Flatpaks and Endless OS itself.
+
 ### Writing and Publishing books using Free Software
 
 Nathan Haines "Ideas are worthless; what matters is the execution"; different for non-fiction/tech books, sold by proposal.
+
+### What Makes a Good CLI
 
 ## The "Hallway Track"
 
@@ -129,5 +151,7 @@ Game night: Touchpad while typing in Settings
 Native messaging portal
 
 ## Social
+
+### Game Night
 
 ## GNOME Hackfest
