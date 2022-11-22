@@ -99,6 +99,23 @@ He delivered a great hybrid pre-recoded talk and live Q&A session.
 
 My favorite part of his talk—besides just how polished his work and the talk itself are—is that all of the apps he shows off are available for free on Endless OS, with no payment or subscriptions required.
 
+### [Collaborating on Music Remotely with Ubuntu Studio, Ardour, and GitHub _Lorenzo's Music_](https://events.canonical.com/event/2/contributions/46/)
+
+[Lorenzo's Music](https://www.lorenzosmusic.com/) is an experimental creative commons band that exclusively uses open source tools and software to produce music and videos—and they shared their workflow in an informal workshop.
+
+>The creative commons band Lorenzo's Music has created a way to collaborate and record music with each other remotely. The method actually uses full multi-track DAW to share recording sessions to write and produce music. We will show how musicians can record, edit and produce songs accomplished only by using Ubuntu Studio and GitHub.
+
+<figure markdown="1">
+![The band on the boat](/images/blog/ubuntu-summit/lorenzos.jpg)
+<figcaption markdown="1">
+Photo from [Lorenzo's Music](https://www.lorenzosmusic.com/2022/11/performing-at-ubuntu-summit-prague.html), licensed under [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+</figcaption>
+</figure>
+
+It was a fascinating and fun session where they showed how they edit collaboratively in Ardour and commit their changes to branches on GitHub. A unique aspect of the workshop was that the project leads from both Ubuntu Studio and Ardour were in the room, which lead to some fun off-the-cuff collaboration and ideating for future releases of each.
+
+They also treated the summit closing party with a live set on a boat! You can [read about their whole trip](https://www.lorenzosmusic.com/2022/11/performing-at-ubuntu-summit-prague.html) on their blog.
+
 ### Writing and Publishing books using Free Software
 
 Nathan Haines "Ideas are worthless; what matters is the execution"; different for non-fiction/tech books, sold by proposal.
