@@ -23,19 +23,41 @@ Over the years I’ve helped build an app ecosystem built on open standards, and
 
 One of the recurring places I’ve noticed app developers struggling is their app’s metainfo—the structured data that essentially forms an app’s marketing page across all the app stores including Ubuntu Software, GNOME Software, KDE Discover, elementary AppCenter, and more.
 
+This talk helped break down how and why to think from a marketing mindset, and how to use MetaInfo to do so.
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pqBbiT40Eak?start=18907" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Talk starts at 5:15:07_
 
 Over all I feel like my talk was well-received, and I was thrilled to get a handful of great, relevant questions from the audience!
 
-### State of GNOME _Georges and several other GNOME contributors_
+### [The State of GNOME _Georges and several other GNOME contributors_](https://events.canonical.com/event/2/contributions/92/)
+
+Georges from the Endless OS Foundation along with Marco Trevisan, Jeremy Bícha, Jonas Adahl, Carlos Garnacho, Florian Müllner, Felipe Borges, and Matthias Clasen hosted a panel covering the latest developments in GNOME, the software that both Endless OS and Ubuntu build upon for their desktop experiences.
+
+The presentation covered the latest in foundational technologies like GTK4 (the app toolkit), GLib, Pango, and Muter as well as more user-visible improvements in Settings and the desktop Shell including the new quick settings, dark style toggle, and more.
+
+It was great to see contributors to GNOME representing various organizations including the Endless OS Foundation, Red Hat, Canonical, and the GNOME Foundation itself in one place presenting the latest developments in GNOME as a team.
 
 ## Talks
 
 The summit was designed around talks, panels, and workshops as the primary scheduled material with various social events in the evenings. Between the two of us, Georges and I attended the following talks:
 
 ### Non-code contributions welcome! How non-coders can contribute to open source projects _Michelangelo Guarise_
+
+>Usually we think to open source projects as efforts done by developers for developers. But that should, and not always is, the case.
+>
+>If we want to expand the potential outreach of Open Source projects it's vital to onboard a diverse and multidisciplinary team of contributors.
+>
+>This is the effort we have been doing in the past years and we will share some insights and suggestions, aimed at maintainers or wannabe contributors, to foster diversity and multidisciplinarity in the open source world.
+
+This talk covered the importance of diversity and multiple disciplines in open source projects, what kind of non-technical contributions projects need, the impact non-coders can have, and importantly, what can maintainers do to encourage non-coders to contribute.
+
+Michelangelo actually gave his talk immediately following mine, which was perfect! They paired nicely to focus on the marketing and less-technical aspects of success for open source projects. I highly recommend everyone involved in an open source project or community watch this one:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pqBbiT40Eak?start=20665" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+_Talk starts at 5:44:25_
 
 ### Community Michaelangelo
 
