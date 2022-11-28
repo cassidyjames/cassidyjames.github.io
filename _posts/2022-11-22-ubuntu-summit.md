@@ -1,6 +1,6 @@
 ---
 title: Endless OS Foundation at Ubuntu Summit 2022
-description: What we enjoyed and learned in Prague
+description: What we shared, enjoyed, and learned in Prague
 updated: 2022-11-22
 hidden: true
 ---
@@ -12,6 +12,10 @@ Earlier this month, Georges and I attended the first-ever [Ubuntu Summit](https:
 >Let's celebrate the spirit of Ubuntu — I am what I am because of who we all are.
 
 Endless OS is the Linux-based operating system from the Endless OS Foundation—built on a Debian base with the Ubuntu kernel—and members of the Endless OS Foundation are core contributors to the GNOME desktop environment, which is in turn used by the Ubuntu desktop. As such, it made sense for us to attend to learn from, collaborate within, and network with the rest of the Ubuntu community.
+
+Georges added,
+
+>This was the first Ubuntu-related conference I've ever attended, so it was all new to me. Fortunately, old friends and familiar faces were present amongst the crowd, making the whole event a lot less scary!
 
 ## Presenting
 
@@ -37,11 +41,17 @@ Georges from the Endless OS Foundation along with Marco Trevisan, Jeremy Bícha,
 
 The presentation covered the latest in foundational technologies like GTK4 (the app toolkit), GLib, Pango, and Muter as well as more user-visible improvements in Settings and the desktop Shell including the new quick settings, dark style toggle, and more.
 
+Georges tells me,
+
+>All in all I think it went well. I was not expecting much attendance, but surprisingly the room was full, and we had some good questions and interactions by the end of it.
+>
+>The format of the talk was pretty much the same as of our traditional "State of the Shell" talks on GUADEC, and it seems to be pretty popular, also to my surprise. It's generally highly technical - even though we tried to tone it down a bit for this conference - but still seem to attract engagement from the audience.
+
 It was great to see contributors to GNOME representing various organizations including the Endless OS Foundation, Red Hat, Canonical, and the GNOME Foundation itself in one place presenting the latest developments in GNOME as a team.
 
-## Talks
+## Talks, Panels, & Workshops
 
-The summit was designed around talks, panels, and workshops as the primary scheduled material with various social events in the evenings. Between the two of us, Georges and I attended the following talks:
+The summit was designed around talks, panels, and workshops as the primary scheduled material with various social events in the evenings. Some highlights from the talks we attended:
 
 ### [Non-code contributions welcome! How non-coders can contribute to open source projects _Michelangelo Guarise_](https://events.canonical.com/event/2/contributions/13/)
 
@@ -87,8 +97,6 @@ The episode has not been released yet, but know that I asked a few questions tha
 
 If you're into Linux or open source, be sure to [subscribe to their podcast](https://linuxlads.com/subscribe/) to listen to the next episode when it airs.
 
-### Ubuntu Snap Store
-
 ### [Freelancing (and more) with Free Software _Ryan Gorley_](https://events.canonical.com/event/2/contributions/49/)
 
 Ryan Gorley is a friend of mine who is a design and marketing professional with nearly 20 years of experience. His formal education is in architectural design and marketing, and he's the founder and creative director at Freehive, a creative agency that specializes in web design, graphic design, and 3D animation all using open source software.
@@ -102,6 +110,29 @@ He delivered a great hybrid pre-recoded talk and live Q&A session.
 My favorite part of his talk—besides just how polished his work and the talk itself are—is that all of the apps he shows off are available for free on Endless OS, with no payment or subscriptions required.
 
 ### [How We're Making the New Ubuntu Software App and What's Next](https://events.canonical.com/event/2/contributions/26/)
+
+Endless OS comes with App Center based on the GNOME Software app store—and in Endless OS 5, it is almost entirely upstream with just a few cosmetic patches. Over the years we've helped it improve in the design, performance, and reliability fronts alongside community designers and developers from the broader GNOME community.
+
+Ubuntu's Snap-based app store, called Ubuntu Software, used to be a fork of GNOME Software, but they are working to rewrite it from scratch in Dart using Flutter. I attended this session to see what they were up to as well as to get an early peak in case there were any interesting designs or concepts that could be brought back into GNOME Software and thus App Center.
+
+>In the past months we've been designing and developing an Ubuntu Software Store app with the Flutter UI toolkit.
+>
+>We needed a couple of things to do this in a way that users can be happy with the performance, visuals and usability, resulting in a great use experience:
+>
+>- foundation libraries to connect to the Ubuntu desktops APIs written in pure dart, the language that Flutter uses
+>
+>- a way to easily and quickly build up a UI that looks and feels Ubuntu, which resulted in three more dart packages
+>
+>With those two goals reached we were able to not only create a big part of the software app but also a settings app and are now able to compose and compile new Ubuntu desktop apps like building LEGO: no headaches - brick per brick and all apps will look, feel and perform equally good.
+
+<figure markdown="1">
+![Screenshot of Ubuntu Software](/images/blog/ubuntu-summit/ubuntu-software.png)
+<figcaption markdown="1">
+Screenshot of Ubuntu Software from the [Ubuntu Blog](https://ubuntu.com/blog/whats-new-in-ubuntu-desktop-22-10-kinetic-kudu)
+</figcaption>
+</figure>
+
+The session was interesting, and I enjoyed seeing a fresh take on what an app store could look and feel like. I hope the developers were able to learn from my _How to Make a Delightful App Listing_ talk, and utilize apps' FreeDesktop AppStream MetaInfo in interesting ways, encouraging more developers to include rich and engaging information with their apps.
 
 ### [Collaborating on Music Remotely with Ubuntu Studio, Ardour, and GitHub _Lorenzo's Music_](https://events.canonical.com/event/2/contributions/46/)
 
@@ -136,22 +167,49 @@ Much like the Ubuntu on ARM session, this was interesting to peer into the alter
 
 I was happy to learn that there are actually a handful of developer boards out there similar to the Raspberry Pi with RISC-V processors; something I may explore in my personal projects. And if they continue to become more widely-available, perhaps we could consider the architecture when building Flatpaks and Endless OS itself.
 
-### Writing and Publishing books using Free Software
+### [Writing and Publishing books using Free Software _Nathan Haines_](https://events.canonical.com/event/2/contributions/38/)
 
-Nathan Haines "Ideas are worthless; what matters is the execution"; different for non-fiction/tech books, sold by proposal.
+[Nathan Haines](https://www.nhaines.com/), a writer, translator, and publisher from the Ubuntu community shared some practical advice on how to use free and open source software to self-publish, along with plenty of insights from his own experience over the years.
 
-### What Makes a Good CLI
+One part that stuck with me was when Nathan was talking about publishing fiction: "Ideas are worthless; what matters is the execution." His point was that you shouldn't be afraid to pitch an idea to a publisher because you think they'll steal the idea, because everyone has _ideas_—but what matters is the actual story you write. I think we sometimes need to be reminded of this in the open source software space, as well: even if an _idea_ is theoretically superior—or was inspired from some other project, what actually matters is the _end product_ you ship.
 
 ## The "Hallway Track"
 
-LibCamera → PipeWire people meeting and chatting
+Inevitably, a huge part of these kinds of conferences and summits is what we affectionately call the "hallway track," that is, the impromptu discussions and hacking that happens before, between, and after the scheduled sessions. The Ubuntu Summit was no different! Georges shared the following:
 
-Game night: Touchpad while typing in Settings
+>- We could discuss the next steps and implementation of the **native messaging host portal**, proposed by jamesh, which allows browser extensions to request for particular applications to be spawned. Sandboxed browsers cannot simply list and spawn them, and that's where portals act. I was particularly skeptical of the whole concept until jamesh patiently explained how the whole thing glued together, making it more digestible.
+>
+>- Various discussions about **Mutter color management, paint nodes, new rendering APIs**, and satellite topics happened between Mutter & Shell developers. I still need to sit down and actually make these new APIs a reality, but I'm confident that's the right direction.
+>
+>- Discussions about the **file chooser icon grid** merge request, the celebration, and future changes took place as well.
+>
+>- Had the chance to meet Smithay and cosmic-comp developer Victoria and briefly talk about some **interesting topics around portals**. Happy to see her addition to the list of members of the wayland-protocols repository too, congratulations Victoria!
+>
+>- Had the chance to discuss with Kieran some details of **PipeWire and libcamera usage**, which prompted me to have another look at writing a pure GtkMediaStream implementation for PipeWire which is able to handle cameras, and thanks to a gentle handholding from Robert Mader, the YUYV / RGBA shader was fixed and some cameras now work with my PwMediaStream code. Nice!
 
-Native messaging portal
+## Social & Conclusion
 
-## Social
+A meet-up of free and open source software contributors from around the world wouldn't be complete without some sort of socializing, and the Ubuntu Summit delivered here, as well. From exploring local burger joints (and severely underestimating the amount of food we were ordering) to playing board games late into the night, to riding in a catered boat up and down the Vltava river, the event was _a lot_ of fun.
 
-### Game Night
+<figure class="half gallery" markdown="1">
+![City](/images/blog/ubuntu-summit/city.jpg)
+![A building in Prague](/images/blog/ubuntu-summit/building-2.jpg)
+![Bridge](/images/blog/ubuntu-summit/bridge.jpg)
+![Burgers](/images/blog/ubuntu-summit/burgers.jpg)
+![View from the hotel room](/images/blog/ubuntu-summit/room-view.jpg)
+![Mirrored elevator](/images/blog/ubuntu-summit/mirrors.jpg)
+![Playing with GNOME on a phone](/images/blog/ubuntu-summit/phone.jpg)
+![Playing Codenames](/images/blog/ubuntu-summit/codenames.jpg)
+![View from the boat](/images/blog/ubuntu-summit/boat.jpg)
+![Photobooth](/images/blog/ubuntu-summit/photobooth.jpg)
+</figure>
 
-## GNOME Hackfest
+It was also great to connect, re-connect, and collaborate with so many people in person from the community. I look forward to attending again in the future! Georges summed up the experience well:
+
+>Overall, I think the Ubuntu Summit was an excellent conference to participate, and I am happy I could attend it. This was the first conference after the pestilence set it, and I basically had to relearn how to be a decent human being in public spaces.
+
+<style>
+figure.gallery img {
+  border: 0.25rem solid transparent;
+}
+</style>
