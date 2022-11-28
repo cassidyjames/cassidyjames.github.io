@@ -1,7 +1,7 @@
 ---
 title: Endless OS Foundation at Ubuntu Summit 2022
 description: What we shared, enjoyed, and learned in Prague
-updated: 2022-11-22
+updated: 2022-11-28
 hidden: true
 ---
 
