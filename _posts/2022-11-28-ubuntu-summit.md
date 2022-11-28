@@ -25,7 +25,7 @@ Georges and I each presented at the summit; I gave a talk about app store listin
 
 Over the years I’ve helped build an app ecosystem built on open standards, and now at the Endless OS Foundation I work with organizations around the world deploying computers that run on Linux and open source technologies to dozens, hundreds, or thousands of people at a time.
 
-One of the recurring places I’ve noticed app developers struggling is their app’s metainfo—the structured data that essentially forms an app’s marketing page across all the app stores including Ubuntu Software, GNOME Software, KDE Discover, elementary AppCenter, and more.
+One of the recurring places I’ve noticed app developers struggling is their app’s MetaInfo—the structured data that essentially forms an app’s marketing page across all the app stores including Ubuntu Software, GNOME Software, KDE Discover, elementary AppCenter, and more.
 
 This talk helped break down how and why to think from a marketing mindset, and how to use MetaInfo to do so.
 
@@ -132,7 +132,7 @@ Screenshot of Ubuntu Software from the [Ubuntu Blog](https://ubuntu.com/blog/wha
 </figcaption>
 </figure>
 
-The session was interesting, and I enjoyed seeing a fresh take on what an app store could look and feel like. I hope the developers were able to learn from my _How to Make a Delightful App Listing_ talk, and utilize apps' FreeDesktop AppStream MetaInfo in interesting ways, encouraging more developers to include rich and engaging information with their apps.
+The session was interesting, and I enjoyed seeing a fresh take on what an app store could look and feel like. I hope the developers were able to learn from my _How to Make a Delightful App Listing_ talk, and utilize apps' MetaInfo in interesting ways, encouraging more developers to include rich and engaging information with their apps.
 
 ### [Collaborating on Music Remotely with Ubuntu Studio, Ardour, and GitHub _Lorenzo's Music_](https://events.canonical.com/event/2/contributions/46/)
 
