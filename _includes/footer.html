@@ -2,44 +2,68 @@
   <p>© {{ site.time | date: '%Y' }} {{ site.author }}. Made in {{ site.made-in }}.</p>
   <p>Site updated <time datetime="{{ site.time }}" title="{{ site.time }}">{{ site.time | date: "%b %e, %Y at %l:%M %p %Z" }}</time>.</p>
   <ul class="social">
-    <li class="github">
-      <a href="https://github.com/{{ site.github_user }}" title="GitHub">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-    <li class="medium">
-      <a href="https://medium.com/{{ site.medium }}" title="Medium">
-        <i class="fab fa-medium"></i>
-      </a>
-    </li>
-    <li class="mastodon">
-      <a href="{{ site.mastodon }}" title="Mastodon">
-        <i class="fab fa-mastodon"></i>
-      </a>
-    <li class="twitter">
-      <a href="https://twitter.com/{{ site.twitter }}" title="Twitter">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li class="unsplash">
-      <a href="https://unsplash.com/{{ site.unsplash }}" title="Unsplash">
-        <i class="fa fa-camera"></i>
-      </a>
-    </li>
-    <li class="pixelfed">
-      <a href="{{ site.pixelfed }}" title="Pixelfed">
-        <i class="fa fa-camera-retro"></i>
-      </a>
-    </li>
-    <li class="instagram">
-      <a href="https://instagram.com/{{ site.instagram }}" title="Instagram">
-        <i class="fab fa-instagram"></i>
-      </a>
-    </li>
-    <li class="email">
-      <a href="mailto:{{ site.email }}" title="Email">
-        <i class="fa fa-envelope"></i>
-      </a>
-    </li>
+    {% if site.github_user %}
+      <li class="github">
+        <a href="https://github.com/{{ site.github_user }}" title="GitHub">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+    {% endif%}
+
+    {% if site.medium %}
+      <li class="medium">
+        <a href="https://medium.com/{{ site.medium }}" title="Medium">
+          <i class="fab fa-medium"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if site.mastodon %}
+      <li class="mastodon">
+        <a href="{{ site.mastodon }}" title="Mastodon">
+          <i class="fab fa-mastodon"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if site.twitter %}
+      <li class="twitter">
+        <a href="https://twitter.com/{{ site.twitter }}" title="Twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if site.unsplash %}
+      <li class="unsplash">
+        <a href="https://unsplash.com/{{ site.unsplash }}" title="Unsplash">
+          <i class="fa fa-camera"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if site.pixelfed %}
+      <li class="pixelfed">
+        <a href="{{ site.pixelfed }}" title="Pixelfed">
+          <i class="fa fa-camera-retro"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if site.instagram %}
+      <li class="instagram">
+        <a href="https://instagram.com/{{ site.instagram }}" title="Instagram">
+          <i class="fab fa-instagram"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if site.email %}
+      <li class="email">
+        <a href="mailto:{{ site.email }}" title="Email">
+          <i class="fa fa-envelope"></i>
+        </a>
+      </li>
+    {% endif %}
   </ul>
 </footer>
