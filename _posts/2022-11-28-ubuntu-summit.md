@@ -206,10 +206,10 @@ A meet-up of free and open source software contributors from around the world wo
 
 It was also great to connect, re-connect, and collaborate with so many people in person from the community. I look forward to attending again in the future! Georges summed up the experience well:
 
->Overall, I think the Ubuntu Summit was an excellent conference to participate, and I am happy I could attend it. This was the first conference after the pestilence set it, and I basically had to relearn how to be a decent human being in public spaces.
+>Overall, I think the Ubuntu Summit was an excellent conference to participate, and I am happy I could attend it. This was the first conference after the pestilence set in, and I basically had to relearn how to be a decent human being in public spaces.
 
 <style>
-figure.gallery img {
-  border: 0.25rem solid transparent;
-}
+  figure.gallery img {
+    border: 0.25rem solid transparent;
+  }
 </style>
