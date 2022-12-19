@@ -3,7 +3,7 @@ title: Developing a GitHub Pages/Jekyll Site on Fedora Silverblue or Endless OS
 description: Documenting for my own purposes—but hopefully it's helpful!
 image: /images/blog/github-pages-jekyll-fedora-silverblue/toolbox.gif
 
-updated: 2022-08-31
+updated: 2022-12-18
 ---
 
 For the past decade, I've used Ubuntu or Ubuntu-based distributions like
@@ -92,6 +92,14 @@ bundle exec jekyll serve --host 0.0.0.0 --future
 
 …then you can navigate to `http://localhost:4000` or your local IP address to view
 your site!
+
+---
+
+**Update!** if you are having issues with errors when building, make sure you have this line in your `Gemfile`:
+
+```ruby
+gem 'webrick', '~> 1.7'
+```
 
 ---
 
