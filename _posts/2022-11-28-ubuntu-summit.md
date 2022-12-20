@@ -1,8 +1,9 @@
 ---
 title: Endless OS Foundation at Ubuntu Summit 2022
 description: What we shared, enjoyed, and learned in Prague
-updated: 2022-11-28
-hidden: true
+updated: 2022-12-20
+
+redirect_to: https://www.endlessos.org/post/endless-os-foundation-at-ubuntu-summit-2022
 ---
 
 Earlier this month, Georges and I attended the first-ever [Ubuntu Summit](https://events.canonical.com/event/2/) in Prague, Czechia along with hundreds of other members of the open source community. A decade since the last Ubuntu Developer Summit, Canonical hosted this refreshed Ubuntu Summit with the following introduction:
