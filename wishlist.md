@@ -35,9 +35,6 @@ Links point to the Gift Hero item, so please **confirm the gift on Gift Hero** i
 Image | Link | Price | Notes
 ------|------|-------|------
 ![3D printer](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/f37ce668-c6dd-41c5-9a0f-9d6f2ed2452d) | [Ender-3 V2 3D Printer](https://www.gifthero.com/items/d3e3620e-4968-49e7-9e58-66b9268238b9) | **$225** | Prices may vary depending on retailer
-![Watch band](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/33355cc2-2778-4ef6-8242-47e1289733f9) | [Pixel Watch Two-Tone Leather Band](https://www.gifthero.com/items/04a7a7db-c785-43eb-a68a-34cc2db686d5) | **$70** | Chalk; see comment for $10 coupon
-![Chucks](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/044e5394-965f-4949-9587-23e167b0a0ea) | [Purple low-top Chucks](https://www.gifthero.com/items/a6d26378-f307-4466-bd1b-2a3f6a4d67be) | **$60** | Mens size 11
-![Keycaps](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/b40638d2-86df-449d-bae4-dc860db13299) | [Air75 COAST shine-through keycaps](https://www.gifthero.com/items/5b6f4d7f-0a7c-42ce-a489-276332d9b8df) | **$19** |
 
 ---
 
@@ -57,7 +54,7 @@ _A.k.a. stuff I always enjoy._
 
 ### Pins **$5+**
 
-I collect quality pins for my backpack—ike ones with good backs, not the cheapo button ones—from cool causes, artists, and places. You can find some examples on my Gift Hero list, but I'm open to anything you think I'd like.
+I collect quality pins for my backpack—like ones with good backs, not the cheapo button ones—from cool causes, artists, and places. You can find some examples on my Gift Hero list, but I'm open to anything you think I'd like.
 
 ### Fun gauges/plugs **$5–20**
 

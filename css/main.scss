@@ -287,7 +287,7 @@ table {
   }
 }
 
-.images {
+body.store .images {
   display: flex;
   flex-wrap: nowrap;
 
@@ -338,3 +338,4 @@ table {
 .hidden {
   display: none;
 }
+
