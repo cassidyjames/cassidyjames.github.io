@@ -7,6 +7,10 @@
   --accent-color: #c6262e; // Headings
   --secondary-accent-color: var(--primary-color); // Header, footer
   --secondary-accent-contrast: var(--background-color);
+  
+  --success-color: #26a269;
+  --warning-color: #ae7b03;
+  --error-color: #c01c28;
 
   --github: var(--neutral);
   --gnome: #4a86cf;
@@ -71,6 +75,10 @@ html.alt-style {
     --accent-color: #{ mix(#ed5353, #ff8c82) };
     --secondary-accent-color: #452981;
     --secondary-accent-contrast: var(--neutral);
+
+    --success-color: #8ff0a4;
+    --warning-color: #f8e45c;
+    --error-color: #ff7b63;
   }
 
   html.alt-style {
