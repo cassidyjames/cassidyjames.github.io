@@ -14,41 +14,45 @@ Sorry, it's all done client-side on a static page, so JS is needed. You can down
     <p>For LoDPI, a DPI range of <b>90–150 is ideal for desktops</b> while <b>124–156 is ideal for laptops</b>.</p>
     <p>For HiDPI, <b>180–300 is ideal for desktops</b> while <b>248–312 is ideal for laptops</b>.</p>
   </div>
-  <div id="low" class="hidden">
+  <div id="low" class="hidden error">
     <h2>Very Low DPI</h2>
     <p>Text and UI are likely to be too big for typical viewing distances. <b>Avoid if possible.</b></p>
   </div>
-  <div id="lodpi-low" class="hidden">
+  <div id="lodpi-low" class="hidden warning">
     <h2>Fairly Low DPI</h2>
     <p>Text and UI might be too big for typical viewing distances, but it's <b>largely up to user preference</b> and physical distance from the display.</p>
   </div>
-  <div id="lodpi-ideal" class="hidden">
+  <div id="lodpi-ideal" class="hidden success">
     <h2>Ideal for LoDPI</h2>
     <p>Not HiDPI, but <b>a nice sweet spot</b>. Text and UI should be legible at typical viewing distances.</p>
   </div>
-  <div id="lodpi-high" class="hidden">
+  <div id="lodpi-high" class="hidden warning">
     <h2>Potentially Problematic</h2>
     <p>Relatively high resolution, but not quite HiDPI. Text and UI <b>may be too small by default</b>, but forcing HiDPI would make them appear too large. The experience may be slightly improved by increasing the text size.</p>
   </div>
-  <div id="hidpi-low" class="hidden">
+  <div id="lodpi-should-be-hidpi" class="hidden warning">
+    <h2>Tweak for HiDPI</h2>
+    <p>This display may default to loDPI on some desktops, which could result in too-small text and UI. However, it <b>should be usable with HiDPI by manually enabling 2× scaling</b>.</p>
+  </div>
+  <div id="unclear" class="hidden warning">
+    <h2>Potentially Problematic</h2>
+    <p>This display is in a very tricky range and is <b>not likely to work well</b> with integer scaling out of the box.</p>
+  </div>
+  <div id="hidpi-low" class="hidden warning">
     <h2>Potentially Problematic</h2>
     <p>HiDPI by default, but <b>text and UI may appear too large</b>. Turning off HiDPI and increasing the text size might help.</p>
   </div>
-  <div id="hidpi-ideal" class="hidden">
+  <div id="hidpi-ideal" class="hidden success">
     <h2>Ideal for HiDPI</h2>
     <p>Crisp HiDPI text and UI along with a readable size at typical viewing distances. <b>This is the jackpot.</b></p>
   </div>
-  <div id="hidpi-high" class="hidden">
+  <div id="hidpi-high" class="hidden warning">
     <h2>Fairly High for HiDPI</h2>
     <p>Text and UI are likely to appear <b>too small for typical viewing distances</b>. Increasing the text size may help.</p>
   </div>
-  <div id="high" class="hidden">
+  <div id="high" class="hidden error">
     <h2>Too High DPI</h2>
     <p>Text and UI will appear <b>too small for typical viewing distances</b>.</p>
-  </div>
-  <div id="unclear" class="hidden">
-    <h2>Potentially Problematic</h2>
-    <p>This display is in a very tricky range and is <b>not likely to work well</b> with integer scaling out of the box.</p>
   </div>
 </div>
 
@@ -160,7 +164,7 @@ Dippi is primarily a native app designed for GNOME and Linux-based operating sys
     }
 
     else if (calculatedDpi < DPI_INFER_HIDPI) {
-      document.getElementById("unclear").classList.remove("hidden");
+      document.getElementById("lodpi-should-be-hidpi").classList.remove("hidden");
     }
 
     else if (calculatedDpi < (idealDpi - idealRange - unclearRange) * 2) {
@@ -250,6 +254,18 @@ Dippi is primarily a native app designed for GNOME and Linux-based operating sys
 
   a img {
     display: inline-block;
+  }
+  
+  .success h2 {
+    color: var(--success-color);
+  }
+  
+  .warning h2 {
+    color: var(--warning-color);
+  }
+  
+  .error h2 {
+    color: var(--error-color);
   }
 </style>
 
