@@ -17,7 +17,7 @@ email: c@ssidyjam.es
 github_user: cassidyjames # user with no @
 gravatar: 41275ecc8271aca852ce2c0ff72d2610 # Gravatar md5 hash
 instagram: cassidy.james.blaede # user with no @
-mastodon: "https://hci.social/@cassidyjames" # whole URL since it's federated
+mastodon: "https://mastodon.blaede.family/@cassidy" # whole URL since it's federated
 medium: "@cassidyjames" # including @ if user, none if publication
 pixelfed: "https://pixelfed.social/cassidyjames" # whole URL since it's federated
 square: "$cassidyjames" # Cash.app user, including $
