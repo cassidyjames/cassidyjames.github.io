@@ -81,7 +81,7 @@ I play **games** when I can find the time. Usually on PS5, but occasionally on S
 
 <a href="http://psnprofiles.com/blaede22" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
 
-<a href="/stadia" class="read-more stadia"><i class="fa fa-fw fa-stadia"></i>Add on Stadia</a>
+<a href="/stadia" class="read-more stadia"><i class="fa fa-fw fa-stadia"></i><s>Add on Stadia</s> (RIP)</a>
 
 <a href="/switch" class="read-more switch"><i class="fab fa-fw fa-nintendo-switch"></i>Add on Nintendo Switch</a>
 
