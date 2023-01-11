@@ -11,7 +11,7 @@ image: /images/starwars/kenobi.jpg
 
 Join us to watch along with new episodes of the latest Star Wars shows on Disney+!
 
-- [Andor](andor)
+- ~~[Andor](andor)~~
 - ~~[Obi-Wan Kenobi](kenobi)~~
 - ~~[The Mandalorian](mandalorian)~~
 - ~~[Skywalker Saga](skywalker-saga)~~
