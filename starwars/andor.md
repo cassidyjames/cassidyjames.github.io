@@ -52,7 +52,7 @@ Nov 23            | Episode 12                  |
 
 The _Andor_ series is about the politics, espionage, and heroes of the early formative days of the Rebellion against the Empire. It takes place about five years before Rogue One, which itself takes place immediately before the original Star Wars (Episode IV: A New Hope). 
 
-For lots of context, see my compiled [timeline](http://localhost:4000/starwars#timeline), or watch this brief summary of the relevant [timeline (YouTube)].
+For lots of context, see my compiled [timeline](/starwars#timeline), or watch this brief summary of the relevant [timeline (YouTube)].
 
 ---
 
