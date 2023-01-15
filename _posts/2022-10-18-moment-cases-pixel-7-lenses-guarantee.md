@@ -17,7 +17,7 @@ In 2017, just a month before Pixel 2 was released, Moment went so far as to prov
 
 **Update Jan 2023:** Moment has sadly deleted the above video from YouTube. I thought they were going to own up to this, but it seems like they are trying to further bury it. Thankfully, the Internet never forgets, and I archived the video:
 
-<video width="480" height="270" controls>
+<video width="384" height="216" controls>
   <source src="{{ page.video }}.mp4" type="video/mp4">
   <!--source src="movie.ogg" type="video/ogg"-->
 Your browser does not support the video tag. <a href="{{ page.video }}.mp4">Download</a>.
