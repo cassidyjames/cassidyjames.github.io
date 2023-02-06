@@ -31,6 +31,8 @@ markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
 
+include: [".well-known"]
+
 collections:
   products:
     output: true
