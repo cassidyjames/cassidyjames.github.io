@@ -34,7 +34,7 @@ Links point to the Gift Hero item, so please **confirm the gift on Gift Hero** i
 
 Image | Link | Price | Notes
 ------|------|-------|------
-![3D printer](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/f37ce668-c6dd-41c5-9a0f-9d6f2ed2452d) | [Ender-3 V2 3D Printer](https://www.gifthero.com/items/d3e3620e-4968-49e7-9e58-66b9268238b9) | **$225** | Prices may vary depending on retailer
+![filament](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/45edbf1b-8cbe-47db-8b35-41cc22886461) | [3D Printer Filament](https://www.gifthero.com/items/43dae28a-811a-4c18-9bad-d2f85fc8142b) | **$19** | White PLA+git st
 
 ---
 
