@@ -1,3 +1,7 @@
+---
+redirect_from: /Dippi
+---
+
 ![Icon](https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.github.cassidyjames.dippi.png)
 
 # Dippi
