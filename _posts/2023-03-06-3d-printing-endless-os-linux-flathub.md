@@ -138,7 +138,13 @@ If whoever makes your printer doesn't have a slicer on Flathub, fret not! They'r
 
 The simplest/most old-school way of printing is to save your sliced GCODE file out to a microSD card, eject it, then stick it in your printer, and use your printer's physical screen and wheel to select the print file. And that will work just fine! You can also connect your printer over USB and print directly from your slicing software.
 
+![Screenshot of Prusa's GCODE viewer inspecting a model](/images/blog/{{ page.slug }}/prusa-gcode.png){: .card }
+
+If you want to learn more about how your model will print before actually printing, you can use your slicer or a separate program to preview the GCODE file. While Cura has a preview built in, sometimes I like using PrusaSlicer's included GCODE viewer app (installed alongside PrusaSlicer) to inspect a specific GCODE file, too.
+
 ![Screenshot of the Raspberry Pi imager with OctoPi selected](/images/blog/{{ page.slug }}/raspi-octopi.png)
+
+If you really want to go all out and have a spare Raspberry Pi, you can install [OctoPrint](https://octoprint.org/) with the OctoPi OS, and print to, monitor, and control your printer remotely. I won’t get into all the details, but you can get started with the official Raspberry Pi Imager by navigating to install an "other specific-purpose OS," "3D printing," and then "OctoPi."
 
 {% include app-badge.html 
   rdnn="org.raspberrypi.rpi-imager"
@@ -146,7 +152,6 @@ The simplest/most old-school way of printing is to save your sliced GCODE file o
   description="Raspberry Pi imaging utility" 
 %}
 
-If you really want to go all out and have a spare Raspberry Pi, you can install [OctoPrint](https://octoprint.org/) with the OctoPi OS, and print to, monitor, and control your printer remotely. I won’t get into all the details, but you can get started with the official Raspberry Pi Imager by navigating to install an "other specific-purpose OS," "3D printing," and then "OctoPi."
 
 ---
 
