@@ -4,6 +4,16 @@ html.blog {
     margin-top: -48px;
     padding-top: calc(1.25em + 48px);
   }
+
+  .post-summary {
+    margin-bottom: 6rem;
+    margin-top: 2rem;
+
+    h3 {
+      margin-top: 0;
+      padding-top: 0;
+    }
+  }
 }
 
 .license {
