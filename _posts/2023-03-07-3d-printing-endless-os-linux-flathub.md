@@ -3,7 +3,7 @@ title: 3D Printing on Endless OS
 description: …or any other Linux OS with Flathub
 image: /images/blog/3d-printing-endless-os-linux-flathub/card.jpg
 
-updated: 2023-03-06
+updated: 2023-03-07
 ---
 
 ![Screenshot]({{ page.image }}){: .card }
@@ -151,7 +151,6 @@ If you really want to go all out and have a spare Raspberry Pi, you can install 
   name="Raspberry Pi Imager"
   description="Raspberry Pi imaging utility" 
 %}
-
 
 ---
 
