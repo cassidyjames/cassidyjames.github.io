@@ -1,0 +1,28 @@
+{% if include.rdnn %}
+  {% assign rdnn = include.rdnn %}
+{% else %}
+  {% assign rdnn = "com.github.cassidyjames.dippi" %}
+{% endif %}
+
+{% if include.name %}
+  {% assign name = include.name %}
+{% else %}
+  {% assign name = "Dippi" %}
+{% endif %}
+
+{% if include.description %}
+  {% assign description = include.description %}
+{% else %}
+  {% assign description = "" %}
+{% endif %}
+
+<div class="app-badge">
+  <a href="https://beta.flathub.org/apps/{{ rdnn }}" target="_blank">
+    <header>
+      <img class="icon" src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/{{ rdnn }}.png" width="64" height="64" alt="{{ name }} icon" />
+      <strong>{{ name }}</strong>
+    </header>
+    <span>{{ description }}</span>
+    <img class="badge" src="https://beta.flathub.org/_next/static/media/flathub-badge-en.b42a637e.png" width="180" alt="Download on Flathub" />
+  </a>
+</div>

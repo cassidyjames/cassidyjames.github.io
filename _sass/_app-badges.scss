@@ -1,0 +1,45 @@
+.app-badge {
+  @extend .card;
+
+  display: block;
+  padding: 1em;
+  text-align: center;
+  margin: 3em auto;
+  margin-inline: auto;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      color: var(--accent-color);
+    }
+  }
+
+  header {
+    margin: 0 auto 1em;
+  }
+
+  img.icon {
+    display: inline-block;
+    vertical-align: text-bottom;
+  }
+
+  strong {
+    display: inline;
+    font-size: 3em;
+    vertical-align: text-bottom;
+    padding-left: 0.25em;
+  }
+
+  span {
+    display: block;
+    text-align: center;
+  }
+
+  img.badge {
+    display: block;
+    margin: 1em auto 0;
+  }
+}

@@ -6,6 +6,11 @@
 {% endif %}
 
 {% capture output %}
+
+{% if post.image %}
+[![{{ post.title }} image]({{ post.image }}){: .card }]({{ post.url }})
+{% endif %}
+
 ### [{{ post.title }}]({{ post.url }}) **{{ date | date: "%a, %b %e, %Y" }}**
 
 {% if post.description %}
@@ -18,4 +23,6 @@
 
 {% endcapture %}
 
+<div class="post-summary">
 {{ output | markdownify }}
+</div>
