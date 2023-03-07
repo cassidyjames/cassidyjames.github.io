@@ -17,22 +17,43 @@ printer that didn't break the bank. For a super quick (and over-simplified) look
 at the 3D printing process, there are a few steps to get from nothing to a
 physical 3D object in your hands:
 
-1. Design a thing; this can be on a whiteboard, in a 2D design app, or whatever.
+1. **Design a thing;** this can be on a whiteboard, in a 2D design app, or whatever.
    The point is, you have to start with some sort of specification/measurements.
    
-2. Model that thing; you have to take the idea you have and turn it into a 3D
+2. **Model that thing;** you have to take the idea you have and turn it into a 3D
    shape on the computer. You can use a modeling program like Blender if you
    know what you're doing or want to use your model in different contexts, or 
    you can use a computer-aided drawing (CAD) tool to define the shapes for your
    object.
    
-3. Slice the model; this is the process of taking a defined 3D object and
+3. **Slice the model;** this is the process of taking a defined 3D object and
    turning it into actual instructions for your specific printer, filament, etc.
    3D printer companies usually offer free slicing programs designed with their
    own printers in mind, but it's mostly all inter-compatible and based on the
    same few open source projects.
    
-4. Print the model; slicing outputs a GCODE file, which is very literal instructions
+4. **Print the model;** slicing outputs a GCODE file, which is very literal instructions
    for your printer to follow. You have to get that GCODE file onto your printer,
    either with an SD card, a USB connection, or a network connection. Then it can
    be printed!
+   
+With all the open source software that powers 3D printing combined with the open
+sharing culture, you can accomplish each of these steps on Endless OS or any other
+Linux-based OS that has access to Flathub. Let's look at each step and the options
+you have:
+
+## 1. Design a thing
+
+Inkscape, Blender
+
+## 2. Model that thing
+
+Blender, FreeCAD, OpenSCAD, Tinkercad (web)
+
+## 3. Slice the model
+
+Cura, PrusaSlicer, FlashPrint
+
+## 4. Print the model
+
+Slicers, Octoprint (Raspi imager)
