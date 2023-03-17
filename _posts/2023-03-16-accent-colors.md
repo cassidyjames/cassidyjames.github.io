@@ -8,16 +8,6 @@ updated: 2023-03-16
 
 **NOTE: This is a fictitious blog post! This is how I think through problems and potential solutions. If you somehow come across this draft (👋️), know that it's a peek into my brain and _a potential_ approach I personally think could be taken—nothing more!**
 
-- Accent colors: why??
-  - User expression
-  - Distro differentiation
-  - Competitive parity
-    - elementary OS
-    - macOS
-    - Windows
-    - Android
-    - Ubuntu
-
 If you've been following GNOME development over the past few years you may be familiar with discussions around accent colors—specifically, can GNOME support some nice user expression upstream while enabling downstream distributions to differentiate themselves—all while considering the wants and needs of the expanding app developer community.
 
 I'm happy to report that we* now have a thorough proposal of how to solve this complex request. Before we get into implementation details, let's talk about the approaches we considered and how we arrived with this proposal.
