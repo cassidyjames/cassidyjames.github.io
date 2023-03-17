@@ -1,6 +1,6 @@
 ---
 title: Accent Colors—A FreeDesktop Proposal
-description: Enable user expression while considering the needs of distros and app developers
+description: Enabling user expression while considering the needs of distros and app developers
 # image: 
 
 updated: 2023-03-16 
