@@ -6,14 +6,16 @@ description: Enabling user expression while considering the needs of distros and
 updated: 2023-03-16 
 ---
 
+<aside markdown="1">
 **NOTE: This is a fictitious blog post! This is how I think through problems and potential solutions. If you somehow come across this draft (👋️), know that it's a peek into my brain and _a potential_ approach I personally think could be taken—nothing more!**
+</aside>
 
-If you've been following GNOME development over the past few years you may be familiar with discussions around accent colors—specifically, can GNOME support some nice user expression upstream while enabling downstream distributions to differentiate themselves—all while considering the wants and needs of the expanding app developer community.
+If you've been following GNOME development over the past few years you may be familiar with discussions around accent colors. Specifically, can GNOME support some nice user expression upstream while enabling downstream distributions to differentiate themselves—all while considering the wants and needs of the expanding app developer community?
 
 I'm happy to report that we* now have a thorough proposal of how to solve this complex request. Before we get into implementation details, let's talk about the approaches we considered and how we arrived with this proposal.
 
 <aside markdown="1">
-*For the purposes of this post, "we" means myself, Alex, Chris, and Jamie. While we're all currently working within the GNOME community, our work here was an independent effort after having been involved over the past several years in these discussions. We're proposing this to the broader GNOME community after a long process within the FreeDesktop space.
+*For the purposes of this post, "we" means myself, [Alex](https://blogs.gnome.org/alexm/), [Chris](https://blogs.gnome.org/christopherdavis/), and [Jamie](https://itsjamie.dev/). While we're all currently working within the GNOME community, our work here was an independent effort after having been involved over the past several years in these discussions. We're proposing this to the broader GNOME community after a long process within the FreeDesktop space.
 </aside>
 
 When solving a complex design problem, **you have to consider the stakeholders.** Of course it's easy to think of yourself (or whatever group you're contributing to) as the sole stakeholder, but—especially with a space as complicated as FreeDesktop—there are several other parties involved.
@@ -67,19 +69,30 @@ The last approach continues the line of thinking from the previous two: if you c
 
 In this approach, the spec would define a set of named colors, like "red," "orange, "yellow," etc. that platforms could commit to supporting. The exact values of these colors are intentionally not defined in the spec, enabling the toolkit to take that color and present something from its own palette that fits. Like the nearest accent approach, it eases the burden a bit from implementors as they would only need to test against a defined set of colors, and it allows for expression in each toolkit or stylesheet's own interpretation of a color. It also codifies setting user expectations of not necessarily picking "I want this exact shade of blurple," but more, "I chose the 'green' option, so apps are using green accents!"
 
-We do have a great starting point for colors that's been shipping to users for years: elementary OS! They have defined their own branded versions of red, orange, yellow, green, mint, blue. purple, pink, brown, and a chromatic gray. These ten colors seem like an excellent jumping off point and could be adopted as Named Colors in the FreeDesktop spec. This would give a clear migration path for elementary OS, covers the spectrum of GNOME accent colors, and nearly matches the options in KDE today. Ubuntu specifically would likely need to change or remove a single accent color option they're shipping today.
+We do have a great starting point for colors that's been shipping to users for years: elementary OS! They have defined their own branded versions of red, orange, yellow, green, mint, blue, purple, pink, brown, and slate (a chromatic gray). These ten colors seem like an excellent jumping off point and could be adopted as Named Colors in the FreeDesktop spec. This would give a clear migration path for elementary OS, covers the spectrum of GNOME accent colors, and nearly matches the options in KDE today. Ubuntu specifically would likely need to change or remove a single accent color option they're shipping today.
 
 The risks of this approach center around agreeing on that set of named colors in the first place—for example, Ubuntu currently ships accent color options that don't neatly fit into a generic color spectrum, with several different shades of green. Some desktops that want to offer arbitrary colors might feel limited by this implementation, and you could _still_ have inconsistency where different toolkits interpret named colors in ways unexpected by the user. There are also open questions around appending the spec with new colors.
 
-This was still our preferred approach initially, as it seemed to be the least-bad and least complex option for GNOME and elementary OS.
-
 ## Proposal
 
-Given the above possible approaches—and after a years-long process with multiple hours-long discussions and hundreds of comments from across the ecosystem—we have decided to back **Arbitrary Color for the FreeDesktop spec**, proposed to be implemented as **Nearest Accent for GNOME/Libadwaita**. While a bit more complex for GNOME to implement than strict Named Colors, it does seem to offer a balance of flexibility for platforms, distribution differentiation, predictability and testability for GNOME-targeting app devs, and lower implementation complexity for GNOME than complete Arbitrary Colors—all while still enabling a lot of end user expression.
+<aside markdown="1">
+**NOTE: All screenshots in this post are work-in-progress prototypes!** There may be issues and unsolved problems in them, so please don't assume they represent a finished product.
+</aside>
+
+Named Colors was our preferred approach initially, as it seemed to be the least-bad and least complex option for GNOME and elementary OS. However, it didn't really align with the direction for KDE, COSMIC, or tauOS contributors who were [proposing the FreeDesktop portal implementation](https://github.com/flatpak/xdg-desktop-portal/pull/815) in the first place. 
+
+Given the above—and after a years-long process with multiple hours-long discussions and hundreds of comments from across the ecosystem—we have decided to back **Arbitrary Color for the FreeDesktop spec**, proposed to be implemented as **Nearest Accent for GNOME/Libadwaita**. While a bit more complex for GNOME to implement than strict Named Colors, it does seem to offer a balance of flexibility for platforms, distribution differentiation, predictability and testability for GNOME-targeting app devs, and lower implementation complexity for GNOME than complete Arbitrary Colors—all while still enabling a lot of end user expression.
 
 Given an arbitrary color, platforms (e.g. via the toolkit or a platform library) would need to derive their palette that can be used by that platform's apps. The exact implementation is up to each platform, but essentially if the FreeDesktop Portal says the accent color is `#f00`, platforms should take that and decide how to use it in a way that makes sense for them.
 
-For GNOME, we envision mapping it to the nearest accent color—perhaps including some additions inspired from the elementary palette, like pink and chromatic gray; so if the portal says `#f00`, we'd match that to our existing red palette. elementary OS could do something similar by having Granite automatically set the closest-matching stylesheet variant, similar to how they handle wallpaper-based accent colors today. In KDE (please excuse my limited knowledge of the inner workings!), I believe the chosen color could be given directly to QPalette. On Ubuntu, GNOME apps could map to the nearest palette color; the palette could be defined in the Yaru stylesheet as it is today. Flutter apps could potentially use an accent color directly to power its Material Design 3 support.
+<figure markdown="1">
+![Adwaita Demo with pink accent](/images/blog/{{ page.slug }}/banner-pink.png)
+<figcaption markdown="1">
+Adwaita Demo using a prototype pink accent color
+</figcaption>
+</figure>
+
+For GNOME, we envision mapping it to the nearest accent color—perhaps including some additions inspired from the elementary palette, like pink and slate; so if the portal says `#f00`, we'd match that to our existing red palette. elementary OS could do something similar by having Granite automatically set the closest-matching stylesheet variant, similar to how they handle wallpaper-based accent colors today. In KDE (please excuse my limited knowledge of the inner workings!), I believe the chosen color could be given directly to QPalette. On Ubuntu, GNOME apps could map to the nearest palette color; the palette could be defined in the Yaru stylesheet as it is today. Flutter apps could potentially use an accent color directly e.g. to seed its Material Design 3 support.
 
 In the future, if some sufficiently talented and motivated developer wanted to try to add arbitrary color support to GNOME in a way that ensures both accessibility and aesthetic quality, that _could theoretically_ be possible—or it could even be implemented as a third-party library on top of GTK; the FreeDesktop spec wouldn't limit how the accent color could be used down the road.
 
@@ -96,44 +109,99 @@ While thinking through this approach for GNOME, some of the biggest consideratio
 
 ### App Developers
 
-For app developers, an important thing to remember is that they're always in control of how their app works. While LibAdwaita could support FreeDesktop accent colors by default, a developer can always override the accent color used by their app, as they see fit for their design and brand—just like today with the default blue accent color. This is identical to how the FreeDesktop color scheme preference was implemented in Libadwaita for the dark style. If a developer wants to support accent colors, they would need to test with the colors in the GNOME palette—but by following best practices around color usage, they can be fairly confident the palette will just work for them by default.
+For app developers, an important thing to remember is that they're always in control of how their app works. While Libadwaita could support FreeDesktop accent colors by default, a developer can always override the accent color used by their app, as they see fit for their design and brand—just like today with the default blue accent color. 
 
-[Clock?]
+<figure markdown="1">
+![Calendar with red accent](/images/blog/{{ page.slug }}/cal-red.png)
+<figcaption markdown="1">
+Calendar with a prototype red accent color
+</figcaption>
+</figure>
+
+This is identical to how the FreeDesktop color scheme preference was implemented in Libadwaita for the dark style. If a developer wants to support accent colors, they would need to test with the colors in the GNOME palette—but by following best practices around color usage, they can be fairly confident the palette will just work for them by default.
 
 ### Semantic Color
 
-Semantic color is a challenge when colors like red and yellow exist in the set of potential accent colors in addition to being used semantically for things like "destructive" or "warning." elementary OS alleviates this by using a tinted color for accent-colored buttons, while using a more aggressively-contrasty style for destructive actions. We actually came to align on the opposite approach: use the accent color similarly to how the blue accent is used today, but tone down and differentiate destructive actions. This is actually [recommended by UX Movement](https://uxmovement.com/buttons/how-to-design-destructive-actions-that-prevent-data-loss/) precisely to avoid mistaking destructive actions as the suggested call to action—and it works well here, too.
+While color should never be used as the _only_ or way to understand context (due to color blindness, inaccurate displays, and even Night Light altering visible colors), color can be used effectively to enhance the semantics of the desktop. However, this is a challenge when colors like red and yellow exist in the set of potential accent colors in addition to being used semantically for things like "destructive" or "warning."
+
+<figure class="third" markdown="1">
+![Clocks with pink accent](/images/blog/{{ page.slug }}/clocks-pink.png)
+![Clocks with slate accent](/images/blog/{{ page.slug }}/clocks-slate.png)
+![Clocks with red accent](/images/blog/{{ page.slug }}/clocks-red.png)
+<figcaption markdown="1">
+Clocks with a prototype accent colors and new destructive button style
+</figcaption>
+</figure>
+
+elementary OS alleviates this by using a lighter tint style for accent-colored buttons, while using a more aggressively-contrasty red style for destructive actions. We actually came to align on the opposite approach: use the selected accent color similarly to how the blue accent is used in GNOME today, but tone down and differentiate destructive actions. This is actually [recommended by UX Movement](https://uxmovement.com/buttons/how-to-design-destructive-actions-that-prevent-data-loss/) precisely to avoid mistaking destructive actions as the suggested call to action—and it works well here, too.
+
+<figure markdown="1">
+![Calendar with slate accent](/images/blog/{{ page.slug }}/cal-slate.png)
+<figcaption markdown="1">
+Calendar with a prototype slate accent color
+</figcaption>
+</figure>
+
+Something nice about a chromatic gray "slate" accent color is that it can reduce the amount of bright, potentially-distracting accent colors throughout the OS while retaining their semantic meaning—being different and distinct from non-accent buttons, labels, icons, etc. This accent color would also make other semantic colors like destructive actions stand out even more, which could be seen as an accessibility boon.
 
 ### Dialogs
 
-For suggested actions in dialogs specifically, we had a different problem: the accent-colored text of red, pink, and orange could be very similar to the destructive red text, making it unclear which is the suggested and which is the destructive action. We could just make the suggestion action an accent background, but we did this in Adwiata for GTK3 and didn't love it—it makes the dialog feel very unbalanced and overly aggressive. Instead, we propose making the suggested action just _a bit_ more prominent—using an elementary-like tint in this context—while keeping the destructive action more toned down.
+For suggested actions in dialogs specifically, we had a different problem: the accent-colored text of red, pink, and orange could be very similar to the destructive red text, making it unclear which is the suggested and which is the destructive action. 
+
+<figure class="half" markdown="1">
+![Dialog with pink accent color text](/images/blog/{{ page.slug }}/dialog-pink.png)
+![Dialog with pink accent color background](/images/blog/{{ page.slug }}/dialog-pink-bg.png)
+<figcaption markdown="1">
+**Left:** Accent-colored text | **Right:** Accent-colored background
+</figcaption>
+</figure>
+
+We could just make the suggestion action an accent background, but we did this in Adwaita for GTK3 and didn't love it—it makes the dialog feel very unbalanced and overly aggressive.
+
+<figure markdown="1">
+![Dialog with tinted suggested action button](/images/blog/{{ page.slug }}/dialog-hover.png)
+<figcaption markdown="1">
+Suggested action hover styles
+</figcaption>
+</figure>
+
+Instead, we propose making the suggested action just _a bit_ more prominent—using an elementary-like tint in this context—while keeping the destructive action more toned down. This is what we currently do for the hover styles, so we'd need to adapt those a bit, but it could be a decent trade-off.
 
 ### Downstream Distribution Examples
 
 As a fun sort of exercise, I wanted to see if—theoretically—the proposed accent colors plus the existing color scheme preference could be a tool distributions use for differentiation. Using a very early prototype of accent colors in Libadwaita, see if you can identify each distro by a screenshot of its theoretical default settings:
 
-[Fedora]
+![Orange light](/images/blog/{{ page.slug }}/orange-light.png)
 
-[Ubuntu]
+![Cyan dark](/images/blog/{{ page.slug }}/cyan-dark.png)
 
-[Vanilla OS]
+![Blue light](/images/blog/{{ page.slug }}/blue-light.png)
 
-[Pop!_OS]
+![Green dark](/images/blog/{{ page.slug }}/green-dark.png)
 
-[Manjaro]
+![Yellow light](/images/blog/{{ page.slug }}/yellow-light.png)
 
-Okay, perhaps that was too easy with the wallpapers, Shell extensions, etc… but that is kind of the point! We would love to see distributions using these sort of well-defined preferences for their differentiation while not resorting to the nuclear option of changing the entire system stylesheet out from under third-party apps. Using the accent color instead helps ensure apps can feel more at home across distributions right out of the box while also being predictable for the app developers.
+<details markdown="1">
+<summary markdown="1">
+Reveal Spoilers
+</summary>
+**Top to bottom:** Ubuntu, Pop!_OS, Fedora, Manjaro, Vanilla OS
+</details>
+
+Did you get them all? Okay, perhaps that was too easy with the wallpapers, fonts, Shell extensions, etc… but that is kind of the point! I personally would love to see distributions using well-defined preferences for their differentiation while not resorting to the nuclear option of changing the entire system stylesheet out from under third-party apps. Using the accent color instead helps ensure apps can feel more at home across distributions right out of the box while also being predictable for the app developers.
 
 ### Open Questions
 
 That just about wraps this up, but just for completeness-sake, we wanted to let you know that we do have some remaining questions that will need to be solved.
 
-First, the ~elephant~ _increasingly svelte puma_ in the room, GNOME Shell: Shell uses its own toolkit, st, rather than GTK. This work that's going into Libadwaita would thus need to be implemented in st as well. This would likely require implementing either CSS variables or mix and alpha functions that work at runtime—not just compile-time.
+First, the ~~elephant~~ _increasingly svelte puma_ in the room, GNOME Shell: Shell uses its own toolkit, st, rather than GTK. This work that's going into Libadwaita would thus need to be implemented in st as well. This would likely require implementing either CSS variables or mix and alpha functions that work at runtime—not just compile-time.
 
 GNOME currently has (very nice!) blue folder icons, visible in GNOME Files and the file picker. With a user-selected accent color, would we _want_ those to follow along? Does that create a lot more work for maintaining the icon set? Is it fine if the folders are always GNOME-blue, regardless of the accent color? This is something we need to think about and discuss with the design team and icon maintainers.
+
+Lastly, there's still more thought and discussion needed around semantic colors and how to ensure e.g. destructive and error states are visually distinct when using accent colors.
 
 ---
 
 ## Thanks for Reading!
 
-I know that was a _monster_ of a blog post, so props for getting through it to the end. We hope this proposal makes sense and serves as a kicking-off point for a long-awaited way for users to make their desktop their own, distributions to differentiate themselves in well-defined ways, and app developers to not be overwhelmed with the implementation. 😅️ For future related posts, be sure to follow [my blog](https://cassidyjames.com/blog), [Alex's blog](https://blogs.gnome.org/alexm/), and [Chris' blog](https://blogs.gnome.org/christopherdavis/)—or just subscribe to [GNOME Planet](https://planet.gnome.org/) to get it all!
+I know that was a _monster_ of a blog post, so props for getting through it to the end. We hope this proposal makes sense and serves as a kicking-off point for a long-awaited way for users to make their desktop their own, distributions to differentiate themselves in well-defined ways, and app developers to not be overwhelmed with the implementation. 😅️ Thanks to Alex, Chris, and Jamie for their collaboration, and for future related posts, be sure to follow [my blog](https://cassidyjames.com/blog), [Alex's blog](https://blogs.gnome.org/alexm/), and [Chris' blog](https://blogs.gnome.org/christopherdavis/)—or just subscribe to [GNOME Planet](https://planet.gnome.org/) to get it all!
