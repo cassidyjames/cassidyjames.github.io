@@ -3,7 +3,8 @@ title: Accent Colors—A FreeDesktop Proposal
 description: Enabling user expression while considering the needs of distros and app developers
 # image: 
 
-updated: 2023-03-16 
+hidden: true
+updated: 2023-03-17 
 ---
 
 <aside markdown="1">
