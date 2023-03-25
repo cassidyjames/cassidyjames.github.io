@@ -1,6 +1,7 @@
 ---
 title: Endless OS Foundation at Ubuntu Summit 2022
 description: What we shared, enjoyed, and learned in Prague
+image: /images/blog/ubuntu-summit/georges-gtk4.jpg
 updated: 2022-12-20
 
 redirect_to: https://www.endlessos.org/post/endless-os-foundation-at-ubuntu-summit-2022

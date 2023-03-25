@@ -300,7 +300,13 @@ article p,
 .article p,
 .referrals p,
 .portfolio p {
-  margin: 1.25em auto;
+  line-height: 1.85em;
+  margin: 2em auto;
+}
+
+article li {
+  line-height: 1.85em;
+  margin: 0.85em auto;
 }
 
 article time,

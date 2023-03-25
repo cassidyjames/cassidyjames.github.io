@@ -1,9 +1,17 @@
 figure {
   margin: 2em auto;
   font-size: 0; // Allow inline-block layout
+  text-align: center;
 
   > p {
     margin: 0;
+  }
+
+  img,
+  video {
+    display: inline-block;
+    height: auto;
+    vertical-align: middle;
   }
 
   figcaption {
@@ -14,8 +22,10 @@ figure {
   }
 
   &.half img {
-    display: inline-block;
     max-width: 50%;
-    height: auto;
+  }
+
+  &.third img {
+    max-width: 33%;
   }
 }
