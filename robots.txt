@@ -1,2 +1,5 @@
 User-agent: CCBot
-  Disallow: /
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
