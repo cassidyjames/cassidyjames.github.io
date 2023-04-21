@@ -22,6 +22,11 @@ I work as a bridge between the foundation's dozens of impact partners—the orga
 
 [Read More](/blog/ive-joined-the-endless-os-foundation)
 
+##### Achievements:
+
+- Restructured and supported collegue ownership of resources on our [support site]([url](https://support.endlessos.org/)
+- Coordinated the verification of 14 Endless-affiliated apps on [Flathub](https://beta.flathub.org/apps/collection/verified/)
+
 ### elementary, Inc. _2011–2022_
 
 #### Co-founder, Chief Experience Officer (CXO)
