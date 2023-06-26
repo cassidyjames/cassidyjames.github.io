@@ -1,7 +1,7 @@
 ---
 title: "Accent Colors: A Proposal for GNOME"
 description: Enabling user expression while considering the needs of distros and app developers
-# image: 
+image: /images/blog/accent-colors/card.png
 
 hidden: true
 sitemap: false
