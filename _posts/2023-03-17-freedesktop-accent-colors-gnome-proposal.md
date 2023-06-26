@@ -11,7 +11,7 @@ updated: 2023-06-26
 ---
 
 <aside markdown="1">
-**NOTE: This is not an announcement or guarantee of implmentation from GNOME! This is my personal opinion in tracking an ongoing discussion within GNOME and the FreeDesktop space.**
+**NOTE: This is not an announcement or guarantee of implementation from GNOME!** This post represents my personal opinions in tracking an ongoing discussion within GNOME and the FreeDesktop space.
 </aside>
 
 If you've been following GNOME development over the past few years you may be familiar with discussions around _accent colors._ Specifically, could GNOME support some **nice user expression** upstream while enabling downstream **distributions to differentiate** themselves—all while considering the **wants and needs of the expanding app developer community**?
@@ -255,4 +255,4 @@ Finally, we're working on a prototype of the behavior in Libadwaita to map RGB v
 
 I know that was a _monster_ of a blog post, so props for getting through it to the end. We hope this proposal makes sense and serves as a kicking-off point for a long-awaited way for users to make their desktop their own, distributions to differentiate themselves in well-defined ways, and app developers to not be overwhelmed with the implementation. 😅️ Thanks to Alice, Chris, and Jamie for their collaboration, and for future related posts, be sure to follow [my blog](https://cassidyjames.com/blog), [Alice's blog](https://blogs.gnome.org/alexm/), and [Chris' blog](https://blogs.gnome.org/christopherdavis/)—or just subscribe to [GNOME Planet](https://planet.gnome.org/) to get it all!
 
-And to reiterte one more time, the "we" in this blog post is inclusive of myself, Alice, Chris, and Jamie. We've been involved in discussions with other folks quite a bit, but we're the ones attaching our names to this specific proposal. :) At the same time, we can't promise that this will be accepted or come to fruition the way we've mapped out—in the next GNOME release or really, ever—but we wanted to put it out there for feedback and discussion. Thanks again for reading! 
+And to reiterate one more time, the "we" in this blog post is inclusive of myself, Alice, Chris, and Jamie—and ultimately, I wrote the blog post, so any errors are my own. We've been involved in discussions with other folks quite a bit, but we're the ones attaching our names to this specific proposal. :) At the same time, we can't promise that this will be accepted or come to fruition the way we've mapped out—in the next GNOME release or really, ever—but we wanted to put it out there for feedback and discussion. Thanks again for reading!
