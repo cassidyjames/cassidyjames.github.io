@@ -6,7 +6,10 @@ image: /images/blog/accent-colors/card.png
 hidden: true
 sitemap: false
 
-redirect_from: /blog/accent-colors-6f1ed002ab5595859014ebf0951522d9/
+redirect_from: 
+  - /blog/accent-colors-6f1ed002ab5595859014ebf0951522d9/
+  - /accent-colors/
+  - /accent-colors
 updated: 2023-06-26
 ---
 
