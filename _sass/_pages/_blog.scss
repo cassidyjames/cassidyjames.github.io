@@ -33,3 +33,17 @@ html.blog {
     margin-top: 0.25em;
   }
 }
+
+#markdown-toc {
+  list-style: none;
+  padding: 0;
+
+  &:before {
+    @extend h2;
+    content: "Table of Contents"
+  }
+
+  li {
+    line-height: 1;
+  }
+}

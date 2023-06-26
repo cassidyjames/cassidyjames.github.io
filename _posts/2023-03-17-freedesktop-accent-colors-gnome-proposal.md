@@ -14,7 +14,7 @@ updated: 2023-06-26
 ---
 
 <aside markdown="1">
-**NOTE: This is not an announcement or guarantee of implementation from GNOME!** This post represents my personal opinions in tracking an ongoing discussion within GNOME and the FreeDesktop space.
+**This is not an announcement or guarantee of implementation from GNOME!** This post represents my personal opinions in tracking an ongoing discussion within GNOME and the FreeDesktop space. Also, **all screenshots in this post are work-in-progress prototypes!** There may be issues and unsolved problems in them, so please don't assume they represent a finished product.
 </aside>
 
 If you've been following GNOME development over the past few years you may be familiar with discussions around _accent colors._ Specifically, could GNOME support some **nice user expression** upstream while enabling downstream **distributions to differentiate** themselves—all while considering the **wants and needs of the expanding app developer community**?
@@ -32,6 +32,9 @@ When solving a complex design problem, **you have to consider the stakeholders.*
 When I contributed to designing the [FreeDesktop color scheme preference](https://cassidyjames.com/blog/the-need-for-a-freedesktop-dark-style-preference/) (enabling the system-wide dark style preference) I was initially concerned about elementary OS and its users, but also actively engaged GNOME contributors, app developers, and other FreeDesktop platforms to get their input and ensure the spec could work for them. The reality is that **this sort of feature only really works for users if it works for _most of their apps,_** not just the handful they use that were designed explicitly for their corner of the wider ecosystem. As a result, the FreeDesktop color scheme spec is implemented across elementary OS, KDE, GNOME, and their ecosystems—including major cross-platform apps from large ISVs like Mozilla Firefox, Google Chrome, Brave Browser, and Microsoft Edge.
 
 We're doing our best to take the same approach with accent colors.
+
+* Table of Contents
+{:toc}
 
 ## The Stakeholders
 
@@ -85,10 +88,6 @@ We do have a great starting point for colors that's been shipping to users for y
 The risks of this approach center around agreeing on that set of named colors in the first place—for example, Ubuntu currently ships accent color options that don't neatly fit into a generic color spectrum, with several different shades of green. Some desktops that want to offer arbitrary colors might feel limited by this implementation, and **you could _still_ have inconsistency** where different toolkits interpret named colors in ways unexpected by the user. There are also open questions around appending the spec with new colors in the future, should people want to.
 
 ## Proposal
-
-<aside markdown="1">
-**NOTE: All screenshots in this post are work-in-progress prototypes!** There may be issues and unsolved problems in them, so please don't assume they represent a finished product.
-</aside>
 
 Named Colors was our preferred approach initially, as it seemed to be the least-bad and least complex option for GNOME and elementary OS. However, it didn't really align with the direction for KDE, COSMIC, or tauOS contributors who were [proposing the FreeDesktop portal implementation](https://github.com/flatpak/xdg-desktop-portal/pull/815) in the first place.
 
@@ -250,7 +249,7 @@ The actual accent color palettes for each of the ten colors needs to be chosen, 
 
 Lastly, there's still more thought and discussion needed around semantic colors and how to ensure e.g. destructive and error states are visually distinct when using accent colors. For example, do we use different shades of the semantic colors with some of the accent colors? Do we avoid supporting a "red" accent color altogether (as a fan of red, I'm not a fan of that idea!)? Do we avoid using semantic color in most contexts altogether to allow the accent color to shine through more? These are all being discussed within GNOME, and I'm not sure where we'll end up.
 
-### Prototype Progress
+## Prototype Progress
 
 There's an open [pull request for the FreeDesktop portal](https://github.com/flatpak/xdg-desktop-portal/pull/815) we were involved in to add the tiny amount of support—and importantly, specification—needed for accent colors. We've also opened draft merge requests for [the GNOME desktop schemas](https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/-/merge_requests/63) and [Libadwaita](https://gitlab.gnome.org/GNOME/libadwaita/-/merge_requests/824) which will be required to support accent colors.
 
@@ -258,7 +257,7 @@ We've proposed updates to [destructive styles](https://gitlab.gnome.org/GNOME/li
 
 Finally, we've opened draft merge requests for [GNOME Shell](https://gitlab.gnome.org/GNOME/gnome-shell/-/merge_requests/2715) and [GNOME Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1728) for accent color support to bring it all together.
 
-### Next Steps
+## Next Steps for GNOME Design
 
 We've presented this proposal within the GNOME design team, and are actively working through the details to see if we can come to an agreement on the best way forward. There is still a lot of work to be done if it's accepted, though!
 
