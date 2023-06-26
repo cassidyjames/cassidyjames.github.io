@@ -18,8 +18,10 @@ If you've been following GNOME development over the past few years you may be fa
 
 I'm happy to report that we* now have a proposal and some prototype work of how to solve this complex request. Before we get into implementation details, let's talk about the approaches we considered and how we arrived with this proposal.
 
-<aside markdown="1">
-*For the purposes of this post, "we" means myself, [Alice](https://blogs.gnome.org/alexm/), [Chris](https://blogs.gnome.org/christopherdavis/), and [Jamie](https://itsjamie.dev/). While we're all currently working within the GNOME community, **our work here is an independent effort** after having been involved over the past several years in these discussions. We're proposing this to the broader GNOME community after a long process within the FreeDesktop space, and **we are having ongoing discussions within the GNOME design team** to decide how to proceed.
+<aside class="card" markdown="1">
+*For the purposes of this post, "we" means myself, [Alice](https://blogs.gnome.org/alexm/), [Chris](https://blogs.gnome.org/christopherdavis/), and [Jamie](https://itsjamie.dev/). While we're all currently working within the GNOME community, **our work here began as an independent effort** after having been involved over the past several years in these discussions. Alice, Chris, and Jamie have done the vast majority of the work, while I have been writing up our efforts and trying to help steer things where I can.
+
+I'm now sharing this proposal with the broader GNOME community after a long process within the FreeDesktop space, and **we are having ongoing discussions within the GNOME design team** to decide how to proceed.
 </aside>
 
 When solving a complex design problem, **you have to consider the stakeholders.** Of course it's easy to think of yourself (or whatever group you're contributing to) as the sole stakeholder, but—especially with a space as complicated as FreeDesktop—there are several other parties involved.
@@ -191,7 +193,7 @@ While thinking it through and playing with different styles, we thought: what if
 </figcaption>
 </figure>
 
-Once we started playing with this, it just felt right. It feels a bit simpler and more modern than the old GTK3 styles or the current GTK4 styles while not fundamentally changing the layout. This was one of the more controversial proposals within the GNOME design team, though, so we'll see if it works or if we come up with something different.
+Once we started playing with this, it just felt right. It feels a bit simpler and more modern than the old GTK3 styles or the current GTK4 styles while not fundamentally changing the layout. This has been one of the more controversial proposals within the GNOME design team, though, so we'll see if it works or if we come up with something different.
 
 ### Shell
 
@@ -247,12 +249,22 @@ Lastly, there's still more thought and discussion needed around semantic colors 
 
 ### Prototype Progress
 
-There's an open [pull request for the FreeDesktop portal](https://github.com/flatpak/xdg-desktop-portal/pull/815) we were involved in to add the tiny amount of support—and importantly, specification—needed for accent colors. We've also opened a [merge request for the GNOME desktop schemas](https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/-/merge_requests/63) which will be required to support accent colors. We've proposed updates to [destructive styles](https://gitlab.gnome.org/GNOME/libadwaita/-/merge_requests/810) and [message dialog styles](https://gitlab.gnome.org/GNOME/libadwaita/-/merge_requests/812) in LibAdwaita which would address the considerations raised above. We've also opened a [draft merge request against GNOME Shell](https://gitlab.gnome.org/GNOME/gnome-shell/-/merge_requests/2715) for accent color support there, as well.
+There's an open [pull request for the FreeDesktop portal](https://github.com/flatpak/xdg-desktop-portal/pull/815) we were involved in to add the tiny amount of support—and importantly, specification—needed for accent colors. We've also opened draft merge requests for [the GNOME desktop schemas](https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/-/merge_requests/63) and [Libadwaita](https://gitlab.gnome.org/GNOME/libadwaita/-/merge_requests/824) which will be required to support accent colors.
 
-Finally, we're working on a prototype of the behavior in Libadwaita to map RGB values to the appropriate accent colors and apply them to the app. We also plan to propose the required changes to the Appearance panel in GNOME Settings to bring it all together.
+We've proposed updates to [destructive styles](https://gitlab.gnome.org/GNOME/libadwaita/-/merge_requests/810) and [message dialog styles](https://gitlab.gnome.org/GNOME/libadwaita/-/merge_requests/812) in Libadwaita which would address some of the considerations raised above.
+
+Finally, we've opened draft merge requests for [GNOME Shell](https://gitlab.gnome.org/GNOME/gnome-shell/-/merge_requests/2715) and [GNOME Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1728) for accent color support to bring it all together.
+
+### Next Steps
+
+We've presented this proposal within the GNOME design team, and are actively working through the details to see if we can come to an agreement on the best way forward. There is still a lot of work to be done if it's accepted, though!
+
+We would need to update the [GNOME Human Interface Guidelines](https://developer.gnome.org/hig/) to provide guidance to developers in using accent colors—including when to opt into the accent color, when to use and avoid semantic colors, and how to test against the supported accent colors. We would need to audit existing GNOME apps for color usage, e.g. in illustrations, animations, and semantic colors. For animations (like in the Mouse & Touchpad settings), we would need to update the source videos and styling to be recolorable based on the accent color.
+
+And there are probably 100 other, smaller things I'm forgetting that would need to be done.
 
 ## Thanks for Reading!
 
 I know that was a _monster_ of a blog post, so props for getting through it to the end. We hope this proposal makes sense and serves as a kicking-off point for a long-awaited way for users to make their desktop their own, distributions to differentiate themselves in well-defined ways, and app developers to not be overwhelmed with the implementation. 😅️ Thanks to Alice, Chris, and Jamie for their collaboration, and for future related posts, be sure to follow [my blog](https://cassidyjames.com/blog), [Alice's blog](https://blogs.gnome.org/alexm/), and [Chris' blog](https://blogs.gnome.org/christopherdavis/)—or just subscribe to [GNOME Planet](https://planet.gnome.org/) to get it all!
 
-And to reiterate one more time, the "we" in this blog post is inclusive of myself, Alice, Chris, and Jamie—and ultimately, I wrote the blog post, so any errors are my own. We've been involved in discussions with other folks quite a bit, but we're the ones attaching our names to this specific proposal. :) At the same time, we can't promise that this will be accepted or come to fruition the way we've mapped out—in the next GNOME release or really, ever—but we wanted to put it out there for feedback and discussion. Thanks again for reading!
+And to reiterate one more time, the "we" in this blog post is inclusive of myself, Alice, Chris, and Jamie—and ultimately, I wrote this blog post, so any mistakes are my own. We've been involved in discussions with other folks quite a bit, but we're the ones attaching our names to this specific proposal. :) At the same time, we can't promise that this will be accepted or come to fruition the way we've mapped out—in the next GNOME release or really, ever—but we wanted to put it out there for feedback and discussion. Thanks again for reading!
