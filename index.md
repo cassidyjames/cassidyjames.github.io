@@ -15,9 +15,9 @@ class: cassidyjames
 
 Partner Success Engineer at the **Endless OS Foundation**. Previously, I co-founded elementary, Inc. and was the UX Architect at System76.
 
-[<i class="fa fa-fw fa-endless"></i>Learn about Endless](https://endlessos.org){: .read-more.endless }
-[<i class="fa fa-fw fa-info-circle"></i>Learn about elementary](https://elementary.io){: .read-more.elementary }
-[<i class="fa fa-fw fa-system76"></i>Learn about System76](https://system76.com){: .read-more.system76 }
+[<i class="fa fa-fw manual"></i>Learn about Endless](https://endlessos.org){: .read-more.endless }
+[<i class="fa fa-fw manual"></i>Learn about elementary](https://elementary.io){: .read-more.elementary }
+[<i class="fa fa-fw manual"></i>Learn about System76](https://system76.com){: .read-more.system76 }
 [<i class="far fa-fw fa-file-alt"></i>See résumé](/resume){: .read-more.resume }
 </section>
 
@@ -65,7 +65,7 @@ I take **photos** of my adventures (and my cat), mostly with my Pixel phone and 
 
 I play **games** when I can find the time. Usually on PS5, but occasionally on Stadia, Switch, and—very rarely—Steam.
 
-<a href="/destiny" class="read-more destiny"><i class="fa fa-fw fa-destiny"></i>Add on Destiny</a>
+<a href="/destiny" class="read-more destiny"><i class="fa fa-fw manual"></i>Add on Destiny</a>
 <a href="http://psnprofiles.com/blaede22" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
 <a href="/switch" class="read-more switch"><i class="fab fa-fw fa-nintendo-switch"></i>Add on Nintendo Switch</a>
 <a href="http://steamcommunity.com/id/{{ site.steam }}/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>

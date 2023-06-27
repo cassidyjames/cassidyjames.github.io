@@ -12,7 +12,7 @@
   --warning-color: #ae7b03;
   --error-color: #c01c28;
 
-  --elementary: #08c;
+  --elementary: #0d52bf;
   --endless: #ee5a36;
   --github: var(--neutral);
   --gnome: #4a86cf;
@@ -69,6 +69,8 @@ html.alt-style {
     --background-color: #{ mix(#452981, black, 50%) };
     --neutral: #{ mix(#e4c6fa, white, 25%) };
     --faint:  #{ mix(#452981, black, 75%) };
+
+    --elementary: #64baff;
 
     --stadia: #ff773d;
     --stadia-bg: #202124;
