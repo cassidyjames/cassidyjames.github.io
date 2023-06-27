@@ -110,12 +110,10 @@ video {
   }
 
   &.destiny {
-    i {
-      background-image: url('/images/destiny-dark.svg');
+    color: var(--destiny);
 
-      @media (prefers-color-scheme: dark) {
-        background-image: url('/images/destiny-light.svg');
-      }
+    i {
+      background-image: url('/images/destiny.svg');
     }
   }
 

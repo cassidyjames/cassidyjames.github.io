@@ -12,6 +12,7 @@
   --warning-color: #ae7b03;
   --error-color: #c01c28;
 
+  --destiny: #273445;
   --elementary: #0d52bf;
   --endless: #ee5a36;
   --github: var(--neutral);
@@ -70,6 +71,7 @@ html.alt-style {
     --neutral: #{ mix(#e4c6fa, white, 25%) };
     --faint:  #{ mix(#452981, black, 75%) };
 
+    --destiny: #fafafa;
     --elementary: #64baff;
 
     --stadia: #ff773d;

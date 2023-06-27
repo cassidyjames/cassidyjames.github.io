@@ -27,7 +27,7 @@ html.destiny {
     }
 
     &::after {
-      background-image: url('/images/destiny-dark.svg');
+      background-image: url('/images/destiny.svg');
       background-position: center;
       background-repeat: no-repeat;
       background-size: contain;
@@ -41,10 +41,6 @@ html.destiny {
         height: 1em;
         margin-top: 0.33em;
         width: 1em;
-      }
-
-      @media (prefers-color-scheme: dark) {
-        background-image: url('/images/destiny-light.svg');
       }
     }
   }
