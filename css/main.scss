@@ -100,35 +100,6 @@ video {
     opacity: 1;
   }
 
-  &.twitter {
-    color: var(--twitter);
-  }
-
-  &.gnome {
-    color: var(--gnome);
-  }
-
-  &.unsplash,
-  &.instagram {
-    color: var(--neutral);
-  }
-
-  &.pixelfed {
-    color: var(--pixelfed);
-  }
-
-  &.mastodon {
-    color: var(--mastodon);
-  }
-
-  &.medium {
-    color: var(--medium);
-  }
-
-  &.github {
-    color: var(--github);
-  }
-
   &.destiny {
     i {
       background-image: url('/images/destiny-dark.svg');
@@ -143,6 +114,58 @@ video {
         background-image: url('/images/destiny-light.svg');
       }
     }
+  }
+
+  &.elementary {
+    color: var(--elementary);
+
+    i {
+      background-image: url('/images/elementary.svg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      height: 1.25em;
+      vertical-align: middle;
+      width: 1.25em;
+    }
+  }
+
+  &.endless {
+    color: var(--endless);
+
+    i {
+      background-image: url('/images/endless.svg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      height: 1.25em;
+      vertical-align: middle;
+      width: 1.25em;
+    }
+  }
+
+  &.github {
+    color: var(--github);
+  }
+
+  &.gnome {
+    color: var(--gnome);
+  }
+
+  &.mastodon {
+    color: var(--mastodon);
+  }
+
+  &.medium {
+    color: var(--medium);
+  }
+
+  &.pixelfed {
+    color: var(--pixelfed);
+  }
+
+  &.psn {
+    color: var(--psn);
   }
 
   &.stadia {
@@ -163,16 +186,35 @@ video {
     color: var(--steam);
   }
 
+  &.system76 {
+    color: var(--system76);
+
+    i {
+      background-image: url('/images/system76.svg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      height: 1.25em;
+      vertical-align: middle;
+      width: 1.25em;
+    }
+  }
+
   &.switch {
     color: var(--switch);
   }
 
-  &.youtube {
-    color: var(--youtube);
+  &.twitter {
+    color: var(--twitter);
   }
 
-  &.psn {
-    color: var(--psn);
+  &.unsplash,
+  &.instagram {
+    color: var(--neutral);
+  }
+
+  &.youtube {
+    color: var(--youtube);
   }
 }
 

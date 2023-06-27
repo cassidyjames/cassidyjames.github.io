@@ -15,9 +15,9 @@ class: cassidyjames
 
 Partner Success Engineer at the **Endless OS Foundation**. Previously, I co-founded elementary, Inc. and was the UX Architect at System76.
 
-[<i class="fa fa-fw fa-info-circle"></i>Learn about Endless](https://endlessos.org){: .read-more }
-[<i class="fa fa-fw fa-info-circle"></i>Learn about elementary](https://elementary.io){: .read-more }
-[<i class="fa fa-fw fa-info-circle"></i>Learn about System76](https://system76.com){: .read-more }
+[<i class="fa fa-fw fa-endless"></i>Learn about Endless](https://endlessos.org){: .read-more.endless }
+[<i class="fa fa-fw fa-info-circle"></i>Learn about elementary](https://elementary.io){: .read-more.elementary }
+[<i class="fa fa-fw fa-system76"></i>Learn about System76](https://system76.com){: .read-more.system76 }
 [<i class="far fa-fw fa-file-alt"></i>See résumé](/resume){: .read-more.resume }
 </section>
 

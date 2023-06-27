@@ -12,6 +12,8 @@
   --warning-color: #ae7b03;
   --error-color: #c01c28;
 
+  --elementary: #08c;
+  --endless: #ee5a36;
   --github: var(--neutral);
   --gnome: #4a86cf;
   --mastodon: #2b90d9;
@@ -26,6 +28,7 @@
   --stadia-fg: rgb(32,33,36);
 
   --steam: var(--neutral);
+  --system76: #574f4a;
   --switch: #e60012;
   --twitter: #55acee;
   --youtube: #dd4b39;
@@ -70,6 +73,8 @@ html.alt-style {
     --stadia: #ff773d;
     --stadia-bg: #202124;
     --stadia-fg: white;
+
+    --system76: #ffa300;
 
     --primary-color: var(--neutral);
     --accent-color: #{ mix(#ed5353, #ff8c82) };
