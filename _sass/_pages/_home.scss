@@ -5,14 +5,14 @@
 
   .grid.main {
     width: 100%;
+  }
 
-    p,
-    h1,
-    h2 {
-      width: calc(var(--content-width) - 2rem);
-      margin-inline: auto;
-      max-width: 100%;
-    }
+  p,
+  h1,
+  h2 {
+    width: calc(var(--content-width) - 2rem);
+    margin-inline: auto;
+    max-width: 100%;
   }
 
   .fa-ul {
@@ -28,7 +28,7 @@
     max-width: 100%;
     margin-inline: auto;
 
-    .card {
+    section {
       background: none;
       border: none;
       box-shadow: none;
@@ -36,19 +36,17 @@
       max-width: 100%;
       flex-grow: 1;
       width: 22rem;
-      padding: 0.5em 1em;
+      padding: 0 1em;
 
-      h2 {
-        margin-top: 0.25em;
-
-        + p {
-          margin: 1.5em auto;
-        }
+      p:first-of-type {
+        margin: 1em auto;
       }
 
       a {
         display: block;
+        padding: 0.25em 0;
       }
     }
   }
 }
+

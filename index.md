@@ -10,7 +10,7 @@ class: cassidyjames
 {{ site.description }}
 
 <div class="cards" markdown="1">
-<section class="code card" markdown="1">
+<section class="work" markdown="1">
 ## Work
 
 Partner Success Engineer at the **Endless OS Foundation**. Previously, I co-founded elementary, Inc. and was the UX Architect at System76.
@@ -21,7 +21,7 @@ Partner Success Engineer at the **Endless OS Foundation**. Previously, I co-foun
 [<i class="far fa-fw fa-file-alt"></i>See résumé](/resume){: .read-more.resume }
 </section>
 
-<section class="code card" markdown="1">
+<section class="code" markdown="1">
 ## Code & Collaboration
 
 I strive to **collaborate** with open source projects as much as possible, and share what I work on under **free and open licenses**.
@@ -30,7 +30,7 @@ I strive to **collaborate** with open source projects as much as possible, and s
 [<i class="fa fa-fw fa-info-circle"></i>View GNOME profile](https://wiki.gnome.org/CassidyBlaede){: .read-more.gnome }
 </section>
 
-<section class="talks card" markdown="1">
+<section class="talks" markdown="1">
 ## Talks & Podcasts
 
 I give **talks** about UX and open source. I also sometimes appear on **podcasts** like Linux Unplugged to talk about my work.
@@ -39,7 +39,7 @@ I give **talks** about UX and open source. I also sometimes appear on **podcasts
 <a href="https://linuxunplugged.com/guests/cassidyjames" class="read-more lup"><i class="fa fa-fw fa-microphone"></i>Listen on Linux Unplugged</a>
 </section>
 
-<section class="writing card" markdown="1">
+<section class="writing" markdown="1">
 ## Writing & Social
 
 I **write things** on the internet about UX, tech, and what I'm up to. I usually share these things on **social media**.
@@ -49,7 +49,7 @@ I **write things** on the internet about UX, tech, and what I'm up to. I usually
 <a rel="me" href="{{ site.mastodon }}" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
 </section>
 
-<section class="photography card" markdown="1">
+<section class="photography" markdown="1">
 ## Photography
 
 I take **photos** of my adventures (and my cat), mostly with my Pixel phone and Moment lenses.
@@ -60,7 +60,7 @@ I take **photos** of my adventures (and my cat), mostly with my Pixel phone and 
 <a href="https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede" class="read-more moment"><i class="fas fa-fw fa-credit-card"></i>Moment lenses (referral)</a>
 </section>
 
-<section class="gaming card" markdown="1">
+<section class="gaming" markdown="1">
 ## Gaming
 
 I play **games** when I can find the time. Usually on PS5, but occasionally on Stadia, Switch, and—very rarely—Steam.
