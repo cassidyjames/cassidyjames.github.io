@@ -86,7 +86,10 @@ h2 {
   font-weight: 900;
   letter-spacing: -0.05em;
   margin: 0;
-  margin-top: 1em;
+
+  // Clear the nav bar for #anchor scrolling
+  margin-top: -48px;
+  padding-top: calc(1em + 48px);
 
   strong,
   em {
@@ -103,7 +106,10 @@ h3 {
   font-size: 1.5rem;
   font-weight: 900;
   margin-bottom: 0;
-  margin-top: 1.25em;
+
+  // Clear the nav bar for #anchor scrolling
+  margin-top: -48px;
+  padding-top: calc(1em + 48px);
 
   em {
     display: inline-block;
@@ -127,14 +133,20 @@ h4 {
   font-size: 1.25rem;
   font-weight: 600;
   margin-bottom: 0.25em;
-  margin-top: 0;
   opacity: 0.8;
+
+  // Clear the nav bar for #anchor scrolling
+  margin-top: -48px;
+  padding-top: 48px;
 }
 
 h5 {
   font-size: 1rem;
   margin-bottom: 0;
-  margin-top: 1em;
+
+  // Clear the nav bar for #anchor scrolling
+  margin-top: -48px;
+  padding-top: calc(1em + 48px);
 }
 
 h6 {
@@ -301,7 +313,12 @@ article p,
 .referrals p,
 .portfolio p {
   line-height: 1.85em;
-  margin: 2em auto;
+  margin: 1em auto 2em;
+}
+
+article ul,
+article ol {
+  margin: 1em auto 2em;
 }
 
 article li {
