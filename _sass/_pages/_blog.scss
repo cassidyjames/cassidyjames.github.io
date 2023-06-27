@@ -1,10 +1,4 @@
 html.blog {
-  // To fix nav overlapping with anchor linking
-  h3 {
-    margin-top: -48px;
-    padding-top: calc(1.25em + 48px);
-  }
-
   .post-summary {
     margin-bottom: 6rem;
     margin-top: 2rem;
@@ -16,6 +10,10 @@ html.blog {
     h3 {
       margin-top: 0;
       padding-top: 0;
+    }
+
+    h4 {
+      margin-top: 0.25em;
     }
   }
 }

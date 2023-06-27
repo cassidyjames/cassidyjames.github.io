@@ -87,10 +87,6 @@ h2 {
   letter-spacing: -0.05em;
   margin: 0;
 
-  // Clear the nav bar for #anchor scrolling
-  margin-top: -48px;
-  padding-top: calc(1em + 48px);
-
   strong,
   em {
     display: inline-block;
@@ -106,10 +102,7 @@ h3 {
   font-size: 1.5rem;
   font-weight: 900;
   margin-bottom: 0;
-
-  // Clear the nav bar for #anchor scrolling
-  margin-top: -48px;
-  padding-top: calc(1em + 48px);
+  margin-top: 1em;
 
   em {
     display: inline-block;
@@ -134,19 +127,11 @@ h4 {
   font-weight: 600;
   margin-bottom: 0.25em;
   opacity: 0.8;
-
-  // Clear the nav bar for #anchor scrolling
-  margin-top: -48px;
-  padding-top: 48px;
 }
 
 h5 {
   font-size: 1rem;
   margin-bottom: 0;
-
-  // Clear the nav bar for #anchor scrolling
-  margin-top: -48px;
-  padding-top: calc(1em + 48px);
 }
 
 h6 {
@@ -308,6 +293,18 @@ aside.card {
   }
 }
 
+article,
+.article {
+  h2,
+  h3,
+  h4,
+  h5 {
+    // Clear the nav bar for #anchor scrolling
+    margin-top: -48px;
+    padding-top: calc(1em + 48px);
+  }
+}
+
 article p,
 .article p,
 .referrals p,
@@ -334,7 +331,8 @@ article time,
 
 .subtitle {
   font-size: 1.33em;
-  margin: 0 auto 0.25em;
+  margin: 0.33em auto 0.67em;
+  line-height: 1.33;
 }
 
 aside.updated,

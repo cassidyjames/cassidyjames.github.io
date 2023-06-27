@@ -11,7 +11,10 @@
 [![{{ post.title }} image]({{ post.image }}){: .card }]({{ post.url }})
 {% endif %}
 
-### [{{ post.title }}]({{ post.url }}) **{{ date | date: "%a, %b %e, %Y" }}**
+<h3>
+  <a href="{{ post.url }}">{{ post.title }}</a>
+  <strong>{{ date | date: "%a, %b %e, %Y" }}</strong>
+</h3>
 
 {% if post.description %}
 #### {{ post.description }}
