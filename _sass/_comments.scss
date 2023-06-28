@@ -62,6 +62,16 @@ section#comments {
     p:last-child {
       margin-bottom: 0;
     }
+
+    a {
+      .invisible {
+        display: none;
+      }
+
+      .ellipsis::after {
+        content: "…";
+      }
+    }
   }
 
   .actions {
