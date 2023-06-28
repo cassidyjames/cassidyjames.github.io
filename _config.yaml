@@ -25,6 +25,10 @@ steam: cassidyjames # user/alias, no @
 twitter: "@CassidyJames" # user including @
 unsplash: "@cassidyjames" # user including @
 
+comments:
+  host: mastodon.blaede.family
+  username: cassidy
+
 # Settings
 permalink: /blog/:title/
 markdown: kramdown

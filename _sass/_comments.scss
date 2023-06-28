@@ -1,0 +1,75 @@
+section.comments {
+  #mastodon-comments-wrapper {
+    margin-top: 2em;
+  }
+
+  button {
+    display: block;
+    margin-inline: auto;
+  }
+
+  .disclaimer {
+    @extend small;
+    text-align: center;
+  }
+
+  .comment {
+    // background-color: var(--faint);
+    margin: 2em auto;
+    padding: 1em 0;
+  }
+
+  .byline {
+    display: grid;
+    grid-template-columns: 2.5em;
+    grid-template-rows: 1.25em 1.25em;
+    column-gap: 0.5em;
+  }
+
+  .author {
+    img {
+      display: inline;
+      vertical-align: middle;
+    }
+  }
+
+  .avatar {
+    height: 2.5em;
+    overflow: hidden;
+    width: 2.5em;
+  }
+
+  .display-name {
+    font-weight: bold;
+    margin-right: 0.125em;
+  }
+
+  .account {
+    opacity: 0.67;
+  }
+
+  time {
+    @extend small;
+    grid-row: 2;
+    grid-column: 2;
+  }
+
+  .content {
+    margin-left: 3em;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .actions {
+    // display: flex;
+    display: none;
+    justify-content: space-around;
+    opacity: 0.8;
+
+    &:hover {
+      text-decoration: inherit;
+    }
+  }
+}

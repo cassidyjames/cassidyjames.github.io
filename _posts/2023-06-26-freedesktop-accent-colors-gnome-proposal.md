@@ -8,6 +8,9 @@ redirect_from:
   - /accent-colors/
   - /accent-colors
 
+comments:
+  id: 110612929466833497
+
 updated: 2023-06-26
 ---
 
