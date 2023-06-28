@@ -3,6 +3,9 @@ title: 3D Printing on Endless OS
 description: …or any other Linux OS with Flathub
 image: /images/blog/3d-printing-endless-os-linux-flathub/card.jpg
 
+comments:
+  id: 109983999626642925
+
 updated: 2023-03-07
 ---
 
