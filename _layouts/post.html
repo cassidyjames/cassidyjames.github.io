@@ -67,6 +67,13 @@ Originally published on **{{ page.date | date: "%a, %b %e, %Y" }}**, but most re
 
 <hr />
 
+{%- if page.comments -%}
+  {%- if page.comments.id -%}
+    {%- include comments.html -%}
+    <hr />
+  {%- endif -%}
+{%- endif -%}
+
 <aside>
   <h2>Up Next</h2>
   {% if page.next %}
