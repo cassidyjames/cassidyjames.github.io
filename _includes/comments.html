@@ -52,7 +52,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                   reply.account.display_name = escapeHtml(reply.account.display_name);
                   reply.account.emojis.forEach(emoji => {
                     reply.account.display_name = reply.account.display_name.replace(`:${emoji.shortcode}:`,
-                    `<img src="${escapeHtml(emoji.static_url)}" alt="Emoji ${emoji.shortcode}" height="20" width="20" />`);
+                    `<img src="${escapeHtml(emoji.static_url)}" alt="Emoji ${emoji.shortcode}" />`);
                     });
                 } else {
                   reply.account.display_name = reply.account.acct;
@@ -70,7 +70,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
       <span class="account">@${reply.account.acct}</span>
     </a>
     <time datetime="${reply.created_at}">
-      <a itemprop= "url" href="${reply.uri}" rel="nofollow">${reply.created_at.substr(0, 10)}</a>
+      <a itemprop= "url" href="${reply.uri}" rel="nofollow">
+        ${ new Date( reply.created_at ).toLocaleString('en-US', {
+          dateStyle: "long",
+          timeStyle: "short",
+        }) }
+      </a>
     </time>
   </div>
 
