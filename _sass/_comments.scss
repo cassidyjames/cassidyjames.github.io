@@ -1,79 +1,48 @@
 section#comments {
-  #mastodon-comments-wrapper {
-    margin-top: 2em;
-  }
-
-  button {
-    display: block;
-    margin-inline: auto;
-  }
-
   .comment {
-    border-radius: 2em;
+    display: grid;
+    column-gap: 0.5rem;
+    grid-template-areas:
+      "avatar name"
+      "avatar time"
+      "avatar post"
+      "...... actions";
+    grid-template-columns: min-content;
+    justify-items: start;
     margin: 2em auto 2em -1em;
     padding: 1em;
 
-    /* FIXME: Doesn't handle nesting correctly */
-    // &.reply {
-    //   margin-left: 3rem;
-    //   position: relative;
+    .avatar {
+      grid-area: avatar;
+      height: 2.5rem;
+      overflow: hidden;
+      width: 2.5rem;
+    }
 
-    //   &::before {
-    //     background: var(--faint);
-    //     content: "";
-    //     display: block;
-    //     height: 100%;
-    //     left: 1.125rem;
-    //     position: absolute;
-    //     width: 0.25em;
-    //     z-index: 0;
-    //   }
-    // }
-
-    header {
-      display: grid;
-      grid-template-columns: 2.5rem max-content;
-      grid-template-rows: 1.25rem 1.25rem;
-      column-gap: 0.5rem;
-
-      .avatar {
-        height: 2.5rem;
-        overflow: hidden;
-        position: relative;
-        width: 2.5rem;
-      }
+    .author {
+      grid-area: name;
 
       .display-name {
         font-weight: bold;
-        margin-right: 0.125em;
       }
 
       .account {
         opacity: 0.67;
       }
+    }
 
-      time {
-        @extend small;
-        grid-row: 2;
-        grid-column: 2;
-      }
+    time {
+      @extend small;
+
+      grid-area: time;
+      line-height: 1.5rem;
     }
 
     main {
-      margin-left: 3rem;
+      grid-area: post;
 
       p:last-child {
         margin-bottom: 1em;
-      }
-
-      a {
-        .invisible {
-          display: none;
-        }
-
-        .ellipsis::after {
-          content: "…";
-        }
       }
     }
 
@@ -82,8 +51,8 @@ section#comments {
 
       column-gap: 1em;
       display: flex;
+      grid-area: actions;
       opacity: 0.75;
-      margin-left: 3rem;
 
       a:hover {
         text-decoration: inherit;
@@ -95,6 +64,14 @@ section#comments {
       height: 1.25em;
       vertical-align: middle;
       width: 1.25em;
+    }
+
+    .invisible {
+      display: none;
+    }
+
+    .ellipsis::after {
+      content: "…";
     }
   }
 }

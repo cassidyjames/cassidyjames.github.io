@@ -24,7 +24,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   </div>
 
   <script src="/js/purify.min.js"></script>
-  <script type="text/javascript">
+  <script>
     loadComments ();
 
     function loadComments() {
@@ -62,7 +62,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
               `);
             });
 
-            mastodonComment = `
+            comment = `
 <article
   id="comment-${ status.id }"
   class="comment"
@@ -70,28 +70,29 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   itemscope
   itemtype="http://schema.org/Comment"
 >
-  <header>
-    <a class="avatar" rel="external nofollow" href="${ status.account.url }" rel="nofollow">
-      <picture>
-        <source srcset="${ escapeHtml(status.account.avatar) }" media="(prefers-reduced-motion: no-preference)" />
-        <img src="${ escapeHtml(status.account.avatar_static) }" alt="Avatar for @${ status.account.acct }" />
-      </picture>
+  <a class="avatar" rel="external nofollow" href="${ status.account.url }" rel="nofollow">
+    <picture>
+      <source srcset="${ escapeHtml(status.account.avatar) }" media="(prefers-reduced-motion: no-preference)" />
+      <img src="${ escapeHtml(status.account.avatar_static) }" alt="Avatar for @${ status.account.acct }" />
+    </picture>
+  </a>
+  <header class="author">
+    <a class="display-name" rel="external nofollow" itemprop="author" itemscope itemtype="http://schema.org/Person" href="${ status.account.url }">
+      ${ status.account.display_name }
     </a>
-    <a class="author" rel="external nofollow" itemprop="url" href="${ status.account.url }" rel="nofollow">
-      <span class="display-name" itemprop="author" itemscope itemtype="http://schema.org/Person">
-        ${ status.account.display_name }
-      </span>
-      <span class="account">@${ status.account.acct }</span>
+    <a class="account" rel="external nofollow" itemprop="author" itemscope itemtype="http://schema.org/Person" href="${ status.account.url }">
+      @${ status.account.acct }
     </a>
-    <time datetime="${ status.created_at }">
-      <a itemprop="url" href="${ status.uri }" rel="nofollow">
-        ${ new Date( status.created_at ).toLocaleString('en-US', {
-          dateStyle: "long",
-          timeStyle: "short",
-        }) }
-      </a>
-    </time>
   </header>
+
+  <time datetime="${ status.created_at }">
+    <a itemprop="url" href="${ status.uri }" rel="nofollow">
+      ${ new Date( status.created_at ).toLocaleString('en-US', {
+        dateStyle: "long",
+        timeStyle: "short",
+      }) }
+    </a>
+  </time>
 
   <main itemprop="text">${ status.content }</main>
 
@@ -111,7 +112,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 </article>
             `;
 
-            commentsWrapper.innerHTML += DOMPurify.sanitize(mastodonComment);
+            commentsWrapper.innerHTML += DOMPurify.sanitize(comment);
           });
         }
       });
