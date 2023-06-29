@@ -64,7 +64,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                     `);
                     });
                 } else {
-                  reply.account.display_name = reply.account.acct;
+                  reply.account.display_name = reply.account.acct.split("@")[0];
                 };
 
                 reply.emojis.forEach(emoji => {
