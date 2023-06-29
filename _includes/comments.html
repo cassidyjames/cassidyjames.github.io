@@ -77,8 +77,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                   `);
                 });
                 mastodonComment =`
-<article id="comment-${ reply.id }" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
-  <div class="byline">
+<article
+  id="comment-${ reply.id }"
+  class="comment ${ ( reply.in_reply_to_id != {{ page.comments.id }} ) ? 'reply' : 'op' }"
+  itemprop="comment"
+  itemscope
+  itemtype="http://schema.org/Comment"
+>
+  <header>
     <a class="avatar" rel="external nofollow" href="${ reply.account.url }" rel="nofollow">
       <picture>
         <source srcset="${ escapeHtml(reply.account.avatar) }" media="(prefers-reduced-motion: no-preference)" />
@@ -99,15 +105,23 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         }) }
       </a>
     </time>
-  </div>
+  </header>
 
-  <div class="content" itemprop="text">${ reply.content }</div>
+  <main itemprop="text">${ reply.content }</main>
 
-  <a href="${ reply.url }" class="actions" rel="nofollow">
-    <span class="replies"><i class="fa fa-reply fa-fw"></i>${ reply.replies_count }</span>
-    <span class="reblogs"><i class="fa fa-retweet fa-fw"></i>${ reply.reblogs_count }</span>
-    <span class="favorites"><i class="fa fa-star fa-fw"></i>${ reply.favourites_count }</span>
-  </a>
+  <footer>
+    <a class="replies" href="${ reply.url }" rel="nofollow">
+      <i class="fa fa-reply fa-fw"></i> ${ reply.replies_count }
+    </a>
+
+    <a class="reblogs" href="${ reply.url }" rel="nofollow">
+      <i class="fa fa-retweet fa-fw"></i> ${ reply.reblogs_count }
+    </a>
+
+    <a class="replies" href="${ reply.url }" rel="nofollow">
+      <i class="fa fa-star fa-fw"></i> ${ reply.favourites_count }
+    </a>
+  </footer>
 </article>
                 `;
                 commentsWrapper.appendChild(DOMPurify.sanitize(mastodonComment, {'RETURN_DOM_FRAGMENT': true}));
