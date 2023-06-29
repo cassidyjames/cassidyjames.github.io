@@ -16,7 +16,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 <section id="comments" class="comments">
   <h2>Comments</h2>
-  <p>You can use your <a href="https://joinmastodon.org">Mastodon</a> or other ActivityPub account to comment on this article by replying to the associated <a class="link" href="https://{{ site.comments.host }}/@{{ site.comments.username }}/{{ page.comments.id }}">post</a>.</p>
+  <p>Comment on this blog post by publicly replying to <a class="link" href="https://{{ site.comments.host }}/@{{ site.comments.username }}/{{ page.comments.id }}">this Mastodon post</a> using a Mastodon or other ActivityPub/Fediverse account. Known public replies are displayed as comments below.</p>
 
   <div id="mastodon-comments-wrapper">
     <button id="load-comments" onclick="loadComments">Load Comments</button>
@@ -95,7 +95,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 commentsWrapper.appendChild(DOMPurify.sanitize(mastodonComment, {'RETURN_DOM_FRAGMENT': true}));
               });
           } else {
-            commentsWrapper.innerHTML = "<p>No comments found (yet! be the first!)</p>";
+            commentsWrapper.innerHTML = `<p><small>No known comments, yet. Publicly reply to <a class="link" href="https://{{ site.comments.host }}/@{{ site.comments.username }}/{{ page.comments.id }}">this Mastodon post</a> to add your own!</small></p>`;
           }
         });
       }
