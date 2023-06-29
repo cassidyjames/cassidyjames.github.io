@@ -8,11 +8,6 @@ section#comments {
     margin-inline: auto;
   }
 
-  .disclaimer {
-    @extend small;
-    text-align: center;
-  }
-
   .comment {
     // background-color: var(--faint);
     margin: 2em auto;
@@ -21,9 +16,9 @@ section#comments {
 
   .byline {
     display: grid;
-    grid-template-columns: 2.5em;
-    grid-template-rows: 1.25em 1.25em;
-    column-gap: 0.5em;
+    grid-template-columns: 2.5rem max-content;
+    grid-template-rows: 1.25rem 1.25rem;
+    column-gap: 0.5rem;
   }
 
   .author {
@@ -36,9 +31,9 @@ section#comments {
   }
 
   .avatar {
-    height: 2.5em;
+    height: 2.5rem;
     overflow: hidden;
-    width: 2.5em;
+    width: 2.5rem;
   }
 
   .display-name {
@@ -57,10 +52,10 @@ section#comments {
   }
 
   .content {
-    margin-left: 3em;
+    margin-left: 3rem;
 
     p:last-child {
-      margin-bottom: 0;
+      margin-bottom: 1em;
     }
 
     a {
@@ -75,13 +70,19 @@ section#comments {
   }
 
   .actions {
-    // display: flex;
-    display: none;
-    justify-content: space-around;
-    opacity: 0.8;
+    @extend small;
+
+    column-gap: 1em;
+    display: flex;
+    opacity: 0.75;
+    margin-left: 3rem;
 
     &:hover {
       text-decoration: inherit;
+    }
+
+    i {
+      margin-right: 0.2em;
     }
   }
 }

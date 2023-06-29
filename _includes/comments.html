@@ -19,24 +19,29 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   <p>You can use your <a href="https://joinmastodon.org">Mastodon</a> or other ActivityPub account to comment on this article by replying to the associated <a class="link" href="https://{{ site.comments.host }}/@{{ site.comments.username }}/{{ page.comments.id }}">post</a>.</p>
 
   <div id="mastodon-comments-wrapper">
-    <button id="load-comments">Load Comments</button>
-    <p class="disclaimer">Loading comments will load resources from third-party sites.</p>
+    <button id="load-comments" onclick="loadComments">Load Comments</button>
   </div>
-  <noscript><p>Loading comments relies on JavaScript.</p></noscript>
+  <noscript><p>Loading comments relies on JavaScript. Try enabling JavaScript and clicking the button above, or visit the original post on Mastodon.</p></noscript>
   <script src="/js/purify.min.js"></script>
   <script type="text/javascript">
     function escapeHtml(unsafe) {
       return unsafe
-           .replace(/&/g, "&amp;")
-           .replace(/</g, "&lt;")
-           .replace(/>/g, "&gt;")
-           .replace(/"/g, "&quot;")
-           .replace(/'/g, "&#039;");
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
     }
 
-    document.getElementById("load-comments").addEventListener("click", function() {
-      document.getElementById("load-comments").innerHTML = "Loading…";
-      document.getElementById("load-comments").disabled = true;
+    loadComments ();
+
+    function loadComments() {
+      let commentsWrapper = document.getElementById('mastodon-comments-wrapper');
+      let commentsPlaceholder = document.getElementById("load-comments");
+
+      commentsPlaceholder.innerHTML = "Loading…";
+      commentsPlaceholder.disabled = true;
+
       fetch('https://{{ site.comments.host }}/api/v1/statuses/{{ page.comments.id }}/context')
         .then(function(response) {
           return response.json();
@@ -45,32 +50,31 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
           if(data['descendants'] &&
              Array.isArray(data['descendants']) &&
             data['descendants'].length > 0) {
-              document.getElementById('mastodon-comments-wrapper').innerHTML = "";
+              commentsWrapper.innerHTML = "";
               data['descendants'].forEach(function(reply) {
-                if(reply.account.display_name.length > 0)
-                {
+                if(reply.account.display_name.length > 0) {
                   reply.account.display_name = escapeHtml(reply.account.display_name);
                   reply.account.emojis.forEach(emoji => {
-                    reply.account.display_name = reply.account.display_name.replace(`:${emoji.shortcode}:`,
-                    `<img src="${escapeHtml(emoji.static_url)}" alt="Emoji ${emoji.shortcode}" />`);
+                    reply.account.display_name = reply.account.display_name.replace(`:${ emoji.shortcode }:`,
+                    `<img src="${ escapeHtml(emoji.static_url) }" alt="Emoji ${ emoji.shortcode }" />`);
                     });
                 } else {
                   reply.account.display_name = reply.account.acct;
                 };
-                mastodonComment =
-                  `<article id="comment-${reply.id }" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+                mastodonComment =`
+<article id="comment-${ reply.id }" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
   <div class="byline">
-    <a class="avatar" rel="external nofollow" href="${reply.account.url}" rel="nofollow">
-      <img src="${escapeHtml(reply.account.avatar_static)}" alt="Avatar for @${reply.account.acct}">
+    <a class="avatar" rel="external nofollow" href="${ reply.account.url }" rel="nofollow">
+      <img src="${ escapeHtml(reply.account.avatar_static) }" alt="Avatar for @${ reply.account.acct }">
     </a>
-    <a class="author" rel="external nofollow" itemprop="url" href="${reply.account.url}" rel="nofollow">
+    <a class="author" rel="external nofollow" itemprop="url" href="${ reply.account.url }" rel="nofollow">
       <span class="display-name" itemprop="author" itemscope itemtype="http://schema.org/Person">
-        ${reply.account.display_name}
+        ${ reply.account.display_name }
       </span>
-      <span class="account">@${reply.account.acct}</span>
+      <span class="account">@${ reply.account.acct }</span>
     </a>
-    <time datetime="${reply.created_at}">
-      <a itemprop= "url" href="${reply.uri}" rel="nofollow">
+    <time datetime="${ reply.created_at }">
+      <a itemprop= "url" href="${ reply.uri }" rel="nofollow">
         ${ new Date( reply.created_at ).toLocaleString('en-US', {
           dateStyle: "long",
           timeStyle: "short",
@@ -79,20 +83,21 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     </time>
   </div>
 
-  <div class="content" itemprop="text">${reply.content}</div>
+  <div class="content" itemprop="text">${ reply.content }</div>
 
-  <a href="${reply.url}" class="actions" rel="nofollow">
-    <span class="replies"><i class="fa fa-reply fa-fw"></i>${reply.replies_count}</span>
-    <span class="reblogs"><i class="fa fa-retweet fa-fw"></i>${reply.reblogs_count}</span>
-    <span class="favorites"><i class="fa fa-star fa-fw"></i>${reply.favourites_count}</span>
+  <a href="${ reply.url }" class="actions" rel="nofollow">
+    <span class="replies"><i class="fa fa-reply fa-fw"></i>${ reply.replies_count }</span>
+    <span class="reblogs"><i class="fa fa-retweet fa-fw"></i>${ reply.reblogs_count }</span>
+    <span class="favorites"><i class="fa fa-star fa-fw"></i>${ reply.favourites_count }</span>
   </a>
-</article>`;
-                document.getElementById('mastodon-comments-wrapper').appendChild(DOMPurify.sanitize(mastodonComment, {'RETURN_DOM_FRAGMENT': true}));
+</article>
+                `;
+                commentsWrapper.appendChild(DOMPurify.sanitize(mastodonComment, {'RETURN_DOM_FRAGMENT': true}));
               });
           } else {
-            document.getElementById('mastodon-comments-wrapper').innerHTML = "<p>No comments found (yet! be the first!)</p>";
+            commentsWrapper.innerHTML = "<p>No comments found (yet! be the first!)</p>";
           }
         });
-      });
+      }
   </script>
 </section>
