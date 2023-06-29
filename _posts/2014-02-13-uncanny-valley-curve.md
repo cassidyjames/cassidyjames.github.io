@@ -4,6 +4,9 @@ description: How creepy robots relate to skeuomorphism and UX
 image: /images/blog/the-uncanny-valley-curve/valley.png
 redirect_from: /uncanny
 updated: 2020-06-05
+
+comments:
+  id: 110625040758121008
 ---
 
 The [Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley) is the idea that there’s a curve related to a human-like object’s **level of realism** and how **acceptable** we perceive it to be. It's a phenomenon observed everywhere from robotics to animation and dolls.
