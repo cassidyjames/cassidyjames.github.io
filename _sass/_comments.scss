@@ -49,13 +49,6 @@ section#comments {
       margin-right: 0.125em;
     }
 
-    .emoji {
-      display: inline;
-      height: 1.25em;
-      vertical-align: middle;
-      width: 1.25em;
-    }
-
     .account {
       opacity: 0.67;
     }
@@ -73,6 +66,12 @@ section#comments {
     p:last-child {
       margin-bottom: 1em;
     }
+
+    /* FIXME: not precise enough */
+    // Hide @-mentions to me when they are the first word
+    // .h-card:first-child .mention[href='https://mastodon.blaede.family/@cassidy'] {
+    //   display: none;
+    // }
 
     a {
       .invisible {
@@ -96,5 +95,12 @@ section#comments {
     a:hover {
       text-decoration: inherit;
     }
+  }
+
+  .emoji {
+    display: inline;
+    height: 1.25em;
+    vertical-align: middle;
+    width: 1.25em;
   }
 }
