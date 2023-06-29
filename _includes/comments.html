@@ -28,8 +28,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     loadComments ();
 
     function loadComments() {
-      commentsWrapper.innerHTML = "";
-
       let commentsWrapper = document.getElementById('mastodon-comments-wrapper');
 
       fetch('https://{{ site.comments.host }}/api/v1/statuses/{{ page.comments.id }}/context')
@@ -67,7 +65,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             mastodonComment = `
 <article
   id="comment-${ status.id }"
-  class="comment ${ ( status.in_reply_to_id != {{ page.comments.id }} ) ? 'reply' : 'op' }"
+  class="comment"
   itemprop="comment"
   itemscope
   itemtype="http://schema.org/Comment"
@@ -86,7 +84,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
       <span class="account">@${ status.account.acct }</span>
     </a>
     <time datetime="${ status.created_at }">
-      <a itemprop= "url" href="${ status.uri }" rel="nofollow">
+      <a itemprop="url" href="${ status.uri }" rel="nofollow">
         ${ new Date( status.created_at ).toLocaleString('en-US', {
           dateStyle: "long",
           timeStyle: "short",

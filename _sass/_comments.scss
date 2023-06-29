@@ -12,7 +12,6 @@ section#comments {
     border-radius: 2em;
     margin: 2em auto 2em -1em;
     padding: 1em;
-    transition: background-color 100ms ease;
 
     /* FIXME: Doesn't handle nesting correctly */
     // &.reply {
@@ -30,10 +29,6 @@ section#comments {
     //     z-index: 0;
     //   }
     // }
-
-    &:hover {
-      background-color: var(--faint);
-    }
 
     header {
       display: grid;
@@ -70,12 +65,6 @@ section#comments {
       p:last-child {
         margin-bottom: 1em;
       }
-
-      /* FIXME: not precise enough */
-      // Hide @-mentions to me when they are the first word
-      // .h-card:first-child .mention[href='https://mastodon.blaede.family/@cassidy'] {
-      //   display: none;
-      // }
 
       a {
         .invisible {
