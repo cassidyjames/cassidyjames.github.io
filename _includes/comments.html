@@ -56,11 +56,16 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                   reply.account.display_name = escapeHtml(reply.account.display_name);
                   reply.account.emojis.forEach(emoji => {
                     reply.account.display_name = reply.account.display_name.replace(`:${ emoji.shortcode }:`,
-                    `<img src="${ escapeHtml(emoji.static_url) }" alt="Emoji ${ emoji.shortcode }" />`);
+                    `<img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />`);
                     });
                 } else {
                   reply.account.display_name = reply.account.acct;
                 };
+
+                reply.emojis.forEach(emoji => {
+                  reply.content = reply.content.replace(`:${ emoji.shortcode }:`,
+                  `<img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />`);
+                });
                 mastodonComment =`
 <article id="comment-${ reply.id }" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
   <div class="byline">

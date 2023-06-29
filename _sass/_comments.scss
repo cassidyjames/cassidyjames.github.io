@@ -21,15 +21,6 @@ section#comments {
     column-gap: 0.5rem;
   }
 
-  .author {
-    img {
-      display: inline;
-      height: 1.25em;
-      vertical-align: middle;
-      width: 1.25em;
-    }
-  }
-
   .avatar {
     height: 2.5rem;
     overflow: hidden;
@@ -39,6 +30,13 @@ section#comments {
   .display-name {
     font-weight: bold;
     margin-right: 0.125em;
+  }
+
+  .emoji {
+    display: inline;
+    height: 1.25em;
+    vertical-align: middle;
+    width: 1.25em;
   }
 
   .account {
