@@ -56,7 +56,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                   reply.account.display_name = escapeHtml(reply.account.display_name);
                   reply.account.emojis.forEach(emoji => {
                     reply.account.display_name = reply.account.display_name.replace(`:${ emoji.shortcode }:`,
-                    `<img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />`);
+                    `
+<picture>
+  <source srcset="${ escapeHtml(emoji.url) }" media="(prefers-reduced-motion: no-preference)" />
+  <img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />
+</picture>
+                    `);
                     });
                 } else {
                   reply.account.display_name = reply.account.acct;
@@ -64,13 +69,21 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
                 reply.emojis.forEach(emoji => {
                   reply.content = reply.content.replace(`:${ emoji.shortcode }:`,
-                  `<img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />`);
+                  `
+<picture>
+  <source srcset="${ escapeHtml(emoji.url) }" media="(prefers-reduced-motion: no-preference)" />
+  <img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />
+</picture>
+                  `);
                 });
                 mastodonComment =`
 <article id="comment-${ reply.id }" class="comment" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
   <div class="byline">
     <a class="avatar" rel="external nofollow" href="${ reply.account.url }" rel="nofollow">
-      <img src="${ escapeHtml(reply.account.avatar_static) }" alt="Avatar for @${ reply.account.acct }">
+      <picture>
+        <source srcset="${ escapeHtml(reply.account.avatar) }" media="(prefers-reduced-motion: no-preference)" />
+        <img src="${ escapeHtml(reply.account.avatar_static) }" alt="Avatar for @${ reply.account.acct }" />
+      </picture>
     </a>
     <a class="author" rel="external nofollow" itemprop="url" href="${ reply.account.url }" rel="nofollow">
       <span class="display-name" itemprop="author" itemscope itemtype="http://schema.org/Person">
