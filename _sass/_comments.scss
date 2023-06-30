@@ -47,16 +47,17 @@ section#comments {
     }
 
     footer {
-      @extend small;
+      display: none;
+      // @extend small;
 
-      column-gap: 1em;
-      display: flex;
-      grid-area: actions;
-      opacity: 0.75;
+      // column-gap: 1em;
+      // display: flex;
+      // grid-area: actions;
+      // opacity: 0.75;
 
-      a:hover {
-        text-decoration: inherit;
-      }
+      // a:hover {
+      //   text-decoration: inherit;
+      // }
     }
 
     .emoji {
