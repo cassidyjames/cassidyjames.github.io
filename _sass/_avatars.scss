@@ -5,6 +5,11 @@
   box-shadow: 0 0 2px var(--neutral);
   margin: 0;
 
+  img {
+    height: 100%;
+    width: 100%;
+  }
+
   nav & {
     float: left;
   }
