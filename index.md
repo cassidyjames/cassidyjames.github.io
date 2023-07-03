@@ -3,7 +3,9 @@ title: Home
 class: cassidyjames
 ---
 
-![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256&d=blank){: .avatar width="128" height="128"}
+{% if site.gravatar %}
+![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256){: .avatar width="128" height="128"}
+{% endif %}
 
 # Cassidy James Blaede
 

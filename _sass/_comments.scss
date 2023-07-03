@@ -1,7 +1,7 @@
 section#comments {
   .comment {
     display: grid;
-    column-gap: 0.5rem;
+    column-gap: 1rem;
     grid-template-areas:
       "avatar name"
       "avatar time"
@@ -14,9 +14,9 @@ section#comments {
 
     .avatar {
       grid-area: avatar;
-      height: 2.5rem;
+      height: 4rem;
       overflow: hidden;
-      width: 2.5rem;
+      width: 4rem;
     }
 
     .author {
@@ -40,6 +40,10 @@ section#comments {
 
     main {
       grid-area: post;
+
+      p:first-child {
+        margin-top: 0.25em;
+      }
 
       p:last-child {
         margin-bottom: 1em;

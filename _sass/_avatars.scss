@@ -1,0 +1,11 @@
+.avatar {
+  background-position: center;
+  background-size: cover;
+  border-radius: 50%;
+  box-shadow: 0 0 2px var(--neutral);
+  margin: 0;
+
+  nav & {
+    float: left;
+  }
+}
