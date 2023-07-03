@@ -22,7 +22,7 @@ medium: "@cassidyjames" # including @ if user, none if publication
 pixelfed: "https://pixelfed.social/cassidyjames" # whole URL since it's federated
 square: "$cassidyjames" # Cash.app user, including $
 steam: cassidyjames # user/alias, no @
-twitter: "@CassidyJames" # user including @
+twitter: "https://twitter.cassidyjames.com" # Full link to support archives
 unsplash: "@cassidyjames" # user including @
 
 comments:
