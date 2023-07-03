@@ -5,15 +5,15 @@
   <title>{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}</title>
   <meta property="og:title" content="{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}">
   <meta itemprop="name" content="{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}">
 
   <link rel="alternate" type="application/rss+xml" title="Cassidy’s Blog" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
   <meta charset="UTF-8">
 
-  {% if site.gravatar %}
-    <link rel="icon" sizes="256x256" href="https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256">
-    <meta itemprop="logo" content="https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256">
+  {% if site.avatar %}
+    <link rel="preload" href="{{ site.avatar | prepend: site.baseurl }}" as="image" type="image/jpg" />
+    <link rel="icon" sizes="256x256" href="{{ site.avatar | prepend: site.baseurl | prepend: site.url }}">
+    <meta itemprop="logo" content="{{ site.avatar | prepend: site.baseurl | prepend: site.url }}">
   {% endif %}
 
   {% if page.author or site.author %}
@@ -31,26 +31,15 @@
     {% else %}
       {% assign image = page.image | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
-    <meta property="twitter:image" content="{{ image }}" />
     <meta property="og:image" content="{{ image }}" />
   {% else %}
-    <meta property="twitter:image" content="{{ site.image | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:image" content="{{ site.image | prepend: site.baseurl | prepend: site.url }}" />
-  {% endif %}
-
-  <meta name="twitter:card" content="summary_large_image">
-  {% if site.twitter %}
-    <meta name="twitter:site" content="{{ site.twitter }}">
-  {% endif %}
-  {% if site.twitter or page.twitter %}
-    <meta name="twitter:creator" content="{% if page.twitter %}{{ page.twitter }}{% else %}{{ site.twitter }}{% endif %}">
   {% endif %}
 
   {% if page.description or site.description %}
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   {% endif %}
 
 {% if site.donate %}

@@ -3,11 +3,11 @@ title: Home
 class: cassidyjames
 ---
 
-{% if site.gravatar %}
-![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256){: .avatar width="128" height="128"}
+{% if site.avatar %}
+  <img class="avatar" src="{{ site.avatar | prepend: site.baseurl }}" alt="Photo of Cassidy" width="128" height="128" />
 {% endif %}
 
-# Cassidy James Blaede
+# {{ site.title }}
 
 {{ site.description }}
 
