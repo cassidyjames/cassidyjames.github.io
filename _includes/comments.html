@@ -18,7 +18,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   <h2>Comments</h2>
   <p>Comment on this blog post by publicly replying to <a href="https://{{ site.comments.host }}/@{{ site.comments.username }}/{{ page.comments.id }}">this Mastodon post</a> using a Mastodon or other ActivityPub/&ZeroWidthSpace;Fediverse account. Known non-private replies are displayed below.</p>
 
-  <div id="mastodon-comments-wrapper">
+  <div id="comments-wrapper">
     <p><small>No known comments, yet. Reply to <a href="https://{{ site.comments.host }}/@{{ site.comments.username }}/{{ page.comments.id }}">this Mastodon post</a> to add your own!</small></p>
     <noscript><p>Loading comments relies on JavaScript. Try enabling JavaScript and reloading, or visit <a href="https://{{ site.comments.host }}/@{{ site.comments.username }}/{{ page.comments.id }}">the original post</a> on Mastodon.</p></noscript>
   </div>
@@ -28,121 +28,53 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     loadComments ();
 
     function loadComments() {
-      let commentsWrapper = document.getElementById('mastodon-comments-wrapper');
-      fetch('https://{{ site.comments.host }}/api/v1/statuses/{{ page.comments.id }}').then(function(response) {
-        return response.json();
-      })
-      .then(function(status) {
-        commentsWrapper.innerHTML = "";
-        if( status.account.display_name.length > 0 ) {
-          status.account.display_name = escapeHtml(status.account.display_name);
-          status.account.emojis.forEach(emoji => {
-            status.account.display_name = status.account.display_name.replace(`:${ emoji.shortcode }:`, `
-<picture>
-  <source srcset="${ escapeHtml(emoji.url) }" media="(prefers-reduced-motion: no-preference)" />
-  <img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />
-</picture>
-            `);
-          });
-        } else {
-          status.account.display_name = status.account.acct.split("@")[0];
-        };
+      let commentsWrapper = document.getElementById("comments-wrapper");
+      let postUrl = "https://{{ site.comments.host }}/api/v1/statuses/{{ page.comments.id }}";
 
-        status.emojis.forEach(emoji => {
-          status.content = status.content.replace(`:${ emoji.shortcode }:`, `
-<picture>
-  <source srcset="${ escapeHtml(emoji.url) }" media="(prefers-reduced-motion: no-preference)" />
-  <img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />
-</picture>
-          `);
-        });
-
-        comment = `
-<article
-  id="comment-${ status.id }"
-  class="comment"
-  itemprop="comment"
-  itemscope
-  itemtype="http://schema.org/Comment"
->
-  <a class="avatar" rel="external nofollow" href="${ status.account.url }" rel="nofollow">
-    <picture>
-      <source srcset="${ escapeHtml(status.account.avatar) }" media="(prefers-reduced-motion: no-preference)" />
-      <img src="${ escapeHtml(status.account.avatar_static) }" alt="Avatar for @${ status.account.acct }" />
-    </picture>
-  </a>
-  <header class="author">
-    <a class="display-name" rel="external nofollow" itemprop="author" itemscope itemtype="http://schema.org/Person" href="${ status.account.url }">
-      ${ status.account.display_name }
-    </a>
-    <a class="account" rel="external nofollow" itemprop="author" itemscope itemtype="http://schema.org/Person" href="${ status.account.url }">
-      @${ status.account.acct }
-    </a>
-  </header>
-
-  <time datetime="${ status.created_at }">
-    <a itemprop="url" href="${ status.uri }" rel="nofollow">
-      ${ new Date( status.created_at ).toLocaleString('en-US', {
-        dateStyle: "long",
-        timeStyle: "short",
-      }) }
-    </a>
-  </time>
-
-  <main itemprop="text">${ status.content }</main>
-
-  <footer>
-    <a class="replies" href="${ status.url }" rel="nofollow">
-      <i class="fa fa-reply fa-fw"></i> ${ status.replies_count }
-    </a>
-
-    <a class="reblogs" href="${ status.url }" rel="nofollow">
-      <i class="fa fa-retweet fa-fw"></i> ${ status.reblogs_count }
-    </a>
-
-    <a class="faves" href="${ status.url }" rel="nofollow">
-      <i class="fa fa-star fa-fw"></i> ${ status.favourites_count }
-    </a>
-  </footer>
-</article>
-        `;
-
-        commentsWrapper.innerHTML += DOMPurify.sanitize(comment);
-      });
-
-      fetch('https://{{ site.comments.host }}/api/v1/statuses/{{ page.comments.id }}/context')
+      fetch(postUrl)
       .then(function(response) {
         return response.json();
       })
-      .then(function(data) {
-        if( data['descendants'] && Array.isArray(data['descendants']) && data['descendants'].length > 0 ) {
-          /* commentsWrapper.innerHTML = ""; */
+      .then(function(op) {
+        fetch(postUrl + "/context")
+        .then(function(response) {
+          return response.json();
+        })
+        .then(function(data) {
+          let descendants = data['descendants'];
+          if(
+            descendants &&
+            Array.isArray(descendants) &&
+            descendants.length > 0
+          ) {
+            commentsWrapper.innerHTML = "";
+            descendants.unshift(op);
 
-          data['descendants'].forEach(function(status) {
-            if( status.account.display_name.length > 0 ) {
-              status.account.display_name = escapeHtml(status.account.display_name);
-              status.account.emojis.forEach(emoji => {
-                status.account.display_name = status.account.display_name.replace(`:${ emoji.shortcode }:`, `
+            data['descendants'].forEach(function(status) {
+              if( status.account.display_name.length > 0 ) {
+                status.account.display_name = escapeHtml(status.account.display_name);
+                status.account.emojis.forEach(emoji => {
+                  status.account.display_name = status.account.display_name.replace(`:${ emoji.shortcode }:`, `
+<picture>
+  <source srcset="${ escapeHtml(emoji.url) }" media="(prefers-reduced-motion: no-preference)" />
+  <img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />
+</picture>
+                  `);
+                });
+              } else {
+                status.account.display_name = status.account.acct.split("@")[0];
+              };
+
+              status.emojis.forEach(emoji => {
+                status.content = status.content.replace(`:${ emoji.shortcode }:`, `
 <picture>
   <source srcset="${ escapeHtml(emoji.url) }" media="(prefers-reduced-motion: no-preference)" />
   <img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />
 </picture>
                 `);
               });
-            } else {
-              status.account.display_name = status.account.acct.split("@")[0];
-            };
 
-            status.emojis.forEach(emoji => {
-              status.content = status.content.replace(`:${ emoji.shortcode }:`, `
-<picture>
-  <source srcset="${ escapeHtml(emoji.url) }" media="(prefers-reduced-motion: no-preference)" />
-  <img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />
-</picture>
-              `);
-            });
-
-            comment = `
+              comment = `
 <article
   id="comment-${ status.id }"
   class="comment"
@@ -190,11 +122,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     </a>
   </footer>
 </article>
-            `;
+              `;
 
-            commentsWrapper.innerHTML += DOMPurify.sanitize(comment);
-          });
-        }
+              commentsWrapper.innerHTML += DOMPurify.sanitize(comment);
+            });
+          }
+        });
       });
     }
 
