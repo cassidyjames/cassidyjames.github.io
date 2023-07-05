@@ -3,8 +3,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}</title>
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}">
-  <meta itemprop="name" content="{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 
   <link rel="alternate" type="application/rss+xml" title="Cassidy’s Blog" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
