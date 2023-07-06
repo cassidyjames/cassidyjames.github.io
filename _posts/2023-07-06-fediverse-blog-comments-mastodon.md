@@ -3,7 +3,7 @@ title: Toot toot! Mastodon-powered Blog Comments
 description: The Fediverse—and Mastodon’s API—is magic for static Jekyll sites
 updated: 2023-07-06
 
-image: /images/blog/fediverse-blog-comments-mastodon/current.png
+image: /images/blog/fediverse-blog-comments-mastodon/card.png
 ---
 
 If you follow me on Mastodon, you’ve probably heard that I’ve added Mastodon-powered comments to this here blog. If you missed it, [check it out](#comments)!
