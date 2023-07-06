@@ -64,7 +64,7 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               let avatarImg = document.createElement("img");
               avatarImg.className = "avatar";
               avatarImg.setAttribute("src", escapeHtml(status.account.avatar_static));
-              avatarImg.setAttribute("alt", `Avatar for @${ status.account.acct }`);
+              avatarImg.setAttribute("alt", `Avatar for ${ status.account.display_name }`);
 
               let avatarPicture = document.createElement("picture");
               avatarPicture.appendChild(avatarSource);
@@ -74,6 +74,7 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               avatarLink.className = "avatar-link";
               avatarLink.setAttribute("href", status.account.url);
               avatarLink.setAttribute("rel", "external nofollow");
+              avatarLink.setAttribute("title", `View profile at @${ status.account.username }@${ instance }`);
               avatarLink.appendChild(avatarPicture);
 
               let instanceBadge = document.createElement("a");
