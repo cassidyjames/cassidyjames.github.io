@@ -4,6 +4,9 @@ description: The Fediverse—and Mastodon’s API—is magic for static Jekyll s
 updated: 2023-07-06
 
 image: /images/blog/fediverse-blog-comments-mastodon/card.png
+
+comments:
+  id: 110669429936617026
 ---
 
 If you follow me on Mastodon, you’ve probably heard that I’ve added Mastodon-powered comments to this here blog. If you missed it, [check it out](#comments)!
