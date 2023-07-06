@@ -31,10 +31,6 @@ section#comments {
       gap: 0.5em;
       grid-area: name;
 
-      .account {
-        display: none;
-      }
-
       .instance {
         background-color: var(--faint);
         border-radius: 9999px;
@@ -103,8 +99,10 @@ section#comments {
         color: var(--secondary-accent-contrast);
 
         &::before {
-          content: "✓ ";
+          content: "✓";
           font-weight: bold;
+          margin-inline-end: 0.25em;
+          margin-inline-start: -0.25em;
         }
       }
     }

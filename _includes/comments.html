@@ -83,18 +83,15 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               instanceBadge.setAttribute("rel", "external nofollow");
               instanceBadge.textContent = instance;
 
-              let account = document.createElement("a");
-              account.className = "account";
-              account.setAttribute("href", status.account.url);
-              account.setAttribute("itemprop", "author");
-              account.setAttribute("itemtype", "http://schema.org/Person");
-              account.setAttribute("rel", "external nofollow");
-              account.textContent = `@${ status.account.username }`;
+              let display = document.createElement("span");
+              display.className = "display";
+              display.setAttribute("itemprop", "author");
+              display.setAttribute("itemtype", "http://schema.org/Person");
+              display.innerHTML = status.account.display_name;
 
               let header = document.createElement("header");
               header.className = "author";
-              header.innerHTML = status.account.display_name;
-              header.appendChild(account);
+              header.appendChild(display);
               header.appendChild(instanceBadge);
 
               let permalink = document.createElement("a");
