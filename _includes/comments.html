@@ -1,17 +1,5 @@
 <!--
-
-Adapted from https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750bb53b9f0f6f28399ce4d21785a3bb7d22/_includes/fediverse_comments.html
-
-The MIT License (MIT)
-
-Copyright (c) 2016 Michael Rose
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750bb53b9f0f6f28399ce4d21785a3bb7d22/_includes/fediverse_comments.html
 -->
 
 <section id="comments" class="comments">
@@ -55,62 +43,93 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 status.account.display_name = escapeHtml(status.account.display_name);
                 status.account.display_name = emojify(status.account.display_name, status.account.emojis);
               } else {
-                status.account.display_name = status.account.acct.split("@")[0];
+                status.account.display_name = status.account.username;
               };
+
+              let instance = "";
+              let verified = false;
+              if( status.account.acct.includes("@") ) {
+                instance = status.account.acct.split("@")[1];
+              } else {
+                instance = "blaede.family";
+                verified = true;
+              }
 
               status.content = emojify(status.content, status.emojis);
 
-              comment = `
-<article
-  id="comment-${ status.id }"
-  class="comment"
-  itemprop="comment"
-  itemscope
-  itemtype="http://schema.org/Comment"
->
-  <a class="avatar" rel="external nofollow" href="${ status.account.url }" rel="nofollow">
-    <picture>
-      <source srcset="${ escapeHtml(status.account.avatar) }" media="(prefers-reduced-motion: no-preference)" />
-      <img src="${ escapeHtml(status.account.avatar_static) }" alt="Avatar for @${ status.account.acct }" />
-    </picture>
-  </a>
-  <header class="author">
-    <a class="display-name" rel="external nofollow" itemprop="author" itemscope itemtype="http://schema.org/Person" href="${ status.account.url }">
-      ${ status.account.display_name }
-    </a>
-    <a class="account" rel="external nofollow" itemprop="author" itemscope itemtype="http://schema.org/Person" href="${ status.account.url }">
-      @${ status.account.acct }
-    </a>
-  </header>
+              let avatarSource = document.createElement("source");
+              avatarSource.setAttribute("srcset", escapeHtml(status.account.avatar));
+              avatarSource.setAttribute("media", "(prefers-reduced-motion: no-preference)");
 
-  <time datetime="${ status.created_at }">
-    <a itemprop="url" href="${ status.uri }" rel="nofollow">
-      ${ new Date( status.created_at ).toLocaleString('en-US', {
-        dateStyle: "long",
-        timeStyle: "short",
-      }) }
-    </a>
-  </time>
+              let avatarImg = document.createElement("img");
+              avatarImg.className = "avatar";
+              avatarImg.setAttribute("src", escapeHtml(status.account.avatar_static));
+              avatarImg.setAttribute("alt", `Avatar for @${ status.account.acct }`);
 
-  <main itemprop="text">${ status.content }</main>
+              let avatarPicture = document.createElement("picture");
+              avatarPicture.appendChild(avatarSource);
+              avatarPicture.appendChild(avatarImg);
 
-  <footer>
-    <a class="replies" href="${ status.url }" rel="nofollow">
-      <i class="fa fa-reply fa-fw"></i> ${ status.replies_count }
-    </a>
+              let avatarLink = document.createElement("a");
+              avatarLink.className = "avatar-link";
+              avatarLink.setAttribute("href", status.account.url);
+              avatarLink.setAttribute("rel", "external nofollow");
+              avatarLink.appendChild(avatarPicture);
 
-    <a class="reblogs" href="${ status.url }" rel="nofollow">
-      <i class="fa fa-retweet fa-fw"></i> ${ status.reblogs_count }
-    </a>
+              let instanceBadge = document.createElement("a");
+              instanceBadge.className = "instance";
+              instanceBadge.setAttribute("href", status.account.url);
+              instanceBadge.setAttribute("title", `@${ status.account.username }@${ instance }`);
+              instanceBadge.setAttribute("rel", "external nofollow");
+              instanceBadge.textContent = instance;
 
-    <a class="faves" href="${ status.url }" rel="nofollow">
-      <i class="fa fa-star fa-fw"></i> ${ status.favourites_count }
-    </a>
-  </footer>
-</article>
-              `;
+              let account = document.createElement("a");
+              account.className = "account";
+              account.setAttribute("href", status.account.url);
+              account.setAttribute("itemprop", "author");
+              account.setAttribute("itemtype", "http://schema.org/Person");
+              account.setAttribute("rel", "external nofollow");
+              account.textContent = `@${ status.account.username }`;
 
-              commentsWrapper.innerHTML += DOMPurify.sanitize(comment);
+              let header = document.createElement("header");
+              header.className = "author";
+              header.innerHTML = status.account.display_name;
+              header.appendChild(account);
+              header.appendChild(instanceBadge);
+
+              let permalink = document.createElement("a");
+              permalink.setAttribute("href", status.url);
+              permalink.setAttribute("itemprop", "url");
+              permalink.setAttribute("title", `View comment at ${ instance }`);
+              permalink.setAttribute("rel", "external nofollow");
+              permalink.textContent = new Date( status.created_at ).toLocaleString('en-US', {
+                dateStyle: "long",
+                timeStyle: "short",
+              });
+
+              let timestamp = document.createElement("time");
+              timestamp.setAttribute("datetime", status.created_at);
+              timestamp.appendChild(permalink);
+
+              let main = document.createElement("main");
+              main.setAttribute("itemprop", "text");
+              main.innerHTML = status.content;
+
+              let comment = document.createElement("article");
+              comment.id = `comment-${ status.id }`;
+              comment.className = "comment";
+              comment.setAttribute("itemprop", "comment");
+              comment.setAttribute("itemtype", "http://schema.org/Comment");
+              comment.appendChild(avatarLink);
+              comment.appendChild(header);
+              comment.appendChild(timestamp);
+              comment.appendChild(main);
+
+              if (verified === true) {
+                comment.classList.add("verified");
+              }
+
+              commentsWrapper.innerHTML += DOMPurify.sanitize(comment.outerHTML);
             });
           }
         });
