@@ -55,8 +55,8 @@ Someone pointed out that the avatar styling I was using wasn't the prettiest wit
 Along the way I noticed a few things that could be cleaned up. First, inline links were included in full, which is pretty ugly. Luckily the Mastodon API returns links with helpful utility classes included, meaning you just have to use a [tiny bit of CSS](https://github.com/cassidyjames/cassidyjames.github.io/commit/bbb9c6729adc77fec5154d2991919b067b312665) to imitate what Mastodon does on the web and in its apps. Second, I wasn't handling accounts without an explicit display name as gracefully as I could; I first used some [dirty string splitting](https://github.com/cassidyjames/cassidyjames.github.io/commit/4d22f2e859871face3217045a49f0e622a413ec2), then realized I could just [use the username](https://github.com/cassidyjames/cassidyjames.github.io/commit/9f5dba20850c61ac1cc223473be779748486a65d#diff-e224579ed0344a76bb3837aa2d28776274c7b0f5b201514e010cc8b3277e0b74L58-R46) from the API.
 
 <figure markdown="1">
-![Screenshot of comments with broken wrapping](/images/blog/{{ page.slug }}/wrapping.png){: .card }
-<figcaption>Well that’s no good</figcaption>
+![Screenshot of comments with broken wrapping](/images/blog/{{ page.slug }}/wrapping.png){: .card width="358" height="529" }
+<figcaption>Check out that wrapping in the middle comment—that’s no good!</figcaption>
 </figure>
 
 I noticed wrapping was super broken with long names and small screen sizes, so I took the time to finally learn CSS grid; check out the excellent-as-usual [CSS-Tricks complete guide](https://css-tricks.com/snippets/css/complete-guide-grid/) if you've been putting it off like me. This allowed me to fine-tune the layout of the replies exactly how I wanted in a way that made sense to my brain.
