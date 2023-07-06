@@ -113,6 +113,18 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               main.setAttribute("itemprop", "text");
               main.innerHTML = status.content;
 
+              let interactions = document.createElement("footer");
+              if(status.favourites_count > 0) {
+                let faves = document.createElement("a");
+                faves.className = "faves";
+                /* FIXME: This is a hack and probably won't work w/non-Mastodon instances */
+                faves.setAttribute("href", `${ status.url }/favourites`);
+                faves.setAttribute("title", `Favorites from ${ instance }`);
+                faves.textContent = status.favourites_count;
+
+                interactions.appendChild(faves);
+              }
+
               let comment = document.createElement("article");
               comment.id = `comment-${ status.id }`;
               comment.className = "comment";
@@ -122,8 +134,9 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               comment.appendChild(header);
               comment.appendChild(timestamp);
               comment.appendChild(main);
+              comment.appendChild(interactions);
 
-              if (verified === true) {
+              if(verified === true) {
                 comment.classList.add("verified");
               }
 
