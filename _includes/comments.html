@@ -53,26 +53,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             data['descendants'].forEach(function(status) {
               if( status.account.display_name.length > 0 ) {
                 status.account.display_name = escapeHtml(status.account.display_name);
-                status.account.emojis.forEach(emoji => {
-                  status.account.display_name = status.account.display_name.replace(`:${ emoji.shortcode }:`, `
-<picture>
-  <source srcset="${ escapeHtml(emoji.url) }" media="(prefers-reduced-motion: no-preference)" />
-  <img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />
-</picture>
-                  `);
-                });
+                status.account.display_name = emojify(status.account.display_name, status.account.emojis);
               } else {
                 status.account.display_name = status.account.acct.split("@")[0];
               };
 
-              status.emojis.forEach(emoji => {
-                status.content = status.content.replace(`:${ emoji.shortcode }:`, `
-<picture>
-  <source srcset="${ escapeHtml(emoji.url) }" media="(prefers-reduced-motion: no-preference)" />
-  <img class="emoji" src="${ escapeHtml(emoji.static_url) }" alt=":${ emoji.shortcode }:" title=":${ emoji.shortcode }:" width="20" height="20" />
-</picture>
-                `);
-              });
+              status.content = emojify(status.content, status.emojis);
 
               comment = `
 <article
@@ -129,6 +115,33 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
           }
         });
       });
+    }
+
+    function emojify(input, emojis) {
+      let output = input;
+
+      emojis.forEach(emoji => {
+        let picture = document.createElement("picture");
+
+        let source = document.createElement("source");
+        source.setAttribute("srcset", escapeHtml(emoji.url));
+        source.setAttribute("media", "(prefers-reduced-motion: no-preference)");
+
+        let img = document.createElement("img");
+        img.className = "emoji";
+        img.setAttribute("src", escapeHtml(emoji.static_url));
+        img.setAttribute("alt", `:${ emoji.shortcode }:`);
+        img.setAttribute("title", `:${ emoji.shortcode }:`);
+        img.setAttribute("width", "20");
+        img.setAttribute("height", "20");
+
+        picture.appendChild(source);
+        picture.appendChild(img);
+
+        output = output.replace(`:${ emoji.shortcode }:`, picture.outerHTML);
+      });
+
+      return output;
     }
 
     function escapeHtml(unsafe) {
