@@ -20,6 +20,11 @@ Finally, when I was sharing my [FreeDesktop Accent Colors proposal for GNOME](/b
 
 As a very first proof-of-concept, I read through [Jan's post] again (do so if you are interested in implementing this!), then just took his code verbatim and bolted it onto my own Jekyll site. It actually worked! That allowed me to start really understanding how it works.
 
+<figure markdown="1">
+![Screenshot of comments at first](/images/blog/{{ page.slug }}/first.png){: .card }
+<figcaption>They’re comments, and they work!</figcaption>
+</figure>
+
 I'll leave a lot of the details for his post, but the super-simplified gist is:
 
 1. Write a blog post
@@ -34,6 +39,11 @@ The majority of my work to ship the [first iteration](https://github.com/cassidy
 
 I excitedly shared a few posts with comments enabled, then someone pointed out: custom emoji (in the `:shortcode:` format) didn’t work! Womp womp. Luckily, Jan had already solved this for display names, so I was able to [copy it for the comment itself](https://github.com/cassidyjames/cassidyjames.github.io/commit/dde9bf9b6436e0b75fb3f4cb0691a4ad37239b3f) pretty easily.
 
+<figure markdown="1">
+![Screenshot of comments with no inline emoji](/images/blog/{{ page.slug }}/emoji.png){: .card }
+<figcaption>:oops:, also note the interactions cluttering things up at the bottom</figcaption>
+</figure>
+
 Then it was pointed out they weren't animated! Well, yeah, because I was requesting the `static` versions of emoji (and user avatars, actually), so that was expected. I [added support](https://github.com/cassidyjames/cassidyjames.github.io/commit/436b3208b326db2a98e7525c1150553ff5040bc6) for animated emoji and avatars while respecting the `prefers-reduced-motion` media query that can be set by OSes and browsers. Neat!
 
 Someone pointed out that the avatar styling I was using wasn't the prettiest with certain profile pictures, so I [rewrote that across my whole site](https://github.com/cassidyjames/cassidyjames.github.io/commit/d69c5ac56ccb50f391e12cd5d6ac8b56292bc830)—and then I noticed some avatars were provided at a too-small size, so I [fixed that](https://github.com/cassidyjames/cassidyjames.github.io/commit/d0355a4ebd4d20b46c0fe84a49b4bbf26d487fdf), too.
@@ -42,9 +52,14 @@ Someone pointed out that the avatar styling I was using wasn't the prettiest wit
 
 Along the way I noticed a few things that could be cleaned up. First, inline links were included in full, which is pretty ugly. Luckily the Mastodon API returns links with helpful utility classes included, meaning you just have to use a [tiny bit of CSS](https://github.com/cassidyjames/cassidyjames.github.io/commit/bbb9c6729adc77fec5154d2991919b067b312665) to imitate what Mastodon does on the web and in its apps. Second, I wasn't handling accounts without an explicit display name as gracefully as I could; I first used some [dirty string splitting](https://github.com/cassidyjames/cassidyjames.github.io/commit/4d22f2e859871face3217045a49f0e622a413ec2), then realized I could just [use the username](https://github.com/cassidyjames/cassidyjames.github.io/commit/9f5dba20850c61ac1cc223473be779748486a65d#diff-e224579ed0344a76bb3837aa2d28776274c7b0f5b201514e010cc8b3277e0b74L58-R46) from the API.
 
-At this point, I was really getting unhappy with the massive blobs of HTML inside of JS inside of HTML—and my text editor's syntax highlighting wasn't a fan, either. So I spent some time iterating, rewriting, and simplifying things. First, since I was doing the same thing with emoji twice, I [pulled out the emoji-replacing into its own function](https://github.com/cassidyjames/cassidyjames.github.io/commit/6c53413033b1154836cc8b0bd55d04b0f250ae94). Rather than using string replacement on large blobs of HTML, I (re)learned how to directly create and manipulate DOM elements with JavaScript. This was _so much cleaner_ in the resulting code, even if it technically takes a few more lines.
+<figure markdown="1">
+![Screenshot of comments with broken wrapping](/images/blog/{{ page.slug }}/wrapping.png){: .card }
+<figcaption>Well that’s no good</figcaption>
+</figure>
 
-At some point I took the time to finally learn CSS grid; check out the excellent-as-usual [CSS-Tricks complete guide](https://css-tricks.com/snippets/css/complete-guide-grid/) if you've been putting it off like me. This allowed me to fine-tune the layout of the replies exactly how I wanted in a way that made sense to my brain.
+I noticed wrapping was super broken with long names and small screen sizes, so I took the time to finally learn CSS grid; check out the excellent-as-usual [CSS-Tricks complete guide](https://css-tricks.com/snippets/css/complete-guide-grid/) if you've been putting it off like me. This allowed me to fine-tune the layout of the replies exactly how I wanted in a way that made sense to my brain.
+
+At this point, I was really getting unhappy with the massive blobs of HTML inside of JS inside of HTML—and my text editor's syntax highlighting wasn't a fan, either. So I spent some time iterating, rewriting, and simplifying things. First, since I was doing the same thing with emoji twice, I [pulled out the emoji-replacing into its own function](https://github.com/cassidyjames/cassidyjames.github.io/commit/6c53413033b1154836cc8b0bd55d04b0f250ae94). Rather than using string replacement on large blobs of HTML, I (re)learned how to directly create and manipulate DOM elements with JavaScript. This was _so much cleaner_ in the resulting code, even if it technically takes a few more lines.
 
 After having a good experience switching to actual JavaScript DOM instead of strings, I took the plunge and [rewrote the whole thing](https://github.com/cassidyjames/cassidyjames.github.io/commit/9f5dba20850c61ac1cc223473be779748486a65d) in the same fashion. This was my favorite part of the process because it felt like I really finally understood every line of code—and I was in charge of how it worked! Even if it’s not the best way to write JavaScript (I don't claim to be an expert, here), it really reminded me of whipping up native code in Vala for GTK apps. If you’ve spent any time reading or writing elementary Vala code, you can probably tell I have spent a lot of time doing so as well. 😅️
 
@@ -61,6 +76,11 @@ I made the decision to actually heavily deprioritize usernames in favor of displ
 I also wanted a way to visual distinguish my own comments (and more generally, highlight the original poster or “OP” like on Reddit), so I added a sort of "verified" styling to any comments coming from my private instance; I add a check mark badged on my avatar and style the instance badge with a check mark and distinct accent color. I'd like to make this more generalized so if you theoretically had multiple authors on your blog, you could still highlight OP and/or trusted accounts—but that's a problem for another day.
 
 I went back and forth a few times with if/how to handle post interactions like favorites and boosts; if I was going all-in, I'd figure out a way to use the reader's Mastodon account to actually directly interact with posts, but that’s… a _lot_ more work. With all my excited sharing about this project on Mastodon, I inspired at least one other person; Julian Fietkau [wrote and shared his own implementation](https://fietkau.blog/2023/another_blog_resurrection_fediverse_new_comment_system). His version also uses JavaScript DOM manipulation, but does a lot more like handling threading, re-ordering replies, stripping leading @-mentions, and more. I still have to dig into it and see if there is more I can pull into my implementation. I did like his styling of favorites, though, so I [did something similar](https://github.com/cassidyjames/cassidyjames.github.io/commit/5d5bf43b37516d22fcae278b44987e64fc35a8c2) for the time being.
+
+<figure markdown="1">
+![Screenshot of comments today](/images/blog/{{ page.slug }}/current.png){: .card }
+<figcaption>Culmination of these design iterations</figcaption>
+</figure>
 
 ### What's Next
 
@@ -80,6 +100,6 @@ To be clear, this whole project was just something I've been hacking on for my o
 
 ### Did I Miss Anything?
 
-Okay, you got this far, so you're dedicated. Let me know if you notice any glaring issues, have a brilliant idea, or have any kind of feedback for me by replying below. After all, [dog food is the best food](/blog/eating-our-own-dog-food/)!
+Okay, you got this far, so you're dedicated. Let me know if you notice any glaring issues, have a brilliant idea, or have any kind of feedback for me by replying [below](#comments). After all, [dog food is the best food](/blog/eating-our-own-dog-food/)!
 
 [Jan's post]: https://jan.wildeboer.net/2023/02/Jekyll-Mastodon-Comments/
