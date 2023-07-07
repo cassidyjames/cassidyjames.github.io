@@ -169,7 +169,23 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
 
               let main = document.createElement("main");
               main.setAttribute("itemprop", "text");
-              main.innerHTML = status.content;
+
+              if(status.sensitive == true || status.spoiler_text != "") {
+                let summary = document.createElement("summary");
+                if(status.spoiler_text == "") {
+                  status.spoiler_text == "Sensitive";
+                }
+                summary.innerHTML = status.spoiler_text;
+
+                let spoiler = document.createElement("details");
+                spoiler.appendChild(summary);
+                spoiler.innerHTML += status.content;
+
+                main.appendChild(spoiler);
+              } else {
+                main.innerHTML = status.content;
+              }
+
 
               let interactions = document.createElement("footer");
               if(status.favourites_count > 0) {
