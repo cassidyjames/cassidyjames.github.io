@@ -184,14 +184,32 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
 
               if(op === true) {
                 comment.classList.add("op");
-                avatar.classList.add("op");
-                instanceBadge.classList.add("op");
-              }
 
-              if(verified === true) {
+                avatar.classList.add("op");
+                avatar.setAttribute(
+                  "title",
+                  "Blog post author; " + avatar.getAttribute("title")
+                );
+
+                instanceBadge.classList.add("op");
+                instanceBadge.setAttribute(
+                  "title",
+                  "Blog post author: " + instanceBadge.getAttribute("title")
+                );
+              } else if(verified === true) {
                 comment.classList.add("verified");
+
                 avatar.classList.add("verified");
+                avatar.setAttribute(
+                  "title",
+                  avatar.getAttribute("title") + " (verified by site owner)"
+                );
+
                 instanceBadge.classList.add("verified");
+                instanceBadge.setAttribute(
+                  "title",
+                  instanceBadge.getAttribute("title") + " (verified by site owner)"
+                );
               }
 
               commentsWrapper.innerHTML += DOMPurify.sanitize(comment.outerHTML);
