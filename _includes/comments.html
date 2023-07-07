@@ -233,6 +233,7 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
                 let card = document.createElement("a");
                 card.className = "card";
                 card.setAttribute("href", status.card.url);
+                card.setAttribute("rel", "external nofollow");
                 card.appendChild(cardFigure);
 
                 comment.appendChild(card);
