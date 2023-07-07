@@ -26,9 +26,36 @@ steam: cassidyjames # user/alias, no @
 twitter: "https://twitter.cassidyjames.com" # Full link to support archives
 unsplash: "@cassidyjames" # user including @
 
+# Mastodon-powered commenting. Values can be overridden in front-matter, e.g.
+# for multi-author blogs or guest posts.
 comments:
+  # Your Mastodon API host; this should be where you have an account
   host: mastodon.blaede.family
+  # Optional; vanity domain if configured; host will be used if omitted; UNIMPLEMENTED
+  domain: blaede.family
+  # Used to determine who the original/verified poster is; role may be expanded
+  # in the future (e.g. for moderation)
   username: cassidy
+  # Additional verified usernames in username@example.com format. If they are on
+  # the host listed above, OMIT the @example.com; UNIMPLEMENTED
+  verified:
+    - ahoneybunn@creatorstudio.space
+    - alatiera@mastodon.social
+    - alice@crab.garden
+    - brainblasted@crab.garden
+    - btkostner@mastodon.social
+    - jimmac@mastodon.social
+    - julian@fietkau.social
+    - katie
+    - lizkecso@mastodon.social
+    - Lobau@indieweb.social
+    - lucy
+    - micahilbery@mastodon.online
+    - nora
+    - razze@osna.social
+    - ryanleesipes@mastodon.social
+    - tammy
+    - tbernard@mastodon.social
 
 # Settings
 permalink: /blog/:title/
