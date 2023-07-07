@@ -5,6 +5,9 @@ updated: 2011-07-11
 legacy: elementary
 tags:
   - meta
+
+comments
+  id: 110673359287196956
 ---
 
 Eating your own dog food. Taking what you dish out. Talking the talk and walking the walk. It's a seemingly simple concept that has very important ramifications for the entire development process. If you're an elementary contributor, developer, or someone interested in the development process, read on to learn about "dogfooding" and why our devs and team members should do it.
