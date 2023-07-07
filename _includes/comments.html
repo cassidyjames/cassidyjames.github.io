@@ -186,12 +186,11 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
                 main.innerHTML = status.content;
               }
 
-
               let interactions = document.createElement("footer");
               if(status.favourites_count > 0) {
                 let faves = document.createElement("a");
                 faves.className = "faves";
-                /* FIXME: This is a hack and probably won't work w/non-Mastodon instances */
+                /* FIXME: This is a hack and doesn't work w/non-Mastodon instances */
                 faves.setAttribute("href", `${ status.url }/favourites`);
                 faves.setAttribute("title", `Favorites from ${ instance }`);
                 faves.textContent = status.favourites_count;
@@ -208,6 +207,33 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               comment.appendChild(header);
               comment.appendChild(timestamp);
               comment.appendChild(main);
+
+              if(status.card != null && status.card.image != null) {
+                let cardImg = document.createElement("img");
+                cardImg.setAttribute("src", status.card.image);
+
+                let cardTitle = document.createElement("h5");
+                cardTitle.innerHTML = status.card.title;
+
+                let cardDescription = document.createElement("p");
+                cardDescription.innerHTML = status.card.description;
+
+                let cardCaption = document.createElement("figcaption");
+                cardCaption.appendChild(cardTitle);
+                cardCaption.appendChild(cardDescription);
+
+                let cardFigure = document.createElement("figure");
+                cardFigure.appendChild(cardImg);
+                cardFigure.appendChild(cardCaption);
+
+                let card = document.createElement("a");
+                card.className = "card";
+                card.setAttribute("href", status.card.url);
+                card.appendChild(cardFigure);
+
+                comment.appendChild(card);
+              }
+
               comment.appendChild(interactions);
 
               if(op === true) {
