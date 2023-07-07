@@ -84,6 +84,7 @@ section#comments {
 
     main {
       grid-area: post;
+      justify-self: stretch;
 
       p:first-child {
         margin-top: 0.25em;
@@ -129,6 +130,44 @@ section#comments {
 
     .ellipsis::after {
       content: "…";
+    }
+
+    details {
+      summary {
+        background-image:
+          linear-gradient(
+            90deg,
+            transparent,
+            transparent 0.4rem,
+            var(--faint) 0.4rem,
+            var(--faint) calc(100% - 0.4rem),
+            transparent calc(100% - 0.4rem),
+            transparent
+          ),
+          repeating-linear-gradient(
+            45deg,
+            var(--faint),
+            var(--faint) 0.3rem,
+            var(--accent-color) 0.3rem,
+            var(--accent-color) 0.6rem
+          );
+        border-radius: 0.25rem;
+        color: inherit;
+        cursor: default;
+        margin-top: 0.925rem;
+        padding: 1em;
+
+        &::after {
+          content: "▸";
+          display: inline-block;
+          margin-left: 0.5em;
+          transition: transform 250ms ease;
+        }
+      }
+
+      &[open] summary::after {
+        transform: rotate(90deg);
+      }
     }
   }
 }
