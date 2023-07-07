@@ -55,14 +55,14 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
 
     function loadComments() {
       let commentsWrapper = document.getElementById("comments-wrapper");
-      let postUrl = "https://{{ host }}/api/v1/statuses/{{ id }}";
+      let statusUrl = "https://{{ host }}/api/v1/statuses/{{ id }}";
 
-      fetch(postUrl)
+      fetch(statusUrl)
       .then(function(response) {
         return response.json();
       })
       .then(function(status) {
-        fetch(postUrl + "/context")
+        fetch(statusUrl + "/context")
         .then(function(response) {
           return response.json();
         })
@@ -79,7 +79,10 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
             data['descendants'].forEach(function(status) {
               if( status.account.display_name.length > 0 ) {
                 status.account.display_name = escapeHtml(status.account.display_name);
-                status.account.display_name = emojify(status.account.display_name, status.account.emojis);
+                status.account.display_name = emojify(
+                  status.account.display_name,
+                  status.account.emojis
+                );
               } else {
                 status.account.display_name = status.account.username;
               };
@@ -110,7 +113,10 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               let avatarImg = document.createElement("img");
               avatarImg.className = "avatar";
               avatarImg.setAttribute("src", escapeHtml(status.account.avatar_static));
-              avatarImg.setAttribute("alt", `@${ status.account.username }@${ instance } avatar`);
+              avatarImg.setAttribute(
+                "alt",
+                `@${ status.account.username }@${ instance } avatar`
+              );
 
               let avatarPicture = document.createElement("picture");
               avatarPicture.appendChild(avatarSource);
@@ -120,13 +126,19 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               avatar.className = "avatar-link";
               avatar.setAttribute("href", status.account.url);
               avatar.setAttribute("rel", "external nofollow");
-              avatar.setAttribute("title", `View profile at @${ status.account.username }@${ instance }`);
+              avatar.setAttribute(
+                "title",
+                `View profile at @${ status.account.username }@${ instance }`
+              );
               avatar.appendChild(avatarPicture);
 
               let instanceBadge = document.createElement("a");
               instanceBadge.className = "instance";
               instanceBadge.setAttribute("href", status.account.url);
-              instanceBadge.setAttribute("title", `@${ status.account.username }@${ instance }`);
+              instanceBadge.setAttribute(
+                "title",
+                `@${ status.account.username }@${ instance }`
+              );
               instanceBadge.setAttribute("rel", "external nofollow");
               instanceBadge.textContent = instance;
 
