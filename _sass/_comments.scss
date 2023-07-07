@@ -6,6 +6,7 @@ section#comments {
       "avatar name"
       "avatar time"
       "avatar post"
+      "...... card"
       "...... interactions";
     grid-template-columns: min-content;
     justify-items: start;
@@ -93,6 +94,45 @@ section#comments {
       p:last-child {
         margin-bottom: 0;
       }
+    }
+
+    .card {
+      color: inherit;
+      grid-area: card;
+      max-width: 400px;
+
+      &:hover {
+        text-decoration: none;
+      }
+
+      figure {
+        border-radius: inherit;
+        overflow: hidden;
+      }
+
+      figcaption {
+
+        display: grid;
+        gap: 0.5em;
+        margin: 0;
+        padding: 1em;
+        text-align: left;
+
+        * {
+          display: -webkit-box;
+          line-height: 1.25;
+          margin: 0;
+          overflow: hidden;
+          padding: 0;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 2;
+        }
+      }
+    }
+
+    // Hide the card from the shared post
+    &:first-of-type .card {
+      display: none;
     }
 
     footer {
