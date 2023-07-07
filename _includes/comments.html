@@ -208,7 +208,11 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               comment.appendChild(timestamp);
               comment.appendChild(main);
 
-              if(status.card != null && status.card.image != null) {
+              if(
+                status.card != null &&
+                status.card.image != null &&
+                !status.card.url.startsWith("{{ site.url }}")
+              ) {
                 let cardImg = document.createElement("img");
                 cardImg.setAttribute("src", status.card.image);
 

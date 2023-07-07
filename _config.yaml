@@ -11,6 +11,7 @@ domain: cassidyjames.com
 made-in: Colorado
 birthday: '1992-02-01 00:08:00 -0600'
 timezone: UTC
+repository: cassidyjames/cassidyjames.github.io
 
 # Site-wide social info
 donate: https://cassidyjames.com/pay
