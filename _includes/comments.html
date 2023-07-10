@@ -28,6 +28,14 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
   {% assign username = site.comments.username %}
 {% endif %}
 
+{% if include.token %}
+  {% assign token = include.token %}
+{% elsif page.comments.token %}
+  {% assign token = page.comments.token %}
+{% else %}
+  {% assign token = site.comments.token %}
+{% endif %}
+
 {% if include.id %}
   {% assign id = include.id %}
 {% else %}
@@ -51,22 +59,41 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
 
   <script src="/js/purify.min.js"></script>
   <script>
-    loadComments ();
+    loadComments();
 
     function loadComments() {
-      let commentsWrapper = document.getElementById("comments-wrapper");
-      let statusUrl = "https://{{ host }}/api/v1/statuses/{{ id }}";
+      const HOST = "{{ host }}";
+      const DOMAIN = "{{ domain }}";
+      const USERNAME = "{{ username }}";
+      const TOKEN = "{{ token }}";
+      const VERIFIED = {{ verified }};
+      const ID = "{{ id }}";
 
-      fetch(statusUrl)
-      .then(function(response) {
+      const STATUS_URL = `https://${ HOST }/api/v1/statuses/${ ID }`;
+
+      const REQUEST_HEADERS = new Headers();
+      if(TOKEN != ""){
+        REQUEST_HEADERS.append("Authorization", "Bearer " + TOKEN);
+      }
+
+      const requestOptions = {
+        method: "GET",
+        headers: REQUEST_HEADERS,
+        mode: "cors",
+        cache: "default",
+      };
+
+      const STATUS_REQUEST = new Request(STATUS_URL, requestOptions);
+      const CONTEXT_REQUEST = new Request(STATUS_URL + "/context", requestOptions);
+
+      let commentsWrapper = document.getElementById("comments-wrapper");
+
+      fetch(STATUS_REQUEST).then((response) => {
         return response.json();
-      })
-      .then(function(status) {
-        fetch(statusUrl + "/context")
-        .then(function(response) {
+      }).then((status) => {
+        fetch(CONTEXT_REQUEST).then((response) => {
           return response.json();
-        })
-        .then(function(data) {
+        }).then((data) => {
           let descendants = data['descendants'];
           if(
             descendants &&
@@ -91,16 +118,16 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               if( status.account.acct.includes("@") ) {
                 instance = status.account.acct.split("@")[1];
               } else {
-                instance = "{{ domain }}";
+                instance = DOMAIN;
               }
 
               let op = false;
-              if( status.account.acct == "{{ username }}" ) {
+              if( status.account.acct == USERNAME ) {
                 op = true;
               }
 
               let verified = false;
-              if( {{ verified }}.includes(status.account.acct) ) {
+              if( VERIFIED.includes(status.account.acct) ) {
                 verified = true;
               }
 
