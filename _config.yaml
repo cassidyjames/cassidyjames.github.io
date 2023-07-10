@@ -32,13 +32,23 @@ unsplash: "@cassidyjames" # user including @
 comments:
   # Your Mastodon API host; this should be where you have an account
   host: mastodon.blaede.family
-  # Optional; vanity domain if configured; host will be used if omitted; UNIMPLEMENTED
+
+  # Optional; vanity domain if configured; host will be used if omitted
   domain: blaede.family
+
   # Used to determine who the original/verified poster is; role may be expanded
   # in the future (e.g. for moderation)
   username: cassidy
+
+  # Optional; required to fetch more than 60 replies to any given blog post.
+  # Application access token with read:statuses scope; NOTE: IF INCLUDED, ANYONE
+  # WILL BE ABLE TO READ THE ASSOCIATED ACCOUNT'S PRIVATE STATUSES. It is highly
+  # recommended to use a dedicated bot/API account to create an application with
+  # scope read:statuses.
+  token: GTFBn-YO_QYIU4rc_RHKjuAHE_2RTv0LfpFcvlRLk0g
+
   # Additional verified usernames in username@example.com format. If they are on
-  # the host listed above, OMIT the @example.com; UNIMPLEMENTED
+  # the host listed above, OMIT the @example.com
   verified:
     - ahoneybunn@creatorstudio.space
     - alatiera@mastodon.social
