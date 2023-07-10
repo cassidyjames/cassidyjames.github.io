@@ -103,10 +103,7 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
             commentsWrapper.innerHTML = "";
             descendants.unshift(status);
 
-            let count = 0;
             data['descendants'].forEach(function(status) {
-              console.log(count + ": " + status.account.acct + " " + status.id + " " + status.favourited);
-              count++;
               if( status.account.display_name.length > 0 ) {
                 status.account.display_name = escapeHtml(status.account.display_name);
                 status.account.display_name = emojify(
