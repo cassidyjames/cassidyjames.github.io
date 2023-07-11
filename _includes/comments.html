@@ -52,9 +52,15 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
   <h2>Comments</h2>
   <p>Comment on this blog post by publicly replying to <a href="https://{{ host }}/@{{ username }}/{{ id }}">this Mastodon post</a> using a Mastodon or other ActivityPub/&ZeroWidthSpace;Fediverse account. Known non-private replies are displayed below.</p>
 
+  <noscript><p>Viewing comments relies on JavaScript. Try enabling JavaScript and reloading, or visit <a href="https://{{ host }}/@{{ username }}/{{ id }}">the original post</a> on Mastodon.</p></noscript>
+
   <div id="comments-wrapper">
-    <p><small>No known comments, yet. Reply to <a href="https://{{ host }}/@{{ username }}/{{ id }}">this Mastodon post</a> to add your own!</small></p>
-    <noscript><p>Loading comments relies on JavaScript. Try enabling JavaScript and reloading, or visit <a href="https://{{ host }}/@{{ username }}/{{ id }}">the original post</a> on Mastodon.</p></noscript>
+    <aside id="comments-loading" class="hidden">
+      <p><small>Loading comments from Mastodon...</small></p>
+    </aside>
+    <aside id="comments-none" class="hidden">
+      <p><small>No known comments, yet. Reply to <a href="https://{{ host }}/@{{ username }}/{{ id }}">this Mastodon post</a> to add your own!</small></p>
+    </aside>
   </div>
 
   <script>
@@ -91,6 +97,10 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
       const CONTEXT_REQUEST = new Request(STATUS_URL + "/context", requestOptions);
 
       let commentsWrapper = document.getElementById("comments-wrapper");
+      let commentsLoading = document.getElementById("comments-loading");
+      let commentsNone = document.getElementById("comments-none");
+
+      commentsLoading.classList.remove("hidden");
 
       fetch(STATUS_REQUEST).then((response) => {
         return response.json();
@@ -361,6 +371,9 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
 
               commentsWrapper.innerHTML += comment.outerHTML;
             });
+            commentsLoading.classList.add("hidden");
+          } else {
+            commentsNone.classList.remove("hidden");
           }
         });
       });
