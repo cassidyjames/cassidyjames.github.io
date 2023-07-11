@@ -44,6 +44,7 @@ section#comments {
 
     .author {
       align-items: center;
+      cursor: default;
       display: flex;
       font-weight: bold;
       gap: 0.5em;
@@ -137,20 +138,27 @@ section#comments {
     footer {
       @extend small;
 
+      display: flex;
+      gap: 1.25em;
       grid-area: interactions;
       margin-top: 0.925rem;
 
       .faves {
-        color: inherit;
-
-        &:hover {
-          opacity: 0.8;
-          text-decoration: none;
-        }
+        cursor: default;
 
         &::before {
           color: var(--accent-color);
           content: "♥";
+          margin-inline-end: 0.25em;
+        }
+      }
+
+      .boosts {
+        cursor: default;
+
+        &::before {
+          color: var(--secondary-accent-color);
+          content: "🔁";
           margin-inline-end: 0.25em;
         }
       }
