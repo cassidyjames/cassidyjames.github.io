@@ -68,6 +68,11 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
       const VERIFIED = {{ verified }};
       const ID = "{{ id }}";
 
+      const SUPPORTED_MEDIA = [
+        "image",
+        "gifv",
+      ];
+
       const STATUS_URL = `https://${ HOST }/api/v1/statuses/${ ID }`;
 
       const REQUEST_HEADERS = new Headers();
@@ -102,7 +107,7 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
             commentsWrapper.innerHTML = "";
             descendants.unshift(status);
 
-            data['descendants'].forEach(function(status) {
+            descendants.forEach((status) => {
               if( status.account.display_name.length > 0 ) {
                 status.account.display_name = escapeHtml(status.account.display_name);
                 status.account.display_name = emojify(
@@ -243,7 +248,55 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               comment.appendChild(timestamp);
               comment.appendChild(main);
 
+              let attachments = status.media_attachments;
               if(
+                attachments &&
+                Array.isArray(attachments) &&
+                attachments.length > 0
+              ) {
+                attachments.forEach((attachment) => {
+                  if( SUPPORTED_MEDIA.includes(attachment.type) ){
+                    let media = document.createElement("a");
+                    media.className = "card";
+                    media.setAttribute("href", attachment.url);
+                    media.setAttribute("rel", "external nofollow");
+
+                    let mediaElement;
+                    switch(attachment.type){
+                      case "image":
+                        mediaElement = document.createElement("img");
+                        mediaElement.setAttribute("src", attachment.preview_url);
+
+                        if(attachment.description != null) {
+                          mediaElement.setAttribute("alt", attachment.description);
+                          mediaElement.setAttribute("title", attachment.description);
+                        }
+
+                        media.appendChild(mediaElement);
+                        break;
+
+                      case "gifv":
+                        mediaElement = document.createElement("video");
+                        mediaElement.setAttribute("src", attachment.url);
+                        mediaElement.setAttribute("autoplay", "");
+                        mediaElement.setAttribute("playsinline", "");
+                        mediaElement.setAttribute("loop", "");
+
+                        if(attachment.description != null) {
+                          mediaElement.setAttribute("aria-title", attachment.description);
+                          mediaElement.setAttribute("title", attachment.description);
+                        }
+
+                        media.appendChild(mediaElement);
+                        break;
+                    }
+
+                    comment.appendChild(media);
+                  }
+                });
+
+
+              } else if(
                 status.card != null &&
                 status.card.image != null &&
                 !status.card.url.startsWith("{{ site.url }}")
