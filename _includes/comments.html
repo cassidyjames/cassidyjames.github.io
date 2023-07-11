@@ -54,17 +54,14 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
 
   <noscript><p>Viewing comments relies on JavaScript. Try enabling JavaScript and reloading, or visit <a href="https://{{ host }}/@{{ username }}/{{ id }}">the original post</a> on Mastodon.</p></noscript>
 
-  <div id="comments-wrapper">
-    <aside id="comments-loading" class="hidden">
-      <p>Loading comments from Mastodon...</p>
-    </aside>
-    <aside id="comments-none" class="hidden">
-      <p>No known comments, yet. Reply to <a href="https://{{ host }}/@{{ username }}/{{ id }}">this Mastodon post</a> to add your own!</p>
-    </aside>
-  </div>
+  <div id="comments-wrapper"></div>
 
   <script>
-    loadComments();
+    /* loadComments(); */
+
+    let commentsWrapper = document.getElementById("comments-wrapper");
+    let commentsObserver = new IntersectionObserver(loadComments);
+    commentsObserver.observe(commentsWrapper);
 
     function loadComments() {
       const HOST = "{{ host }}";
@@ -100,7 +97,6 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
       commentsLoading.setAttribute("id", "comments-loading");
       commentsLoading.innerHTML = "Loading comments from Mastodon...";
 
-      let commentsWrapper = document.getElementById("comments-wrapper");
       commentsWrapper.addChild(commentsLoading);
 
       let commentsNone = document.createElement("p");
