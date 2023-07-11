@@ -82,6 +82,10 @@ section#comments {
 
       grid-area: time;
       line-height: 1.5rem;
+
+      &.edited::after {
+        content: " *";
+      }
     }
 
     main {

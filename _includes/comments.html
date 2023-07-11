@@ -48,7 +48,7 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
   {% assign verified = "[]" %}
 {% endif %}
 
-<section id="comments" class="comments">
+<section id="comments" class="article comments">
   <h2>Comments</h2>
   <p>Comment on this blog post by publicly replying to <a href="https://{{ host }}/@{{ username }}/{{ id }}">this Mastodon post</a> using a Mastodon or other ActivityPub/&ZeroWidthSpace;Fediverse account. Known non-private replies are displayed below.</p>
 
@@ -120,16 +120,6 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
                 instance = DOMAIN;
               }
 
-              let op = false;
-              if( status.account.acct == USERNAME ) {
-                op = true;
-              }
-
-              let verified = false;
-              if( VERIFIED.includes(status.account.acct) ) {
-                verified = true;
-              }
-
               status.content = emojify(status.content, status.emojis);
 
               let avatarSource = document.createElement("source");
@@ -184,7 +174,7 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               permalink.setAttribute("itemprop", "url");
               permalink.setAttribute("title", `View comment at ${ instance }`);
               permalink.setAttribute("rel", "external nofollow");
-              permalink.textContent = new Date( status.created_at ).toLocaleString('en-US', {
+              permalink.textContent = new Date(status.created_at).toLocaleString('en-US', {
                 dateStyle: "long",
                 timeStyle: "short",
               });
@@ -192,6 +182,17 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
               let timestamp = document.createElement("time");
               timestamp.setAttribute("datetime", status.created_at);
               timestamp.appendChild(permalink);
+
+              if(status.edited_at != null) {
+                timestamp.classList.add("edited");
+                timestamp.setAttribute(
+                  "title",
+                  "Edited " + new Date(status.edited_at).toLocaleString('en-US', {
+                    dateStyle: "long",
+                    timeStyle: "short",
+                  })
+                )
+              };
 
               let main = document.createElement("main");
               main.setAttribute("itemprop", "text");
@@ -275,7 +276,7 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
 
               comment.appendChild(interactions);
 
-              if(op === true) {
+              if(status.account.acct == USERNAME) {
                 comment.classList.add("op");
 
                 avatar.classList.add("op");
@@ -289,7 +290,7 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
                   "title",
                   "Blog post author: " + instanceBadge.getAttribute("title")
                 );
-              } else if(verified === true) {
+              } else if( VERIFIED.includes(status.account.acct) ) {
                 comment.classList.add("verified");
 
                 avatar.classList.add("verified");
