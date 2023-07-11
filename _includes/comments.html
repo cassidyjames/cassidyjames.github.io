@@ -56,10 +56,10 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
 
   <div id="comments-wrapper">
     <aside id="comments-loading" class="hidden">
-      <p><small>Loading comments from Mastodon...</small></p>
+      <p>Loading comments from Mastodon...</p>
     </aside>
     <aside id="comments-none" class="hidden">
-      <p><small>No known comments, yet. Reply to <a href="https://{{ host }}/@{{ username }}/{{ id }}">this Mastodon post</a> to add your own!</small></p>
+      <p>No known comments, yet. Reply to <a href="https://{{ host }}/@{{ username }}/{{ id }}">this Mastodon post</a> to add your own!</p>
     </aside>
   </div>
 
@@ -96,11 +96,16 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
       const STATUS_REQUEST = new Request(STATUS_URL, requestOptions);
       const CONTEXT_REQUEST = new Request(STATUS_URL + "/context", requestOptions);
 
-      let commentsWrapper = document.getElementById("comments-wrapper");
-      let commentsLoading = document.getElementById("comments-loading");
-      let commentsNone = document.getElementById("comments-none");
+      let commentsLoading = document.createElement("p");
+      commentsLoading.setAttribute("id", "comments-loading");
+      commentsLoading.innerHTML = "Loading comments from Mastodon...";
 
-      commentsLoading.classList.remove("hidden");
+      let commentsWrapper = document.getElementById("comments-wrapper");
+      commentsWrapper.addChild(commentsLoading);
+
+      let commentsNone = document.createElement("p");
+      commentsNone.setAttribute("id", "comments-none");
+      commentsNone.innerHTML = "No known comments, yet.";
 
       fetch(STATUS_REQUEST).then((response) => {
         return response.json();
@@ -371,9 +376,9 @@ Inspired by https://codeberg.org/jwildeboer/jwildeboersource/src/commit/45f9750b
 
               commentsWrapper.innerHTML += comment.outerHTML;
             });
-            commentsLoading.classList.add("hidden");
+            commentsWrapper.removeChild(commentsLoading);
           } else {
-            commentsNone.classList.remove("hidden");
+            commentsWrapper.addChild(commentsNone);
           }
         });
       });
