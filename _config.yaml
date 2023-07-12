@@ -13,13 +13,14 @@ birthday: '1992-02-01 00:08:00 -0600'
 timezone: UTC
 repository: cassidyjames/cassidyjames.github.io
 
-# Site-wide social info
+# Site-wide social/contact info
 donate: https://cassidyjames.com/pay
 email: c@ssidyjam.es
 github_user: cassidyjames # user with no @
 gravatar: 41275ecc8271aca852ce2c0ff72d2610 # Gravatar md5 hash
 instagram: cassidy.james.blaede # user with no @
 mastodon: "https://mastodon.blaede.family/@cassidy" # whole URL since it's federated
+matrix: "@cassidyjames:gnome.org" # in the format @username:example.com
 medium: "@cassidyjames" # including @ if user, none if publication
 pixelfed: "https://pixelfed.social/cassidyjames" # whole URL since it's federated
 square: "$cassidyjames" # Cash.app user, including $
