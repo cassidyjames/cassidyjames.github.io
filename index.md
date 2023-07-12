@@ -29,6 +29,7 @@ Partner Success Engineer at the **Endless OS Foundation**. Previously, I co-foun
 I strive to **collaborate** with open source projects as much as possible, and share what I work on under **free and open licenses**.
 
 [<i class="fab fa-fw fa-github"></i>Browse code on GitHub](https://github.com/{{ site.github_user }}){: .read-more.github}
+[<i class="fab fa-fw fa-gitlab"></i>View profile on GNOME GitLab](https://gitlab.gnome.org/cassidyjames){: .read-more.gitlab }
 [<i class="fa fa-fw fa-info-circle"></i>View GNOME profile](https://wiki.gnome.org/CassidyBlaede){: .read-more.gnome }
 </section>
 
@@ -44,7 +45,7 @@ I give **talks** about UX and open source. I also sometimes appear on **podcasts
 <section class="writing" markdown="1">
 ## Writing & Social
 
-I **write things** on the internet about UX, tech, and what I'm up to. I usually share these things on **social media**.
+I **write things** on the Internet about UX, tech, and what I'm up to. I usually share these things on **social media**.
 
 <a href="/blog" class="read-more blog"><i class="fa fa-fw fa-rss"></i>Read posts on Blog</a>
 <a rel="me" href="{{ site.mastodon }}" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
@@ -55,18 +56,17 @@ I **write things** on the internet about UX, tech, and what I'm up to. I usually
 <section class="photography" markdown="1">
 ## Photography
 
-I take **photos** of my adventures (and my cat), mostly with my Pixel phone and Moment lenses.
+I take **photos** of my adventures (and my cat), mostly with my Pixel phone.
 
 <a href="https://unsplash.com/{{ site.unsplash }}" class="read-more unsplash"><i class="fas fa-fw fa-camera"></i>View photos on Unsplash</a>
 <a rel="me" href="{{ site.pixelfed }}" class="read-more pixelfed"><i class="fas fa-fw fa-camera-retro"></i>View photos on PixelFed</a>
 <a href="https://instagram.com/{{ site.instagram }}" class="read-more instagram"><i class="fab fa-fw fa-instagram"></i>View photos on Instagram</a>
-<a href="https://www.shopmoment.com/shop?tap_a=30146-d3ce98&tap_s=363496-01e37a&utm_medium=referral&utm_source=ambassador&utm_campaign=Moment%2BReferral%2BProgram&utm_content=cassidyblaede" class="read-more moment"><i class="fas fa-fw fa-credit-card"></i>Moment lenses (referral)</a>
 </section>
 
 <section class="gaming" markdown="1">
 ## Gaming
 
-I play **games** when I can find the time. Usually on PS5, but occasionally on Stadia, Switch, and—very rarely—Steam.
+I play **games** when I can find the time. Usually on PS5, but occasionally on Switch, and—very rarely—Steam.
 
 <a href="/destiny" class="read-more destiny"><i class="fa fa-fw manual"></i>Add on Destiny</a>
 <a href="http://psnprofiles.com/blaede22" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
