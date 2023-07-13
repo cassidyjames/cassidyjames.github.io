@@ -16,7 +16,9 @@ reddit: https://www.reddit.com/r/elementaryos/comments/cqzqnl/welcome_to_the_new
 twitter: https://twitter.com/elementary/status/1162183150916837380
 
 permalink: /blog/elementary/welcome-to-the-new-blog
-redirect_from: /blog/welcome-to-the-new-blog
+redirect_from: 
+  - /blog/welcome-to-the-new-blog
+  - /blog/welcome-to-the-new-blog/
 ---
 
 <figure class="full-bleed" markdown="1">
