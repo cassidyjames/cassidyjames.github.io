@@ -1,7 +1,8 @@
 figure {
-  margin: 2em auto;
+  margin: 2rem auto;
   font-size: 0; // Allow inline-block layout
   text-align: center;
+  position: relative;
 
   > p {
     margin: 0;
@@ -12,6 +13,11 @@ figure {
     display: inline-block;
     height: auto;
     vertical-align: middle;
+  }
+
+  code {
+    font-size: 0.8rem;
+    line-height: 1.5;
   }
 
   figcaption {
@@ -27,5 +33,13 @@ figure {
 
   &.third img {
     max-width: 33%;
+  }
+
+  &.full-bleed img {
+    left: 50%;
+    max-width: 100vw;
+    position: relative;
+    transform: translateX(-50%);
+    width: 100vw;
   }
 }

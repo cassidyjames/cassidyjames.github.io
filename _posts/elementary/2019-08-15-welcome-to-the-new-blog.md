@@ -2,7 +2,7 @@
 title: Welcome to the New Blog
 description: Why we left Medium, and how!
 author: cassidyjames
-image: https://blog.elementary.io/images/elementary-blog-code-1600.jpg
+image: /images/blog/elementary/elementary-blog-code-1600.jpg
 legacy: elementary
 updated: 2019-08-15
 tags:
@@ -14,10 +14,13 @@ facebook: https://www.facebook.com/elementaryos/posts/2643224962375983
 mastodon: https://mastodon.social/@elementary/102624202798672708
 reddit: https://www.reddit.com/r/elementaryos/comments/cqzqnl/welcome_to_the_new_blog_elementary_blog/
 twitter: https://twitter.com/elementary/status/1162183150916837380
+
+permalink: /blog/elementary/welcome-to-the-new-blog
+redirect_from: /blog/welcome-to-the-new-blog
 ---
 
 <figure class="full-bleed" markdown="1">
-![Code](https://blog.elementary.io/images/elementary-blog-code-2560.jpg)
+![Code](/images/blog/elementary/elementary-blog-code-2560.jpg)
 </figure>
 
 In 2016, elementary moved to [a Medium publication](https://medium.com/elementaryos) to host our official blog. At the time, Medium was touted as a simple, clean, and reader-focused host for writers. They supported custom domains, a robust API, RSS, rich formatting, and great image embedding. We had been largely happy with the experience—as were our readers—but something changed in 2017.
@@ -39,7 +42,7 @@ Screenshot of Medium’s reader-hostile UI from [Webdesigner Depot](https://www.
 
 Medium has also gotten aggressive toward authors and publications. With their new monetized platform in tow, they started [defaulting authors' stories to be behind their paywall](https://community.hackernoon.com/t/does-medium-need-to-put-all-new-stories-behind-a-paywall/683), with a tiny checkbox to opt out when publishing. Remember, this paywall actively reduces the potential readership of stories, as it restricts it to paying members. They also [revoked API support](https://write.as/blog/ending-our-medium-integration), preventing publishing to Medium from other platforms. They [removed custom domain support][custom-domains] that had attracted several big-name publications in the first place, meaning all posts from future publications must be hosted at the branded Medium.com—putting the Medium branding more in competition with publications' branding. They even served a heavy blow to their own partner publications by [abruptly canceling their membership programs](https://www.niemanlab.org/2018/05/medium-abruptly-cancels-the-membership-programs-of-its-21-remaining-publisher-partners/) with little notice.
 
-The authorship experience itself is also lacking in a number of ways: Medium [arbitrarily blocks](https://help.medium.com/hc/en-us/articles/216408258) lesser-known browsers like Epiphany from using the editing tools based on [user agent sniffing](https://css-tricks.com/browser-detection-is-bad/) instead of checking supported features; image handling has been [broken in Firefox](https://twitter.com/CassidyJames/status/1001932563290603520) for years without any response from the support team (to whom we also reached out privately); and formatting for posts seemingly randomly breaks based on global CSS changes on the site.
+The authorship experience itself is also lacking in a number of ways: Medium [arbitrarily blocks](https://help.medium.com/hc/en-us/articles/216408258) lesser-known browsers like Epiphany from using the editing tools based on [user agent sniffing](https://css-tricks.com/browser-detection-is-bad/) instead of checking supported features; image handling has been [broken in Firefox](https://twitter.cassidyjames.com/CassidyJames/status/1001932563290603520) for years without any response from the support team (to whom we also reached out privately); and formatting for posts seemingly randomly breaks based on global CSS changes on the site.
 
 For a completely independent and privacy-focused company like elementary, it didn't make sense to deal with this: we don’t need the social exposure across Medium (most people are coming from social media anyway), and we don’t care for our blog platform to track our readers while they catch up on official information. We would also prefer to use our own tools when publishing, and not be forced to install another browser just to write an update for our audience.
 
@@ -173,14 +176,14 @@ h6 {
 One choice we made in the design was around the typefaces used: we decided to not include any fonts in the site itself, but to use a simple open font stack with native fallbacks. Platforms include high-quality typefaces these days, so using extra bandwidth to load in our own branded versions for a little bit of brand consistency just doesn't seem worth it. If you _are_ on elementary OS or have our default fonts installed, it'll feel right at home—but otherwise, we use the OS's default serif and sans-serif fonts.
 
 <figure class="half" markdown="1">
-![Initial homepage](https://blog.elementary.io/images/welcome-to-the-new-blog/homepage-initial.png)
-![New homepage](https://blog.elementary.io/images/welcome-to-the-new-blog/homepage-new.png)
+![Initial homepage](/images/blog/elementary/welcome-to-the-new-blog/homepage-initial.png)
+![New homepage](/images/blog/elementary/welcome-to-the-new-blog/homepage-new.png)
 <figcaption markdown="1">
 **Left:** Initial Medium-like homepage | **Right:** Newer, more elementary-style homepage
 </figcaption>
 </figure>
 
-For the [homepage]({{ site.baseurl }}), we started with a simple list of articles. To make it more visually interesting, we added a Medium-like grid of featured articles. Over time, we've tweaked this styling to feel more elementary-styled with subtle borders and shadows to make the images stand out. Similarly, with the author byline we're using the same avatar style we use in elementary OS. For code blocks, we're using the same excellent [Solarized](https://ethanschoonover.com/solarized/) color scheme as used in our Code app.
+For the homepage, we started with a simple list of articles. To make it more visually interesting, we added a Medium-like grid of featured articles. Over time, we've tweaked this styling to feel more elementary-styled with subtle borders and shadows to make the images stand out. Similarly, with the author byline we're using the same avatar style we use in elementary OS. For code blocks, we're using the same excellent [Solarized](https://ethanschoonover.com/solarized/) color scheme as used in our Code app.
 
 Over all, the design has been and will continue to be iterative. We may add or tweak styling as we want to do new things. But we hope it's a legible and familiar design both for former readers of our Medium publication and users of elementary OS itself.
 
@@ -222,7 +225,7 @@ We're also experimenting with and learning a lot about the process of designing 
 
 ### No AMP
 
-Right after we first deployed the new blog, Google [alerted us](https://twitter.com/CassidyJames/status/1159239542496350210) (since it's on a verified domain) that our new site didn't support their [AMP](https://developers.google.com/amp/) framework, and consequently could be deprioritized in search rankings. When testing if our site could be converted to support AMP we found that we'd need to add non-standard tags and scripts to our site, couldn't use the tiny amount of progressively-enhancing JS we prefer, and would need to create duplicate AMP-version URLs of all of our pages. This is despite our site ranking 100/100 on Google's own PageSpeed tool, for both mobile and desktop.
+Right after we first deployed the new blog, Google [alerted us](https://twitter.cassidyjames.com/CassidyJames/status/1159239542496350210) (since it's on a verified domain) that our new site didn't support their [AMP](https://developers.google.com/amp/) framework, and consequently could be deprioritized in search rankings. When testing if our site could be converted to support AMP we found that we'd need to add non-standard tags and scripts to our site, couldn't use the tiny amount of progressively-enhancing JS we prefer, and would need to create duplicate AMP-version URLs of all of our pages. This is despite our site ranking 100/100 on Google's own PageSpeed tool, for both mobile and desktop.
 
 <figure class="half" markdown="1">
 ![Mobile PageSpeed](https://i.snap.as/MUedLSp.png)
