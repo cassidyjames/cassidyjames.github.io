@@ -15,11 +15,9 @@ mastodon: https://mastodon.social/@elementary/102624202798672708
 reddit: https://www.reddit.com/r/elementaryos/comments/cqzqnl/welcome_to_the_new_blog_elementary_blog/
 twitter: https://twitter.com/elementary/status/1162183150916837380
 
-permalink: /blog/elementary/welcome-to-the-new-blog
+permalink: /blog/elementary/welcome-to-the-new-blog/
 redirect_from: 
-  - /blog/welcome-to-the-new-blog
   - /blog/welcome-to-the-new-blog/
-  - /blog/elementary/welcome-to-the-new-blog/
 ---
 
 <figure class="full-bleed" markdown="1">
