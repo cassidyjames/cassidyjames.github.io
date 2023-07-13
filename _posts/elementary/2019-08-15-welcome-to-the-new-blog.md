@@ -19,6 +19,7 @@ permalink: /blog/elementary/welcome-to-the-new-blog
 redirect_from: 
   - /blog/welcome-to-the-new-blog
   - /blog/welcome-to-the-new-blog/
+  - /blog/elementary/welcome-to-the-new-blog/
 ---
 
 <figure class="full-bleed" markdown="1">
