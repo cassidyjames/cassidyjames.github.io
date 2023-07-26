@@ -39,7 +39,7 @@ Danielle and I **worked with GTK developers** Matthias Clasen and Cosimo Cecchi 
 
 ## Builder
 
-![Christian demoing GNOME Builder](https://66.media.tumblr.com/7e1a10b552dcf72814eb4ed137976f0b/tumblr_inline_nqtvhnuP9W1r2vnpt_1280.jpg)
+![Christian demoing GNOME Builder](/images/blog/elementary/gnome-west-coast/builder.jpg)
 
 We spent a lot of time with **Christian Hergert, the developer behind GNOME Builder**. He demonstrated Builder and its awesome progress. It’s already an extremely impressive IDE for GTK development and we are very interested in making it available for elementary OS. We also discussed the current state of build systems, including cmake (which we use for elementary OS) and automake. Our takeaway: the current state is somewhat of a mess, but each have their benefits. Builder will support automake out of the box and Christian isn’t opposed to accepting cmake support if someone proposes the code.
 
