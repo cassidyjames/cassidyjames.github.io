@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="command-search.svg"
+   inkscape:export-filename="insets.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="5.3724535"
+     inkscape:cx="1094.5651"
+     inkscape:cy="457.42602"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630-5-6-8-6-3-2-3-7">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632-6-4-6-0-6-9-6-0"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect35678"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,1,1,0,0.99999,0,1 @ F,0,1,1,0,0.99999,0,1 @ F,0,0,1,0,0.99999,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       id="c">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70158" />
+    </clipPath>
+    <mask
+       id="b">
+      <g
+         filter="url(#a)"
+         id="g70155">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.3"
+           id="path70153" />
+      </g>
+    </mask>
+    <filter
+       id="a"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix70150" />
+    </filter>
+    <clipPath
+       id="e">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70166" />
+    </clipPath>
+    <mask
+       id="d">
+      <g
+         filter="url(#a)"
+         id="g70163">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70161" />
+      </g>
+    </mask>
+    <clipPath
+       id="g">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70174" />
+    </clipPath>
+    <mask
+       id="f">
+      <g
+         filter="url(#a)"
+         id="g70171">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70169" />
+      </g>
+    </mask>
+    <clipPath
+       id="i">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70182" />
+    </clipPath>
+    <mask
+       id="h">
+      <g
+         filter="url(#a)"
+         id="g70179">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70177" />
+      </g>
+    </mask>
+    <clipPath
+       id="k">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70190" />
+    </clipPath>
+    <mask
+       id="j">
+      <g
+         filter="url(#a)"
+         id="g70187">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70185" />
+      </g>
+    </mask>
+    <clipPath
+       id="m">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70198" />
+    </clipPath>
+    <mask
+       id="l">
+      <g
+         filter="url(#a)"
+         id="g70195">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70193" />
+      </g>
+    </mask>
+    <clipPath
+       id="o">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70206" />
+    </clipPath>
+    <mask
+       id="n">
+      <g
+         filter="url(#a)"
+         id="g70203">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70201" />
+      </g>
+    </mask>
+    <clipPath
+       id="q">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70214" />
+    </clipPath>
+    <mask
+       id="p">
+      <g
+         filter="url(#a)"
+         id="g70211">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.3"
+           id="path70209" />
+      </g>
+    </mask>
+    <clipPath
+       id="s">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70222" />
+    </clipPath>
+    <mask
+       id="r">
+      <g
+         filter="url(#a)"
+         id="g70219">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.5"
+           id="path70217" />
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath178620">
+      <path
+         id="path178622"
+         style="display:inline;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 6372.5004,-3042.6377 h 625.9999 a 12,12 45 0 1 12,12 v 565 h -649.9999 v -565 a 12,12 135 0 1 12,-12 z"
+         sodipodi:nodetypes="ccccc"
+         inkscape:original-d="m 6360.5004,-3042.6377 h 649.9999 v 577 h -649.9999 z"
+         inkscape:path-effect="#path-effect153241" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect153241"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false"
+       nodesatellites_param="F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Card Shadow"
+       id="filter367466-6-8-1"
+       x="-0.018079111"
+       y="-0.090565764"
+       width="1.0361582"
+       height="1.1999994">
+      <feFlood
+         flood-opacity="0.0784314"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood367456-7-9-2" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite367458-5-2-7" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur367460-3-6-0" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offset"
+         id="feOffset367462-5-6-9" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite367464-6-4-3" />
+    </filter>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect35678-0"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,1,1,0,0.99999,0,1 @ F,0,1,1,0,0.99999,0,1 @ F,0,0,1,0,0.99999,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630-5-6-8-6-3-2-3-7-12">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632-6-4-6-0-6-9-6-0-8"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630-5-6-8-6-3-2-3-7-0">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632-6-4-6-0-6-9-6-0-88"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect35678-5"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,1,1,0,0.99999,0,1 @ F,0,1,1,0,0.99999,0,1 @ F,0,0,1,0,0.99999,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       id="c-0">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70158-9" />
+    </clipPath>
+    <mask
+       id="b-6">
+      <g
+         filter="url(#a)"
+         id="g70155-3"
+         style="filter:url(#a-5)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.3"
+           id="path70153-8" />
+      </g>
+    </mask>
+    <filter
+       id="a-5"
+       height="1"
+       width="1"
+       x="0"
+       y="0">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix70150-6" />
+    </filter>
+    <clipPath
+       id="e-1">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70166-1" />
+    </clipPath>
+    <mask
+       id="d-5">
+      <g
+         filter="url(#a)"
+         id="g70163-9"
+         style="filter:url(#a-5)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70161-8" />
+      </g>
+    </mask>
+    <clipPath
+       id="g-1">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70174-0" />
+    </clipPath>
+    <mask
+       id="f-3">
+      <g
+         filter="url(#a)"
+         id="g70171-0"
+         style="filter:url(#a-5)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70169-4" />
+      </g>
+    </mask>
+    <clipPath
+       id="i-4">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70182-7" />
+    </clipPath>
+    <mask
+       id="h-6">
+      <g
+         filter="url(#a)"
+         id="g70179-3"
+         style="filter:url(#a-5)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70177-1" />
+      </g>
+    </mask>
+    <clipPath
+       id="k-9">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70190-6" />
+    </clipPath>
+    <mask
+       id="j-2">
+      <g
+         filter="url(#a)"
+         id="g70187-1"
+         style="filter:url(#a-5)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70185-7" />
+      </g>
+    </mask>
+    <clipPath
+       id="m-7">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70198-4" />
+    </clipPath>
+    <mask
+       id="l-1">
+      <g
+         filter="url(#a)"
+         id="g70195-8"
+         style="filter:url(#a-5)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70193-5" />
+      </g>
+    </mask>
+    <clipPath
+       id="o-5">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70206-3" />
+    </clipPath>
+    <mask
+       id="n-8">
+      <g
+         filter="url(#a)"
+         id="g70203-8"
+         style="filter:url(#a-5)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.05"
+           id="path70201-3" />
+      </g>
+    </mask>
+    <clipPath
+       id="q-9">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70214-6" />
+    </clipPath>
+    <mask
+       id="p-4">
+      <g
+         filter="url(#a)"
+         id="g70211-3"
+         style="filter:url(#a-5)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.3"
+           id="path70209-3" />
+      </g>
+    </mask>
+    <clipPath
+       id="s-6">
+      <path
+         d="M 0,0 H 1600 V 1200 H 0 Z"
+         id="path70222-0" />
+    </clipPath>
+    <mask
+       id="r-4">
+      <g
+         filter="url(#a)"
+         id="g70219-8"
+         style="filter:url(#a-5)">
+        <path
+           d="M 0,0 H 16 V 16 H 0 Z"
+           fill-opacity="0.5"
+           id="path70217-8" />
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath178620-7">
+      <path
+         id="path178622-7"
+         style="display:inline;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 6372.5004,-3042.6377 h 625.9999 a 12,12 45 0 1 12,12 v 565 h -649.9999 v -565 a 12,12 135 0 1 12,-12 z"
+         sodipodi:nodetypes="ccccc"
+         inkscape:original-d="m 6360.5004,-3042.6377 h 649.9999 v 577 h -649.9999 z"
+         inkscape:path-effect="#path-effect153241-6" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect153241-6"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false"
+       nodesatellites_param="F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Card Shadow"
+       id="filter367466-6-8-1-4"
+       x="-0.018079111"
+       y="-0.090565764"
+       width="1.0361582"
+       height="1.1999994">
+      <feFlood
+         flood-opacity="0.0784314"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood367456-7-9-2-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite367458-5-2-7-0" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur367460-3-6-0-3" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offset"
+         id="feOffset367462-5-6-9-0" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite367464-6-4-3-9" />
+    </filter>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect35678-0-1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,1,1,0,0.99999,0,1 @ F,0,1,1,0,0.99999,0,1 @ F,0,0,1,0,0.99999,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3630-5-6-8-6-3-2-3-7-12-0">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#fcf697;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="circle3632-6-4-6-0-6-9-6-0-8-5"
+         cx="425.83905"
+         cy="270.72232"
+         r="22.445496" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Card Shadow"
+       id="filter367466-6-8-1-2"
+       x="-0.017454545"
+       y="-0.041921397"
+       width="1.0349091"
+       height="1.0925764">
+      <feFlood
+         flood-opacity="0.0784314"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood367456-7-9-2-1" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite367458-5-2-7-7" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur367460-3-6-0-7" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offset"
+         id="feOffset367462-5-6-9-9" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite367464-6-4-3-7" />
+    </filter>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,12,0,1 @ F,0,0,1,0,12,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath70">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/aday/Dropbox/Public/software/cognitive-dissonance.png"
+         mask="none"
+         style="display:inline;opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.05424;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect71"
+         width="586.99994"
+         height="488"
+         x="1145"
+         y="-495.48038"
+         rx="12"
+         ry="12" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Card Shadow"
+       id="filter2"
+       x="-0.017454544"
+       y="-0.16842058"
+       width="1.0349091"
+       height="1.3719288">
+      <feFlood
+         flood-opacity="0.0784314"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur1" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offset"
+         id="feOffset1" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter23"
+       x="-0.065551577"
+       y="-0.057516876"
+       width="1.1311032"
+       height="0.85195491">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.262745"
+         flood-color="rgb(0,0,0)"
+         id="feFlood22" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="16.032822"
+         id="feGaussianBlur22" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.000000"
+         dy="5.000000"
+         id="feOffset22" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite22" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite23" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       transform="matrix(1.3000001,0,0,1.3000001,-2622.1502,-609.50012)"
+       style="filter:url(#filter23)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/aday/Dropbox/Public/software/cognitive-dissonance.png"
+         mask="none"
+         style="display:inline;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.05424;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1"
+         width="586.99994"
+         height="488"
+         x="2462"
+         y="771"
+         rx="12"
+         ry="12" />
+      <rect
+         y="798"
+         x="2583.48"
+         height="32"
+         width="343.01785"
+         id="rect2239"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e4e4;fill-opacity:1;fill-rule:nonzero;stroke:#3584e4;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         rx="8"
+         ry="8" />
+      <g
+         id="g2266"
+         transform="matrix(3.7795275,0,0,3.7795275,-17191.528,-403.45521)">
+        <rect
+           y="320.01862"
+           x="5234.3843"
+           height="4.2333336"
+           width="4.2333336"
+           id="rect2241"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.264583;marker:none;enable-background:accumulate" />
+        <g
+           style="display:inline;fill:#2e3436;fill-opacity:1"
+           transform="matrix(0.26458334,0,0,0.26458334,5234.3822,320.01014)"
+           id="g2264">
+          <g
+             inkscape:label="status"
+             transform="translate(-140.0002,-645.96875)"
+             id="g2243"
+             style="display:inline;fill:#2e3436;fill-opacity:1" />
+          <g
+             style="fill:#2e3436;fill-opacity:1"
+             inkscape:label="devices"
+             transform="translate(-140.0002,-645.96875)"
+             id="g2245" />
+          <g
+             style="fill:#2e3436;fill-opacity:1"
+             inkscape:label="apps"
+             transform="translate(-140.0002,-645.96875)"
+             id="g2248" />
+          <g
+             style="fill:#2e3436;fill-opacity:1"
+             inkscape:label="actions"
+             transform="translate(-140.0002,-645.96875)"
+             id="g2254">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 146.50761,646.99554 c -3.02886,0 -5.51073,2.47905 -5.51073,5.50447 0,3.02541 2.48187,5.50446 5.51073,5.50446 3.02885,0 5.51072,-2.47905 5.51072,-5.50446 0,-3.02542 -2.48187,-5.50447 -5.51072,-5.50447 z m 0,2.00893 c 1.94735,0 3.49951,1.55039 3.49951,3.49554 0,1.94514 -1.55216,3.49553 -3.49951,3.49553 -1.94736,0 -3.49952,-1.55039 -3.49952,-3.49553 0,-1.94515 1.55216,-3.49554 3.49952,-3.49554 z"
+               id="path2250"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1.55467;marker:none;enable-background:new" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 149.8125,655 a 1.0001,1.0001 0 0 0 -0.5,1.71875 l 4,4 a 1.0054782,1.0054782 0 1 0 1.40625,-1.4375 l -4,-4 A 1.0001,1.0001 0 0 0 149.8125,655 Z"
+               id="path2252"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:new" />
+          </g>
+          <g
+             style="fill:#2e3436;fill-opacity:1"
+             inkscape:label="places"
+             transform="translate(-140.0002,-645.96875)"
+             id="g2256" />
+          <g
+             style="fill:#2e3436;fill-opacity:1"
+             inkscape:label="mimetypes"
+             transform="translate(-140.0002,-645.96875)"
+             id="g2258" />
+          <g
+             inkscape:label="emblems"
+             transform="translate(-140.0002,-645.96875)"
+             id="g2260"
+             style="display:inline;fill:#2e3436;fill-opacity:1" />
+          <g
+             inkscape:label="categories"
+             transform="translate(-140.0002,-645.96875)"
+             id="g2262"
+             style="display:inline;fill:#2e3436;fill-opacity:1" />
+        </g>
+      </g>
+      <text
+         id="text2270"
+         y="819.06415"
+         x="2616.9854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#a7a7a7;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           y="819.06415"
+           x="2616.9854"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#a7a7a7;fill-opacity:1;stroke-width:1"
+           id="tspan2268">What do you want to do?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         x="2480.0178"
+         y="917.99957"
+         id="text2276"><tspan
+           id="tspan2274"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           sodipodi:role="line"
+           x="2480.0178"
+           y="917.99957">Recently Used</tspan></text>
+      <g
+         id="g4"
+         transform="translate(1317,986.48039)">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:1.99999;filter:url(#filter367466-6-8-1-2)"
+           id="rect153028-7"
+           width="550"
+           height="229"
+           x="1163"
+           y="-55.480713"
+           rx="8.999999"
+           ry="8.999999" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#9a9996;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.160784"
+           d="m 1163.4991,2.01967 h 549.0018"
+           id="path2" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#9a9996;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.160784"
+           d="m 1163.4991,59.01967 h 549.0018"
+           id="path3" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#9a9996;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.160784"
+           d="m 1163.4991,116.01967 h 549.0018"
+           id="path4" />
+        <path
+           style="opacity:0.5;fill:none;stroke:#3584e4;stroke-width:1.99999"
+           id="rect4"
+           width="550"
+           height="58.00032"
+           x="1163"
+           y="-55.480713"
+           inkscape:path-effect="#path-effect4"
+           sodipodi:type="rect"
+           d="m 1175,-55.480713 h 526 a 12,12 45 0 1 12,12 V 2.5196075 H 1163 V -43.480713 a 12,12 135 0 1 12,-12 z" />
+      </g>
+      <text
+         id="text2282"
+         y="1197.9996"
+         x="2480.0178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           y="1197.9996"
+           x="2480.0178"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           id="tspan2280">Available Commands</tspan></text>
+      <g
+         id="g69"
+         transform="translate(1317,1266.4804)"
+         clip-path="url(#clipPath70)">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:1.99999;filter:url(#filter367466-6-8-1-2)"
+           id="rect66"
+           width="550"
+           height="229"
+           x="1163"
+           y="-55.480713"
+           rx="8.999999"
+           ry="8.999999" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#9a9996;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.160784"
+           d="m 1163.4991,2.01967 h 549.0018"
+           id="path66" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#9a9996;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.160784"
+           d="m 1163.4991,59.01967 h 549.0018"
+           id="path67" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#9a9996;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.160784"
+           d="m 1163.4991,116.01967 h 549.0018"
+           id="path68" />
+      </g>
+      <text
+         id="text2296"
+         y="1234.9995"
+         x="2535.0342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           y="1234.9995"
+           x="2535.0342"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           id="tspan2294">Add Layer</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         x="2535.0342"
+         y="1253.9995"
+         id="text2300"><tspan
+           id="tspan2298"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           sodipodi:role="line"
+           x="2535.0342"
+           y="1253.9995">Save a copy of the file under a new name</tspan></text>
+      <text
+         id="text2332"
+         y="1245.2942"
+         x="3005.5977"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           y="1245.2942"
+           x="3005.5977"
+           id="tspan2330"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#9a9996">Shift + Ctrl + N</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:1"
+         x="2535.0342"
+         y="1068.9996"
+         id="text2364"><tspan
+           id="tspan2362"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#9a9996;fill-opacity:1;stroke-width:1"
+           sodipodi:role="line"
+           x="2535.0342"
+           y="1068.9996">Rotate 90° counterclockwise</tspan></text>
+      <text
+         id="text2368"
+         y="1087.9996"
+         x="2535.0342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           y="1087.9996"
+           x="2535.0342"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#9a9996;fill-opacity:1;stroke-width:1"
+           id="tspan2366">Use upper object as a clipping mask  for lower object</tspan></text>
+      <text
+         id="text2372"
+         y="1125.9996"
+         x="2535.0342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           y="1125.9996"
+           x="2535.0342"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#9a9996;fill-opacity:1;stroke-width:1"
+           id="tspan2370">Duplicate</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;stroke-width:1"
+         x="2535.0342"
+         y="1144.9996"
+         id="text2376"><tspan
+           id="tspan2374"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#9a9996;fill-opacity:1;stroke-width:1"
+           sodipodi:role="line"
+           x="2535.0342"
+           y="1144.9996">Duplicate the currently selected object in place</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;enable-background:new"
+         x="3005.5977"
+         y="1136.4189"
+         id="text2380"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#9a9996"
+           sodipodi:role="line"
+           id="tspan2378"
+           x="3005.5977"
+           y="1136.4189">Ctrl + D</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         x="2535.0342"
+         y="973.99957"
+         id="text2398"><tspan
+           id="tspan2396"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           sodipodi:role="line"
+           x="2535.0342"
+           y="973.99957">Revert the last operation</tspan></text>
+      <text
+         id="text2402"
+         y="954.99957"
+         x="2535.0342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           y="954.99957"
+           x="2535.0342"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           id="tspan2400">Undo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;enable-background:new"
+         x="3005.5977"
+         y="965.41901"
+         id="text2406"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#9a9996"
+           sodipodi:role="line"
+           id="tspan2404"
+           x="3005.5977"
+           y="965.41901">Ctrl + Z</tspan></text>
+      <text
+         id="text2410"
+         y="1031"
+         x="2535.0342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           y="1031"
+           x="2535.0342"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           id="tspan2408">Save a copy of the file under a new name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         x="2535.0342"
+         y="1012.0001"
+         id="text2424"><tspan
+           id="tspan2422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           sodipodi:role="line"
+           x="2535.0342"
+           y="1012.0001">Save As...</tspan></text>
+      <text
+         id="text2428"
+         y="1022.4194"
+         x="3005.5977"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#9a9996;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           y="1022.4194"
+           x="3005.5977"
+           id="tspan2426"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#9a9996">Shift + Ctrl + S</tspan></text>
+      <rect
+         style="fill:#7c7070;fill-opacity:0.160784;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.160784"
+         id="rect2432"
+         width="77"
+         height="27"
+         x="2480.5"
+         y="852.50012"
+         rx="13.999999"
+         ry="14" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         x="2518.4746"
+         y="870.99957"
+         id="text2436"><tspan
+           id="tspan2434"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           sodipodi:role="line"
+           x="2518.4746"
+           y="870.99957">General</tspan></text>
+      <rect
+         ry="14"
+         rx="14"
+         y="852.50012"
+         x="2566.5"
+         height="27"
+         width="83"
+         id="rect2438"
+         style="fill:#7c7070;fill-opacity:0.160784;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.160784" />
+      <text
+         id="text2442"
+         y="870.99957"
+         x="2608.1343"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           y="870.99957"
+           x="2608.1343"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           id="tspan2440">Opening</tspan></text>
+      <rect
+         style="fill:#7c7070;fill-opacity:0.160784;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.160784"
+         id="rect2444"
+         width="55"
+         height="27"
+         x="2658.5"
+         y="852.50012"
+         rx="14"
+         ry="14" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         x="2686.1343"
+         y="870.99957"
+         id="text2448"><tspan
+           id="tspan2446"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           sodipodi:role="line"
+           x="2686.1343"
+           y="870.99957">Tabs</tspan></text>
+      <rect
+         ry="14"
+         rx="14"
+         y="852.50012"
+         x="2722.5"
+         height="27"
+         width="97"
+         id="rect2450"
+         style="fill:#7c7070;fill-opacity:0.160784;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.160784" />
+      <text
+         id="text2454"
+         y="870.99957"
+         x="2770.1343"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           y="870.99957"
+           x="2770.1343"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           id="tspan2452">Navigation</tspan></text>
+      <rect
+         style="fill:#7c7070;fill-opacity:0.160784;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.160784"
+         id="rect2456"
+         width="56.999996"
+         height="27"
+         x="2830.5"
+         y="852.50012"
+         rx="14"
+         ry="14" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         x="2858.9128"
+         y="870.99957"
+         id="text2460"><tspan
+           id="tspan2458"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           sodipodi:role="line"
+           x="2858.9128"
+           y="870.99957">View</tspan></text>
+      <rect
+         ry="14"
+         rx="14.000001"
+         y="852.50012"
+         x="2896.5"
+         height="27"
+         width="69"
+         id="rect2462"
+         style="fill:#7c7070;fill-opacity:0.160784;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.160784" />
+      <text
+         id="text2466"
+         y="870.99957"
+         x="2930.8481"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           y="870.99957"
+           x="2930.8481"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke-width:1"
+           id="tspan2464">Editing</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 2612.5,803.99918 v 20"
+         id="path2706"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 2504,953.99984 c -0.2656,0 -0.5195,0.10547 -0.707,0.29297 l -4,4 c -0.3907,0.39062 -0.3907,1.02344 0,1.41406 l 4,4 c 0.3906,0.39063 1.0234,0.39063 1.414,0 0.3907,-0.39062 0.3907,-1.02344 0,-1.41406 l -2.2929,-2.29297 H 2511 c 1.1172,0 2,0.88281 2,2 0,1.11719 -0.8828,2 -2,2 -0.5508,0 -1,0.44922 -1,1 0,0.55078 0.4492,1 1,1 2.1992,0 4,-1.80078 4,-4 0,-2.19922 -1.8008,-4 -4,-4 h -8.5859 l 2.2929,-2.29297 c 0.3907,-0.39062 0.3907,-1.02344 0,-1.41406 -0.1875,-0.1875 -0.4414,-0.29297 -0.707,-0.29297 z m 0,0"
+         fill="#2e3436"
+         id="path1" />
+      <path
+         d="m 2507,1008 c -0.5508,0 -1,0.4492 -1,1 v 8.5859 l -1.293,-1.2929 c -0.1875,-0.1875 -0.4414,-0.293 -0.707,-0.293 -0.2656,0 -0.5195,0.1055 -0.707,0.293 -0.3907,0.3906 -0.3907,1.0234 0,1.414 l 3,3 c 0.3906,0.3907 1.0234,0.3907 1.414,0 l 3,-3 c 0.3907,-0.3906 0.3907,-1.0234 0,-1.414 -0.3906,-0.3907 -1.0234,-0.3907 -1.414,0 l -1.293,1.2929 V 1009 c 0,-0.5508 -0.4492,-1 -1,-1 z m -7,14 v 2 h 14 v -2 z m 0,0"
+         fill="#2e3436"
+         id="path1-3" />
+      <path
+         d="m 2507.9156,1067 c -0.5743,0.01 -1.1524,0.086 -1.7266,0.2383 -3.0547,0.8203 -5.1875,3.5976 -5.1875,6.7617 h -2 v 1 h 0.01 c 0,0.2656 0.1016,0.5195 0.2852,0.707 l 2,2 c 0.3906,0.3907 1.0234,0.3907 1.414,0 l 2,-2 c 0.1836,-0.1875 0.2891,-0.4414 0.2891,-0.707 v 0 -1 h -2 c 0,-2.2695 1.5156,-4.2422 3.707,-4.832 2.1875,-0.586 4.4883,0.3672 5.625,2.332 1.1328,1.9648 0.8086,4.4297 -0.7968,6.0352 -0.3907,0.3906 -0.3907,1.0234 0,1.414 0.3906,0.3906 1.0234,0.3906 1.414,0 2.2383,-2.2383 2.6953,-5.7109 1.1133,-8.4492 -1.1875,-2.0547 -3.3047,-3.3242 -5.5781,-3.4805 -0.1914,-0.016 -0.3789,-0.023 -0.5703,-0.02 z m 0,0"
+         fill="#2e3436"
+         id="path1-6" />
+      <path
+         d="m 2499,1126 c 0,-1.6445 1.3555,-3 3,-3 h 5 c 1.6445,0 3,1.3555 3,3 0,0.5508 -0.4492,1 -1,1 -0.5508,0 -1,-0.4492 -1,-1 0,-0.5703 -0.4297,-1 -1,-1 h -5 c -0.5703,0 -1,0.4297 -1,1 v 5 c 0,0.5703 0.4297,1 1,1 0.5508,0 1,0.4492 1,1 0,0.5508 -0.4492,1 -1,1 -1.6445,0 -3,-1.3555 -3,-3 z m 5,5 c 0,-1.6445 1.3555,-3 3,-3 h 5 c 1.6445,0 3,1.3555 3,3 v 5 c 0,1.6445 -1.3555,3 -3,3 h -5 c -1.6445,0 -3,-1.3555 -3,-3 z m 2,0 v 5 c 0,0.5703 0.4297,1 1,1 h 5 c 0.5703,0 1,-0.4297 1,-1 v -5 c 0,-0.5703 -0.4297,-1 -1,-1 h -5 c -0.5703,0 -1,0.4297 -1,1 z m 0,0"
+         fill="#2e3436"
+         id="path1-7" />
+      <g
+         fill="#2e3436"
+         id="g3"
+         transform="translate(2499,1230.0001)">
+        <path
+           d="M 3,0 C 1.355469,0 0,1.355469 0,3 v 10 c 0,1.644531 1.355469,3 3,3 h 10 c 1.644531,0 3,-1.355469 3,-3 V 3 C 16,1.355469 14.644531,0 13,0 Z m 0,2 h 10 c 0.570312,0 1,0.429688 1,1 v 10 c 0,0.570312 -0.429688,1 -1,1 H 3 C 2.429688,14 2,13.570312 2,13 V 3 C 2,2.429688 2.429688,2 3,2 Z m 0,0"
+           id="path1-5" />
+        <path
+           d="m 4,7 h 8 V 9 H 4 Z m 0,0"
+           id="path2-3" />
+        <path
+           d="m 9,4 v 8 H 7 V 4 Z m 0,0"
+           id="path3-5" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="" />
+    </rdf:RDF>
+  </metadata>
+</svg>
