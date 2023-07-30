@@ -3,6 +3,7 @@
 Revised version of a talk I presented at Ubuntu Summit 2022, with updated GNOME- and Flathub-specific information.
 
 - [Slides (1.8 MB PDF)](How to Make a Delightful App Listing - Cassidy James Blaede - GUADEC 2023.pdf)
+- [YouTube stream (timestamp: 0:11:59)](https://www.youtube.com/watch?v=jIDk0frev7M&t=719s)
 
 ## Speaker Notes
 
