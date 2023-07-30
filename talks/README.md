@@ -5,7 +5,7 @@ Notes, slides, etc. from talks I have given or plan to give.
 ## GUADEC 2023
 
 - GNOME Design: State of the Union
-- [How to Make a Delightful App Listing (1.8 MB PDF)](guadec-2023/how-to-make-a-delightful-app-listing/How to Make a Delightful App Listing - Cassidy James Blaede - GUADEC 2023.pdf)
+- [How to Make a Delightful App Listing](guadec-2023/how-to-make-a-delightful-app-listing)
 - [What is the GNOME Advisory Board?](guadec-2023/what-is-the-gnome-advisory-board)
 
 ## Previous
