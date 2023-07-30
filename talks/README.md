@@ -1,4 +1,4 @@
-# talks
+# Talks
 
 Notes, slides, etc. from talks I have given or plan to give.
 
@@ -6,7 +6,7 @@ Notes, slides, etc. from talks I have given or plan to give.
 
 - GNOME Design: State of the Union
 - How to make a Delightful App Listing
-- [What is the GNOME Advisory Board?](guadec-2023/what-is-the-gnome-advisory-board/Cassidy James Blaede - What is the GNOME Advisory Board.pdf)
+- [What is the GNOME Advisory Board?](guadec-2023/what-is-the-gnome-advisory-board)
 
 ## Previous
 
@@ -15,3 +15,11 @@ Notes, slides, etc. from talks I have given or plan to give.
 - [The Need for a FreeDesktop Dark Style Preference](fdo-dark-style) _GUADEC 2019_
 - [Curb Cuts: Accessibility Features Are Just Features](curb-cuts) _LAS 2019_
 - [How to Make a Delightful App Store Listing](https://www.youtube.com/watch?v=r8dX46J7W8g) _Ubuntu Summit 2022_
+
+## Future?
+
+Ideas for future talks or lightning talks.
+
+- **"Don't read the comments" bingo**: prepare (virtual) bingo cards ahead of time, quick-fire show bad comments from various places like Reddit and blog comments, see who can get a bingo first! Include phrases like "cabal," "hates users," "remove features," etc. (Somewhat joking, but could be part of a longer presentation about managing Internet discourse, maybe?)
+
+- 
