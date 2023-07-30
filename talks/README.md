@@ -4,7 +4,7 @@ Notes, slides, etc. from talks I have given or plan to give.
 
 ## GUADEC 2023
 
-- GNOME Design: State of the Union
+- [GNOME Design: State of the Union](guadec-2023/gnome-design-state-of-the-union)
 - [How to Make a Delightful App Listing](guadec-2023/how-to-make-a-delightful-app-listing)
 - [What is the GNOME Advisory Board?](guadec-2023/what-is-the-gnome-advisory-board)
 
