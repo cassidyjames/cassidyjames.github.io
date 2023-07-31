@@ -5,6 +5,9 @@ updated: 2023-07-31
 image: /images/blog/stars-thumbs-app-ratings-reviews-odrs/card.png
 
 redirect_from: /stars-and-thumbs
+
+comments:
+  id: 110808154065929432
 ---
 
 I'm on my way back from GUADEC in Rīga, Latvia and one recurring discussion (of many) was centered around how ratings and reviews are presented in GNOME software and other app stores.
