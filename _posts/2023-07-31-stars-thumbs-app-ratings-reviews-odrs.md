@@ -1,12 +1,15 @@
 ---
 title: Stars & Thumbs
-description: My thoughts on app ratings and reviews
+description: Thoughts on app ratings and reviews
 updated: 2023-07-31
+image: /images/blog/stars-thumbs-app-ratings-reviews-odrs/card.png
+
+redirect_from: /stars-and-thumbs
 ---
 
 I've been building open app ecosystems for over a decade now, and something that frequently comes up is how to best handle ratings (quantitative feedback) and reviews (qualitative feedback) of apps. User feedback can serve useful purposes: a powerful signal for ranking, a way to provide feedback to a developer, a way to demonstrate "social proof" (like testimonials or positive social media posts on a website), and a heads-up to other users for positive or negative experiences. But the widely-used five-star and review system has its problems.
 
-## What's wrong with five-star ratings
+## What's wrong with five-star ratings?
 
 The meaning of the five-star rating system changes depending on culture, and even at its best, is a skewed system. If you've ever ridden in a ride-share like Lyft, Uber, or Bolt, you're expected to give a five-star review unless something went wrong—and at least as of 2017, [drivers with an average rating of less than 4.6 stars can lose their job](https://www.buzzfeednews.com/article/carolineodonovan/the-fault-in-five-stars). This is a circular problem: as more people are pressured to give drivers in general five stars, the average rating raises, which in turn raises the threshold at which ride-sharing companies will fire the drivers.
 
@@ -18,9 +21,9 @@ Netflix used five stars until 2017, and [replaced them with thumbs-up and thumbs
 
 Even back in 2009, TechCrunch pointed out that [the Apple App Store's five-star rating shared the same problems](https://techcrunch.com/2009/09/22/youtube-comes-to-a-5-star-realization-its-ratings-are-useless/).
 
-Specifically in the case of the Open Desktop Ratings (ODRS) displayed in app stores like GNOME Software, I've personally heard from app developers that a five-star rating system seems ill-suited when there are few total ratings; if just a few people give the app a low rating, it looks like the app is low quality—and it's hard to get people to update those ratings, even after any raised issues are fixed.
+Specifically in the case of the [Open Desktop Ratings Service](https://odrs.gnome.org/) (ODRS) which is used to display ratings and reviews in app stores like GNOME Software, I've personally heard from app developers that a five-star rating system seems ill-suited when there are few total ratings; if just a few people give the app a low rating, it looks like the app is low quality—and it's hard to get people to update those ratings, even after any raised issues are fixed.
 
-## What's wrong with written reviews
+## What's wrong with written reviews?
 
 Five-star ratings often come with free-form written reviews to explain _why_ a specific rating was given, but these have their own problems, too.
 
@@ -32,7 +35,7 @@ After a review is screened by some neutral party, you very much _do_ want the de
 
 Especially if you're thinking from the context of a relatively small or largely volunteer-driven app ecosystem, it seems like reviews are a _very_ difficult problem that is unsolved by some of the largest platforms at best, and a net negative on the ecosystem at worst.
 
-## What would be better
+## What would be better?
 
 I've long felt that the issues with the five-star rating plus review system could be remedied by using a simpler setup. So what's the alternative?
 
