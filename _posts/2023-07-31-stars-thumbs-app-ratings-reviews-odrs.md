@@ -7,7 +7,11 @@ image: /images/blog/stars-thumbs-app-ratings-reviews-odrs/card.png
 redirect_from: /stars-and-thumbs
 ---
 
-I've been building open app ecosystems for over a decade now, and something that frequently comes up is how to best handle ratings (quantitative feedback) and reviews (qualitative feedback) of apps. User feedback can serve useful purposes: a powerful signal for ranking, a way to provide feedback to a developer, a way to demonstrate "social proof" (like testimonials or positive social media posts on a website), and a heads-up to other users for positive or negative experiences. But the widely-used five-star and review system has its problems.
+I'm on my way back from GUADEC in Rīga, Latvia and one recurring discussion (of many) was centered around how ratings and reviews are presented in GNOME software and other app stores.
+
+I've been building open app ecosystems for over a decade now. Ratings (quantitative feedback) and reviews (qualitative feedback) of apps can serve useful purposes: a powerful signal for ranking, a way to provide feedback to a developer, a way to demonstrate "social proof" (like testimonials or positive social media posts on a website), and a heads-up to other users for positive or negative experiences. But the widely-used five-star and review system has its problems.
+
+Since I'm sitting in an airport killing time while waiting to my flight back to Denver (where GUADEC 2024 is happening, if you haven't heard!), let's dig into this.
 
 ## What's wrong with five-star ratings?
 
