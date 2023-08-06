@@ -128,6 +128,10 @@ An entertaining and at least mildly insightful task at GUADEC was cornering unsu
 
 I think there will be more shared on this process in the future, but my take-away was that the informal nature of this served as a sort of vibe check more than anything; we weren't disciplined in how we took notes, what leading questions we asked or avoided, and how we presented it from person to person. Allan Day did write up a great more formal process that I'd like us to follow to get better results from, though.
 
+#### Stars & Thumbs: Ratings & Reviews
+
+The topic of ratings and reviews (e.g. in GNOME Software) came up a few times, inspired from feedback from the Bottles developers, attendees of my App Listing talk, and other hallway chats. I've summarized my thoughts in a [blog post published last week](/blog/stars-thumbs-app-ratings-reviews-odrs/); give it a read!
+
 ### Summary & Thanks
 
 I originally set out to detail every talk I attended, each social venue, etc. but there was _so much_ to talk about around the "hallway" track that I wanted to detail that, instead. I would highly recommend taking a look at the [YouTube Playlist of talks](https://www.youtube.com/playlist?list=PLcb5uDX8FIoCXfTI9t2a47WUDoPG7sIMD): they were all professionally recorded and streamed, and a gracious commentor has provided timestamps to each talk. 🙏️
