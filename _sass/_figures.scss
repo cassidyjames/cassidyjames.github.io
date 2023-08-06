@@ -4,6 +4,10 @@ figure {
   text-align: center;
   position: relative;
 
+  .card & {
+    margin: 0 auto;
+  }
+
   > p {
     margin: 0;
   }
