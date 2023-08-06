@@ -30,7 +30,7 @@ There is a shared understanding of both collaboration and confidentiality—we s
 
 #### Accessibility
 
-Multiple people mentioned investing efforts into improving accessibility of GNOME technologies. Platform modernization with Wayland and GTK4 brought troves of technical improvements, but the resources for tackling accessibility to ensure it remains as good as or better than in the last have been lacking in recent years. This has been recognized and I'm confident it will be well-addressed.
+Multiple people mentioned investing efforts into improving accessibility of GNOME technologies. Platform modernization with Wayland and GTK4 brought troves of technical improvements, but the resources for tackling accessibility to ensure it remains as good as or better than in the past have been lacking in recent years. This has been recognized and I'm confident it will be well-addressed.
 
 In addition to resources provided by organizations, there may be funding from grants to help in these areas in the coming years. If you are someone who is aware of grant application processes or knows of specific grant programs, this is a huge way you can contribute to GNOME; reach out to the Foundation to help coordinate securing additional funding in this area. Or contact me, and I can point you in the right direction—my contact details are in the footer!
 
