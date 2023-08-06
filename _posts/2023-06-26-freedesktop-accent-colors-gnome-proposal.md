@@ -136,7 +136,7 @@ This is identical to how the FreeDesktop color scheme preference was implemented
 
 ### Semantic Color
 
-While color should never be used as the _only_ or way to understand context (due to color blindness, inaccurate displays, and even Night Light altering visible colors), color can be used effectively to enhance the semantics of the desktop. However, this is a challenge when colors like red, yellow, and green exist in the set of potential accent colors in addition to being used semantically for things like "destructive," "warning," or "success."
+While color should never be used as the _only_ way to understand context (due to color blindness, inaccurate displays, and even Night Light altering visible colors), color can be used effectively to enhance the semantics of the desktop. However, this is a challenge when colors like red, yellow, and green exist in the set of potential accent colors in addition to being used semantically for things like "destructive," "warning," or "success."
 
 <figure class="half" markdown="1">
 ![Clocks with pink accent](/images/blog/accent-colors/clocks-pink.png)
