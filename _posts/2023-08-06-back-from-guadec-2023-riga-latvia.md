@@ -62,7 +62,7 @@ This was more of a "get the gears turning" discussion without any specific immed
 
 ### My Talks
 
-I originally planned to give one talk this year: an updated and more GNOME-specific version of a talk I gave last year at the Ubuntu Summit. Since I was involved with the GNOME Design team over the past year, I also ended up volunteering to co-present the annual _GNOME Design State of the Union_ talk, then I signed up for the aforementioned _What is the GNOME Advisory Board_ lightning talk—and then I was _almost_ roped into co-presenting another talk but ended up just helping write and prepare slides for it. 😅️
+I originally planned to give one talk this year: an updated and more GNOME-specific version of a talk I gave last year at the [Ubuntu Summit](/blog/ubuntu-summit). Since I was involved with the GNOME Design team over the past year, I also ended up volunteering to co-present the annual _GNOME Design State of the Union_ talk, then I signed up for the aforementioned _What is the GNOME Advisory Board_ lightning talk—and then I was _almost_ roped into co-presenting another talk but ended up just helping write and prepare slides for it. 😅️
 
 I actually _really_ enjoyed being so involved this year, and I regret not getting signed up to help with introducing speakers, A/V, or some other volunteer position. Maybe I'll make up for it next year…
 

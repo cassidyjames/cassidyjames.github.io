@@ -299,9 +299,7 @@ article,
   h3,
   h4,
   h5 {
-    // Clear the nav bar for #anchor scrolling
-    margin-top: -48px;
-    padding-top: calc(1em + 48px);
+    scroll-margin-top: 4rem; // Nav bar plus 1rem of space
   }
 }
 
