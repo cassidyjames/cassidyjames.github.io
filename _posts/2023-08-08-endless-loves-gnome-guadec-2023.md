@@ -3,16 +3,18 @@ title: Endless ♥ GNOME at GUADEC 2023
 updated: 2023-08-08
 ---
 
-In July, Endless sponsored and attended the annual GNOME conference, GUADEC, in Rīga, Latvia. We have a long history of supporting and collaborating within the GNOME open source project, and it was great to support GUADEC again this year as the platinum sponsor of the event.
+In July, Endless sponsored and attended the annual [GNOME](https://gnome.org) conference, [GUADEC](https://guadec.org), in Rīga, Latvia. We have a long history of supporting and collaborating within the GNOME open source project, and it was great to support GUADEC again this year as the platinum sponsor of the event.
 
-Several hundred attendees posing on the steps of a university, flanked by GUADEC banners
-GUADEC 2023 Attendees
+[GUADEC 2023 Attendees]
+
 Our support of GUADEC and GNOME is more than just a sponsorship, though; we showed up and participated all week to present and plan for our continued contributions to GNOME. The conference is designed around a one-day advisory board meeting, a few days of talks, and a few days of working sessions.
 
 ### Advisory Board Meeting
+
 We joined representatives from other organizations using and invested in the success of GNOME in meeting with the GNOME Foundation Board of Directors for an all-day Advisory Board meeting. There we discussed improving the accessibility of GNOME, the travel sponsorship process, reproducible builds for apps, how organizations can better upstream their non-code contributions to GNOME, and other topics raised by member organizations.
 
 ### Talks
+
 Endless OS Foundation employees presented a total of nine talks across three broad topics:
 
 #### Design
@@ -62,13 +64,14 @@ Philip Withnall, Senior Software Engineer
 Over the last year, some progress has slowly been made on adding support for saving and restoring app state across restarts. See an overview of where we’re at, the architecture being used, and what’s left to do.
 
 ### Working Sessions
+
 Endless OS Foundation employees attended a variety of workshops including GTK Planning, GNOME Release Team, and GNOME OS. Throughout the week we also had countless conversations in hallways and over meals with other GNOME contributors—all of which helps share knowledge and shape the direction of GNOME.
 
 ### Read More
 
-- Cassidy James Blaede: I'm back from GUADEC 2023 
-- Philip Withnall: GUADEC 2023 
-- This Week In GNOME #106: GUADEC 2023 
+- [Cassidy James Blaede: I'm back from GUADEC 2023](https://cassidyjames.com/blog/back-from-guadec-2023-riga-latvia/)
+- [Philip Withnall: GUADEC 2023](https://tecnocode.co.uk/2023/08/07/guadec-2023/) 
+- [This Week In GNOME #106: GUADEC 2023](https://thisweek.gnome.org/posts/2023/07/twig-106/) 
 
 ---
 
