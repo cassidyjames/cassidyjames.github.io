@@ -1,6 +1,7 @@
 ---
 title: Endless ♥ GNOME at GUADEC 2023
 updated: 2023-08-08
+hidden: true
 ---
 
 In July, Endless sponsored and attended the annual [GNOME](https://gnome.org) conference, [GUADEC](https://guadec.org), in Rīga, Latvia. We have a long history of supporting and collaborating within the GNOME open source project, and it was great to support GUADEC again this year as the platinum sponsor of the event.
