@@ -9,7 +9,11 @@ image: /images/starwars/kenobi.jpg
 
 ## Watch-Along
 
-Join us to watch along with new episodes of the latest Star Wars shows on Disney+!
+Join us to watch along with new episodes of the latest Star Wars show on Disney+!
+
+- [Ahsoka](ahsoka)
+
+### Archive
 
 - ~~[Andor](andor)~~
 - ~~[Obi-Wan Kenobi](kenobi)~~
