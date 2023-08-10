@@ -29,10 +29,10 @@ Join us to watch [Ahsoka on Disney+]! We’ll be watching one chapter each debut
 <!--small>Or click the dates below for the specific events.</small-->
 </div>
 
-Date   | Episode
-:----- | :-------------
-Aug 23 | Chapter I & II
-Aug 30 | Chapter III
+Event                                                          | Episode
+:------------------------------------------------------------- | :-------------
+[Aug 23](https://discord.gg/3aagq4A?event=1139007079613472778) | Chapter I & II
+[Aug 30](https://discord.gg/3aagq4A?event=1139007555901866025) | Chapter III
 
 Stay tuned for additional dates and links.
 
