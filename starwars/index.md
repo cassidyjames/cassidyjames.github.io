@@ -9,9 +9,7 @@ image: /images/starwars/kenobi.jpg
 
 ## Watch-Along
 
-Join us to watch along with new episodes of the latest Star Wars show on Disney+!
-
-- [Ahsoka](ahsoka)
+[![Ahsoka](/images/starwars/ahsoka/card.jpg)](ahsoka){: .card}
 
 ### Archive
 
