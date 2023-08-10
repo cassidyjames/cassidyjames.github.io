@@ -53,7 +53,7 @@ If you want to better understand Ahsoka and her backstory, I would recommend _Th
 
 For extra credit (and if you have time…), I would highly recommend reading/listening to the two most recent _Thrawn_ trilogies: _Thrawn_ (2017), _Thrawn: Alliances_ (2018), _Thrawn: Treason_ (2019), plus _Thrawn Ascendency: Chaos Rising_ (2020), _Thrawn Ascendency: Greater Good_ (2021), and _Thrawn Ascendency: Lesser Evil_ (2021). **Thrawn will likely play an important role in the Ahsoka series**, and these books provide an excellent back story and motivations to a fascinating character who is much more than a classic villain. The author, Timothy Zahn, has been involved with the Ahsoka series as well.
 
-The original Thrawn books from 2007–2013 may be interesting background material, but are considered non-canon legends. The Ahsoka series may pull characters/traits, locations, plot lines, references (like calling Thrawn “Heir to the Empire”), but they aren't required reading for the series at all.
+The original Thrawn books (from 1991 through 2006) may be interesting background material, but are considered non-canon legends. The Ahsoka series may pull characters/traits, locations, plot lines, references (like calling Thrawn “Heir to the Empire”), but they aren't required reading for the series at all.
 
 ### Timeline
 
