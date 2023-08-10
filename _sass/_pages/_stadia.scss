@@ -1,10 +1,10 @@
 html.stadia {
-  --background-color: var(--stadia-bg);
-  --primary-color: var(--stadia-fg);
+  --background-rgb: var(--stadia-bg-rgb);
+  --primary-rgb: var(--stadia-fg-rgb);
 
-  --accent-color: var(--stadia);
-  --secondary-accent-color: var(--stadia-bg);
-  --secondary-accent-contrast: var(--stadia-fg);
+  --accent-rgb: var(--stadia-rgb);
+  --secondary-accent-rgb: var(--stadia-bg-rgb);
+  --secondary-accent-contrast-rgb: var(--stadia-fg-rgb);
 
   font-family: "Google Sans", "Inter", sans-serif;
 

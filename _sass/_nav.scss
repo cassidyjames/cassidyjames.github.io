@@ -3,10 +3,10 @@ nav {
     display: none;
   }
 
-  background-color: var(--secondary-accent-color);
-  color: var(--secondary-accent-contrast);
+  background-color: rgb(var(--secondary-accent-rgb));
+  color: rgb(var(--secondary-accent-contrast-rgb));
   display: flex;
-  fill: var(--secondary-accent-contrast);
+  fill: rgb(var(--secondary-accent-contrast-rgb));
   font-size: 0; // Get rid of blank spaces between nav items
   overflow-x: auto;
   padding: 0;
@@ -28,10 +28,10 @@ nav {
     &:focus,
     &.current,
     &:active {
-      background-color: var(--accent-color);
+      background-color: rgb(var(--accent-rgb));
       border: none;
-      color: var(--background-color);
-      fill: var(--background-color);
+      color: rgb(var(--background-rgb));
+      fill: rgb(var(--background-rgb));
       outline: none;
       text-decoration: none;
     }

@@ -1,18 +1,35 @@
 :root {
-  --background-color: #fafafa;
-  --neutral: #333;
-  --faint: #f3f3f3;
+  --background-rgb: 250, 250, 250;
+  --background-color: rgb(var(--background-rgb));
 
-  --primary-color: #452981; // Light style text
-  --accent-color: #c6262e; // Headings
-  --secondary-accent-color: var(--primary-color); // Header, footer
-  --secondary-accent-contrast: var(--background-color);
+  --neutral-rgb: 51, 51, 51;
+  --neutral: rgb(var(--neutral-rgb));
+
+  --faint: rgba(var(--neutral-rgb), 0.067);
+
+  --primary-rgb: 69, 41, 129; // Light style text
+  --primary-color: rgb(var(--primary-rgb));
+
+  --accent-rgb: 198, 38, 46; // Headings
+  --accent-color: rgb(var(--accent-rgb));
+
+  --secondary-accent-rgb: var(--primary-rgb); // Nav, footer
+  --secondary-accent-color: rgb(var(--secondary-accent-rgb));
+
+  --secondary-accent-contrast-rgb: var(--background-rgb);
+  --secondary-accent-contrast: rgb(var(--secondary-accent-contrast-rgb));
   
-  --success-color: #26a269;
-  --warning-color: #ae7b03;
-  --error-color: #c01c28;
+  --success-rgb: 38, 162, 105;
+  --success-color: rgb(var(--success-rgb));
 
-  --destiny: #273445;
+  --warning-rgb: 174, 123, 3;
+  --warning-color: rgb(var(--warning-rgb));
+
+  --error-rgb: 192, 28, 40;
+  --error-color: rgb(var(--error-rgb));
+
+  --destiny-rgb: 39, 52, 69;
+  --destiny: rgb(var(--destiny-rgb));
   --elementary: #0d52bf;
   --endless: #ee5a36;
   --github: var(--neutral);
@@ -22,15 +39,21 @@
   --pixelfed: #08d;
   --psn: #0068bf;
 
-  --stadia: #de3334;
-  --stadia-orange: #ff4c1d;
-  --stadia-purple: #9b0063;
-  --stadia-bg: white;
-  --stadia-fg: rgb(32,33,36);
+  --stadia-rgb: 222, 51, 52;
+  --stadia: rgb(var(--stadia-rgb));
+  --stadia-orange-rgb: 255, 76, 29;
+  --stadia-orange: rgb(var(--stadia-orange-rgb));
+  --stadia-purple-rgb: 155, 0, 99;
+  --stadia-purple: rgb(var(--stadia-purple-rgb));
+  --stadia-bg-rgb: 255, 255, 255;
+  --stadia-bg: rgb(var(--stadia-bg-rgb));
+  --stadia-fg-rgb: 32, 33, 36;
+  --stadia-fg: rgb(var(--stadia-fg-rgb));
 
   --steam: var(--neutral);
   --system76: #574f4a;
-  --switch: #e60012;
+  --switch-rgb: 230, 0, 18;
+  --switch: rgb(var(--switch-rgb));
   --twitter: #55acee;
   --youtube: #dd4b39;
 
@@ -48,56 +71,49 @@
   --solarized-yellow: #b58900;
 }
 
+// Higher contrast
 html.alt-style {
-  --background-color: #fafafa;
-  --neutral: #333;
-  --faint: #f3f3f3;
-
-  --primary-color: #333; // Light style text
-  --accent-color: #a10705; // Headings
-  --secondary-accent-color: var(--primary-color); // Header, footer
-  --secondary-accent-contrast: var(--background-color);
+  --primary-rgb: 51, 51, 51;
+  --accent-rgb: 161, 7, 5;
+  --secondary-accent-rgb: var(--primary-rgb);
+  --secondary-accent-contrast-rgb: var(--background-rgb);
+  --faint: rgba(var(--neutral-rgb), 0.2);
 }
 
 @media print {
   :root {
-    --background-color: white;
+    --background-rgb: 255, 255, 255;
   }
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: #{ mix(#452981, black, 50%) };
-    --neutral: #{ mix(#e4c6fa, white, 25%) };
-    --faint:  #{ mix(#452981, black, 75%) };
+    --background-rgb: 35, 21, 65;
+    --neutral-rgb: 248, 241, 254;
+    --primary-rgb: var(--neutral-rgb);
+    --accent-rgb: 246, 112, 107;
+    --secondary-accent-rgb: 69, 41, 129;
+    --secondary-accent-contrast-rgb: var(--neutral-rgb);
 
-    --destiny: #fafafa;
+    --success-rgb: 143, 240, 164;
+    --warning-rgb: 248, 228, 92;
+    --error-rgb: 255, 123, 99;
+
+    --destiny-rgb: 250, 250, 250;
     --elementary: #64baff;
-
-    --stadia: #ff773d;
-    --stadia-bg: #202124;
-    --stadia-fg: white;
-
+    --stadia-rgb: 255, 119, 61;
+    --stadia-bg-rgb: 32, 33, 36;
+    --stadia-fg-rgb: 255, 255, 255;
     --system76: #ffa300;
-
-    --primary-color: var(--neutral);
-    --accent-color: #{ mix(#ed5353, #ff8c82) };
-    --secondary-accent-color: #452981;
-    --secondary-accent-contrast: var(--neutral);
-
-    --success-color: #8ff0a4;
-    --warning-color: #f8e45c;
-    --error-color: #ff7b63;
   }
 
+  // Higher contrast
   html.alt-style {
-    --background-color: #222;
-    --neutral: #ddd;
-    --faint: #333;
-
-    --primary-color: var(--neutral);
-    --accent-color: #ff8c82; // Headings
-    --secondary-accent-color: var(--faint); // Header, footer
-    --secondary-accent-contrast: var(--neutral);
+    --background-rgb: 34, 34, 34;
+    --neutral-rgb: 221, 221, 221;
+    --primary-rgb: var(--neutral-rgb);
+    --accent-rgb: 255, 140, 130;
+    --secondary-accent-rgb: 0, 0, 0;
+    --secondary-accent-contrast-rgb: var(--neutral-rgb);
   }
 }

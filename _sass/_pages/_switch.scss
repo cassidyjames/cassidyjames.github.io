@@ -1,15 +1,15 @@
 html.switch {
-  --background-color: white;
-  --accent-color: var(--switch);
-  --primary-color: rgb(72, 72, 72);
+  --background-rgb: 255, 255, 255;
+  --accent-rgb: var(--switch-rgb);
+  --primary-rgb: 72, 72, 72;
 
-  --secondary-accent-color: #f0f0f0;
-  --secondary-accent-contrast: var(--primary-color);
+  --secondary-accent-rgb: 240, 240, 240;
+  --secondary-accent-contrast-rgb: var(--primary-rgb);
 
   @media (prefers-color-scheme: dark) {
-    --background-color: #323232;
-    --primary-color: #eee;
-    --secondary-accent-color: #2d2d2d;
+    --background-rgb: 50, 50, 50;
+    --primary-rgb: 238, 238, 238;
+    --secondary-accent-rgb: 45, 45, 45;
   }
 
   font-family: 'Montserrat', Inter, sans-serif;

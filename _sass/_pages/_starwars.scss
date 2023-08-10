@@ -1,23 +1,21 @@
 html.starwars {
-  --sw-yellow: #ffe81f;
-  --sw-blue: #3273c5;
+  --sw-yellow-rgb: 255, 232, 31;
+  --sw-blue-rgb: 50, 115, 197;
 
-  --background-color: #e7e7e7;
-  --faint: #999;
-  --primary-color: #333;
+  --background-rgb: 231, 231, 231;
+  --primary-rgb: 51, 51, 51;
+  --accent-rgb: var(--sw-blue-rgb);
 
-  --accent-color: var(--sw-blue);
-  --secondary-accent-color: black;
-  --secondary-accent-contrast: white;
+  --secondary-accent-rgb: 0, 0, 0;
+  --secondary-accent-contrast-rgb: 255, 255, 255;
 
   @media (prefers-color-scheme: dark) {
-    --sw-blue: #55ddff;
+    --sw-blue-rgb: 85, 221, 255;
 
-    --background-color: black;
-    --faint: #333;
-    --primary-color: white;
+    --background-rgb: 0, 0, 0;
+    --primary-rgb: 255, 255, 255;
 
-    --accent-color: var(--sw-yellow);
+    --accent-rgb: var(--sw-yellow-rgb);
 
     body {
       background: none;
@@ -37,6 +35,7 @@ html.starwars {
   }
 
   table {
+    backdrop-filter: var(--blur);
     border-collapse: collapse;
   }
 
@@ -49,10 +48,9 @@ html.starwars {
     font-weight: bold;
   }
 
-
-  table tr th,
-  table tr:nth-child(even) td {
-    background: rgba(150, 150, 150, 0.1);
+  table thead,
+  table tr:nth-child(even) {
+    background: var(--faint);
   }
 
   tr.era {
@@ -60,16 +58,15 @@ html.starwars {
   }
 
   &.kenobi {
-    --rgb-bg: 223, 207, 184;
-    --background-color: rgb(var(--rgb-bg));
+    --background-rgb: 223, 207, 184;
 
     body {
       background: none;
 
       &::before {
-        background-color: var(--background-color);
+        background-color: rgb(var(--background-rgb));
         background-image:
-          linear-gradient(rgba(var(--rgb-bg), 0.75), var(--background-color)),
+          linear-gradient(rgba(var(--background-rgb), 0.75), rgb(var(--background-rgb))),
           url("/images/starwars/kenobi.jpg");
         background-position: 80%;
         background-repeat: no-repeat;
@@ -83,19 +80,17 @@ html.starwars {
     }
 
     nav {
-      background-color: rgba(var(--rgb-bg), 0.8);
-      -webkit-backdrop-filter: blur(10px);
-      backdrop-filter: blur(10px);
+      background-color: rgba(var(--background-rgb), 0.8);
+      backdrop-filter: var(--glass);
       box-shadow: 0 0 64px rgba(0, 0, 0, 0.5);
-      color: var(--primary-color);
-      fill: var(--primary-color);
+      color: rgb(var(--primary-rgb));
+      fill: rgb(var(--primary-rgb));
       transition:
         background 200ms cubic-bezier(0.28, 0.11, 0.32, 1);
       transition-property: background, box-shadow;
 
       &.at-top {
         background-color: transparent;
-        -webkit-backdrop-filter: none;
         backdrop-filter: none;
         box-shadow: none;
       }
@@ -113,16 +108,16 @@ html.starwars {
     }
 
     @media (prefers-color-scheme: dark) {
-      --rgb-bg: 0, 0, 0;
+      --background-rgb: 0, 0, 0;
 
       body::before {
         background-image:
-          linear-gradient(rgba(0, 0, 0, 0.5), var(--background-color)),
+          linear-gradient(rgba(0, 0, 0, 0.5), rgb(var(--background-rgb))),
           url("/images/starwars/kenobi.jpg");
       }
 
       nav {
-        background-color: rgba(var(--rgb-bg), 0.75);
+        background-color: rgba(var(--background-rgb), 0.75);
       }
 
       h1 img {
@@ -133,16 +128,15 @@ html.starwars {
   }
 
   &.andor {
-    --rgb-bg: 230, 214, 188;
-    --background-color: rgb(var(--rgb-bg));
-    --accent-color: #890e11;
+    --background-rgb: 230, 214, 188;
+    --accent-rgb: 137, 14, 17;
 
     body {
       background: none;
 
       &::before {
         background-image:
-          linear-gradient(rgba(var(--rgb-bg), 0.5), var(--background-color)),
+          linear-gradient(rgba(var(--background-rgb), 0.5), rgb(var(--background-rgb))),
           url("/images/starwars/andor/scrap.jpg");
         background-position: center;
         background-repeat: no-repeat;
@@ -160,9 +154,8 @@ html.starwars {
     }
 
     @media (prefers-color-scheme: dark) {
-      --rgb-bg: 0, 0, 0;
-      --background-color: rgb(var(--rgb-bg));
-      --accent-color: #de5d60;
+      --background-rgb: 0, 0, 0;
+      --accent-rgb: 222, 93, 96;
 
       h1 img {
         filter: none;
@@ -177,18 +170,20 @@ html.starwars {
   }
 
   &.ahsoka {
-    --rgb-bg: 250, 250, 250;
-    --background-color: rgb(var(--rgb-bg));
+    --background-rgb: 250, 250, 250;
 
     body {
       @extend article;
 
-      background: none;
+      background: linear-gradient(
+        rgba(var(--background-rgb), 0),
+        rgba(var(--background-rgb), 1) 50%
+      );
 
       &::before {
-        background-color: var(--background-color);
+        background-color: rgb(var(--background-rgb));
         background-image:
-          linear-gradient(rgba(var(--rgb-bg), 0.75), var(--background-color)),
+          linear-gradient(rgba(var(--background-rgb), 0.33), rgb(var(--background-rgb))),
           url("/images/starwars/ahsoka/hero.jpg");
         background-position: 80%;
         background-repeat: no-repeat;
@@ -202,19 +197,17 @@ html.starwars {
     }
 
     nav {
-      background-color: rgba(var(--rgb-bg), 0.8);
-      -webkit-backdrop-filter: blur(10px);
-      backdrop-filter: blur(10px);
+      background-color: rgba(var(--background-rgb), 0.8);
+      backdrop-filter: var(--glass);
       box-shadow: 0 0 64px rgba(0, 0, 0, 0.5);
-      color: var(--primary-color);
-      fill: var(--primary-color);
+      color: rgb(var(--primary-rgb));
+      fill: rgb(var(--primary-rgb));
       transition:
         background 200ms cubic-bezier(0.28, 0.11, 0.32, 1);
       transition-property: background, box-shadow;
 
       &.at-top {
         background-color: transparent;
-        -webkit-backdrop-filter: none;
         backdrop-filter: none;
         box-shadow: none;
       }
@@ -225,6 +218,10 @@ html.starwars {
       opacity: 0.67;
     }
 
+    table {
+      backdrop-filter: var(--glass);
+    }
+
     td, th {
       line-height: 1.5;
       min-width: 6em;
@@ -232,16 +229,10 @@ html.starwars {
     }
 
     @media (prefers-color-scheme: dark) {
-      --rgb-bg: 0, 0, 0;
-
-      body::before {
-        background-image:
-          linear-gradient(rgba(0, 0, 0, 0.5), var(--background-color)),
-          url("/images/starwars/ahsoka/hero.jpg");
-      }
+      --background-rgb: 0, 0, 0;
 
       nav {
-        background-color: rgba(var(--rgb-bg), 0.75);
+        background-color: rgba(var(--background-rgb), 0.75);
       }
 
       h1 img {
@@ -251,19 +242,14 @@ html.starwars {
     }
   }
 
-  &.alt-style {
-    body::before {
-      background-image: none;
-    }
+  // &.alt-style {
+  //   body::before {
+  //     background-image: none;
+  //   }
 
-    nav {
-      -webkit-backdrop-filter: none;
-      backdrop-filter: none;
-      background-image: linear-gradient(
-        to top,
-        var(--accent-color) 1px,
-        transparent 1px
-      );
-    }
-  }
+  //   nav {
+  //     backdrop-filter: none;
+  //     background-color: rgb(var(--background-rgb));
+  //   }
+  // }
 }

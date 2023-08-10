@@ -54,8 +54,8 @@ h6 a {
 }
 
 h1 {
-  color: var(--accent-color);
-  fill: var(--accent-color);
+  color: rgb(var(--accent-rgb));
+  fill: rgb(var(--accent-rgb));
   font-size: 5rem;
   font-weight: 900;
   letter-spacing: -0.097em;
