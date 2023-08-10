@@ -6,7 +6,7 @@ description: "The Skywalker Saga"
 
 ## Skywalker Saga _Traveling Viewing Party (Archived)_
 
-![Star Wars Spoiler Room sign](/downloads/starwars-viewing.jpg)
+![Star Wars Spoiler Room sign](/downloads/starwars-viewing.jpg){: .card }
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
 [View the GetTogether](https://gettogether.community/star-wars-viewing-party-2019/){: .button}

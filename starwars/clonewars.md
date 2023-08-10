@@ -7,7 +7,7 @@ image: /images/starwars/clone-wars.jpg
 
 ## The Clone Wars _Episode Guide_
 
-![The Clone Wars](/images/starwars/clone-wars.jpg)
+![The Clone Wars](/images/starwars/clone-wars.jpg){: .card }
 
 I don't claim to be an expert on Star Wars canon or _The Clone Wars_, but I do have some thoughts! The 3D-animated _The Clone Wars_ show is incredible; it expands the canon and lore of Star Wars itself, it develops and gives insight into beloved characters, and it introduces characters that are becoming central to the new canon stories.
 

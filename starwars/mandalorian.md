@@ -6,7 +6,7 @@ description: "The Mandalorian"
 
 ## The Mandalorian _#MandoWatchAlong (Archived)_
 
-![Star Wars: The Mandalorian](/images/starwars/mandalorian.jpg)
+![Star Wars: The Mandalorian](/images/starwars/mandalorian.jpg){: .card }
 
 Join us to watch **Season Two**! We'll be watching one chapter each debut Friday at 8:30 PM Mountain time. You can still join and watch any time!
 

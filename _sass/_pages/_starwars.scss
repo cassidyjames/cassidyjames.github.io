@@ -9,6 +9,10 @@ html.starwars {
   --secondary-accent-rgb: 0, 0, 0;
   --secondary-accent-contrast-rgb: 255, 255, 255;
 
+  body {
+    @extend article;
+  }
+
   @media (prefers-color-scheme: dark) {
     --sw-blue-rgb: 85, 221, 255;
 
@@ -18,7 +22,10 @@ html.starwars {
     --accent-rgb: var(--sw-yellow-rgb);
 
     body {
-      background: none;
+      background: linear-gradient(
+        rgba(var(--background-rgb), 0),
+        rgba(var(--background-rgb), 1) 67%
+      );
 
       &::before {
         background-image:
@@ -61,12 +68,15 @@ html.starwars {
     --background-rgb: 223, 207, 184;
 
     body {
-      background: none;
+      background: linear-gradient(
+        rgba(var(--background-rgb), 0),
+        rgba(var(--background-rgb), 1) 67%
+      );
 
       &::before {
         background-color: rgb(var(--background-rgb));
         background-image:
-          linear-gradient(rgba(var(--background-rgb), 0.75), rgb(var(--background-rgb))),
+          linear-gradient(rgba(var(--background-rgb), 0.50), rgb(var(--background-rgb))),
           url("/images/starwars/kenobi.jpg");
         background-position: 80%;
         background-repeat: no-repeat;
@@ -132,7 +142,10 @@ html.starwars {
     --accent-rgb: 137, 14, 17;
 
     body {
-      background: none;
+      background: linear-gradient(
+        rgba(var(--background-rgb), 0),
+        rgba(var(--background-rgb), 1) 67%
+      );
 
       &::before {
         background-color: rgb(var(--background-rgb));
@@ -174,8 +187,6 @@ html.starwars {
     --background-rgb: 250, 250, 250;
 
     body {
-      @extend article;
-
       background: linear-gradient(
         rgba(var(--background-rgb), 0),
         rgba(var(--background-rgb), 1) 50%
