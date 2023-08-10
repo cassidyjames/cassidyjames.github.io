@@ -1,6 +1,6 @@
 ---
 title: "Star Wars: Ahsoka"
-description: "Join us to watch the latest Star Wars show on Disney+!"
+description: "See #AhsokaWatchAlong events, everything you need to know about the series, plus what you can watch and read to dig in even more"
 
 image: /images/starwars/ahsoka/hero.jpg
 logo: /images/starwars/ahsoka/logo.png
