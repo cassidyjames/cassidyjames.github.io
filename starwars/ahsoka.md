@@ -23,18 +23,19 @@ Former Jedi Knight Ahsoka Tano investigates an emerging threat to a vulnerable g
 
 Join us to watch [Ahsoka on Disney+]! We’ll be watching one chapter each debut Wednesday at 8:30 PM Mountain time. You can still join and watch any time!
 
+Event                                                                | Episode
+:------------------------------------------------------------------- | :-------------------------
+[August 23](https://discord.gg/3aagq4A?event=1139007079613472778)    | Premiere (Chapters I & II)
+[August 30](https://discord.gg/3aagq4A?event=1139007555901866025)    | Chapter III
+[September 6](https://discord.gg/3aagq4A?event=1139036974599118868)  | Chapter IV
+[September 13](https://discord.gg/3aagq4A?event=1139037285757767782) | Chapter V
+[September 20](https://discord.gg/3aagq4A?event=1139037671721799700) | Chapter VI
+[September 27](https://discord.gg/3aagq4A?event=1139037923820449843) | Chapter VII
+[October 4](https://discord.gg/3aagq4A?event=1139038317476859945)    | Season Finale (Chapter VIII)
+
 <div style="margin: 2em auto; text-align: center;" markdown="1">
 [Join the Discord](https://discord.gg/3aagq4A){: .button}
-
-<!--small>Or click the dates below for the specific events.</small-->
 </div>
-
-Event                                                          | Episode
-:------------------------------------------------------------- | :-------------
-[Aug 23](https://discord.gg/3aagq4A?event=1139007079613472778) | Chapter I & II
-[Aug 30](https://discord.gg/3aagq4A?event=1139007555901866025) | Chapter III
-
-Stay tuned for additional dates and links.
 
 ## Where does Ahsoka fit in?
 
