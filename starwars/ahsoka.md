@@ -44,11 +44,15 @@ Ahsoka developed a friendship with Mandalorian **Bo-Katan Kryze**, and later hel
 
 During her time with the rebels, she experienced the mysterious **World Between Worlds** in a Jedi temple on Ezra's home planet, Lothal. She parted ways with the Rebellion on a quest to find Ezra Bridger, who was last seen being pulled into hyperspace towards the Unknown Regions with Thrawn.
 
-### What to Watch
+### What to Watch & Read
 
 You should probably have seen _The Mandalorian_, at the very least. _The Book of Boba Fett_ helps fill in some events between _The Mandalorian_ seasons 2 and 3 as well.
 
-If you want to go all out, I would recommend _The Clone Wars_ and _Rebels_ animated series—you don’t have to watch every episode (but might appreciate the character more if you do); I have a guide for [The Clone Wars], and here is [another site’s recommendation for both shows](https://www.gamesradar.com/ahsoka-the-clone-wars-rebels-essential-episodes-star-wars/) which looks good at a glance.
+If you want to better understand Ahsoka and her backstory, I would recommend _The Clone Wars_ and _Rebels_ animated series—you don’t have to watch every episode (but might appreciate the character more if you do); I have a guide for [The Clone Wars], and here is [another site’s recommendation for both shows](https://www.gamesradar.com/ahsoka-the-clone-wars-rebels-essential-episodes-star-wars/) which looks good at a glance.
+
+For extra credit (and if you have time…), I would highly recommend reading/listening to the two most recent _Thrawn_ trilogies: _Thrawn_ (2017), _Thrawn: Alliances_ (2018), _Thrawn: Treason_ (2019), plus _Thrawn Ascendency: Chaos Rising_ (2020), _Thrawn Ascendency: Greater Good_ (2021), and _Thrawn Ascendency: Lesser Evil_ (2021). **Thrawn will likely play an important role in the Ahsoka series**, and these books provide an excellent back story and motivations to a fascinating character who is much more than a classic villain. The author, Timothy Zahn, has been involved with the Ahsoka series as well.
+
+The original Thrawn books from 2007–2013 may be interesting background material, but are considered non-canon legends. The Ahsoka series may pull characters/traits, locations, plot lines, references (like calling Thrawn “Heir to the Empire”), but they aren't required reading for the series at all.
 
 ### Timeline
 
