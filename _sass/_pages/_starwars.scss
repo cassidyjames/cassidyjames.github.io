@@ -135,6 +135,7 @@ html.starwars {
       background: none;
 
       &::before {
+        background-color: rgb(var(--background-rgb));
         background-image:
           linear-gradient(rgba(var(--background-rgb), 0.5), rgb(var(--background-rgb))),
           url("/images/starwars/andor/scrap.jpg");
@@ -242,14 +243,9 @@ html.starwars {
     }
   }
 
-  // &.alt-style {
-  //   body::before {
-  //     background-image: none;
-  //   }
-
-  //   nav {
-  //     backdrop-filter: none;
-  //     background-color: rgb(var(--background-rgb));
-  //   }
-  // }
+  &.alt-style {
+    body::before {
+      background-image: none;
+    }
+  }
 }
