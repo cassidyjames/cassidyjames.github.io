@@ -29,6 +29,10 @@ Join us to watch [Ahsoka on Disney+]! We’ll be watching one chapter each debut
 <!--small>Or click the dates below for the specific events.</small-->
 </div>
 
+Date   | Episode
+------ | --------------
+Aug 23 | Chapter I & II
+
 ## Where does Ahsoka fit in?
 
 Ahsoka Tano is a former Jedi trained by Anakin Skywalker during the **Clone Wars**. She left the Jedi Order after being falsely accused of a plot against the Jedi and the Republic.
