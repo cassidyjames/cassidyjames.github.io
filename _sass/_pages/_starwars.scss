@@ -49,7 +49,9 @@ html.starwars {
     font-weight: bold;
   }
 
-  table tr:nth-child(odd) td {
+
+  table tr th,
+  table tr:nth-child(even) td {
     background: rgba(150, 150, 150, 0.1);
   }
 

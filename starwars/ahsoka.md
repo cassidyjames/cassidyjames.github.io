@@ -30,8 +30,11 @@ Join us to watch [Ahsoka on Disney+]! We’ll be watching one chapter each debut
 </div>
 
 Date   | Episode
------- | --------------
+:----- | :-------------
 Aug 23 | Chapter I & II
+Aug 30 | Chapter III
+
+Stay tuned for additional dates and links.
 
 ## Where does Ahsoka fit in?
 
