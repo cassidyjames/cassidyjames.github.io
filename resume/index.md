@@ -1,31 +1,45 @@
 ---
-redirect_from: 
-  - /resume/ux
-  - /resume/ux/
+
 ---
 
 # Cassidy James Blaede
 
 ## Objective
 
-To design, implement, and continuously improve excellent experiences, especially using and related to open source software.
+To design, implement, and continuously improve excellent experiences and processes around open source software.
 
 ## Experience
 
-Over a decade of open source collaboration. A decade of user experience architecture. A decade managing a successful open source company. And way too long doing front-end web development.
+Over a decade of open source collaboration. A decade of user experience architecture. A decade managing a successful open source company. (And way too long doing front-end web development.)
 
 ### Endless OS Foundation _2022–_
 
 #### Partner Success Engineer
 
-I work as a bridge between the foundation's dozens of impact partners—the organizations on the ground deploying the open source, Linux-based [Endless OS](https://www.endlessos.org/os) and other technologies around the world—and the Endless engineering team. My job is to ensure our mutual success by improving processes and documentation and supporting both our partners and engineers however I can.
+I am the bridge between the Foundation's dozens of impact partners—organizations deploying the open source, Linux-based [Endless OS](https://www.endlessos.org/os) and other technologies around the world—and the Endless engineering team.
 
-[Read More](/blog/ive-joined-the-endless-os-foundation)
+##### Responsibilities:
+
+- Understanding and synthesizing the wants and needs of multiple partner organizations, turning them into actionable tasks for Foundation teams
+- Deeply understanding the strategic, engineering, commercial, and marketing decisions of the Foundation to inform our interactions with partners
+- Ownership and note-taking of organization-spanning meetings to ensure alignment between partners, engineering, the commercial team, and marketing
+- Developing and providing technical training and support for partner engineering teams as needed
+- Meeting with existing and prospective partner organizations to answer questions and provide whatever information and support they need
+- Providing internal training and support within Endless OS Foundation for complex systems
+- Writing occasional blog articles, newsletter content, and social media posts to share the Foundation's work with partners and the public
+- Developing and maintaining both technical and user-centered support and training documentation
+- Responding to partner requests by providing regionally-customized OS images as needed, using technical tooling
+- Directly solving technical problems and contributing fixes to code as needed
+- Interfacing with important partner organizations and projects like GNOME
 
 ##### Achievements:
 
-- Restructured and supported colleague ownership of resources on our [support site](https://support.endlessos.org/)
-- Coordinated the verification of 14 Endless-affiliated apps on [Flathub](https://beta.flathub.org/apps/collection/verified/)
+- Joined the GNOME Design team to contribute on an ongoing basis
+- Represented Endless OS Foundation on the GNOME Advisory Board
+- Prepared and presented multiple talks at international conferences
+- Restructured and supported colleague ownership of [support and training resources](https://support.endlessos.org/)
+- Coordinated the verification of 14 Endless-affiliated apps on [Flathub](https://flathub.org/apps/collection/verified/)
+- Delivered a well-received training on "What is Open Source?" to an Endless partner organization
 
 ### elementary, Inc. _2011–2022_
 
@@ -33,7 +47,7 @@ I work as a bridge between the foundation's dozens of impact partners—the orga
 
 I co-founded the company in 2011 and have helped it grow to sustain multiple employees while releasing 6 major OS releases, a pay-what-you-can app store, and multiple technology stack shifts like Python to Vala, GTK2 to GTK3, and Debian to Flatpak.
 
-Personally, I was responsible for the overall experience and messaging of the company and products, user experience architecture, and being a liason between parties including end users, OEMs, developers, and other open source projects.
+Personally, I was responsible for the overall experience and messaging of the company and products, user experience architecture, and being a liaison between parties including end users, OEMs, developers, and other open source projects.
 
 ##### Responsibilities:
 
