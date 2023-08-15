@@ -43,6 +43,10 @@ html {
 html {
   background: rgb(var(--secondary-accent-rgb));
   scroll-behavior: smooth;
+
+  @media print {
+    background: rgb(var(--background-rgb));
+  }
 }
 
 body {
@@ -315,4 +319,3 @@ body.store .images {
 .hidden {
   display: none;
 }
-

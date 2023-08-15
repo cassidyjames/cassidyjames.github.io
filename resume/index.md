@@ -1,45 +1,63 @@
 ---
-
+title: Résumé
+description: My objective is to design, implement, and continuously improve excellent experiences and processes around open source software
 ---
 
 # Cassidy James Blaede
+
+<aside class="print-only" markdown="1">
+- [cassidyjames.com](https://cassidyjames.com)
+- [c@ssidyjam.es](mailto:c@ssidyjam.es)
+- (515) 966-4238
+</aside>
 
 ## Objective
 
 To design, implement, and continuously improve excellent experiences and processes around open source software.
 
-## Experience
+## Relevant Experience
 
-Over a decade of open source collaboration. A decade of user experience architecture. A decade managing a successful open source company. (And way too long doing front-end web development.)
+Over a decade of open source collaboration. A decade of user experience architecture. A decade managing a successful open source company. (And way too long getting roped into front-end web development.)
 
 ### Endless OS Foundation _2022–_
 
 #### Partner Success Engineer
 
-I am the bridge between the Foundation's dozens of impact partners—organizations deploying the open source, Linux-based [Endless OS](https://www.endlessos.org/os) and other technologies around the world—and the Endless engineering team.
+I'm the bridge between the Foundation's dozens of impact partners—organizations deploying the open source, Linux-based [Endless OS](https://www.endlessos.org/os) and other technologies around the world—and the Endless engineering team.
 
 ##### Responsibilities:
 
 - Understanding and synthesizing the wants and needs of multiple partner organizations, turning them into actionable tasks for Foundation teams
+
 - Deeply understanding the strategic, engineering, commercial, and marketing decisions of the Foundation to inform our interactions with partners
+
 - Ownership and note-taking of organization-spanning meetings to ensure alignment between partners, engineering, the commercial team, and marketing
+
 - Developing and providing technical training and support for partner engineering teams as needed
+
 - Meeting with existing and prospective partner organizations to answer questions and provide whatever information and support they need
+
 - Providing internal training and support within Endless OS Foundation for complex systems
+
 - Writing occasional blog articles, newsletter content, and social media posts to share the Foundation's work with partners and the public
+
 - Developing and maintaining both technical and user-centered support and training documentation
+
 - Responding to partner requests by providing regionally-customized OS images as needed, using technical tooling
+
 - Directly solving technical problems and contributing fixes to code as needed
+
 - Interfacing with important partner organizations and projects like GNOME
 
 ##### Achievements:
 
-- Joined the GNOME Design team to contribute on an ongoing basis
-- Represented Endless OS Foundation on the GNOME Advisory Board
-- Prepared and presented multiple talks at international conferences
-- Restructured and supported colleague ownership of [support and training resources](https://support.endlessos.org/)
-- Coordinated the verification of 14 Endless-affiliated apps on [Flathub](https://flathub.org/apps/collection/verified/)
-- Delivered a well-received training on "What is Open Source?" to an Endless partner organization
+- **Joined the GNOME Design team** to contribute on an ongoing basis
+- Represented Endless OS Foundation on the **GNOME Advisory Board**
+- Prepared and presented **multiple talks** at international conferences
+- **Restructured [support and training resources](https://support.endlessos.org/)**, encouraging colleague ownership
+- **Coordinated verification** of 14 Endless-affiliated apps on [Flathub](https://flathub.org/apps/collection/verified/)
+- **Prepared and delivered a well-received training** on "What is Open Source?" to an Endless partner organization
+- Explored and reported internally on an **experimental method of rebuilding Endless OS** atop Fedora Silverblue
 
 ### elementary, Inc. _2011–2022_
 
@@ -101,6 +119,8 @@ Personally, I was responsible for the overall experience and messaging of the co
 - Photo editing & video compositing
 - Front-end desktop development in Vala and GTK
 
+<!--
+
 ### Visual Logic Group _2012–2013_
 
 #### User Experience Intern
@@ -114,7 +134,6 @@ Personally, I was responsible for the overall experience and messaging of the co
 
 #### Network Engineer Assistant (ITS Network Services)
 
-<!--
 - Configured and maintained switch firmware & configuration
 - Managed Wi-Fi monitoring service
 - Performed wireless site surveys
@@ -123,31 +142,28 @@ Personally, I was responsible for the overall experience and messaging of the co
 - Utilized various consoles for network and AP management
 - Created and managed wireless heatmaps
 - Tracked tasks and progress in a ticketing system
--->
 
 ### LCS _2010–2011_
 
 #### Technical Support Analyst
 
-<!--
 - Provided support to internal staff and external clients via help desk
 - Assisted staff/clients with password resets, software installation, etc.
 - Wrote and maintained documentation through Sharepoint
 - Communicated technical concepts to facilitate understanding
 - Rapidly learned and mastered varied internal systems and programs
 - Tracked tasks and progress in a ticketing system
--->
 
 ### Webspec Design, LLC. _2007–2010_
 
 #### Web Developer
 
-<!--
 - Front-end web development of small client websites
 - Training and supporting clients
 - Installing, configuring, developing, and supporting custom Wordpress-based
   websites and plugins
 - High-fidelity web design slicing & implementation
+
 -->
 
 ## Education

@@ -1,0 +1,54 @@
+body.resume {
+  h2, h3 {
+    margin-top: 1.25em;
+  }
+
+  h2:first-of-type {
+    margin-top: 0.75em;
+  }
+
+  h4 {
+    margin-top: 0.25em;
+  }
+
+  p {
+    margin: 1em auto;
+  }
+
+  aside {
+    ul {
+      display: flex;
+      gap: 1.5em;
+      justify-content: flex-start;
+      padding: 0;
+    }
+
+    li {
+      list-style: none;
+
+      &::before {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        content: "";
+        display: inline-block;
+        height: 1em;
+        margin-right: 0.5em;
+        vertical-align: middle;
+        width: 1em;
+      }
+
+      &:first-child::before {
+        background-image: url("/images/icons/globe-alt2-symbolic.svg");
+      }
+
+      &:nth-child(2)::before {
+        background-image: url("/images/icons/mail-symbolic.svg");
+      }
+
+      &:last-child::before {
+        background-image: url("/images/icons/phone-right-facing-symbolic.svg");
+      }
+    }
+  }
+}
