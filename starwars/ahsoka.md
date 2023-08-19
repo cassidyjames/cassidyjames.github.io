@@ -23,7 +23,7 @@ Former Jedi Knight Ahsoka Tano investigates an emerging threat to a vulnerable g
 
 Join us to watch [Ahsoka on Disney+]! We’ll be watching one chapter each debut ~~Wednesday~~ **Tuesday at 8:30 PM Mountain** time.
 
-If you are unable to watch asking with us at that time, you can still join the Discord and chat—just be careful of spoilers!
+If you are unable to watch along with us at that time, you can still join the Discord and chat—just be careful of spoilers!
 
 Event                                                                | Episode
 :------------------------------------------------------------------- | :-------------------------
