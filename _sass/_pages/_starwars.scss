@@ -189,15 +189,23 @@ html.starwars {
     body {
       background: linear-gradient(
         rgba(var(--background-rgb), 0),
-        rgba(var(--background-rgb), 1) 50%
+        rgba(var(--background-rgb), 1) 67%
       );
 
       &::before {
         background-color: rgb(var(--background-rgb));
         background-image:
-          linear-gradient(rgba(var(--background-rgb), 0.33), rgb(var(--background-rgb))),
-          url("/images/starwars/ahsoka/hero.jpg");
-        background-position: 80%;
+          linear-gradient(
+            rgba(var(--background-rgb), 0.33),
+            rgba(var(--background-rgb), 0) 6em
+          ),
+          radial-gradient(circle, rgba(var(--background-rgb), 0), rgb(var(--background-rgb))),
+          linear-gradient(rgba(var(--background-rgb), 0), rgb(var(--background-rgb))),
+          image-set(
+            url("/images/starwars/ahsoka/background.jpg") 1x,
+            url("/images/starwars/ahsoka/background@2x.jpg") 2x
+          );
+        background-position: 75% top;
         background-repeat: no-repeat;
         background-size: cover;
         content: " ";
@@ -214,8 +222,7 @@ html.starwars {
       box-shadow: 0 0 64px rgba(0, 0, 0, 0.5);
       color: rgb(var(--primary-rgb));
       fill: rgb(var(--primary-rgb));
-      transition:
-        background 200ms cubic-bezier(0.28, 0.11, 0.32, 1);
+      transition: background 200ms cubic-bezier(0.28, 0.11, 0.32, 1);
       transition-property: background, box-shadow;
 
       &.at-top {
@@ -225,9 +232,13 @@ html.starwars {
       }
     }
 
-    h1 img {
-      filter: brightness(0);
-      opacity: 0.67;
+    h1 {
+      margin-top: 4em;
+
+      img {
+        filter: brightness(0);
+        opacity: 0.67;
+      }
     }
 
     table {

@@ -21,19 +21,18 @@ Former Jedi Knight Ahsoka Tano investigates an emerging threat to a vulnerable g
 
 ## #AhsokaWatchAlong
 
-Join us to watch [Ahsoka on Disney+]! We’ll be watching one chapter each debut ~~Wednesday~~ **Tuesday at 8:30 PM Mountain** time.
+Join us to watch [Ahsoka on Disney+] each debut ~~Wednesday~~ **Tuesday at 8:30 PM Mountain** time. If you are unable to watch along with us at that time, you can still join the Discord and chat—just be careful of spoilers!
 
-If you are unable to watch along with us at that time, you can still join the Discord and chat—just be careful of spoilers!
-
-Event                                                                | Episode
-:------------------------------------------------------------------- | :-------------------------
-[August 22](https://discord.gg/3aagq4A?event=1139007079613472778)    | Premiere (Chapters I & II)
-[August 29](https://discord.gg/3aagq4A?event=1139007555901866025)    | Chapter III
-[September 5](https://discord.gg/3aagq4A?event=1139036974599118868)  | Chapter IV
-[September 12](https://discord.gg/3aagq4A?event=1139037285757767782) | Chapter V
-[September 19](https://discord.gg/3aagq4A?event=1139037671721799700) | Chapter VI
-[September 26](https://discord.gg/3aagq4A?event=1139037923820449843) | Chapter VII
-[October 3](https://discord.gg/3aagq4A?event=1139038317476859945)    | Season Finale (Chapter VIII)
+Event                                                          | Part                     | Synopsis
+:------------------------------------------------------------- | :----------------------- | :-------
+[Aug 22](https://discord.gg/3aagq4A?event=1139007079613472778) | 1. Master and Apprentice | A valuable prisoner escapes New Republic custody; a search for answers reunites two old friends.
+                                                               | 2. Toil and Trouble      | Ahsoka and General Hera Syndulla travel to New Republic shipyards and make an unexpected discovery.
+[Aug 29](https://discord.gg/3aagq4A?event=1139007555901866025) | 3. Part Three
+[Sep 5](https://discord.gg/3aagq4A?event=1139036974599118868)  | 4. Part Four
+[Sep 12](https://discord.gg/3aagq4A?event=1139037285757767782) | 5. Part Five
+[Sep 19](https://discord.gg/3aagq4A?event=1139037671721799700) | 6. Part Six
+[Sep 26](https://discord.gg/3aagq4A?event=1139037923820449843) | 7. Part Seven
+[Oct 3](https://discord.gg/3aagq4A?event=1139038317476859945)  | 8. Finale
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
 [Join the Discord](https://discord.gg/3aagq4A){: .button}
