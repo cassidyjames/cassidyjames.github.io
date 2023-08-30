@@ -44,7 +44,7 @@ Ahsoka Tano is a former Jedi trained by Anakin Skywalker during the **Clone Wars
 
 Ahsoka developed a friendship with Mandalorian **Bo-Katan Kryze**, and later helped the Mandalorians and Republic capture **Maul**. Later on she joined early **Rebels** of Phoenix Squadron including captain **Hera Syndulla**, Jedi Kanan Jarrus, Mandalorian **Sabine Wren**, and Jedi-in-training **Ezra Bridger**. Ahsoka fought alongside the rebels, going up against Maul, Darth Vader, the Inquisitors, and the Empire's **Grand Admiral Thrawn**.
 
-During her time with the rebels, she experienced the mysterious **World Between Worlds** in a Jedi temple on Ezra's home planet, Lothal. She parted ways with the Rebellion on a quest to find Ezra Bridger, who was last seen being pulled into hyperspace towards the Unknown Regions with Thrawn.
+During her time with the rebels, she experienced the mysterious **World Between Worlds** in a Jedi temple on Ezra's home planet, Lothal. She later parted ways with the Rebellion on a quest to find Ezra Bridger, who was last seen along with Thrawn on his disabled Seventh Fleet Star Destroyer, being pulled into hyperspace by giant hyperspace-faring whale-like **Purrgil**.
 
 ### What to Watch & Read
 
@@ -56,13 +56,53 @@ For extra credit (and if you have time…), I would highly recommend reading/lis
 
 The original Thrawn books (from 1991 through 2006) may be interesting background material, but are considered non-canon legends. The Ahsoka series may pull characters/traits, locations, plot lines, references (like calling Thrawn “Heir to the Empire”), but they aren't required reading for the series at all.
 
+### Star Wars Gets Weird
+
+Ahsoka was created as a character by Dave Filoni and George Lucas for the Clone Wars to give Anakin a Padawan learner, helping round him out and make his leaving the Jedi Order more impactful. She has been around in some of the most mystical times in Star Wars canon, especially in the Clone Wars and Rebels animated shows.
+
+This section contains potential **spoilers for Clone Wars and Rebels**, but might explain more of the heavy lore behind Ahsoka.
+
+#### Mortis
+
+During the Clone Wars, Ahsoka visited a mysterious ethereal Force realm on Mortis with Obi-Wan Kenobi and Anakin Skywalker. Mortis was home to the Ones: the dark side embodiment Brother, the light side embodiment Sister, and the Father who maintained the balance between the two.
+
+The Brother sought power; he killed Ahsoka and ultimately tried to kill the Father, with the Sister intervening and sacrificing herself at the last second. The Sister revived Ahsoka’s life with her own dying breath. After their encounter at Mortis, Ahsoka, Anakin, and Obi-Wan woke up in their ship seemingly when and where they were before.
+
+An owl named Morai was often seen with the Sister, and was later often seen with Ahsoka after Mortis.
+
+#### Dathomirian Nightsisters
+
+The planet Dathomir was home to the magick-wielding Nightsisters, often referred to as witches. The Nightsisters were not exactly Force-wielders, but had similar capabilities with their dark magick which manifested as a green mist.
+
+During the Clone Wars, Ahsoka had many run-ins with Asajj Ventress, a Nightsister who left Dathomir to be trained as a Sith apprentice by Count Dooku.
+
+#### Malachor
+
+In a Jedi temple on Lothal, a Force vision of Yoda instructed Ezra Bridger to travel to Malachor to unlock the secret to defeating the Sith. Ezra, his master Kanan Jarrus, and Ahsoka found an ancient Sith temple and Maul on Malachor.
+
+Maul saught to use the temple—apparently also an ancient Sith superweapon—against Palpatine, Vader, and the Empire. Ezra sought the temple’s Sith holocron for its knowledge. They were interrupted by Imperial Inquisitors who were hunting the Jedi, and ultimately Vader himself arrived to finish the job.
+
+Maul escaped by stealing an Inquisitor ship while Ezra successfully retrieved the Sith holocron, rendering the temple unstable. Kanan and Ezra escaped back to their ship while Ahsoka stayed behind to duel Vader in the crumbling temple.
+
+Vader appeared to defeat Ahsoka, who sacrificed herself to ensure Ezra’s escape.
+
+#### World Between Worlds
+
+Ezra’s master Kanan Jarrus sacrificed himself on Lothal to allow Ezra and the rebel crew to escape an explosion. Emperor Palpatine was aware of the Jedi temple on Lothal and sent a Sith archeologist and Imperial crew to try to unlock its secrets.
+
+Ezra traveled back to the temple where he and Sabine Wren discovered an ancient mural of the Mortis Ones. The mural unlocked a portal into the World Between Worlds, a mysterious ethereal realm seemingly bridging time and space with a number of portals. Ezra entered the portal while Sabine distracted the Imperials.
+
+Ezra saw Ahsoka and Vader dueling on Malachor through a portal in the World Between Worlds. He reached in and pulled Ahsoka out before Vader’s finishing blow and as the Sith temple crumbled.
+
+Ezra wanted to use the realm to save Kanan, but Ahsoka cautioned that doing so would mean Kanan would have been unable to save Ezra and the crew, preventing them from continuing on in their fight against the Empire and its oppression. Around this time, Emperor Palpatine used Sith magicks to see into the realm from a portal on Coruscant, and tried to pull Ezra to him to unlock the realm’s secrets.
+
+Ahsoka escaped back into the Malachor portal while Ezra escaped out of the temple on Lothal. The rebels destroyed the Jedi temple and Mortis Ones mural in an attempt to keep the Emperor and anyone else from using the realm.
+
 ### Timeline
 
-The _Ahsoka_ series takes place around the same time as _The Mandalorian_ and _The Book of Boba Fett_, which is around five years after _Star Wars Episode VI: Return of the Jedi_ and 25 years before _Star Wars Episode VII: The Force Awakens_.
+The _Ahsoka_ series takes place around the same time as _The Mandalorian_ and _The Book of Boba Fett_, which is around ten years after _Star Wars Episode VI: Return of the Jedi_ and 20 years before _Star Wars Episode VII: The Force Awakens_.
 
-For more context, see my compiled [timeline](/starwars#timeline), or watch this brief summary of the relevant [timeline (YouTube)].
+For more context, see my compiled [timeline](/starwars#timeline).
 
 [Ahsoka on Disney+]: https://www.disneyplus.com/series/ahsoka/pdpjs2TO4zJ4
 [The Clone Wars]: /starwars/clonewars/
-[timeline (YouTube)]: https://www.youtube.com/watch?v=Y4HjzJgG0e0
-
