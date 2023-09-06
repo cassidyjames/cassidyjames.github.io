@@ -2,7 +2,7 @@
 title: "Star Wars: Ahsoka"
 description: "#AhsokaWatchAlong events, everything you need to know, plus what you can watch and read to dig in even more"
 
-image: /images/starwars/ahsoka/card.jpg
+image: /images/starwars/ahsoka/card2.jpg
 logo: /images/starwars/ahsoka/logo.png
 
 redirect_from:
@@ -27,8 +27,8 @@ Event                                                          | Part           
 :------------------------------------------------------------- | :----------------------- | :-------
 [Aug 22](https://discord.gg/3aagq4A?event=1139007079613472778) | 1. Master and Apprentice | A valuable prisoner escapes New Republic custody; a search for answers reunites two old friends.
                                                                | 2. Toil and Trouble      | Ahsoka and General Hera Syndulla travel to New Republic shipyards and make an unexpected discovery.
-[Aug 29](https://discord.gg/3aagq4A?event=1139007555901866025) | 3. Time to Fly | Hera tangles with New Republic politics while Ahsoka and Sabine Wren voyage to a distant planet.
-[Sep 5](https://discord.gg/3aagq4A?event=1139036974599118868)  | 4. Part Four
+[Aug 29](https://discord.gg/3aagq4A?event=1139007555901866025) | 3. Time to Fly           | Hera tangles with New Republic politics while Ahsoka and Sabine Wren voyage to a distant planet.
+[Sep 5](https://discord.gg/3aagq4A?event=1139036974599118868)  | 4. Fallen Jedi           | Hera risks her career to help her friends while Ahsoka and Sabine confront enemies.
 [Sep 12](https://discord.gg/3aagq4A?event=1139037285757767782) | 5. Part Five
 [Sep 19](https://discord.gg/3aagq4A?event=1139037671721799700) | 6. Part Six
 [Sep 26](https://discord.gg/3aagq4A?event=1139037923820449843) | 7. Part Seven

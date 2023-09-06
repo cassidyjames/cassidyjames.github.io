@@ -34,12 +34,15 @@ I strive to **collaborate** with open source projects as much as possible, and s
 </section>
 
 <section class="talks" markdown="1">
-## Talks & Podcasts
+## Talks, Streams, & Podcasts
 
-I give **talks** about UX and open source. I also sometimes appear on **podcasts** like Linux Unplugged to talk about my work.
+I give **talks** and **stream** my work on open source. I also sometimes appear on **podcasts**.
 
 <a href="/talks" class="read-more talks"><i class="fa fa-fw fa-chalkboard-teacher"></i>View talks</a>
-<a href="https://linuxunplugged.com/guests/cassidyjames" class="read-more lup"><i class="fa fa-fw fa-microphone"></i>Listen on Linux Unplugged</a>
+<a href="https://www.youtube.com/@CassidyJames/streams" class="read-more"><i class="fa-fw fa-solid fa-video"></i>Watch livestreams</a>
+<a href="https://www.youtube.com/watch?v=iI1y8srvUMc" class="read-more"><i class="fa-fw fa-brands fa-youtube"></i>Watch Tech Over Tea</a>
+<a href="https://www.youtube.com/watch?v=YRCndaruy_g" class="read-more"><i class="fa-fw fa-brands fa-youtube"></i>Watch Linux User Space</a>
+<a href="https://linuxunplugged.com/guests/cassidyjames" class="read-more lup"><i class="fa-fw fa-solid fa-podcast"></i>Listen on Linux Unplugged</a>
 </section>
 
 <section class="writing" markdown="1">
@@ -70,7 +73,7 @@ I play **games** when I can find the time. Usually on PS5, but occasionally on S
 
 <a href="/destiny" class="read-more destiny"><i class="fa fa-fw manual"></i>Add on Destiny</a>
 <a href="http://psnprofiles.com/blaede22" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
-<a href="/switch" class="read-more switch"><i class="fab fa-fw fa-nintendo-switch"></i>Add on Nintendo Switch</a>
+<a href="/switch" class="read-more switch"><i class="fa-fw fa-solid fa-gamepad"></i>Add on Nintendo Switch</a>
 <a href="http://steamcommunity.com/id/{{ site.steam }}/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
 </section>
 </div>
