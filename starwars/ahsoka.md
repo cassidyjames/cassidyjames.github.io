@@ -2,7 +2,7 @@
 title: "Star Wars: Ahsoka"
 description: "#AhsokaWatchAlong events, everything you need to know, plus what you can watch and read to dig in even more"
 
-image: /images/starwars/ahsoka/card2.jpg
+image: /images/starwars/ahsoka/card.jpg
 logo: /images/starwars/ahsoka/logo.png
 
 redirect_from:
