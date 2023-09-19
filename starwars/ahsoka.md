@@ -29,7 +29,7 @@ Event                                                          | Part           
                                                                | 2. Toil and Trouble      | Ahsoka and General Hera Syndulla travel to New Republic shipyards and make an unexpected discovery.
 [Aug 29](https://discord.gg/3aagq4A?event=1139007555901866025) | 3. Time to Fly           | Hera tangles with New Republic politics while Ahsoka and Sabine Wren voyage to a distant planet.
 [Sep 5](https://discord.gg/3aagq4A?event=1139036974599118868)  | 4. Fallen Jedi           | Hera risks her career to help her friends while Ahsoka and Sabine confront enemies.
-[Sep 12](https://discord.gg/3aagq4A?event=1139037285757767782) | 5. Part Five
+[Sep 12](https://discord.gg/3aagq4A?event=1139037285757767782) | 5. Shadow Warrior        | Ahsoka confronts her past, while Hera and her allies undertake a rescue mission.
 [Sep 19](https://discord.gg/3aagq4A?event=1139037671721799700) | 6. Part Six
 [Sep 26](https://discord.gg/3aagq4A?event=1139037923820449843) | 7. Part Seven
 [Oct 3](https://discord.gg/3aagq4A?event=1139038317476859945)  | 8. Finale
