@@ -41,16 +41,27 @@ layout: default
 
   <hr style="clear: both;" />
 
+  {% if site.bio %}
+    <aside class="bio">
+      <h2>About the Author</h2>
+      {% if site.avatar %}
+        <img class="avatar" alt="Avatar" src="{{ site.avatar }}" />
+      {% endif %}
+
+      {{ site.bio | markdownify }}
+    </aside>
+  {% endif %}
+
   <aside class="disclaimer">
     {% capture md %}
-# Blog Ethics & Disclaimer
+## Blog Ethics & Disclaimer
 
 - No unnecessary third-party tracking
 - Privacy-respecting [Plausible analytics](https://plausible.io/cassidyjames.com) routed via my own domain
 - No Twitter, Facebook, or other embeds—quoted social media is reproduced locally
 - No payment, hardware, or favors accepted unless explicitly noted
 
-These are **my personal thoughts**, and don’t represent any official stance of elementary, GNOME, or any other associated organization or open source project.
+These are **my personal thoughts**, and don’t represent any official stance of Endless, GNOME, Flathub, elementary, or any other associated organization or open source project.
     {% endcapture %}
     {{ md | markdownify }}
   </aside>

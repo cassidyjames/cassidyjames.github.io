@@ -6,6 +6,10 @@ theme-color: "#452981"
 image: /images/card.png
 avatar: /images/me.jpg
 domain: cassidyjames.com
+bio: |
+  Cassidy is passionate about designing and building useful, usable, and delightful products using open technologies. In the past he co-founded elementary OS and served as the chief experience architect, and he's worked as a UX architect, web developer, and writer—and worn many, many other hats. He contributes to GNOME and the Flatpak ecosystem.
+
+  Outside of work and open source he enjoys photography, video games, watching and reading almost everything Star Wars, collecting way too much media on his Plex server, and being a dad.
 
 # Site-wide hardcoded (non-overridable by pages)
 made-in: Colorado
