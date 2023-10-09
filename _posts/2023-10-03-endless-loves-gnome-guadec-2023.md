@@ -4,6 +4,8 @@ description: Collaborating within GNOME to widen our impact far beyond Endless O
 image: /images/blog/guadec-2023/attendees.jpg
 
 updated: 2023-10-03
+comments:
+  id: 111173554004639985
 ---
 
 In July, my employer [Endless](https://endlessos.org) sponsored and attended the annual [GNOME](https://gnome.org) conference, [GUADEC](https://guadec.org), in Rīga, Latvia. Endless has a long history of supporting and collaborating within the GNOME open source project, and it was great to support GUADEC again this year as the platinum sponsor of the event.
