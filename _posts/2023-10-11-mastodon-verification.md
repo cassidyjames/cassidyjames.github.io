@@ -3,6 +3,9 @@ title: How and Why to Get Verified on Mastodon
 description: It's fast, easy, and doesn't cost anything
 updated: 2023-10-11
 image: /images/blog/mastodon-verification/verified.png
+
+comments:
+  id: 111217709599539934
 ---
 
 I run a little family Mastodon server so that I can have [@cassidy@blaede.family](https://mastodon.blaede.family/@cassidy) and feel comfortable sharing random photos of my kids with people while remaining in control of how they're shared. Part of running a Mastodon server is that the admin can curate what hashtags, posts, and links are allowed to trend; e.g. if `#furryNSFW` is popular across your server's corner of the Internet, you _might_ not want that to be recommended to your mom on the trending page (true story!). So admins can explicitly allow or disallow each trend before it's shown to their users. Once a trend is allowed, it will be able to trend again at any point in the future, cutting down on work for seasonal or naturally recurring trends (like `#SilentSunday` or `#SuperbOwl`).
