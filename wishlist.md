@@ -38,12 +38,14 @@ Image | Link | Price | Notes
 
 ---
 
-## Gift Hero Wish List
+## Gift Hero Wish Lists
 
-A more traditional, sprawling wish list. It’s _sort of_ sorted by priority by default, but you can sort by price as well. It includes shortlist items, things from the idea list, and a whole bunch more.
+More traditional, sprawling wish lists. There are also specific lists for certain categories, like smart home and vinyl. They are _sort of_ sorted by priority by default, but you can sort by price as well.
 
 <div style="text-align: center;" markdown="1">
-[View Gift Hero Wish List](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: .button onclick="plausible('Wishlist: Gift Hero');"}
+[View Gift Hero Wish Lists](https://www.gifthero.com/cassidyjames){: .button onclick="plausible('Wishlist: Gift Hero');"}
+[Catch-all](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: .button.flat onclick="plausible('Wishlist: Gift Hero');"}
+[Smart Home](https://www.gifthero.com/list/b236e8c4-8346-4be5-96e9-25eb91914d38){: .button.flat onclick="plausible('Wishlist: Gift Hero');"}
 </div>
 
 ---
