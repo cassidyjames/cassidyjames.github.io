@@ -11,6 +11,7 @@ title: Flathub apps
     <th>Categories</th>
     <th>Version</th>
     <th>Updated</th>
+    <th>Releases</th>
     <th>Spanish</th>
     <th>French</th>
     <th>German</th>
@@ -20,6 +21,7 @@ title: Flathub apps
     {% for app in site.data.appstream.components.component %}
     {% if app['@type'] == 'desktop' %}
         <tr>
+          <!-- Name -->
           <th>
             <a href="https://flathub.org/apps/{{ app.id }}" target="_blank">
               {% if app.name[0] %}
@@ -30,6 +32,7 @@ title: Flathub apps
             </a>
           </th>
 
+          <!-- Summary -->
           <td>
             {% if app.summary[0] %}
               {{ app.summary[0] }}
@@ -38,12 +41,14 @@ title: Flathub apps
             {% endif %}
           </td>
 
+          <!-- Categories -->
           <td>
             {% for category in app.categories.category %}
               {{ category }};
             {% endfor %}
           </td>
 
+          <!-- Version -->
           <td>
             {% if app.releases.release[0] %}
                {{ app.releases.release[0]['@version'] }}
@@ -52,6 +57,7 @@ title: Flathub apps
             {% endif %}
           </td>
 
+          <!-- Updated -->
           <td>
             {% if app.releases.release[0] %}
                {{ app.releases.release[0]['@timestamp'] | date: "%Y-%m-%d" }}
@@ -60,6 +66,12 @@ title: Flathub apps
             {% endif %}
           </td>
 
+          <!-- Releases -->
+          <td>
+            {{ app.releases.release.size }}
+          </td>
+
+          <!-- Spanish -->
           <td>
             {% for lang in app.languages.lang %}
               {% if lang['#text'] == 'es' %}
@@ -68,6 +80,7 @@ title: Flathub apps
             {% endfor %}
           </td>
 
+          <!-- French -->
           <td>
             {% for lang in app.languages.lang %}
               {% if lang['#text'] == 'fr' %}
@@ -76,6 +89,7 @@ title: Flathub apps
             {% endfor %}
           </td>
 
+          <!-- German -->
           <td>
             {% for lang in app.languages.lang %}
               {% if lang['#text'] == 'de' %}
@@ -84,6 +98,7 @@ title: Flathub apps
             {% endfor %}
           </td>
 
+          <!-- Verified -->
           <td>
             {% for meta in app.metadata.value %}
               {% if meta['@key'] == 'flathub::verification::verified' %}
