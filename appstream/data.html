@@ -7,84 +7,92 @@ title: Flathub apps
 <table>
   <thead>
     <th>Name</th>
-    <th>ID</th>
     <th>Summary</th>
     <th>Categories</th>
-    <th>Releases</th>
-    <th>Spanish Translation</th>
-    <th>French Translation</th>
-    <th>German Translation</th>
+    <th>Version</th>
+    <th>Updated</th>
+    <th>Spanish</th>
+    <th>French</th>
+    <th>German</th>
     <th>Verified</th>
   </thead>
   <tbody>
     {% for app in site.data.appstream.components.component %}
-      <tr>
-        <th>
-          {% if app.name[0] %}
-            {{ app.name[0] }}
-          {% else %}
-            {{ app.name }}
-          {% endif %}
-        </th>
+    {% if app['@type'] == 'desktop' %}
+        <tr>
+          <th>
+            <a href="https://flathub.org/apps/{{ app.id }}" target="_blank">
+              {% if app.name[0] %}
+                {{ app.name[0] }}
+              {% else %}
+                {{ app.name }}
+              {% endif %}
+            </a>
+          </th>
 
-        <td>{{ app.id }}</td>
-
-        <td>
-          {% if app.summary[0] %}
-            {{ app.summary[0] }}
-          {% else %}
-            {{ app.summary }}
-          {% endif %}
-        </td>
-
-        <td>
-          {% for category in app.categories.category %}
-            {{ category }};
-          {% endfor %}
-        </td>
-
-        <td>
-          {% if app.releases.release[0] %}
-            {% for release in app.releases.release %}
-              <strong>{{ release['@version'] }}</strong>: {{ release['@timestamp'] | date: "%Y-%m-%d" }};
-            {% endfor %}
-          {% else %}
-             <strong>{{ app.releases.release['@version'] }}</strong>: {{ app.releases.release['@timestamp'] | date: "%Y-%m-%d" }};
-          {% endif %}
-        </td>
-
-        <td>
-          {% for lang in app.languages.lang %}
-            {% if lang['#text'] == 'es' %}
-              {{ lang['@percentage'] }}%
-            {% endif%}
-          {% endfor %}
-        </td>
-
-        <td>
-          {% for lang in app.languages.lang %}
-            {% if lang['#text'] == 'fr' %}
-              {{ lang['@percentage'] }}%
-            {% endif%}
-          {% endfor %}
-        </td>
-
-        <td>
-          {% for lang in app.languages.lang %}
-            {% if lang['#text'] == 'de' %}
-              {{ lang['@percentage'] }}%
-            {% endif%}
-          {% endfor %}
-        </td>
-
-        <td>
-          {% for meta in app.metadata.value %}
-            {% if meta['@key'] == 'flathub::verification::verified' %}
-              Yes
+          <td>
+            {% if app.summary[0] %}
+              {{ app.summary[0] }}
+            {% else %}
+              {{ app.summary }}
             {% endif %}
-          {% endfor %}
-        </td>
-      </tr>
+          </td>
+
+          <td>
+            {% for category in app.categories.category %}
+              {{ category }};
+            {% endfor %}
+          </td>
+
+          <td>
+            {% if app.releases.release[0] %}
+               {{ app.releases.release[0]['@version'] }}
+            {% else %}
+               {{ app.releases.release['@version'] }}
+            {% endif %}
+          </td>
+
+          <td>
+            {% if app.releases.release[0] %}
+               {{ app.releases.release[0]['@timestamp'] | date: "%Y-%m-%d" }}
+            {% else %}
+               {{ app.releases.release['@timestamp'] | date: "%Y-%m-%d" }}
+            {% endif %}
+          </td>
+
+          <td>
+            {% for lang in app.languages.lang %}
+              {% if lang['#text'] == 'es' %}
+                {{ lang['@percentage'] }}%
+              {% endif%}
+            {% endfor %}
+          </td>
+
+          <td>
+            {% for lang in app.languages.lang %}
+              {% if lang['#text'] == 'fr' %}
+                {{ lang['@percentage'] }}%
+              {% endif%}
+            {% endfor %}
+          </td>
+
+          <td>
+            {% for lang in app.languages.lang %}
+              {% if lang['#text'] == 'de' %}
+                {{ lang['@percentage'] }}%
+              {% endif%}
+            {% endfor %}
+          </td>
+
+          <td>
+            {% for meta in app.metadata.value %}
+              {% if meta['@key'] == 'flathub::verification::verified' %}
+                Yes
+              {% endif %}
+            {% endfor %}
+          </td>
+        </tr>
+      {% endif %}
     {% endfor %}
   </tbody>
 </table>
