@@ -1,0 +1,110 @@
+---
+title: Flathub apps
+---
+
+<h1>{{ page.title }}</h1>
+
+<table>
+  <thead>
+    <th>Name</th>
+    <th>ID</th>
+    <th>Summary</th>
+    <th>Categories</th>
+    <th>Releases</th>
+    <th>Spanish Translation</th>
+    <th>French Translation</th>
+    <th>German Translation</th>
+    <th>Verified</th>
+  </thead>
+  <tbody>
+    {% for app in site.data.appstream.components.component %}
+      <tr>
+        <th>
+          {% if app.name[0] %}
+            {{ app.name[0] }}
+          {% else %}
+            {{ app.name }}
+          {% endif %}
+        </th>
+
+        <td>{{ app.id }}</td>
+
+        <td>
+          {% if app.summary[0] %}
+            {{ app.summary[0] }}
+          {% else %}
+            {{ app.summary }}
+          {% endif %}
+        </td>
+
+        <td>
+          {% for category in app.categories.category %}
+            {{ category }};
+          {% endfor %}
+        </td>
+
+        <td>
+          {% if app.releases.release[0] %}
+            {% for release in app.releases.release %}
+              <strong>{{ release['@version'] }}</strong>: {{ release['@timestamp'] | date: "%Y-%m-%d" }};
+            {% endfor %}
+          {% else %}
+             <strong>{{ app.releases.release['@version'] }}</strong>: {{ app.releases.release['@timestamp'] | date: "%Y-%m-%d" }};
+          {% endif %}
+        </td>
+
+        <td>
+          {% for lang in app.languages.lang %}
+            {% if lang['#text'] == 'es' %}
+              {{ lang['@percentage'] }}%
+            {% endif%}
+          {% endfor %}
+        </td>
+
+        <td>
+          {% for lang in app.languages.lang %}
+            {% if lang['#text'] == 'fr' %}
+              {{ lang['@percentage'] }}%
+            {% endif%}
+          {% endfor %}
+        </td>
+
+        <td>
+          {% for lang in app.languages.lang %}
+            {% if lang['#text'] == 'de' %}
+              {{ lang['@percentage'] }}%
+            {% endif%}
+          {% endfor %}
+        </td>
+
+        <td>
+          {% for meta in app.metadata.value %}
+            {% if meta['@key'] == 'flathub::verification::verified' %}
+              Yes
+            {% endif %}
+          {% endfor %}
+        </td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<style>
+  table {
+    display: block;
+    max-height: 67vh;
+    max-width: 100%;
+    overflow: scroll;
+    text-align: left;
+  }
+
+  thead {
+    background-color: rgb(var(--background-rgb), 200);
+    position: sticky;
+    top: 0;
+  }
+
+  tbody tr:nth-child(odd) {
+    background-color: var(--faint);
+  }
+</style>
