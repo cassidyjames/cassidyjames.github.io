@@ -38,8 +38,6 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - [**Codestash**](https://github.com/cassidyjames/codestash): Stash your code for later. Inspired by [SourceNote for Mac](https://www.sourcenoteapp.com/).
 
-- [**Plausible**](https://github.com/cassidyjames/plausible): Native app that wraps up Plausible dashboard data. Would likely need a new name since it's unofficial.
-
 - [**Rundown**](https://github.com/cassidyjames/rundown): Battery rundown app that waits until the battery is full, then power is unplugged, then it runs benchmarks until the battery dies. Use across hardware for consistent/comparable battery stats. Probably needs to do a variety of work behind the scenes, like loading webpages (WebKitGTK), maybe playing videos, occasionally hitting the CPU.
 
 - **Webshooter**: Your friendly neighborhood website screenshooter. Grab full-size screenshots of web pages at predefined sizes. Great for sharing prototypes.
