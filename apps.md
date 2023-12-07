@@ -50,8 +50,6 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - **Butler**: Home Assistant dashboard on the desktop. A lightweight native wrapper around Home Assistant that has you enter your local (and optionally remote) URL, intelligently falls back to the remote URL, respects the FreeDesktop dark style, integrates with the Background portal, and maybe even has a mini mode called by a global keyboard shortcut.
 
-- **Diffaroo**: Get a diff of the filesystem, packages, etc. from a known-good state, i.e. to see changes made from a stock image by an OEM.
-
 - **Lyra**: Get lyrics and meaning for almost any song. Powered by the Genius API. Hook into MPRIS to see what's playing, but also search for songs/lyrics.
 
 - **Pixels**: A pixel-perfect ruler. Inspired by [PixelSnap for Mac](https://getpixelsnap.com/).
@@ -67,6 +65,8 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 - ~~[**Audio**](https://github.com/cassidyjames/audio): Play audio files. That's it. Utility for playing downloaded voicemails, personal recordings, etc. without opening up a full-fledged music app.~~ See [Decibels](https://flathub.org/apps/com.vixalien.decibels)
 
 - ~~**Clack**: A simple, no-frills notepad sort of app. Just the bare minimum needed to spit some text into a .txt file.~~ Basically fulfilled by [GNOME Text Editor](https://flathub.org/apps/details/org.gnome.TextEditor).
+
+- ~~**Diffaroo**: Get a diff of the filesystem, packages, etc. from a known-good state, i.e. to see changes made from a stock image by an OEM.~~ Not sure how this fits into a modern idea of image-based/immutable OSes.
 
 - ~~**Gotham**: Selectively force-enable a dark style support third-party apps, like Firefox. Would show a list of apps (perhaps just non-curated ones?), allowing you to toggle dark style support, which could copy the .desktop file and prepend it with an environment variable that followed the elementary dark style. Or something.~~ Partially fulfilled by [Darkbar](https://flathub.org/apps/details/com.github.bluesabre.darkbar), and the spread of the FreeDesktop dark style preference.
 
