@@ -6,12 +6,13 @@ Apps I've made, and apps I wish existed.
 
 I have a few apps available on Flathub for any modern Linux-based operating system.
 
-[![Dippi icon](https://raw.githubusercontent.com/cassidyjames/dippi/7d11037d7288dea7aed664b69b6d4e73439fdcfb/data/icons/com.github.cassidyjames.dippi.svg)][dippi] | [![Clairvoyant icon](https://raw.githubusercontent.com/cassidyjames/clairvoyant/main/data/icons/com.github.cassidyjames.clairvoyant.svg)][clairvoyant]
+[![Dippi icon](https://raw.githubusercontent.com/cassidyjames/dippi/main/data/icons/com.github.cassidyjames.dippi.svg)][dippi] | [![Clairvoyant icon](https://raw.githubusercontent.com/cassidyjames/clairvoyant/main/data/icons/com.github.cassidyjames.clairvoyant.svg)][clairvoyant] | [![Tally icon](https://raw.githubusercontent.com/cassidyjames/tally/main/data/icons/tally.svg)][tally]
 --- | --- | ---
-[Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) | [Clairvoyant](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant)
+[Dippi] | [Clairvoyant] | [Tally]
 
 [dippi]: https://flathub.org/apps/details/com.github.cassidyjames.dippi
 [clairvoyant]: https://flathub.org/apps/details/com.github.cassidyjames.clairvoyant
+[tally]: https://flathub.org/apps/details/com.cassidyjames.plausible
 
 ## Deprecated
 
