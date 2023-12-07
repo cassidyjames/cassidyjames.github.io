@@ -56,11 +56,11 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - **Pixels**: A pixel-perfect ruler. Inspired by [PixelSnap for Mac](https://getpixelsnap.com/).
 
-- **Roost**: App for Nest smart devices, i.e. thermostat, cams, etc.
-
 - **Shortlist**: Better than wishlists. Pick a small number of items you want. This would likely be more a web service with native front-ends for at least elementary OS and Android.
 
-- **Stickers**: A collection of cute stickers that can be pasted into apps. Ideally featuring [Adorbs](https://samuelhewitt.com/adorbs), maybe any Telegram-compatible stickers?
+- **Stickers**: Collection of cute stickers that can be pasted into apps. Ideally featuring [Adorbs](https://samuelhewitt.com/adorbs), maybe any Telegram-compatible stickers?
+
+- **This Week** (or a better name): Native implementation of [This Week in GNOME](https://thisweek.gnome.org/). Why use it instead of an RSS reader? It could take the RSS feed and transform it into a bit more structured data shown in native views, run in the background and only notify when there's news without requiring any setup.
 
 ### Superseded _Either no longer make sense or no longer needed._
 
@@ -71,3 +71,5 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 - ~~**Gotham**: Selectively force-enable a dark style support third-party apps, like Firefox. Would show a list of apps (perhaps just non-curated ones?), allowing you to toggle dark style support, which could copy the .desktop file and prepend it with an environment variable that followed the elementary dark style. Or something.~~ Partially fulfilled by [Darkbar](https://flathub.org/apps/details/com.github.bluesabre.darkbar), and the spread of the FreeDesktop dark style preference.
 
 - ~~**Pwatypus**: Turn PWAs into pinned, integrated web apps. Like [Webpin](https://github.com/artemanufrij/webpin), but leaning more on PWA manifests and focusing on as deep of integration as possible.~~ Less needed now with the work towards PWA support in GNOME Web.
+
+- ~~**Roost**: App for Nest smart devices, i.e. thermostat, cams, etc.~~ Superseded by the **Butler** idea above, plus integrating directly with Nest is a huge pain.
