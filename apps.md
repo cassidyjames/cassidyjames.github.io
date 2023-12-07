@@ -34,8 +34,6 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - [**Anamorph**](https://github.com/cassidyjames/anamorph): De-squeeze anamorphic footage, i.e. that shot with a Moment Anamorphic lens.
 
-- [**Audio**](https://github.com/cassidyjames/audio): Play audio files. That's it. Utility for playing downloaded voicemails, personal recordings, etc. without opening up a full-fledged music app.
-
 - [**Codecard**](https://github.com/DevAlien/codecard): Share snippets of code as a pretty image, e.g. for social media.
 
 - [**Codestash**](https://github.com/cassidyjames/codestash): Stash your code for later. Inspired by [SourceNote for Mac](https://www.sourcenoteapp.com/).
@@ -50,6 +48,8 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - **Backdrop**: Small collection of curated wallpapers. Maybe using an Unsplash collection as a back-end, or just shipping the wallpapers with the app.
 
+- **Butler**: Home Assistant dashboard on the desktop. A lightweight native wrapper around Home Assistant that has you enter your local (and optionally remote) URL, intelligently falls back to the remote URL, respects the FreeDesktop dark style, integrates with the Background portal, and maybe even has a mini mode called by a global keyboard shortcut.
+
 - **Diffaroo**: Get a diff of the filesystem, packages, etc. from a known-good state, i.e. to see changes made from a stock image by an OEM.
 
 - **Lyra**: Get lyrics and meaning for almost any song. Powered by the Genius API. Hook into MPRIS to see what's playing, but also search for songs/lyrics.
@@ -63,6 +63,8 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 - **Stickers**: A collection of cute stickers that can be pasted into apps. Ideally featuring [Adorbs](https://samuelhewitt.com/adorbs), maybe any Telegram-compatible stickers?
 
 ### Superseded _Either no longer make sense or no longer needed._
+
+- ~~[**Audio**](https://github.com/cassidyjames/audio): Play audio files. That's it. Utility for playing downloaded voicemails, personal recordings, etc. without opening up a full-fledged music app.~~ See [Decibels](https://flathub.org/apps/com.vixalien.decibels)
 
 - ~~**Clack**: A simple, no-frills notepad sort of app. Just the bare minimum needed to spit some text into a .txt file.~~ Basically fulfilled by [GNOME Text Editor](https://flathub.org/apps/details/org.gnome.TextEditor).
 
