@@ -20,7 +20,7 @@ Slimbook recently had a [Linux-related developer promotion](https://slimbook.es/
 I applied on behalf of my work on elementary, and to my surprise, they chose me! A few weeks later, a refurbished [Slimbook Pro X][pro-x] showed up at my door. If you follow me on Twitter, this may be old news:
 
 <div markdown="0">
-  <a href="https://twitter.com/CassidyJames/status/1273667079548235776">
+  <a href="https://twitter.cassidyjames.com/CassidyJames/status/1273667079548235776">
     <blockquote>
       <p><strong>Cassidy James Blaede</strong> @CassidyJames<br />
       Unboxing something from @SlimbookEs 📦️👀️</p>
