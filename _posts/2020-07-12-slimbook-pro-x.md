@@ -139,7 +139,7 @@ Over all, I love the look and feel of the keyboard. The reflectiveness, backligh
 If you're not interacting with the keyboard, you're using the trackpad. Luckily, the trackpad is similar to the keyboard: mostly great with only some very minor issues.
 
 <aside markdown="1">
-[Video](https://twitter.com/CassidyJames/status/1273679346830422020) (Twitter)
+[Video](https://twitter.cassidyjames.com/CassidyJames/status/1273679346830422020) (Twitter)
 </aside>
 
 First, it's **big**. I love the size, which gives you all sorts of room for tracking and multi-touch gesturing. And its location and software seem to do a great job of avoiding accidental touches/movements, even with its size.
@@ -237,7 +237,7 @@ Yep, it came with elementary OS! It was just a few updates behind the latest ima
 It was _mostly_ stock, though with a few added apps: Firefox, LibreOffice, NVIDIA tools, and some Slimbook-specific apps were installed.
 
 <aside markdown="1">
-[Video](https://twitter.com/CassidyJames/status/1273678572213813248) (Twitter)
+[Video](https://twitter.cassidyjames.com/CassidyJames/status/1273678572213813248) (Twitter)
 </aside>
 
 #### Slimbook apps
@@ -245,13 +245,13 @@ It was _mostly_ stock, though with a few added apps: Firefox, LibreOffice, NVIDI
 They ship a [Slimbook Battery](https://slimbook.es/en/tutoriales/aplicaciones-slimbook/398-slimbook-battery-3-application-for-optimize-battery-of-your-laptop) app which appears to be a front-end to TLP, but doesn't really integrate into elementary OS at all (i.e. via the power indicator). I have not played with this too much, as I believe the device should ship with sane defaults, and I don't really want to fiddle with it.
 
 <aside markdown="1">
-[Video](https://twitter.com/CassidyJames/status/1273679991708938240) (Twitter)
+[Video](https://twitter.cassidyjames.com/CassidyJames/status/1273679991708938240) (Twitter)
 </aside>
 
 There is also a [Slimbook Face](https://slimbook.es/en/tutoriales/aplicaciones-slimbook/400-slimbook-face-biometric-recognition-and-dont-enter-more-passwords) app which is the front-end for the IR camera unlocking. It looks like it's a light fork of the more well-known [Howdy app for Windows Hello cameras](https://github.com/boltgolt/howdy).
 
 <aside markdown="1">
-[Video of enrollment](https://twitter.com/CassidyJames/status/1273681909709541376) and [video of usage](https://twitter.com/CassidyJames/status/1273682467921162240) (Twitter)
+[Video of enrollment](https://twitter.cassidyjames.com/CassidyJames/status/1273681909709541376) and [video of usage](https://twitter.cassidyjames.com/CassidyJames/status/1273682467921162240) (Twitter)
 </aside>
 
 There are also a number of CLI utilities that come with the install that I haven't dived into too much, though I found out I need to use `prime-select` to change between the NVIDIA or Intel GPUs.
