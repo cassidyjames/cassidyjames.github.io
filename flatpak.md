@@ -1,7 +1,12 @@
 ---
 title: Flatpak
 description: Why I only support Flatpak and distribute on Flathub
+redirect_from: /f
 ---
+
+# {{ page.title }}
+
+{{ page.description }}
 
 My apps are only officially distributed as Flatpaks via Flathub. Any other distribution of my apps is not supported by me.
 
