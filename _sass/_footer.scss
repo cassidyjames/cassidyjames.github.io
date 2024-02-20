@@ -40,8 +40,7 @@ body > footer {
       font-weight: normal;
       line-height: 1em;
       margin: 0.125em;
-      padding: 0.33em;
-      transition: none;
+      padding: 0.5em;
 
       &:hover,
       &:focus {
@@ -56,6 +55,11 @@ body > footer {
           0 0.0625em 0.125em rgba(black, 0.5);
         text-decoration: none;
         text-shadow: 0 1px 1px rgba(black, 0.5);
+      }
+
+      i {
+        height: 1em;
+        width: 1em;
       }
     }
 
@@ -86,7 +90,7 @@ body > footer {
     .unsplash a:hover,
     .unsplash a:focus {
       background-color: white;
-      color: black;
+      color: var(--unsplash);
       text-shadow: none;
     }
 
@@ -105,13 +109,25 @@ body > footer {
 
     .square a:hover,
     .square a:focus {
-      background-color: #3cd428;
+      background-color: var(--square);
       color: white;
     }
 
     .email a:hover,
     .email a:focus {
       background-color: #FFB300;
+      color: white;
+    }
+
+    .signal a:hover,
+    .signal a:focus {
+      background-color: var(--signal);
+      color: white;
+    }
+
+    .matrix a:hover,
+    .matrix a:focus {
+      background-color: var(--matrix);
       color: white;
     }
   }

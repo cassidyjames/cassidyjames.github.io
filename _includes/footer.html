@@ -5,7 +5,7 @@
     {% if site.github_user %}
       <li class="github">
         <a href="https://github.com/{{ site.github_user }}" title="GitHub">
-          <i class="fab fa-github"></i>
+          <i class="fab fa-fw fa-github"></i>
         </a>
       </li>
     {% endif%}
@@ -13,7 +13,7 @@
     {% if site.mastodon %}
       <li class="mastodon">
         <a href="{{ site.mastodon }}" title="Mastodon">
-          <i class="fab fa-mastodon"></i>
+          <i class="fab fa-fw fa-mastodon"></i>
         </a>
       </li>
     {% endif %}
@@ -21,7 +21,15 @@
     {% if site.matrix %}
       <li class="matrix">
         <a href="https://matrix.to/#/{{ site.matrix }}" title="Matrix">
-          <i class="fa fa-comments"></i>
+          <i class="fa fa-fw fa-comment"></i>
+        </a>
+      </li>
+    {% endif %}
+
+    {% if site.signal %}
+      <li class="signal">
+        <a href="{{ site.signal }}" title="Signal">
+          <i class="fab fa-fw fa-signal-messenger"></i>
         </a>
       </li>
     {% endif %}
@@ -29,7 +37,7 @@
     {% if site.email %}
       <li class="email">
         <a href="mailto:{{ site.email }}" title="Email">
-          <i class="fa fa-envelope"></i>
+          <i class="fa fa-fw fa-envelope"></i>
         </a>
       </li>
     {% endif %}
