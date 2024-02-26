@@ -1,3 +1,7 @@
+---
+class: article
+---
+
 # Cassidy's Apps
 
 Apps I've made, and apps I wish existed.
@@ -6,13 +10,34 @@ Apps I've made, and apps I wish existed.
 
 I have a few apps available on Flathub for any modern Linux-based operating system.
 
-[![Dippi icon](https://raw.githubusercontent.com/cassidyjames/dippi/main/data/icons/com.github.cassidyjames.dippi.svg)][dippi] | [![Clairvoyant icon](https://raw.githubusercontent.com/cassidyjames/clairvoyant/main/data/icons/com.github.cassidyjames.clairvoyant.svg)][clairvoyant] | [![Tally icon](https://raw.githubusercontent.com/cassidyjames/tally/main/data/icons/tally.svg)][tally]
---- | --- | ---
-[Dippi] | [Clairvoyant] | [Tally]
+[![Dippi icon](https://raw.githubusercontent.com/cassidyjames/dippi/main/data/icons/com.github.cassidyjames.dippi.svg)][dippi] | [![Clairvoyant icon](https://raw.githubusercontent.com/cassidyjames/clairvoyant/main/data/icons/com.github.cassidyjames.clairvoyant.svg)][clairvoyant] | [![Tally icon](https://raw.githubusercontent.com/cassidyjames/tally/main/data/icons/tally.svg)][tally] | [![Butler icon](https://raw.githubusercontent.com/cassidyjames/butler/main/data/icons/app.svg)][butler]
+--- | --- | --- | ---
+[Dippi] | [Clairvoyant] | [Tally] | [Butler]
 
 [dippi]: https://flathub.org/apps/details/com.github.cassidyjames.dippi
 [clairvoyant]: https://flathub.org/apps/details/com.github.cassidyjames.clairvoyant
 [tally]: https://flathub.org/apps/details/com.cassidyjames.plausible
+[butler]: https://flathub.org/apps/details/com.cassidyjames.butler
+
+---
+
+## Only on Flathub
+
+I've chosen to only distribute and support my apps on [Flathub]; it's the best place to get apps for Linux, regardless of your specific distribution. Get the latest versions from there and know that it's my app, supported by me.
+
+[![Download on Flathub](https://flathub.org/assets/badges/flathub-badge-en.svg)][Flathub]
+
+- **If you're on elementary OS**: AppCenter versions of my apps are **no longer maintained or receiving updates.** I have requested they be removed. Install from [Flathub] to get the latest designs and future updates.
+
+- **If you're using my apps packaged as Snaps**, Arch packages, or anything else: These builds **are not supported by me**, as I don't have the time and energy to test them. They've been repackaged against my wishes.
+
+Flatpak works well across all Linux distributions, and helps guarantee you'll be experiencing my apps as I've designed them. I've asked third-party packagers to not repackage my apps under my name elsewhere—they're all 100% Free and Open Source, but the support and maintenance burden—and effect on reputation—means I don't condone this repackaging.
+
+If you're someone who would like to fork my apps, I encourage it! I simply request you rename them and not distribute them under my name (except e.g. as an individual contributor to the code itself).
+
+[flathub]: https://flathub.org/apps/search?q=cassidyjames
+
+---
 
 ## Deprecated
 
