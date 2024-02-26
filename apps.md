@@ -31,7 +31,7 @@ I've chosen to only distribute and support my apps on [Flathub]; it's the best p
 
 - **If you're using my apps packaged as Snaps**, Arch packages, or anything else: These builds **are not supported by me**, as I don't have the time and energy to test them. They've been repackaged against my wishes.
 
-Flatpak works well across all Linux distributions, and helps guarantee you'll be experiencing my apps as I've designed them. I've asked third-party packagers to not repackage my apps under my name elsewhere—they're all 100% Free and Open Source, but the support and maintenance burden—and effect on reputation—means I don't condone this repackaging.
+Flatpak works well across all Linux distributions, and helps guarantee you'll be experiencing my apps as I've designed them. I've asked third-party packagers to not repackage my apps under my name elsewhere; they're all 100% Free and Open Source, but the support and maintenance burden—and effect on reputation—means I don't condone this repackaging.
 
 If you're someone who would like to fork my apps, I encourage it! I simply request you rename them and not distribute them under my name (except e.g. as an individual contributor to the code itself).
 
