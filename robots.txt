@@ -1,9 +1,22 @@
 # Disallow crawlers and scrapers for training AI/ML/LLM
 
+# Amazonbot (Alexa)
+# Used to "improve our services"
+# https://developer.amazon.com/amazonbot
+
+User-agent: Amazonbot
+Disallow: /
+
 # Anthropic (Claude)
 # https://www.anthropic.com/
 
 User-agent: anthropic-ai
+Disallow: /
+
+# Applebot (Siri)
+# Crawler for all Apple products, including Siri and Spotlight Suggestions
+
+User-agent: Applebot
 Disallow: /
 
 # Bytedance (Doubao, TikTok)
@@ -21,6 +34,12 @@ Disallow: /
 # https://commoncrawl.org/ccbot
 
 User-agent: CCBot
+Disallow: /
+
+# Cohere
+# https://cohere.com/
+
+User-agent: cohere-ai
 Disallow: /
 
 # FacebookBot (Meta Facebook)
@@ -60,9 +79,6 @@ Disallow: /
 User-agent: omgili
 Disallow: /
 
-User-agent: Omgilibot
-Disallow: /
-
 User-agent: omgilibot
 Disallow: /
 
@@ -72,6 +88,13 @@ Disallow: /
 # https://www.semrush.com/apps/contentshake/
 
 User-agent: SemrushBot
+Disallow: /
+
+# YouBot (you.com)
+# AI chat
+# https://about.you.com/youbot/
+
+User-agent: YouBot
 Disallow: /
 
 # Sitemap for everyone who's nice :)
