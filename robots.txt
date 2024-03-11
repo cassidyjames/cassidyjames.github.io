@@ -1,14 +1,78 @@
+# Disallow crawlers and scrapers for training AI/ML/LLM
+
+# Anthropic (Claude)
+# https://www.anthropic.com/
+
+User-agent: anthropic-ai
+Disallow: /
+
+# Bytedance (Doubao, TikTok)
+# Note, does not seem to respect this
+# https://darkvisitors.com/agents/bytespider
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Bytedance
+Disallow: /
+
+# Common Crawl
+# Used by Google and likely others
+# https://commoncrawl.org/ccbot
+
 User-agent: CCBot
+Disallow: /
+
+# FacebookBot (Meta Facebook)
+# https://developers.facebook.com/docs/sharing/bot
+
+User-agent: FacebookBot
+Disallow: /
+
+# Google Extended (Gemini)
+# Gemini apps, Vertex AI generative APIs, and other Google models
+# https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers#google-extended
+
+User-agent: Google-Extended
+Disallow: /
+
+# GPT (OpenAI)
+# https://platform.openai.com/docs/gptbot
+# https://platform.openai.com/docs/plugins/bot
+
+User-agent: GPTBot
 Disallow: /
 
 User-agent: ChatGPT-User
 Disallow: /
 
-User-agent: GPTBot
+# ImageSift (Hive)
+# Scraper to train generative-AI
+# https://imagesift.com/about
+
+User-agent: ImagesiftBot
 Disallow: /
 
-User-agent: Google-Extended
+# Omgili Bot
+# Commercial crawler using scraped data
+# https://webz.io/blog/web-data/what-is-the-omgili-bot-and-why-is-it-crawling-your-website/
+
+User-agent: omgili
 Disallow: /
 
 User-agent: Omgilibot
 Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+# Semrush
+# Commercial crawler selling marketing and competitor data to be used with AI
+# https://www.semrush.com/bot/
+# https://www.semrush.com/apps/contentshake/
+
+User-agent: SemrushBot
+Disallow: /
+
+# Sitemap for everyone who's nice :)
+Sitemap: https://cassidyjames.com/sitemap.xml
