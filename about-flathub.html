@@ -3,27 +3,27 @@ title: About Flathub
 description: Whether you're a user looking for apps or a developer looking to reach more users, Flathub is the best choice for apps on Linux.
 ---
 
-<h1>The Linux App Store</h1>
+<h1>About Flathub: The Linux App Store</h1>
 <p>Whether you're a user looking for apps or a developer looking to reach more users, <strong>Flathub is the best choice for apps on Linux.</strong></p>
 
 <section class="hero flow">
   <article id="users">
     <h2>Users</h2>
-    <p><strong>All the apps you want</strong> — From big names you’d expect to fresh indie developers, Flathub has thousands of apps to meet your needs</p>
-    <p><strong>Transparent safety</strong> — Clearly see when an app is verified as coming from its developer, what permissions it requires, and whether or not it's open source and auditable</p>
+    <p><strong>All the apps you want</strong> — From big names you’d expect to fresh indie developers, Flathub has <a href="https://flathub.org/">thousands of apps</a> to meet your needs</p>
+    <p><strong>Transparent safety</strong> — Clearly see when an app is <a href="https://docs.flathub.org/docs/for-users/verification/">verified</a> as coming from its developer, what permissions it requires, and whether or not it's open source and auditable</p>
     <p><strong>Tastefully curated</strong> — Discover interesting, quality apps across Flathub with our staff curation that showcases the best on offer <em>*Coming soon</em></p>
     <p><strong>Apps for you where you are</strong> — Whether you’re on a Steam Deck, a powerful Linux workstation, a Raspberry Pi, or the rare Linux phone; Flathub has apps for you</p>
     <div class="cta">
-      <a class="button" href="/">Get Apps</a>
+      <a class="button" href="https://flathub.org/">Get Apps</a>
     </div>
   </article>
 
   <article id="developers">
     <h2>Developers</h2>
-    <p><strong>Reach millions of users</strong> — Flathub comes out of the box on multiple Linux distros, is easily installable on the rest, and has over a million active users</p>
+    <p><strong>Reach millions of users</strong> — Flathub comes out of the box on multiple Linux distros, is <a href="https://flathub.org/setup">easily installable</a> on the rest, and has over a million active users</p>
     <p><strong>Independent & transparent</strong> — We’re a grassroots open source community stewarding the best of what the ecosystem has to offer</p>
-    <p><strong>Clear docs & guidance</strong> — Extensive documentation, thousands of public app manifests, and a large community means you’re always able to get help</p>
-    <p><strong>Native app store integration</strong> — Forget web downloads; Flathub delivers apps and updates to users in their native app store client where they'd expect</p>
+    <p><strong>Clear docs & guidance</strong> — Extensive <a href="https://docs.flathub.org/docs/category/for-app-authors">documentation</a>, thousands of public <a href="https://github.com/flathub/">app manifests</a>, and a large community means you’re always able to get help</p>
+    <p><strong>Native app store integration</strong> — Forget web downloads; Flathub delivers apps and <a href="https://docs.flathub.org/docs/for-app-authors/updates">automatic updates</a> to users in their native app store client where they'd expect</p>
     <div class="cta">
       <a class="button" href="https://docs.flathub.org/docs/category/for-app-authors">Publish Your App</a>
     </div>
@@ -35,27 +35,27 @@ description: Whether you're a user looking for apps or a developer looking to re
   <article>
     <h3 id="press">Press</h3>
     <p>We're always happy to answer questions from and arrange interviews with journalists and tech writers</p>
-    <ul>
-      <li><a class="blog" href="https://docs.flathub.org/blog">Read Announcements</a></li>
-      <li><a class="download" href="#">Download Press Kit</a></li>
-      <li><a class="email" href="mailto:foo@example.com">Contact for Press Inquiries</a></li>
-    </ul>
+    <div class="cta">
+      <a href="https://docs.flathub.org/blog">Read Announcements</a>
+      <a href="#">Download Press Kit</a>
+      <a href="mailto:foo@example.com">Contact for Press Inquiries</a>
+    </div>
   </article>
   <article>
     <h3 id="security-legal">Security &amp; Legal</h3>
     <p>We take security reports and legal issues very seriously</p>
-    <ul>
-      <li><a class="email" href="mailto:foo@example.com">Report Security Concern</a></li>
-      <li><a class="email" href="mailto:foo@example.com">Report Legal Issue</a></li>
-    </ul>
+    <div class="cta">
+      <a href="mailto:foo@example.com">Report Security Concern</a>
+      <a href="mailto:foo@example.com">Report Legal Issue</a>
+    </div>
   </article>
   <article>
     <h3 id="developers-users">Developers &amp; Users</h3>
     <p>Connect with the team and other members of the community to ask questions and share your expertise</p>
-    <ul>
-      <li><a class="chat" href="mailto:foo@example.com">Chat on Matrix</a></li>
-      <li><a class="forum" href="mailto:foo@example.com">Join Discourse Forum</a></li>
-    </ul>
+    <div class="cta">
+      <a href="mailto:foo@example.com">Join Discourse Forum</a>
+      <a href="mailto:foo@example.com">Chat on Matrix</a>
+    </div>
   </article>
 </section>
 
@@ -117,37 +117,11 @@ description: Whether you're a user looking for apps or a developer looking to re
     margin-top: 4em;
   }
 
-  section.flow ul {
-    margin: 0;
-    padding: 0;
-  }
-
-  section.flow ul li {
-    list-style: none;
-  }
-
   .cta {
-    text-align: center;
-  }
-
-  a.blog::before {
-    content: "📰 ";
-  }
-
-  a.download::before {
-    content: "⬇️ ";
-  }
-
-  a.email::before {
-    content: "✉️ ";
-  }
-
-  a.chat::before {
-    content: "🗨️ ";
-  }
-
-  a.forum::before {
-    content: "🗣️ ";
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em 2em;
+    justify-content: center;
   }
 
   /* Workarounds for my site's styles */
@@ -165,5 +139,17 @@ description: Whether you're a user looking for apps or a developer looking to re
 
   h3 {
     margin: 0;
+  }
+
+  ul {
+    padding-left: 1em;
+  }
+
+  ul li {
+    margin: 0;
+  }
+
+  .button {
+    margin: 0.25em;
   }
 </style>
