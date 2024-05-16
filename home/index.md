@@ -43,6 +43,16 @@ Maybe “review” is a strong word, but here are some impressions/experiences I
 
 From bulbs to permanent fixtures, this is the category in which I have the most devices.
 
-#### **IKEA** (Home Smart, TRÅDFRI) _👍 Recommend_
+#### IKEA (Home Smart, TRÅDFRI) _👍 Recommend_
 
-I recommend them! I have multiple TRÅDFRI color bulbs and they are some of the most reliable. I don’t love their RGB color reproduction, though; it leans more pastel and less saturated (they seem to mix white in no matter what). I also have multiple FLOALT skylight-style lights and _really_ like their look. One arrived with broken tunable white, but IKEA’s customer service was great and replaced it ASAP.
+I recommend them! I have multiple TRÅDFRI color bulbs and they are some of the most reliable. I don’t love their RGB color reproduction, though; it leans more pastel and less saturated (they seem to mix white in no matter what).
+
+I also have multiple FLOALT skylight-style lights and _really_ like their look. One arrived with broken tunable white, but IKEA’s customer service was great and replaced it ASAP.
+
+They work as expected with the IKEA DIRIGERA hub, but they also work great with Home Assistant over Zigbee—they even receive firmware updates out of the box.
+
+#### Cree _👍 Recommend_
+
+I have around a dozen of these warm white Cree bulbs and they have been by far the most reliable in my house. I honestly don’t think I have ever had to power cycle even one of them over the past couple of years; they just keep on trucking, and extending the Zigbee mesh network all the same.
+
+The one minor complaint I have is that a couple of them flicker at 1% brightness in some of my fixtures; this may not be noticable to you or even affect you/your lighting fixtures, and it is easier resolved by using 5% brightness instead—but I thought I would mention it for completeness sake.
