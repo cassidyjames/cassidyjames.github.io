@@ -127,6 +127,14 @@ I purchased one of these for my living room where we more frequently spend time 
 
 It's possible I need to move the sensor, adjust settings, and/or re-train it, but that's kind of the issue: it requires a lot more setup and fiddling to dial it in just right.
 
+#### Nest Protect (wired)
+
+Wait… what?? Why is a smoke/CO detector that works over Wi-Fi and Thread in this section? Well… the wired models actually have a presence sensor that is relatively reliable—if you can tap into it! For this, I use a [Starling Home Hub](https://www.starlinghome.io/)—a _must_ if you use Nest devices in a Home Assistant or HomeKit house—which exposes all the Nest Protect goodies as HomeKit devices. You can also use [Homebridge](https://homebridge.io/) for this, but I found the Starling Home Hub much easier to set up and forget about.
+
+Now that I have the Nest Protects showing up in Home Assistant, I use their presence sensors as part of my presence detection for a couple of rooms. I don't know that I'd use them on their own, but they effectively extend the range of motion detection, so I'm a fan.
+
+Note that these sensors are _only_ accessible in the wired models due to the high energy draw.
+
 ### Door & Window (contact)
 
 I feel like these are some of the unsung heroes of home automation, and I have been systematically adding them to almost every door and window in the house. They’re relatively simple mechanisms with a non-powered magnet and then a battery-powered magnet detector sensor to detect if something is open or closed, but they’re _fast_ and precise, which is nice.
