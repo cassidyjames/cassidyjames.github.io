@@ -111,7 +111,7 @@ They are a bit bulkier and harder to replace the batteries in as a result, thoug
 
 #### Sonoff _👍 Recommend_
 
-These little motion sensors work about as well as the IKEA ones, and I've had very few issues over all. I don't have a string preference between these and other brands, and really just go for whatever is on the best sale.
+These little motion sensors work about as well as the IKEA ones, and I've had very few issues over all. I don't have a strong preference between these and other brands, and really just go for whatever is on the best sale.
 
 I will note that these use a button battery that is a bit harder to pop open to replace (similar to the IKEA ones, though no screw), but they are _not_ water resistant. But they are small and have worked well for me.
 
@@ -125,4 +125,16 @@ These seemed too good to be true, but just might be my favorite door sensors! I 
 
 One of them had issues when I placed it on a window a bit further from my hub, but the others have all been super solid. They power automations for a closet light, a bathroom light, turning off the AC when I open my office window, and more.
 
-I will say: avoid using the included adhesive as it is _nasty_ and permanent; if you have ever tried to remove old security sensors, you have probably encountered this drywall-destroying 3M adhesive. Instead, I am a big fan of removable Command strips or even just sticky tack (blue tack, Uhu tack, etc.). 
+I will say: avoid using the included adhesive as it is _nasty_ and permanent; if you have ever tried to remove old security sensors, you have probably encountered this drywall-destroying 3M adhesive. Instead, I am a big fan of removable Command strips or even just sticky tack (blue tack, Uhu tack, etc.).
+
+#### IKEA
+
+These are brand new and I just installed them on some windows, so I don't have a long term impression, but so far, so good!
+
+They bring the price down compared to competitors in a few ways:
+
+- No batteries included
+- No temperature sensor
+- Kinda bulky
+
+However, they are powered by a standard AAA battery which is nice, and means you can use rechargeable batteries instead of disposable button batteries. They are also IPX6 water resistant which means they should be able to be used for outdoor or damp locations without issues.
