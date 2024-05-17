@@ -119,13 +119,17 @@ I will note that these use a button battery that is a bit harder to pop open to 
 
 I feel like these are some of the unsung heroes of home automation, and I have been systematically adding them to almost every door and window in the house. They’re relatively simple mechanisms with a non-powered magnet and then a battery-powered magnet detector sensor to detect if something is open or closed, but they’re _fast_ and precise, which is nice.
 
-#### Comcast Xfinity
+#### Comcast Xfinity _👍 Recommend_
 
 These seemed too good to be true, but just might be my favorite door sensors! I found these Xfinity security door sensors on Amazon for under $10 each, and sure enough, they are nice little Zigbee sensors that look right at home with a home security system. Which is to say they are kind of bulky, super generic, but actually pretty well made.
 
 One of them had issues when I placed it on a window a bit further from my hub, but the others have all been super solid. They power automations for a closet light, a bathroom light, turning off the AC when I open my office window, and more.
 
 I will say: avoid using the included adhesive as it is _nasty_ and permanent; if you have ever tried to remove old security sensors, you have probably encountered this drywall-destroying 3M adhesive. Instead, I am a big fan of removable Command strips or even just sticky tack (blue tack, Uhu tack, etc.).
+
+#### Aqara _👍 Recommend_
+
+These Aqara contact sensors are the smallest I have seen; they're seriously tiny! But they have worked reliably for multiple doors and windows throughout our house.
 
 #### IKEA
 
