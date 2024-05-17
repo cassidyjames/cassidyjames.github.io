@@ -63,6 +63,16 @@ I have around a dozen of these warm white Cree bulbs and they have been by far t
 
 The one minor complaint I have is that a couple of them flicker at 1% brightness in some of my fixtures; this may not be noticable to you or even affect you/your lighting fixtures, and it is easier resolved by using 5% brightness instead—but I thought I would mention it for completeness sake.
 
+#### Juno _👎 Avoid_
+
+I got three Juno Zigbee wafer lights (recessed lights that mount without a can) on a good sale at Lowe's, and I think I see why they were on clearance…
+
+To be fair, they _mostly_ work well and I really like the color temperature, brightness, and installation—especially for the price. But for something where you’re cutting a six-inch hole in your ceiling to permanently install it, it needs to be more reliable!
+
+My main issue has been that one or more of my three Juno wafers will fall off the Zigbee network every couple of weeks—seemingly after I add other devices. The resolution is annoyingly inconsistent, too: sometimes a quick power cycle brings it back, but other times I have to reset it by flicking the switch on and off about ten times—especially annoying with multiple fixtures on the same circuit! Luckily even after resetting, the lights come back with their existing settings and ID and everything in Home Assistant.
+
+At the time, these were the only non-Hue (and thus affordable) Zigbee wafer lights I could find. But I have since found a Lumary model as well as a handful of no-name models on eBay which just might be a better purchase.
+
 #### Lightify, OSRAM, Sylvania _👎 Avoid_
 
 Oh boy. I found a good deal on a lot of these lights on eBay and have regretted ever since.
