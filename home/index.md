@@ -10,7 +10,7 @@ updated: 2024-05-15
 {{ page.description }}
 
 <aside class="alert warning" markdown="1">
-# This page is brand new and not well organized!
+## This page is brand new and not well organized!
 
 I’m working on it. 😅 I will figure out some better organization, links to products, etc. later once I finish dumping my initial thoughts here.
 </aside>
