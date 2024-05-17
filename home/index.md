@@ -147,6 +147,16 @@ However, they are powered by a standard AAA battery which is nice, and means you
 
 I have only recently gotten into climate control with my smart home, but I have been trying several devices and approaches.
 
+#### Aqara _👍 Recommend_
+
+I use an Aqara climate sensor in my bathroom to detect when the shower is running (with a spike in humidity), then turn on the exhaust fan to prevent mold/mildew. It has been extremely reliable, working like a charm every day! I like how the sensor is small and unobtrusive; I stuck it to the wall near the mirror to get a decent reading.
+
+#### Sonoff _👍 Recommend_
+
+I have multiple [SNZB-02](https://sonoff.tech/product/gateway-and-sensors/snzb-02/) climate sensors around the home, and they all work reliably. They're pretty cheap, now, too, especially since the SNZB-02**D** (for display) and SNZB-02**P** (updated model) came out with the same capabilities. They're relatively small (though not as small as the Aqara ones) and seem accurate enough for my needs.
+
+If you want a display, the [SNZB-02D](https://sonoff.tech/product/gateway-and-sensors/snzb-2d/) has the same guts, but adds a little LCD display which is nice if you want to see the temperature and humidity at a glance without using a smart display or phone. For example, we use this in our kids' room so we can see the temperature when we're getting them ready for bed, and in our dining room that gets a lot of sun so we can know the actual temperature.
+
 #### Debug temperatures in other sensors
 
 Weirdly, most contact sensors also include a temperature sensor as well; sometimes marked as “debug” or “device temperature.” I would not rely on these _instead of_ a dedicated climate sensor—especially on exterior doors and windows, as the temperature on the device will not represent the temperature in the room—but I _would_ consider using them as a signal in less critical places. For example, if you have a bedroom door, closet door, and bathroom door all in the same general area, you could create a sensor group in Home Assistant to average them and get a decent idea of the temperature in that area.
