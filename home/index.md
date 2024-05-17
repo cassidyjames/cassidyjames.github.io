@@ -71,6 +71,16 @@ Some folks say they work fine for them! It may be a conflict with a specific dev
 
 Apparently there were sold under the Lightify brand with their own hub, but some bulbs are advertised under the OSRAM and Sylvania brands. Lightify shut down and stopped supporting their hub, but thanks to the magic of Zigbee, _technically_ the bulbs should still be fine to use with other hubs. But I do **not** recommend it under any circumstances based on my experiences.
 
+#### Sengled _👎 Avoid_
+
+These bulbs seem popular, but they have a couple of issues for me that make them not worth the hassle.
+
+First, they are a rare case of a mains-connected Zigbee device that is **not** also a Zigbee repeater; typically, any Zigbee device with constant power (like a plug, bulb, lighting fixture, switch, or even my IKEA air purifier) also acts as a repeater to extend your Zigbee mesh network. That’s kind of the whole point of Zigbee and one of the reasons it’s so reliable and resilient: the more (always-powered) devices you add, the more reliable it gets versus Wi-Fi where that adds congestion. But Sengled cheaped out, I guess, meaning these bulbs will only be a drain on your Zigbee network, and are especially a no-go for exterior applications where you really want that mesh network to be extended.
+
+Second, the color temperature has been a bit weird for me; when I turn them on with an automation, they seem to flash the previous color before correctly changing to the requested color. This doesn't happen _all_ the time for me, and it might be something specific to my setup, but I haven't had this issue with any other brand.
+
+Lastly (and likely due in part to the first issue), Sengled bulbs just have not been as reliable for me. They lose connectivity more often than other brands, require power cycling, and get out of sync.
+
 ### Motion, Presence, Occupancy
 
 While smart lights are a natural starting point, motion sensors are what really sold me on automating all the things: I love never having to think about turning lights on or off; they just do the right thing when someone walks into the room, and turn off when nobody is around.
