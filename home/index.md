@@ -108,3 +108,9 @@ These sensors have also been some of the more reliable ones, are powered by a st
 These were my first motion sensors and they are acceptable, just not quite as nice as the Third Reality ones. They are inexpensive, relatively reliable, and have some level of water resistance so they are fine e.g. under an eave for an outdoor lighting automation.
 
 They are a bit bulkier and harder to replace the batteries in as a result, though.
+
+#### Sonoff _👍 Recommend_
+
+These little motion sensors work about as well as the IKEA ones, and I've had very few issues over all. I don't have a string preference between these and other brands, and really just go for whatever is on the best sale.
+
+I will note that these use a button battery that is a bit harder to pop open to replace (similar to the IKEA ones, though no screw), but they are _not_ water resistant. But they are small and have worked well for me.
