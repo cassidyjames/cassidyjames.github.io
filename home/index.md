@@ -97,23 +97,35 @@ While smart lights are a natural starting point, motion sensors are what really 
 
 #### Third Reality _👍 Recommend_
 
-These are my favorite cheap motion sensors! Like most inexpensive motion sensors, they are infrared which means they detect _motion_, but not _presence_; that is, if you stay still, they will not detect you. This is compensated for by setting the timeout for automations to a sufficiently long period, e.g. ten minutes (the lights will only turn off after there is no motion for ten minutes straight). Because of this, many motion sensors have a long, unchangeable time-out out of the box, like 1–5 minutes. 
+These [Third Reality motion sensors](https://www.3reality.com/online-store/THIRDREALITY-Zigbee-Motion-Sensor-Zigbee-Hub-Required-Works-with-SmartThings-or-Echo-Devices-with-Build-in-Zigbee-hub-No-Battery-Included-p370448012) are my favorite! Like most inexpensive motion sensors, they're passive infrared (PIR) which means they detect _motion_, but not _presence_; that is, if you stay still, they will not detect you. This is compensated for by setting the timeout for automations to a sufficiently long period, e.g. ten minutes (the lights will only turn off after there is no motion for ten minutes straight). Because of this, many motion sensors have a long, unchangeable time-out out of the box, like 1–5 minutes. 
 
 However, these Third Reality sensors have a _very_ short time-out—like immediate—which makes them very responsive when you want them to be. I take advantage of this with a nightstand light automation that turns on when there is motion detected at night (e.g. I get out of bed) but turns off as soon as no motion is detected (to minimize disturbing my partner).
 
-These sensors have also been some of the more reliable ones, are powered by a standard AAA battery, receive regular firmware updates through Home Assistant, and are super easy to mount and replace. Due to all of this, they’re my faves!
+These sensors have also been some of the more reliable ones, are powered by a standard AAA battery, are frequently on good sales in bulk or on Amazon, receive regular firmware updates through Home Assistant, and are super easy to mount and replace. Due to all of this, they’re my faves!
 
 #### IKEA TRÅDFRI _👍 Recommend_
 
-These were my first motion sensors and they are acceptable, just not quite as nice as the Third Reality ones. They are inexpensive, relatively reliable, and have some level of water resistance so they are fine e.g. under an eave for an outdoor lighting automation.
+The [IKEA TRÅDFRI motion sensors](https://www.ikea.com/us/en/p/tradfri-wireless-motion-sensor-smart-white-60377655/) were my first motion sensors and they are acceptable, just not quite as nice as the Third Reality ones. They are inexpensive, relatively reliable, and have some level of water resistance so they are fine e.g. under an eave for an outdoor lighting automation.
 
 They are a bit bulkier and harder to replace the batteries in as a result, though.
 
-#### Sonoff _👍 Recommend_
+I have yet to try the newer [IKEA VALLHORN motion sensors](https://www.ikea.com/us/en/p/vallhorn-wireless-motion-sensor-smart-white-40504348/); they have poor initial reviews, so I would avoid them for now unless/until things get sorted out.
 
-These little motion sensors work about as well as the IKEA ones, and I've had very few issues over all. I don't have a strong preference between these and other brands, and really just go for whatever is on the best sale.
+#### Sonoff SNZB-03 _👍 Recommend_
+
+The little [Sonoff SNZB-03 motion sensors](https://sonoff.tech/product/gateway-and-sensors/snzb-03/) work about as well as the IKEA TRÅDFRI ones, and I've had very few issues over all. I don't have a strong preference between these and other brands, and really just go for whatever is on the best sale.
 
 I will note that these use a button battery that is a bit harder to pop open to replace (similar to the IKEA ones, though no screw), but they are _not_ water resistant. But they are small and have worked well for me.
+
+#### Aqara Presence Sensor FP2 _Mixed_
+
+You might notice that the [Aqara Presence Sensor FP2](https://www.aqara.com/us/product/presence-sensor-fp2/) is the only non-Zigbee device on this list so far… I usually don't recommend going with Wi-Fi devices, but this one _does_ work locally over HomeKit (which works with Home Assistant regardless of whether you own any Apple devices).
+
+I'm mixed because it just hasn't panned out to be quite as reliable as promised—especially for the high price.
+
+I purchased one of these for my living room where we more frequently spend time sitting still and reading, working on a laptop, etc. because a standard PIR motion sensor would stop detecting motion and turn out the lights—even with a relatively long time-out. The FP2 definitely works _better_ than a PIR sensor for this use case, but a year later we still occasionally get both ghosts (it thinks someone is in the room when they're not) and failures to detect when someone is sitting still. In theory we should be able to even have automations based on where someone is within the room (like turning on a reading lamp when someone sits on that end of the sofa), but the accuracy hasn't been reliable enough for me to commit to that.
+
+It's possible I need to move the sensor, adjust settings, and/or re-train it, but that's kind of the issue: it requires a lot more setup and fiddling to dial it in just right.
 
 ### Door & Window (contact)
 
@@ -153,9 +165,9 @@ I use an Aqara climate sensor in my bathroom to detect when the shower is runnin
 
 #### Sonoff _👍 Recommend_
 
-I have multiple [SNZB-02](https://sonoff.tech/product/gateway-and-sensors/snzb-02/) climate sensors around the home, and they all work reliably. They're pretty cheap, now, too, especially since the SNZB-02**D** (for display) and SNZB-02**P** (updated model) came out with the same capabilities. They're relatively small (though not as small as the Aqara ones) and seem accurate enough for my needs.
+I have multiple [Sonoff SNZB-02 climate sensors](https://sonoff.tech/product/gateway-and-sensors/snzb-02/) around the home, and they all work reliably. They're pretty cheap, now, too, especially since the SNZB-02**D** (for display) and SNZB-02**P** (updated model) came out with the same capabilities. They're relatively small (though not as small as the Aqara ones) and seem accurate enough for my needs.
 
-If you want a display, the [SNZB-02D](https://sonoff.tech/product/gateway-and-sensors/snzb-2d/) has the same guts, but adds a little LCD display which is nice if you want to see the temperature and humidity at a glance without using a smart display or phone. For example, we use this in our kids' room so we can see the temperature when we're getting them ready for bed, and in our dining room that gets a lot of sun so we can know the actual temperature.
+If you want a display, the [Sonoff SNZB-02D climate sensor](https://sonoff.tech/product/gateway-and-sensors/snzb-2d/) has the same guts, but adds a little LCD display which is nice if you want to see the temperature and humidity at a glance without using a smart display or phone. For example, we use this in our kids' room so we can see the temperature when we're getting them ready for bed, and in our dining room that gets a lot of sun so we can know the actual temperature in the room before deciding to open a window.
 
 #### Debug temperatures in other sensors
 
