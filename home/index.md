@@ -59,17 +59,21 @@ They work as expected with the IKEA DIRIGERA hub, but they also work great with 
 
 #### Cree _👍 Recommend_
 
-I have around a dozen of these warm white Cree bulbs and they have been by far the most reliable in my house. I honestly don’t think I have ever had to power cycle even one of them over the past couple of years; they just keep on trucking, and extending the Zigbee mesh network all the same.
+I have around a dozen of these [soft white Cree Connected bulbs](https://www.creelighting.com/a19-4flow-connected-bulbs/) and they have been by far the most reliable in my house. I honestly don’t think I have ever had to power cycle even one of them over the past couple of years; they just keep on trucking, and extending the Zigbee mesh network all the same.
 
-The one minor complaint I have is that a couple of them flicker at 1% brightness in some of my fixtures; this may not be noticable to you or even affect you/your lighting fixtures, and it is easier resolved by using 5% brightness instead—but I thought I would mention it for completeness sake.
+The one minor complaint I have is that a couple of them flicker at 1% brightness in some of my fixtures; this may not be noticable to you or even affect you/your lighting fixtures, and it is easily resolved by using 5% brightness instead—but I thought I would mention it for completeness sake.
+
+These might be discontinued, as I can't find a regular place to purchase them from Cree—but if you find a good deal on Amazon or eBay, I would still recommend them.
 
 #### Juno _👎 Avoid_
 
-I got three Juno Zigbee wafer lights (recessed lights that mount without a can) on a good sale at Lowe's, and I think I see why they were on clearance…
+I got three [Juno Zigbee wafer downlights](https://juno.acuitybrands.com/products/detail/1899282/juno/smart-flat-wafer-downlight/4-6-led-smart-flat-canless-wafer-downlight-no-housing-required) (recessed lights that mount without a can) on a good sale at Lowe's, and I think I see why they were cheap…
 
 To be fair, they _mostly_ work well and I really like the color temperature, brightness, and installation—especially for the price. But for something where you’re cutting a six-inch hole in your ceiling to permanently install it, it needs to be more reliable!
 
 My main issue has been that one or more of my three Juno wafers will fall off the Zigbee network every couple of weeks—seemingly after I add other devices. The resolution is annoyingly inconsistent, too: sometimes a quick power cycle brings it back, but other times I have to reset it by flicking the switch on and off about ten times—especially annoying with multiple fixtures on the same circuit! Luckily even after resetting, the lights come back with their existing settings and ID and everything in Home Assistant.
+
+Weirdly, two of them show up with Juno as the manufacturer in Home Assistant while another shows up with Samsung as the manufacturer. I have no idea why. They also showed up as RGBW lights, but are only tunable white; I had to add a custom configuration to hide the nonfunctional RGB settings.
 
 At the time, these were the only non-Hue (and thus affordable) Zigbee wafer lights I could find. But I have since found a Lumary model as well as a handful of no-name models on eBay which just might be a better purchase.
 
@@ -77,9 +81,11 @@ At the time, these were the only non-Hue (and thus affordable) Zigbee wafer ligh
 
 Oh boy. I found a good deal on a lot of these lights on eBay and have regretted ever since.
 
-Some folks say they work fine for them! It may be a conflict with a specific device, Zigbee channel, neighbor interference, or just a bad batch, but **every single one** of these bulbs has had issues ranging from annoying (glitchy color changing), to unacceptable (requiring a reset to come back online every week or two), to literally unusable (falling off the network and never coming back—even post factory reset).
+Some folks say they work fine for them! It may be a conflict with a specific device, Zigbee channel, neighbor interference, or just a bad batch, but **every single one** of these RGBW and tunable white bulbs has had issues ranging from annoying (glitchy color changing), to unacceptable (requiring a reset to come back online every week or two), to literally unusable (falling off the network and never coming back—even post factory reset).
 
-Apparently there were sold under the Lightify brand with their own hub, but some bulbs are advertised under the OSRAM and Sylvania brands. Lightify shut down and stopped supporting their hub, but thanks to the magic of Zigbee, _technically_ the bulbs should still be fine to use with other hubs. But I do **not** recommend it under any circumstances based on my experiences.
+I do have a few of the warm white models still working and while they _mostly work,_ they still are some of the least reliable ones; they sometimes get stuck on or off, requiring a power cycle or reset to get them back on the network.
+
+Apparently these bulbs were sold under the Lightify brand with their own hub, but some bulbs are advertised under the OSRAM and Sylvania brands. Lightify shut down and stopped supporting their hub, but thanks to the magic of Zigbee, _technically_ the bulbs should still be fine to use with other hubs. But I do **not** recommend it under any circumstances based on my experiences.
 
 #### Sengled _👎 Avoid_
 
@@ -180,3 +186,27 @@ If you want a display, the [Sonoff SNZB-02D climate sensor](https://sonoff.tech/
 #### Debug temperatures in other sensors
 
 Weirdly, most contact sensors also include a temperature sensor as well; sometimes marked as “debug” or “device temperature.” I would not rely on these _instead of_ a dedicated climate sensor—especially on exterior doors and windows, as the temperature on the device will not represent the temperature in the room—but I _would_ consider using them as a signal in less critical places. For example, if you have a bedroom door, closet door, and bathroom door all in the same general area, you could create a sensor group in Home Assistant to average them and get a decent idea of the temperature in that area.
+
+### Water Leak
+
+Luckily I've not tested these extensively in real leak situations, but here are my thoughts so far.
+
+#### Govee (Wi-Fi + hub)
+
+One of the rare non-Zigbee devices on the list, the Govee water leak sensors were my first of this category. We had our washer malfunction and flood our basement shortly after moving into our house, so they were some of the first smart devices I purchased for the house. A few months later, a pipe froze and caused another leak that was luckily caught by the Govee sensor—so it did its job!
+
+If you're looking for a standalone system that doesn't need to tie into a smart home platform all that well, then the Govee leak detectors work well enough: their built-in siren is loud, we have not had false positives (more on that…), and they saved us from extensive damage once.
+
+I find the hub-based design a little annoying, as it's a dedicated wall-connected hub that connects to Wi-Fi and then only serves these sensors—I would prefer Zigbee or at least a multi-purpose hub that wasn't single-use—but it does work and you can connect your Govee account to Google e.g. to see the device in the Google Home app and to get spoken notifications from Google Assistant on Nest speakers. Buuuut the integration is pretty light.
+
+My in-laws also have these leak detectors and consistently get false positives in their downstairs bathroom with long, hot showers… I honestly think that's because they don't have good exhaust for that bathroom and water condenses everywhere (including on the sensor!), but it's something to keep in mind if it's going to be exposed in a bathroom (e.g. behind a toilet) rather than under a cabinet.
+
+#### Third Reality
+
+When I went all-in with Zigbee, I replaced the Govee sensors with these [Third Reality water leak sensors](https://www.3reality.com/online-store/THIRDREALITY-Zigbee-Water-Leak-Sensor-Upgraded-with-Dripping-Detection-120-dB-Alarm-App-Email-Notifications-Enabled-When-Work-with-Compatible-Zigbee-HUB-Like-SmartThings-Aeotec-or-Third-Reality-Hub-p361253429). We have not had a leak, thankfully, so I can't speak to how well they work—but I like the design and the fact that they have an in-built siren.
+
+#### Aqara
+
+I don't actually have any of these Aqara water leak sensors (yet), but wanted to jot something down before I forget: they don't have a built-in siren, so I personally wouldn't recommend them for water leaks; you have to ensure your hub is powered, online, working correctly, and that the end devices are on the Zigbee network without any failures for them to alert you at all.
+
+However… this actually introduces some interesting advantages! It means the Aqara water leak sensor is really just a "circuit closed" sensor; you can wire it up to any circuit—like, say, a pressure-detecting mat—and make that Zigbee-connected. It's a cool idea I want to explore more.
