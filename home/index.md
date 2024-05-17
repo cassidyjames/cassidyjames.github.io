@@ -76,3 +76,9 @@ These are my favorite cheap motion sensors! Like most inexpensive motion sensors
 However, these Third Reality sensors have a _very_ short time-out—like immediate—which makes them very responsive when you want them to be. I take advantage of this with a nightstand light automation that turns on when there is motion detected at night (e.g. I get out of bed) but turns off as soon as no motion is detected (to minimize disturbing my partner).
 
 These sensors have also been some of the more reliable ones, are powered by a standard AAA battery, receive regular firmware updates through Home Assistant, and are super easy to mount and replace. Due to all of this, they’re my faves!
+
+#### IKEA TRÅDFRI _👍 Recommend_
+
+These were my first motion sensors and they are acceptable, just not quite as nice as the Third Reality ones. They are inexpensive, relatively reliable, and have some level of water resistance so they are fine e.g. under an eave for an outdoor lighting automation.
+
+They are a bit bulkier and harder to replace the batteries in as a result, though.
