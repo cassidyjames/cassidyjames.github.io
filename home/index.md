@@ -64,3 +64,15 @@ Oh boy. I found a good deal on a lot of these lights on eBay and have regretted 
 Some folks say they work fine for them! It may be a conflict with a specific device, Zigbee channel, neighbor interference, or just a bad batch, but **every single one** of these bulbs has had issues ranging from annoying (glitchy color changing), to unacceptable (requiring a reset to come back online every week or two), to literally unusable (falling off the network and never coming back—even post factory reset).
 
 Apparently there were sold under the Lightify brand with their own hub, but some bulbs are advertised under the OSRAM and Sylvania brands. Lightify shut down and stopped supporting their hub, but thanks to the magic of Zigbee, _technically_ the bulbs should still be fine to use with other hubs. But I do **not** recommend it under any circumstances based on my experiences.
+
+### Motion, Presence, Occupancy
+
+While smart lights are a natural starting point, motion sensors are what really sold me on automating all the things: I love never having to think about turning lights on or off; they just do the right thing when someone walks into the room, and turn off when nobody is around.
+
+#### Third Reality _👍 Recommend_
+
+These are my favorite cheap motion sensors! Like most inexpensive motion sensors, they are infrared which means they detect _motion_, but not _presence_; that is, if you stay still, they will not detect you. This is compensated for by setting the timeout for automations to a sufficiently long period, e.g. ten minutes (the lights will only turn off after there is no motion for ten minutes straight). Because of this, many motion sensors have a long, unchangeable time-out out of the box, like 1–5 minutes. 
+
+However, these Third Reality sensors have a _very_ short time-out—like immediate—which makes them very responsive when you want them to be. I take advantage of this with a nightstand light automation that turns on when there is motion detected at night (e.g. I get out of bed) but turns off as soon as no motion is detected (to minimize disturbing my partner).
+
+These sensors have also been some of the more reliable ones, are powered by a standard AAA battery, receive regular firmware updates through Home Assistant, and are super easy to mount and replace. Due to all of this, they’re my faves!
