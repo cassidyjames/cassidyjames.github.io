@@ -10,9 +10,9 @@ updated: 2024-05-15
 {{ page.description }}
 
 <aside class="alert warning" markdown="1">
-## This page is brand new and not well organized!
+## This page is new and not well organized!
 
-I’m working on it. 😅 I will figure out some better organization, links to products, etc. later once I finish dumping my initial thoughts here.
+I’m working on it. 😅 I will figure out some better organization, links to products, etc. later once I finish dumping my thoughts here.
 </aside>
 
 ## General Advice
@@ -37,9 +37,9 @@ I’m working on it. 😅 I will figure out some better organization, links to p
 
 - It’s not a problem to start in one ecosystem, just avoid products that _only_ work in one ecosystem
 
-- Home Assistant is kinda scary, but 1000× better than it was even just a year ago—and 100% worth it
+- Home Assistant may seem kinda scary, but it's 1000× better than it was even just a year ago—and 100% worth it
 
-- Avoid Wi-Fi devices unless you think you will only ever have a small handful
+- Avoid Wi-Fi devices unless you think you will only ever have a small handful—and avoid cloud-dependent devices altogether if possible
 
 ## Device Reviews
 
@@ -115,7 +115,7 @@ These little motion sensors work about as well as the IKEA ones, and I've had ve
 
 I will note that these use a button battery that is a bit harder to pop open to replace (similar to the IKEA ones, though no screw), but they are _not_ water resistant. But they are small and have worked well for me.
 
-### Door & Window (contact sensors)
+### Door & Window (contact)
 
 I feel like these are some of the unsung heroes of home automation, and I have been systematically adding them to almost every door and window in the house. They’re relatively simple mechanisms with a non-powered magnet and then a battery-powered magnet detector sensor to detect if something is open or closed, but they’re _fast_ and precise, which is nice.
 
@@ -142,3 +142,11 @@ They bring the price down compared to competitors in a few ways:
 - Kinda bulky
 
 However, they are powered by a standard AAA battery which is nice, and means you can use rechargeable batteries instead of disposable button batteries. They are also IPX6 water resistant which means they should be able to be used for outdoor or damp locations without issues.
+
+### Temperature & Humidity (climate)
+
+I have only recently gotten into climate control with my smart home, but I have been trying several devices and approaches.
+
+#### Debug temperatures in other sensors
+
+Weirdly, most contact sensors also include a temperature sensor as well; sometimes marked as “debug” or “device temperature.” I would not rely on these _instead of_ a dedicated climate sensor—especially on exterior doors and windows, as the temperature on the device will not represent the temperature in the room—but I _would_ consider using them as a signal in less critical places. For example, if you have a bedroom door, closet door, and bathroom door all in the same general area, you could create a sensor group in Home Assistant to average them and get a decent idea of the temperature in that area.
