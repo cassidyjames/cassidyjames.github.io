@@ -114,3 +114,15 @@ They are a bit bulkier and harder to replace the batteries in as a result, thoug
 These little motion sensors work about as well as the IKEA ones, and I've had very few issues over all. I don't have a string preference between these and other brands, and really just go for whatever is on the best sale.
 
 I will note that these use a button battery that is a bit harder to pop open to replace (similar to the IKEA ones, though no screw), but they are _not_ water resistant. But they are small and have worked well for me.
+
+### Door & Window (contact sensors)
+
+I feel like these are some of the unsung heroes of home automation, and I have been systematically adding them to almost every door and window in the house. They’re relatively simple mechanisms with a non-powered magnet and then a battery-powered magnet detector sensor to detect if something is open or closed, but they’re _fast_ and precise, which is nice.
+
+#### Comcast Xfinity
+
+These seemed too good to be true, but just might be my favorite door sensors! I found these Xfinity security door sensors on Amazon for under $10 each, and sure enough, they are nice little Zigbee sensors that look right at home with a home security system. Which is to say they are kind of bulky, super generic, but actually pretty well made.
+
+One of them had issues when I placed it on a window a bit further from my hub, but the others have all been super solid. They power automations for a closet light, a bathroom light, turning off the AC when I open my office window, and more.
+
+I will say: avoid using the included adhesive as it is _nasty_ and permanent; if you have ever tried to remove old security sensors, you have probably encountered this drywall-destroying 3M adhesive. Instead, I am a big fan of removable Command strips or even just sticky tack (blue tack, Uhu tack, etc.). 
