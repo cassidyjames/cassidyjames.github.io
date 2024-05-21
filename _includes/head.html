@@ -47,8 +47,10 @@
   <meta name="support-link" content="{{ site.donate }}" />
 {% endif %}
 
+  <link rel="preconnect" href="https://rsms.me/">
+  <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
   <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | prepend: site.baseurl | append: '?v=' | append: hash }}">
-  <script src="https://kit.fontawesome.com/f558551d79.js" crossorigin="anonymous"></script>
+  <script rel="preconnect" src="https://kit.fontawesome.com/f558551d79.js" crossorigin="anonymous"></script>
 
   {% if jekyll.environment == "production" and site.url == "https://cassidyjames.com" %}
     <script defer data-domain="cassidyjames.com" src="https://tally.cloudflare2125.workers.dev/scripts/script.js"></script>
