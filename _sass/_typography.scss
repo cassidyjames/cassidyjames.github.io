@@ -65,7 +65,7 @@ h1 {
   fill: rgb(var(--accent-rgb));
   font-size: 5.125rem;
   font-weight: 900;
-  letter-spacing: -0.086em;
+  letter-spacing: -0.06em;
   line-height: 0.9em;
   margin: 0 0 0.25em;
 
@@ -85,13 +85,19 @@ h1 {
     font-size: 1.25em;
     line-height: 1.25;
   }
+
+  // Higher contrast
+  html.alt-style & {
+    font-weight: 800;
+    letter-spacing: -0.05em;
+  }
 }
 
 h2 {
   clear: both;
   font-size: 2rem;
   font-weight: 900;
-  letter-spacing: -0.022em;
+  letter-spacing: -0.02em;
   margin: 0;
 
   strong,
@@ -102,6 +108,13 @@ h2 {
     font-weight: normal;
     margin-left: 0.25em;
     opacity: 0.8;
+  }
+
+
+  // Higher contrast
+  html.alt-style & {
+    font-weight: 800;
+    letter-spacing: -0.01em;
   }
 }
 
