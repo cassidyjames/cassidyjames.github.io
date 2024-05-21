@@ -1,8 +1,14 @@
-@import url('https://rsms.me/inter/inter.css');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Emoji');
 
+:root {
+  font-family: Inter, sans-serif;
+  font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+}
+@supports (font-variation-settings: normal) {
+  :root { font-family: InterVariable, sans-serif; }
+}
+
 html {
-  font-family: "Inter", sans-serif;
   font-size: 4vw;
   font-weight: 400;
 
@@ -57,9 +63,9 @@ h6 a {
 h1 {
   color: rgb(var(--accent-rgb));
   fill: rgb(var(--accent-rgb));
-  font-size: 5rem;
+  font-size: 5.125rem;
   font-weight: 900;
-  letter-spacing: -0.097em;
+  letter-spacing: -0.06em;
   line-height: 0.9em;
   margin: 0 0 0.25em;
 
@@ -79,13 +85,19 @@ h1 {
     font-size: 1.25em;
     line-height: 1.25;
   }
+
+  // Higher contrast
+  html.alt-style & {
+    font-weight: 800;
+    letter-spacing: -0.05em;
+  }
 }
 
 h2 {
   clear: both;
   font-size: 2rem;
   font-weight: 900;
-  letter-spacing: -0.05em;
+  letter-spacing: -0.02em;
   margin: 0;
 
   strong,
@@ -96,6 +108,13 @@ h2 {
     font-weight: normal;
     margin-left: 0.25em;
     opacity: 0.8;
+  }
+
+
+  // Higher contrast
+  html.alt-style & {
+    font-weight: 800;
+    letter-spacing: -0.01em;
   }
 }
 
