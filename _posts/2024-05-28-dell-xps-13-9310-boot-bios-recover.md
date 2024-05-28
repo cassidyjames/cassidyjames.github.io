@@ -2,6 +2,8 @@
 title: Recovering the BIOS on a Dell XPS 13 (9310)
 description: I've had to do this too many times… here's my guide
 updated: 2024-05-28
+comments:
+  id: 112520487387063066
 ---
 
 It seems like every few months my work Dell XPS 13 just… dies. Or at least, it seems like it for a few minutes, making me panic about being able to do my work and wondering about backups. And then I remember that it just likes to play dead for no reason—maybe I recently did a BIOS update, maybe I had to open its chassis for some reason (like a jittery trackpad… another blog post I need to write), maybe the battery was totally discharged, or maybe it just wants to troll me. Idk. But it happens more regularly than it should.
@@ -70,4 +72,4 @@ If all goes well, you should eventually get a BIOS recovery screen; **it might r
 
 ---
 
-Let me know on Mastodon if this worked for you, or if you have other tips. I still don't know why I have to do this every once in a while, but it's honestly making me reconsider Dells altogether. I really like the hardware, otherwise, but these sorts of issues have just been pretty common across models and years—I think for my next laptop, I'm eyeing that [Star Labs StarFighter](https://us.starlabs.systems/pages/starfighter). 👀
+Let me know [on Mastodon](https://mastodon.blaede.family/@cassidy/112520487387063066) if this worked for you, or if you have other tips. I still don't know why I have to do this every once in a while, but it's honestly making me reconsider Dells altogether. I really like the hardware, otherwise, but these sorts of issues have just been pretty common across models and years—I think for my next laptop, I'm eyeing that [Star Labs StarFighter](https://us.starlabs.systems/pages/starfighter). 👀
