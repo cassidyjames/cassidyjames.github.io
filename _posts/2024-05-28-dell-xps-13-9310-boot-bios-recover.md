@@ -52,11 +52,11 @@ Yes, you will look like a fool doing this with the laptop propped up on its disp
 
 3. Search Dell’s site for your model and find the latest BIOS file; for my XPS 13 9310 (not 2-in-1), it's [here](https://www.dell.com/support/home/en-us/product-support/product/xps-13-9310-laptop/drivers).
 
-**Don't just Google for the model/BIOS**, because Dell's support site has terrible SEO/tagging. Instead, head to the Dell website, go to the support section for drivers and downloads, and search for your specific serial number/model to find the very latest BIOS version.
+   **Don't just Google for the model/BIOS**, because Dell's support site has terrible SEO/tagging. Instead, head to the Dell website, go to the support section for drivers and downloads, and search for your specific serial number/model to find the very latest BIOS version.
 
-Download the latest BIOS file in the Recovery Image (.rcv) format if offered, otherwise rename .exe to BIOS_IMG.rcv.
+2. Download the latest BIOS file in the Recovery Image (.rcv) format if offered, otherwise rename .exe to BIOS_IMG.rcv.
 
-Format a USB flash drive as FAT32, then drop the file to the root of the drive. You'll also want a USB-C to USB-A adapter handy (unless you're using a fancy USB-C flash drive).
+3. Format a USB flash drive as FAT32, then drop the BIOS file to the root of the drive. You'll also want a USB-C to USB-A adapter handy (unless you're using a fancy USB-C flash drive).
 
 ## Recover the BIOS
 
