@@ -2,6 +2,7 @@
 title: Recovering the BIOS on a Dell XPS 13 (9310)
 description: I've had to do this too many times… here's my guide
 updated: 2024-05-28
+image: /images/blog/dell-xps-13-9310-boot-bios-recover/xps-13-9310.png
 comments:
   id: 112520487387063066
 ---
