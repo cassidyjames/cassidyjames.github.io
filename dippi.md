@@ -7,7 +7,7 @@ redirect_from: /Dippi
 
 Get the latest version with a refreshed design from [Flathub].
 
-[![Download on Flathub](https://flathub.org/assets/badges/flathub-badge-en.svg)][Flathub]
+[![Download on Flathub](https://flathub.org/api/badge?locale=en)][Flathub]
 
 If you're on elementary OS, **the AppCenter version is no longer maintained or receiving updates.** Install from [Flathub] to get the latest design and future updates.
 </aside>
@@ -98,7 +98,7 @@ Sorry, it's all done client-side on a static page, so JS is needed. You can down
 
 Dippi is primarily a native app designed for GNOME and Linux-based operating systems. [Get it on Flathub][flathub] to calculate display info any time, online or off. It has extra features like logical resolution, scaling factor, aspect ratio, live calculation, and a nice diagram to help you out.
 
-[![Download on Flathub](https://flathub.org/assets/badges/flathub-badge-en.svg)][Flathub]
+[![Download on Flathub](https://flathub.org/api/badge?locale=en)][Flathub]
 
 </div>
 
