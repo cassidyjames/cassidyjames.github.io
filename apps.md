@@ -25,7 +25,7 @@ I have a few apps available on Flathub for any modern Linux-based operating syst
 
 I've chosen to only distribute and support my apps on [Flathub]; it's the best place to get apps for Linux, regardless of your specific distribution. Get the latest versions from there and know that it's my app, supported by me.
 
-[![Download on Flathub](https://flathub.org/assets/badges/flathub-badge-en.svg)][Flathub]
+[![Download on Flathub](https://flathub.org/api/badge?locale=en)][Flathub]
 
 - **If you're on elementary OS**: AppCenter versions of my apps are **no longer maintained or receiving updates.** I have requested they be removed. Install from [Flathub] to get the latest designs and future updates.
 
