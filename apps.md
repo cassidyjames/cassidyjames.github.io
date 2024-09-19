@@ -10,7 +10,7 @@ Apps I've made, and apps I wish existed.
 
 I have a few apps available on Flathub for any modern Linux-based operating system.
 
-[![Dippi icon](https://raw.githubusercontent.com/cassidyjames/dippi/main/data/icons/com.github.cassidyjames.dippi.svg)][dippi] | [![Clairvoyant icon](https://raw.githubusercontent.com/cassidyjames/clairvoyant/main/data/icons/com.github.cassidyjames.clairvoyant.svg)][clairvoyant] | [![Tally icon](https://raw.githubusercontent.com/cassidyjames/tally/main/data/icons/tally.svg)][tally] | [![Butler icon](https://raw.githubusercontent.com/cassidyjames/butler/main/data/icons/app.svg)][butler]
+[![Dippi icon](https://raw.githubusercontent.com/cassidyjames/dippi/4.1.0/data/icons/com.github.cassidyjames.dippi.svg)][dippi] | [![Clairvoyant icon](https://raw.githubusercontent.com/cassidyjames/clairvoyant/3.1.7/data/icons/com.github.cassidyjames.clairvoyant.svg)][clairvoyant] | [![Tally icon](https://raw.githubusercontent.com/cassidyjames/tally/3.2.1/data/icons/tally.svg)][tally] | [![Butler](https://raw.githubusercontent.com/cassidyjames/butler/1.3.0/data/icons/release.svg)][butler]
 --- | --- | --- | ---
 [Dippi] | [Clairvoyant] | [Tally] | [Butler]
 
