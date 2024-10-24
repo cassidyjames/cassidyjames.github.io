@@ -51,7 +51,7 @@ I give **talks** and **stream** my work on open source. I also sometimes appear 
 I **write things** on the Internet about UX, tech, and what I'm up to. I usually share these things on **social media**.
 
 <a href="/blog" class="read-more blog"><i class="fa fa-fw fa-rss"></i>Read posts on Blog</a>
-<a rel="me" href="{{ site.mastodon }}" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
+<a rel="me" href="{{ site.mastodon.url }}" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow {{ site.mastodon.handle }}</a>
 <a rel="me" href="{{ site.twitter }}" class="read-more twitter"><i class="fab fa-fw fa-twitter"></i>Browse Twitter archive</a>
 <a href="https://medium.com/{{ site.medium }}" class="read-more medium"><i class="fab fa-fw fa-medium"></i>Read posts on Medium</a>
 </section>
