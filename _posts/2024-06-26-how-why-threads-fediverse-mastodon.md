@@ -36,7 +36,7 @@ Even if you're someone who doesn't _really care_ about reaching a bunch of peopl
 >You're not artificially forcing anyone who wants to keep in touch to use Facebook.
 </aside>
 
-In practice, this means that I can be on my own Mastodon server (with the fancy handle [@cassidy@blaede.family]) and follow your account, e.g. @YourThreadsUsername​@threads.net. Remember that email comparison earlier? You can see how it's pretty similar! Any of your public posts on Threads will then show up in my social feed alongside posts from people I follow on Mastodon and other sites. 
+In practice, this means that I can be on my own Mastodon server (with the fancy handle [{{ site.mastodon.handle }}]({{ site.mastodon.url }})) and follow your account, e.g. @YourThreadsUsername​@threads.net. Remember that email comparison earlier? You can see how it's pretty similar! Any of your public posts on Threads will then show up in my social feed alongside posts from people I follow on Mastodon and other sites. 
 
 ![Screenshots from Threads and Mastodon showing how the same post is presented](/images/blog/how-why-threads-fediverse-mastodon/threads-mastodon.webp)
 

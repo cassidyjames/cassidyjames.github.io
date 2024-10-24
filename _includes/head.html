@@ -17,6 +17,12 @@
     <meta itemprop="logo" content="{{ site.avatar | prepend: site.baseurl | prepend: site.url }}">
   {% endif %}
 
+  {% if site.mastodon %}
+    {% if site.mastodon.handle %}
+      <meta name="fediverse:creator" content="{{ site.mastodon.handle }}" />
+    {% endif %}
+  {% endif %}
+
   {% if page.author or site.author %}
     <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
   {% endif %}

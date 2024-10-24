@@ -11,11 +11,13 @@
     {% endif%}
 
     {% if site.mastodon %}
-      <li class="mastodon">
-        <a href="{{ site.mastodon }}" title="Mastodon">
-          <i class="fab fa-fw fa-mastodon"></i>
-        </a>
-      </li>
+      {% if site.mastodon.url %}
+        <li class="mastodon">
+          <a href="{{ site.mastodon.url }}" title="Mastodon">
+            <i class="fab fa-fw fa-mastodon"></i>
+          </a>
+        </li>
+      {% endif %}
     {% endif %}
 
     {% if site.matrix %}
