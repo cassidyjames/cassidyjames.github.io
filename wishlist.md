@@ -35,6 +35,7 @@ Links point to the Gift Hero item, so please **confirm the gift on Gift Hero** i
 Image | Link | Price | Notes
 ------|------|-------|------
 ![Astro Bot](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/adfe97c3-230b-4709-8d5e-0a9883f69348?_a=BAAAV6E0) | [Astro Bot for PS5](https://www.gifthero.com/items/9c979586-b43a-401f-92bf-4c72c62c7cac) | **$60** | For the whole family (well, definitely me and Lucy)
+![Makita Flashlight](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/e289a182-4381-4986-ba3b-972a00413a78?_a=BAAAV6E0) | [Makita Flashlight](https://www.gifthero.com/items/9c979586-b43a-401f-92bf-4c72c62c7cac) | **$57** | Or a similar Makita 18V work light/flashlight
 
 ---
 
