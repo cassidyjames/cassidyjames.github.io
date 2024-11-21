@@ -38,6 +38,7 @@ Image | Link | Price | Notes
 ![Makita Flashlight](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/e289a182-4381-4986-ba3b-972a00413a78?_a=BAAAV6E0) | [Makita Flashlight](https://www.gifthero.com/items/9c979586-b43a-401f-92bf-4c72c62c7cac) | **$57** | Or a similar Makita 18V work light/flashlight
 ![Trackpad Kit](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/13a69a8e-def1-46ed-85ba-77988a69fa0c?_a=BAAAV6E0) | [Ploopy Trackpad Kit](https://www.gifthero.com/items/e404b667-3b85-44c9-8f75-3a07d0b22d97) | **$75** | Black preferred, gray is fine too
 ![HDD](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/z3rua2lu8cus7vxagozg?_a=BAAAV6E0) | [Seagate 5TB External Drive](https://www.gifthero.com/items/a21164dc-6e3f-4777-8e93-789ffb60712e) | **$130** | Our old one died 😔
+![Pixel Buds](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/8c56ffcc-848d-4a1c-b871-8ef6f1b2166f?_a=BAAAV6E0) | [Pixel Buds Pro 2](https://www.gifthero.com/items/43859dec-a4a7-43da-a427-792d79f388a3) | $~~229~~ **179** | Porcelain color; currently on sale; my old headphones' batteries are dying
 
 ---
 
