@@ -16,11 +16,17 @@ This is my canonical birthday, Christmas, and any-other-time wish list. **It is 
 I dislike Amazon since they’re extremely [anti-competitive](https://www.yalelawjournal.org/note/amazons-antitrust-paradox) and [awful to their workers](https://gizmodo.com/reminder-amazon-treats-its-employees-like-shit-1792642652). So if you can, please purchase any items here somewhere other than Amazon.
 
 **Buying from the company who makes the thing is usually best**, but I also recommend the following stores:
+
 - [Target](https://target.com) - Their online shopping is great, plus there's the convenience of picking up in store skipping shipping costs.
+
 - [Micro Center](https://microcenter.com) - They usually have all the Raspberry Pi stuff and lots of other electronics and accessories.
+
 - [Best Buy](https://bestbuy.com) - Pretty competitive for most electronics, aside from cheaper things like small accessories. In-store pickup is great.
+
 - [ClockWorkSynergy](https://www.clockworksynergy.com/) or [Barton Watch Bands](https://www.bartonwatchbands.com/){: onclick="plausible('Wishlist: Barton Watch Bands');"}  for watch bands/straps.
+
 - [Arctic Buffalo](https://arcticbuffalo.com/collections/0g-8mm-filter) or [So Scene](https://www.soscene.com/0-gauge-8mm/){: onclick="plausible('Wishlist: So Scene');"} for jewelry (guages/plugs).
+
 - [Google Shopping](https://shopping.google.com/) - Huge selection since they partner with _a ton_ of large and small retailers like Target, Best Buy, Costco, Fry's, Home Depot, etc. However, they changed it recently and it's a little harder to use.
 </details>
 
@@ -44,12 +50,14 @@ Image | Link | Price | Notes
 
 ## Gift Hero Wish Lists
 
-More traditional, sprawling wish lists. There are also specific lists for certain categories, like smart home and vinyl. They are _sort of_ sorted by priority by default, but you can sort by price as well.
+A more traditional, sprawling wish list. There are specific lists for certain categories, like smart home and tools. They are not really sorted by priority, but you can sort by price.
 
 <div style="text-align: center;" markdown="1">
 [View Gift Hero Wish Lists](https://www.gifthero.com/cassidyjames){: .button onclick="plausible('Wishlist: Gift Hero');"}
 [Catch-all](https://www.gifthero.com/list/c89e0b7a-2287-42fa-8336-eaefb0495789){: .button.flat onclick="plausible('Wishlist: Gift Hero');"}
+[Music, Book, & More](https://www.gifthero.com/list/75f6c914-2683-4de5-9502-106590ecdc99){: .button.flat onclick="plausible('Wishlist: Gift Hero');"}
 [Smart Home](https://www.gifthero.com/list/b236e8c4-8346-4be5-96e9-25eb91914d38){: .button.flat onclick="plausible('Wishlist: Gift Hero');"}
+[Tools & Maker](https://www.gifthero.com/list/187ad5eb-2837-4589-b097-cf36c916bf66){: .button.flat onclick="plausible('Wishlist: Gift Hero');"}
 </div>
 
 ---
