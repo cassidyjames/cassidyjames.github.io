@@ -1,14 +1,14 @@
 ---
-description: "The Mandalorian"
+title: "Star Wars: The Mandalorian"
+description: "Join us to watch **Season Two**! We'll be watching one chapter each debut Friday at 8:30 PM Mountain time. You can still join and watch any time!"
+image: /images/starwars/mandalorian.jpg
 ---
 
-# Star Wars
+# ![{{ page.title }}]({{ page.image}}){: .card }
+
+{{ page.description }}
 
 ## The Mandalorian _#MandoWatchAlong (Archived)_
-
-![Star Wars: The Mandalorian](/images/starwars/mandalorian.jpg){: .card }
-
-Join us to watch **Season Two**! We'll be watching one chapter each debut Friday at 8:30 PM Mountain time. You can still join and watch any time!
 
 <div style="margin: 2em auto; text-align: center;" markdown="1">
 [Join the Discord](https://discord.gg/3aagq4A){: .button}
