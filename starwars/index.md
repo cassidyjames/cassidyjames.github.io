@@ -35,35 +35,42 @@ Scott wanted a canonical timeline, so here's a rough table of released and confi
 
 ### Filter & Key
 
-<label for="saga">
-  <input name="filter" id="saga" type="checkbox" checked="checked" />
-  🎬️ Skywalker Saga film
-</label>
-
-<label for="anthology">
-  <input name="filter" id="anthology" type="checkbox" checked="checked" />
-  🎞️ "A Star Wars Story" anthology film
-</label>
-
-<label for="animated">
-  <input name="filter" id="animated" type="checkbox" checked="checked" />
-  📺️ Animated series
-</label>
-
-<label for="disney">
-  <input name="filter" id="disney" type="checkbox" checked="checked" />
-  ➕️ Live action Disney+ series
-</label>
-
-<label for="book">
-  <input name="filter" id="book" type="checkbox" checked="checked" />
-  📖 Novel
-</label>
-
 **BBY**: years _Before the Battle of Yavin_, or before Episode IV \
 **ABY**: years _After the Battle of Yavin_, or after Episode IV
 
-### Table
+Toggle each type of media to filter the table:
+
+<div id="filters">
+  <label for="saga">
+    <input name="filter" id="saga" type="checkbox" checked="checked" />
+    🎬️
+    <span>Skywalker Saga film</span>
+  </label>
+
+  <label for="anthology">
+    <input name="filter" id="anthology" type="checkbox" />
+    🎞️
+    <span>“A Star Wars Story” anthology film</span>
+  </label>
+
+  <label for="animated">
+    <input name="filter" id="animated" type="checkbox" />
+    📺️
+    <span>Animated series</span>
+  </label>
+
+  <label for="disney">
+    <input name="filter" id="disney" type="checkbox" />
+    ➕️
+    <span>Live action Disney+ series</span>
+  </label>
+
+  <label for="book">
+    <input name="filter" id="book" type="checkbox" />
+    📖
+    <span>Novel</span>
+  </label>
+</div>
 
 <table style="text-align: left;">
   <thead>
@@ -121,11 +128,14 @@ Scott wanted a canonical timeline, so here's a rough table of released and confi
   let filterRows = document.querySelectorAll('tr.filterable');
   
   filterInputs.forEach(input => {
-    console.log(input);
+    let rows = document.querySelectorAll('tr.' + input.getAttribute('id'));
 
-    input.addEventListener('change', event => {      
-      let rows = document.querySelectorAll('tr.' + input.getAttribute('id'));
-      
+    rows.forEach(row => {
+      row.classList.add('hidden');
+      row.classList.toggle('hidden', !input.checked);
+    });
+
+    input.addEventListener('change', event => {
       rows.forEach(row => {
         row.classList.toggle('hidden', !input.checked);
       });
