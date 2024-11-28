@@ -9,13 +9,10 @@ logo: /images/starwars/logo.png
 
 {{ page.description }}
 
-## Previous Watch-Alongs
+## Coming Soon
 
-- ~~[Ahsoka](ahsoka)~~
-- ~~[Andor](andor)~~
-- ~~[Obi-Wan Kenobi](kenobi)~~
-- ~~[The Mandalorian](mandalorian)~~
-- ~~[Skywalker Saga](skywalker-saga)~~
+- [Skeleton Crew](skeleton-crew)
+- Andor Season 2
 
 ## Episode Guides
 
@@ -122,6 +119,14 @@ Toggle each type of media to filter the table:
 ## More
 
 - [Spoiler Room Sign](spoiler-room)
+
+### Previous Watch-Alongs
+
+- ~~[Ahsoka](ahsoka)~~
+- ~~[Andor](andor)~~
+- ~~[Obi-Wan Kenobi](kenobi)~~
+- ~~[The Mandalorian](mandalorian)~~
+- ~~[Skywalker Saga](skywalker-saga)~~
 
 <script>
   let filterInputs = document.querySelectorAll('input[name="filter"]');
