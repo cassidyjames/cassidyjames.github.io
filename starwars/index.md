@@ -1,18 +1,17 @@
 ---
+title: Star Wars
 description: "From The Clone Wars and Rebels to the Skywalker Saga and The Mandalorian—all things Star Wars."
 image: /images/starwars/kenobi.jpg
+logo: /images/starwars/logo.png
 ---
 
-# Star Wars
+# ![{{ page.title }}]({{ page.logo }})
 
 {{ page.description }}
 
-## Watch-Along
+## Previous Watch-Alongs
 
-[![Ahsoka](/images/starwars/ahsoka/card.jpg)](ahsoka){: .card}
-
-### Archive
-
+- ~~[Ahsoka](ahsoka)~~
 - ~~[Andor](andor)~~
 - ~~[Obi-Wan Kenobi](kenobi)~~
 - ~~[The Mandalorian](mandalorian)~~
@@ -110,6 +109,8 @@ Scott wanted a canonical timeline, so here's a rough table of released and confi
     {% endfor %}
   </tbody>
 </table>
+
+---
 
 ## More
 
