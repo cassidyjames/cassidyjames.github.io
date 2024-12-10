@@ -27,6 +27,7 @@
     width: calc(var(--content-width) * 1.5);
     max-width: 100%;
     margin-inline: auto;
+    text-wrap: balance;
 
     section {
       background: none;
