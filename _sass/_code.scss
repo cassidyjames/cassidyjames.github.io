@@ -1,26 +1,47 @@
 // Solarized Code Highlighting
 // Adapted from https://gist.github.com/nicolashery/5765395
 
+.highlighter-rouge {
+  background-color: var(--solarized-base3);
+  border: 1px solid var(--faint);
+  color: var(--solarized-base01);
+
+  code {
+    border: none;
+  }
+
+  + figcaption {
+    background-color: var(--solarized-base2);
+    border-radius: 0.5em;
+    border: 1px solid var(--faint);
+    color: var(--solarized-base02);
+    display: block;
+    font-family: monospace;
+    font-size: 0.8em;
+    margin-inline: auto;
+    margin-top: -0.5em;
+    padding: 0.5em;
+    width: fit-content;
+  }
+}
+
 .highlighter-rouge,
 .highlight,
 pre,
 code {
+  border-radius: 0.5em;
   max-width: 100%;
 }
 
 pre code {
   overflow: auto;
-  padding: 0.5em;
+  padding: 0.5em 0.67em;
   display: block;
   color: inherit;
 }
 
 .highlight {
-  background-color: var(--solarized-base3);
-  color: var(--solarized-base01);
-  display: inline-block;
-  font-size: 0.95em;
-  line-height: 1.33em;
+  line-height: 1.5em;
   margin: auto;
   text-align: left;
 
@@ -132,10 +153,17 @@ pre code {
 }
 
 @media (prefers-color-scheme: dark) {
-  .highlight {
+  .highlighter-rouge {
     background-color: var(--solarized-base03);
     color: var(--solarized-base1);
 
+    + figcaption {
+      background-color: var(--solarized-base02);
+      color: var(--solarized-base2);
+    }
+  }
+
+  .highlight {
     .gl {
       background-color: var(--solarized-base02);
     }
@@ -170,3 +198,4 @@ pre code {
     }
   }
 }
+
