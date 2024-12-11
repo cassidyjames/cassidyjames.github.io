@@ -82,7 +82,7 @@ Here are some specifics and simple examples to give you a better idea:
 
 #### Desktop Entry
 
-You'll only ever need to set Name, Comment, Categories, and Icon. See the [Additional Categories spec](https://specifications.freedesktop.org/menu-spec/latest/additional-category-registry.html) what you can include in addition to the `Game` category. Note the trailing semicolon!
+You'll only ever need to set Name, Comment, Categories, and Icon. See the [Additional Categories spec](https://specifications.freedesktop.org/menu-spec/latest/additional-category-registry.html) for what you can include in addition to the `Game` category. Note the trailing semicolon!
 
 ```ini
 [Desktop Entry]
@@ -98,9 +98,9 @@ Terminal=false
 
 #### Icon
 
-This is pretty straightforward; you need an icon for your game! This icon is used to represent your game both for app stores like Flathub.org and the native app store clients on players computers, plus as the launcher icon e.g. on the player's desktop or dock.
+This is pretty straightforward; you need an icon for your game! This icon is used to represent your game both for app stores like Flathub.org and the native app store clients on players' computers, plus as the launcher icon e.g. on the player's desktop or dock.
 
-If your game is open source, it's easy enough to point to the same icon you use for other platform exports. If you must provide a unique icon for Flathub (e.g. for size or style reasons), you can include that version in the same place as your Desktop Entry and MetaInfo files. The icon must be a square as an SVG or 256×256 pixel (or larger) PNG.
+If your game is open source, it's easy enough to point to the same icon you use for other platform exports. If you must provide a unique icon for Flathub (e.g. for size or style reasons), you can include that version in the same place as your Desktop Entry and MetaInfo files. The icon must be a square aspect ratio as an SVG or 256×256 pixel (or larger) PNG.
 
 #### MetaInfo
 
