@@ -100,6 +100,11 @@ Terminal=false
 
 This is pretty straightforward; you need an icon for your game! This icon is used to represent your game both for app stores like Flathub.org and the native app store clients on players' computers, plus as the launcher icon e.g. on the player's desktop or dock.
 
+<figure markdown=1>
+![Screenshot of ROTA, a colorful 2D platformer](/images/{{ page.url }}/dash.png){: .card }
+<figcaption>ROTA's icon in the GNOME Dash</figcaption>
+</figure>
+
 If your game is open source, it's easy enough to point to the same icon you use for other platform exports. If you must provide a unique icon for Flathub (e.g. for size or style reasons), you can include that version in the same place as your Desktop Entry and MetaInfo files. The icon must be a square aspect ratio as an SVG or 256×256 pixel (or larger) PNG.
 
 #### MetaInfo
