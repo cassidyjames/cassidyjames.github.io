@@ -188,6 +188,11 @@ This example is pretty verbose, taking advantage of most features available:
 
 Beyond Flathub's base requirements for publishing games are their [Quality Guidelines](https://docs.flathub.org/docs/for-app-authors/metainfo-guidelines/quality-guidelines). These are slightly more opinionated human-judged guidelines that, if met, **make your game eligible to be featured** in the banners on the Flathub.org home page, as a daily-featured app, and in other places like in some native app store clients. You should strive to meet these guidelines if at all possible!
 
+<figure markdown=1>
+![Screenshot of Flathub.org with a large featured banner for Crosswords](/images/{{ page.url }}/banner.png)
+<figcaption>Crosswords, a featured game on Flathub, meets the quality guidelines</figcaption>
+</figure>
+
 One common snag is the icon: generally Flathub reviewers are more lenient with games, but if you need help meeting the guidelines for your Flathub listing, be sure to reach out on the Flathub [Matrix chat](https://matrix.to/#/#flathub:matrix.org) or [Discourse forum](https://discourse.flathub.org/).
 
 ### 3. Flatpak manifest
