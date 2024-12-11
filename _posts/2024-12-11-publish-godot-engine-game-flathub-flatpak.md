@@ -70,15 +70,15 @@ Desktop Entry and MetaInfo are FreeDesktop.org specifications that ensure Linux-
 
 Writing them is simple enough, especially given an example to start with. FreeDesktop.org has a [MetaInfo Creator](https://www.freedesktop.org/software/appstream/metainfocreator/) web app that can even generate a starting point for you for both, but note that for Flathub:
 
-- The icon name given must match the app ID, which the site lists as a "Unique Software Identifier"; don't worry about icon filenames yet, as this can be handled later in the manifest
+- The icon name given must match the app ID, which the site lists as a "Unique Software Identifier"
 
 - The "Executable Name" will be `godot-runner` for Godot Engine games
 
-If included in your source code repository, I recommend storing these files in the project root (or in a `linux/` folder) as `YOUR.APP.ID.desktop`, `YOUR.APP.ID.metainfo.xml`, and, if it doesn't exist in a suitable format somewhere else in the repo, `YOUR.APP.ID.png`. The exported names will need to match the app ID, but that can be handled later in the manifest.
+If included in your source code repository, I recommend storing these files in the project root (or in a `linux/` folder) as `YOUR.APP.ID.desktop`, `YOUR.APP.ID.metainfo.xml`, and, if it doesn't exist in a suitable format somewhere else in the repo, `YOUR.APP.ID.png`.
 
 If your game is not open source or these files are not to be stored in the source code repository, I recommend storing and serving these files from the same versioned web location as your game's PCK file.
 
-Here are some specifics and simple examples to give you a better idea:
+Here are some specifics and simple examples from the game ROTA to give you a better idea:
 
 #### Desktop Entry
 
@@ -98,7 +98,7 @@ Terminal=false
 
 #### Icon
 
-This is pretty straightforward; you need an icon for your game! This icon is used to represent your game both for app stores like Flathub.org and the native app store clients on players' computers, plus as the launcher icon e.g. on the player's desktop or dock.
+This is pretty straightforward; you need an icon for your game! This is used to represent your game both for app stores like Flathub.org and the native app store clients on players' computers, plus as the launcher icon e.g. on the player's desktop or dock.
 
 <figure markdown=1>
 ![Screenshot of ROTA, a colorful 2D platformer](/images/{{ page.url }}/dash.png){: .card }
