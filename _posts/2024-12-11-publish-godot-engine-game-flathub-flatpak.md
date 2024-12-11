@@ -40,7 +40,7 @@ The trick is knowing how and where to provide each of these for the best experie
 
 3. Your manifest will live in a dedicated GitHub repo owned by the Flathub org. It's nice (but not required) to also include a version of your manifest with your game's source code for easier development and testing.
 
-Let's get into each of those steps in more detail.
+Before we get into each of those steps in more detail, **you will need to pick an app ID for your game**. This is a unique machine-oriented (not intended for humans to need to know) ID used across the Linux desktop and throughout the Flatpak process. It must be in valid [reverse domain name notation](https://en.wikipedia.org/wiki/Reverse_domain_name_notation) (RDNN) format for a domain or code hosting account associated with the game; for example, if your website is `example.com`, the ID should begin with `com.example.` I strongly recommend using your own domain name rather than an `io.itch.` or `io.github.` prefix here, but ultimately it is up to you. Note that as of writing, **Itch.io-based IDs cannot be verified on Flathub**.
 
 ### 1. Handling Your PCK File
 
@@ -74,7 +74,7 @@ Writing them is simple enough, especially given an example to start with. FreeDe
 
 - The "Executable Name" will be `godot-runner` for Godot Engine games
 
-If included in your source code repository, I recommend storing these files in a `flatpak/` directory as `launcher.desktop`, `metainfo.xml`, and, if it doesn't exist in a suitable format somewhere else in the repo, `icon.png`. The exported names will need to match the app ID, but that can be handled later in the manifest.
+If included in your source code repository, I recommend storing these files in the project root (or in a `linux/` folder) as `YOUR.APP.ID.desktop`, `YOUR.APP.ID.metainfo.xml`, and, if it doesn't exist in a suitable format somewhere else in the repo, `YOUR.APP.ID.png`. The exported names will need to match the app ID, but that can be handled later in the manifest.
 
 If your game is not open source or these files are not to be stored in the source code repository, I recommend storing and serving these files from the same versioned web location as your game's PCK file.
 
@@ -111,7 +111,7 @@ If your game is open source, it's easy enough to point to the same icon you use 
 
 I won't cover absolutely everything here (see the Flathub docs covering [MetaInfo Guidelines](https://docs.flathub.org/docs/for-app-authors/metainfo-guidelines/) for that), you should understand a few things about MetaInfo for your game.
 
-The top-most `id` must be in valid RDNN format for a domain or code hosting account associated with the game. For example, if your website is `example.com`, the ID should begin with `com.example.`. You should also use this prefix for the developer `id` to ensure all of your apps/games are associated with one another. I strongly recommend using your own domain name rather than an `io.itch.` or `io.github.` prefix here, but ultimately it is up to you. Note that as of writing, **Itch.io-based IDs cannot be verified on Flathub**.
+The top-most `id` is your game's app ID, and must be in valid RDNN format as described above. You should also use the same prefix for the developer `id` to ensure all of your apps/games are associated with one another.
 
 Screenshots should be at stable URLs; e.g. if pointing to a source code hosting service, make sure you're using a tag (like `1.0.0`) or commit (like `6c7dafea0993700258f77a2412eef7fca5fa559c`) in the URL rather than a branch name (like `main`). This way the right screenshots will be included for the right versions, and won't get incorrectly cached with an old version.
 
@@ -201,6 +201,8 @@ Finally, **the piece that puts it all together**: your manifest! This can be a J
 
 The important bits that you'll need to set here are the `id` (again matching the app ID), `base-version` for the Godot Engine version, the `sources` for where to get your PCK, Desktop Entry, MetaInfo, and icon files (in the below example, a source code repository and a GitHub release artifact), and the specific `build-commands` that describe where in the Flatpak those files get installed.
 
+In the `build-commands`, be sure to reference the correct location for each file. You can also use these commands to rename any files, if needed; in the below example, the Desktop Entry and MetaInfo files are in a `linux/` folder in the project source code, while the icon is reused (and renamed) from a path that was already present in the repo. You can also use `${FLATPAK_ID}` in file paths to avoid writing the ID over and over.
+
 For the supported Godot Engine versions, check the [available branches of the Godot Engine BaseApp](https://github.com/flathub/org.godotengine.godot.BaseApp/branches/all).
 
 For git sources, be sure to point to a specific commit hash; I also prefer to point to the release tag as well (e.g. with `tag: v1.2.3`) for clarity, but it's not strictly necessary. For file sources, be sure to include a hash of the file itself, e.g. `sha256: a89741f…`). For a file called `export.pck`, you can generate this on Linux with `sha256sum export.pck`; on Windows with `CertUtil -hashfile export.pck sha256`.
@@ -235,8 +237,8 @@ modules:
 
     build-commands:
       - install -Dm644 ROTA.pck ${FLATPAK_DEST}/bin/godot-runner.pck
-      - install -Dm644 flatpak/launcher.desktop ${FLATPAK_DEST}/share/applications/${FLATPAK_ID}.desktop
-      - install -Dm644 flatpak/metainfo.xml ${FLATPAK_DEST}/share/metainfo/${FLATPAK_ID}.metainfo.xml
+      - install -Dm644 linux/${FLATPAK_ID}.desktop ${FLATPAK_DEST}/share/applications/${FLATPAK_ID}.desktop
+      - install -Dm644 linux/${FLATPAK_ID}.metainfo.xml ${FLATPAK_DEST}/share/metainfo/${FLATPAK_ID}.metainfo.xml
       - install -Dm644 media/image/icon/icon256.png ${FLATPAK_DEST}/share/icons/hicolor/256x256/apps/${FLATPAK_ID}.png
 
 ```
