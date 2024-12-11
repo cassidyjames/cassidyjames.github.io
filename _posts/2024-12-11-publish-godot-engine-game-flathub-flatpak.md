@@ -284,7 +284,7 @@ Godot Engine is an important tool for these programs, and we are constantly look
 
 ### Definitions
 
-There are a lot of terms and technologies involved on both the Godot Engine and Flathub side, so let's start with some definitions. Don't worry if you don't fully understand each piece of these, but you can use this as a cheat sheet to refer back to.
+There are a lot of terms and technologies involved on both the Godot Engine and Flathub side, so here are some brief definitions. Don't worry if you don't fully understand each of these, and you can always use this as a cheat sheet to refer back to.
 
 <dl>
 
