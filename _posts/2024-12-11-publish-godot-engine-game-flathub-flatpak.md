@@ -82,7 +82,7 @@ Here are some specifics and simple examples to give you a better idea:
 
 #### Desktop Entry
 
-You'll only ever need to set Name, Comment, Categories, and Icon. See the [Additional Categories spec]((https://specifications.freedesktop.org/menu-spec/latest/additional-category-registry.html) what you can include in addition to the `Game` category. Note the trailing semicolon!
+You'll only ever need to set Name, Comment, Categories, and Icon. See the [Additional Categories spec](https://specifications.freedesktop.org/menu-spec/latest/additional-category-registry.html) what you can include in addition to the `Game` category. Note the trailing semicolon!
 
 ```ini
 [Desktop Entry]
