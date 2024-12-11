@@ -94,7 +94,7 @@ Exec=godot-runner
 Type=Application
 Terminal=false
 ```
-<figcaption>flatpak/launcher.desktop</figcaption>
+<figcaption>net.hhoney.rota.desktop</figcaption>
 
 #### Icon
 
@@ -182,7 +182,7 @@ This example is pretty verbose, taking advantage of most features available:
   <project_license>Unlicense</project_license>
 </component>
 ```
-<figcaption>flatpak/metainfo.xml</figcaption>
+<figcaption>net.hhoney.rota.metainfo.xml</figcaption>
 
 #### Bonus Points: Flathub Quality Guidelines
 
