@@ -6,6 +6,8 @@ updated: 2024-12-10
 image: /images/blog/publish-godot-engine-game-flathub-flatpak/card.png
 ---
 
+![Illustration with the Godot Engine logo, then an arrow pointing to the Flathub logo]({{ page.image }}){: .card }
+
 If you follow me on the fediverse ([{{ site.mastodon.handle }}]({{ site.mastodon.url }})), you may have seen me recently [gushing about ROTA](https://mastodon.blaede.family/@cassidy/113604784700813257), a video game I recently discovered. Besides the absolutely charming design and ridiculously satisfying gameplay, the game itself is _open source_, meaning the developer has published the game's underlying code out to the world for anyone to see, learn from, and adapt.
 
 As someone passionate about the Linux desktop ecosystem broadly and Flathub as an app store specifically, I was excited by the possibility of helping to get ROTA onto Flathub so more people could play it—plus, such a high-quality game being on Flathub helps the reputation and image of Flathub itself. So I kicked off a personal project (with the support of my employer¹) to get it onto Flathub—and I learned _a lot_. As a result, here's how I recommend publishing your Godot Engine game to Flathub.
