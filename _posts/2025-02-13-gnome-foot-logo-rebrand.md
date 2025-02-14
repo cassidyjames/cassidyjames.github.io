@@ -1,6 +1,6 @@
 ---
 title: GNOME Should Kick the Foot to the Curb… Mostly
-description: A soft brasnd evolution could balance long-time contributors' desire for whimsy with broader appeal to new contributors
+description: A soft brand evolution could balance long-time contributors' desire for whimsy with broader appeal to new contributors
 updated: 2025-02-14
 image: /images/blog/gnome-foot-logo-rebrand/foot-dark.svg
 ---
