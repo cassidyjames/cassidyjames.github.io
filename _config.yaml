@@ -58,21 +58,35 @@ comments:
   # Additional verified usernames in username@example.com format. If they are on
   # the host listed above, OMIT the @example.com
   verified:
+    - AdrianVovk@fosstodon.org
     - ahoneybunn@creatorstudio.space
     - alatiera@mastodon.social
     - alice@crab.garden
+    - blandford@mastodon.cloud
     - brainblasted@crab.garden
+    - brainofdane@hachyderm.io
+    - BrodieOnLinux@mstdn.social
     - btkostner@mastodon.social
+    - chergert@my.devsuite.app
+    - Conan_Kudo@fosstodon.org
+    - downey@floss.social
+    - ebassi@mastodon.social
+    - federicomena@mstdn.mx
+    - jamesh@aus.social
     - jimmac@mastodon.social
+    - jorge@hachyderm.io
     - julian@fietkau.social
     - katie
     - lizkecso@mastodon.social
     - Lobau@indieweb.social
     - lucy
     - micahilbery@mastodon.online
+    - nathan@social.nathandyer.me
     - nora
     - razze@osna.social
+    - richlitt@mastodon.social
     - ryanleesipes@mastodon.social
+    - ryne@androiddev.social
     - tammy
     - tbernard@mastodon.social
 
