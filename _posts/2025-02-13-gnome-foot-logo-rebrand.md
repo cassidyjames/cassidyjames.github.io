@@ -3,6 +3,8 @@ title: GNOME Should Kick the Foot to the Curb… Mostly
 description: A soft brand evolution could balance long-time contributors' desire for whimsy with broader appeal to new contributors
 updated: 2025-02-14
 image: /images/blog/gnome-foot-logo-rebrand/foot-dark.png
+comments:
+  id: 114000865605930129
 ---
 
 This past week volunteers working with the GNOME design and engagement teams debuted a brand new [GNOME.org](https://gnome.org) website—one that was met largely with one of two reactions:
