@@ -29,7 +29,7 @@ mastodon:
 matrix: "@cassidyjames:gnome.org" # in the format @username:example.com
 medium: "@cassidyjames" # including @ if user, none if publication
 pixelfed: "https://pixelfed.social/cassidyjames" # whole URL since it's federated
-signal: https://signal.me/#eu/UzJ-uiGxfEjdgYEZYsgqEB7b0TezQIsWP0hXUh1h4bpu8lUUZVpJYKNmT2ry59iz # whole URL for now
+signal: https://signal.me/#eu/MaAGJHh_C36AKgv_VOidJ0e2WrFDp1TFEGV88d1GF_sDioh_00NLP6FmKtvJ1OmO # whole URL for now
 square: "$cassidyjames" # Cash.app user, including $
 steam: cassidyjames # user/alias, no @
 twitter: "https://twitter.cassidyjames.com" # Full link to support archives
