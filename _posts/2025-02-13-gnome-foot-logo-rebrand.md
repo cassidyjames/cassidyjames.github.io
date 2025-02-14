@@ -1,26 +1,32 @@
 ---
 title: GNOME Should Kick the Foot to the Curb… Mostly
-description: A soft brand evolution could balance long-time contributors' desire for whimsy with broader appeal to new contributors
+description: A soft brand evolution could balance a desire for unique character with a broader appeal
 updated: 2025-02-14
 image: /images/blog/gnome-foot-logo-rebrand/foot-dark.png
 comments:
   id: 114000865605930129
 ---
 
+<aside markdown=1>
+**Update:** Thanks for all of the feedback and discussion on Mastodon and Matrix! I've revised this post a bit with some more nuance and context based on feedback. I apologize if my writing style was/is divisive; I wrote the first draft of this post pretty hastily based on some frustrating conversations and wanted to 
+</aside>
+
 This past week volunteers working with the GNOME design and engagement teams debuted a brand new [GNOME.org](https://gnome.org) website—one that was met largely with one of two reactions:
 
 1. **It's beautiful and modern, nice work!** and
 
-2. **What have you done with the foot? You have ruined GNOME!**
+2. **Where is the foot‽**
 
-You see, the site doesn't feature the GNOME logo at the top of the page—it just has the word **GNOME**, with the actual logo relegated to the footer. It's pretty safe to say (from my own observations, at least) that the second reaction was _mostly_ the sentiment of a handful of long-time contributors who had grown very cozy with the current GNOME logo:
+You see, the site didn't feature the GNOME logo at the top of the page—it just has the word **GNOME**, with the actual logo relegated to the footer. Admittedly, some folks reacted both ways (it's pretty, but where's the foot?). To me, it seems that the second reaction was _mostly_ the sentiment of a handful of long-time contributors who had grown very cozy with the current GNOME logo:
 
 ![GNOME Logo, which is a foot](/images/blog/gnome-foot-logo-rebrand/foot.svg#gh-light-mode-only){: .card }
 ![GNOME Logo, which is a foot (dark version)](/images/blog/gnome-foot-logo-rebrand/foot-dark.svg#gh-dark-mode-only){: .card }
 
+I've also heard
+
 ### What's the problem?
 
-It's a four-toed foot that is sort of supposed to look like a letter G. According to legend (read: my conversations with designers and contributors who have been working with GNOME for more years than I have fingers _and_ toes), the logo is basically a story of happenstance: an early wallpaper featured footprints in the sand, that was modified into an icon for the menu, that was turned into a sort of logo while being modified to look like the letter G, and then that version was cleaned up a bit and successfully trademarked by the GNOME Foundation.
+The current GNOME logo is a four-toed foot that is sort of supposed to look like a letter G. According to legend (read: my conversations with designers and contributors who have been working with GNOME for more years than I have fingers _and_ toes), it is basically a story of happenstance: an early wallpaper featured footprints in the sand, that was modified into an icon for the menu, that was turned into a sort of logo while being modified to look like the letter G, and then that version was cleaned up a bit and successfully trademarked by the GNOME Foundation.
 
 <figure markdown=1>
 ![Evolution of the logo, 1997–2002](/images/blog/gnome-foot-logo-rebrand/evolution.png){: .card }
@@ -29,8 +35,9 @@ Graphic [shared by Michael Downey](https://floss.social/@downey/1139876724721300
 </figcaption>
 </figure>
 
+If I'm being honest, I don’t find it to be a particularly good _logo_. Over time, I've narrowed down my thoughts (and the feedback I've heard from others) into a few points:
 
-If I'm being honest, it's not a particularly good _logo:_ it doesn't convey anything about the project (which by itself is fine… many logos don't directly!), it's an awkward shape that doesn't fit cleanly into a square or circle, especially at smaller sizes (e.g. for a social media avatar or favicon), and—I'll be completely honest—way too many people have turned their nose up at the weird foot sticker on my laptop. It doesn't exactly set a great first impression for a community and modern computing platform.
+1. **It doesn't convey anything about the project.** By itself may be fine… many logos don't directly!), it's an awkward shape that doesn't fit cleanly into a square or circle, especially at smaller sizes (e.g. for a social media avatar or favicon), and—I'll be completely honest—way too many people have turned their nose up at the weird foot sticker on my laptop. It doesn't exactly set a great first impression for a community and modern computing platform.
 
 <figure markdown=1>
 ![Issues with the foot](/images/blog/gnome-foot-logo-rebrand/issues.png#gh-light-mode-only)
@@ -65,5 +72,6 @@ I promise I'm not trying to start flame wars here; I genuinely think GNOME as a 
 Hit me up on Mastodon or any of the links in the footer to tell me if you think I'm right, or if I've gotten this all terribly wrong. :)
 
 <aside markdown=1>
-**2025-02-14:** Edited to correct spelling and grammatical issues and include more graphics. 
+- **2025-02-13:** Edited to correct spelling and grammatical issues and include more graphics.
+- **2025-02-14:** Edited to mention more design contributors
 </aside>
