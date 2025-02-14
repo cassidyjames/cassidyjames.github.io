@@ -1,7 +1,7 @@
 .card {
   background-color: var(--faint);
   border: 1px solid rgba(0, 0, 0, 0.125);
-  border-radius: 0.4em;
+  border-radius: 0.4rem;
   box-shadow:
     inset 0 1px rgba(white, 0.9),
     inset 1px 0 rgba(white, 0.5),
@@ -13,7 +13,7 @@
   overflow: hidden;
 
   > img {
-    border-radius: 0.4em;
+    border-radius: 0.4rem;
   }
 
   @media (prefers-color-scheme: dark) {
@@ -35,4 +35,8 @@
       filter: invert(1) hue-rotate(180deg);
     }
   }
+}
+
+img.card {
+  display: block;
 }
