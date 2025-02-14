@@ -10,12 +10,6 @@ my way? Here you go.
 [$cassidyjames](https://cash.app/$cassidyjames)
 
 
-<h2>GPay</h2>
-
-<a href="https://gpay.app.goo.gl/pay-X0DNnUye74a">{% include picture src="gpay.png" alt="GPay barcode" class="qr" %}</a>
-
-[cassidy.james.blaede@gmail.com](https://gpay.app.goo.gl/pay-X0DNnUye74a) (or my phone number)
-
 <h2>Venmo</h2>
 
 <a href="https://venmo.com/cassidyjames">{% include picture src="venmo.png" alt="Venmo barcode" class="qr" %}</a>
