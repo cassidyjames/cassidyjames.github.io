@@ -5,8 +5,8 @@
   <a href="/blog" {% if current[1] == 'blog' %}class='current'{% endif %}>Blog</a>
   <a href="/wishlist" {% if current[1] == 'wishlist' %}class='current'{% endif %}>Wishlist</a>
   <a href="/starwars" {% if current[1] == 'starwars' %}class='current'{% endif %}>Star Wars</a>
-  <a href="/pay" {% if current[1] == 'pay' %}class='current'{% endif %}>Pay</a>
-
+  
+  {% if current[1] == 'pay' %}<a href="/pay" class='current'>Pay</a>{% endif %}
   {% if current[1] == 'referrals' %}<a href="/referrals" class='current'>Referrals</a>{% endif %}
   {% if current[1] == 'borrow' %}<a href="/borrow" class='current'>Borrow</a>{% endif %}
   {% if current[1] == 'gamepi' %}<a href="/gamepi" class='current'>GamePi</a>{% endif %}
