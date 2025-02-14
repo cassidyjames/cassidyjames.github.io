@@ -28,7 +28,7 @@ Graphic [shared by Michael Downey](https://floss.social/@downey/1139876724721300
 </figure>
 
 
-If I'm being honest, it's not a particularly good _logo:_ it doesn't convey anything about the project (which by itself is fine… many logos don't directly!), it's an awkward shape that doesn't fit cleanly into a square or circle, especially at smaller sizes (e.g. for social media avatar or favicon), and—I'll be completely honest—way too many people have turned their nose up at the weird foot sticker on my laptop. It doesn't exactly set a great first impression for a community and modern computing platform.
+If I'm being honest, it's not a particularly good _logo:_ it doesn't convey anything about the project (which by itself is fine… many logos don't directly!), it's an awkward shape that doesn't fit cleanly into a square or circle, especially at smaller sizes (e.g. for a social media avatar or favicon), and—I'll be completely honest—way too many people have turned their nose up at the weird foot sticker on my laptop. It doesn't exactly set a great first impression for a community and modern computing platform.
 
 <figure markdown=1>
 ![Issues with the foot](/images/blog/gnome-foot-logo-rebrand/issues.png#gh-light-mode-only)
