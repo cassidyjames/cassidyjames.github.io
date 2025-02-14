@@ -42,4 +42,4 @@ While there are some folks that would push for a _complete_ rebrand of GNOME—n
 
 I promise I'm not trying to start flame wars here; I genuinely think GNOME as a project and community is in a good place to move forward with modernizing our image a bit. Members of the design team like Jakub, Tobias, Sam, and Allan and contributors across the project like Alice, Sophie, and probably half a dozen more have been working hard at modernizing our UI and image when it comes to software—I think it's time we caught up with the brand itself.
 
-Hit me up on Mastodon to tell me if you think I'm right, or if I've gotten this all terribly wrong. :)
+Hit me up on Mastodon or any of the links in the footer to tell me if you think I'm right, or if I've gotten this all terribly wrong. :)
