@@ -57,6 +57,10 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 ### In Progress _(but probably not actively worked on)_
 
+- [**Vibes**](https://github.com/cassidyjames/vibes): Small collection of curated wallpapers. Maybe using an Unsplash collection as a back-end, or just shipping the wallpapers with the app.
+
+### Abandoned _File an issue or contact me if you want to pick it up_
+
 - [**Anamorph**](https://github.com/cassidyjames/anamorph): De-squeeze anamorphic footage, i.e. that shot with a Moment Anamorphic lens.
 
 - [**Codecard**](https://github.com/DevAlien/codecard): Share snippets of code as a pretty image, e.g. for social media.
@@ -65,13 +69,7 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - [**Rundown**](https://github.com/cassidyjames/rundown): Battery rundown app that waits until the battery is full, then power is unplugged, then it runs benchmarks until the battery dies. Use across hardware for consistent/comparable battery stats. Probably needs to do a variety of work behind the scenes, like loading webpages (WebKitGTK), maybe playing videos, occasionally hitting the CPU.
 
-- **Webshooter**: Your friendly neighborhood website screenshooter. Grab full-size screenshots of web pages at predefined sizes. Great for sharing prototypes.
-
 ### Ideas _Contact me if you want to tackle one, and I can help with design!_
-
-- **Backdrop**: Small collection of curated wallpapers. Maybe using an Unsplash collection as a back-end, or just shipping the wallpapers with the app.
-
-- **Butler**: Home Assistant dashboard on the desktop. A lightweight native wrapper around Home Assistant that has you enter your local (and optionally remote) URL, intelligently falls back to the remote URL, respects the FreeDesktop dark style, integrates with the Background portal, and maybe even has a mini mode called by a global keyboard shortcut.
 
 - **Lyra**: Get lyrics and meaning for almost any song. Powered by the Genius API. Hook into MPRIS to see what's playing, but also search for songs/lyrics.
 
@@ -95,4 +93,5 @@ Also note that the names of in-progress apps and concepts are not set in stone, 
 
 - ~~**Pwatypus**: Turn PWAs into pinned, integrated web apps. Like [Webpin](https://github.com/artemanufrij/webpin), but leaning more on PWA manifests and focusing on as deep of integration as possible.~~ Less needed now with the work towards PWA support in GNOME Web.
 
-- ~~**Roost**: App for Nest smart devices, i.e. thermostat, cams, etc.~~ Superseded by the **Butler** idea above, plus integrating directly with Nest is a huge pain.
+- ~~**Roost**: App for Nest smart devices, i.e. thermostat, cams, etc.~~ Superseded by the **Butler** app above, plus integrating directly with Nest is a huge pain.
+- **Webshooter**: Your friendly neighborhood website screenshooter. Grab full-size screenshots of web pages at predefined sizes. Great for sharing prototypes.
