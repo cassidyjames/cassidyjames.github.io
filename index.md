@@ -15,7 +15,7 @@ class: cassidyjames
 <section class="work" markdown="1">
 ## Work
 
-Partner Success Engineer at **Endless OS Foundation**. Previously, I co-founded elementary, Inc. and was the UX Architect at System76.
+Game Making Community Lead at **Endless Foundation**. Previously, I co-founded elementary, Inc. and was the UX Architect at System76.
 
 [<i class="fa fa-fw manual"></i>Learn about Endless](https://endlessos.org){: .read-more.endless }
 [<i class="fa fa-fw manual"></i>Learn about elementary](https://elementary.io){: .read-more.elementary }
@@ -26,7 +26,7 @@ Partner Success Engineer at **Endless OS Foundation**. Previously, I co-founded 
 <section class="code" markdown="1">
 ## Code & Collaboration
 
-I strive to **collaborate** with open source projects as much as possible, and share what I work on under **free and open licenses**.
+I strive to **collaborate** with open source projects and communities as much as possible, and share what I work on under **free and open licenses**.
 
 [<i class="fab fa-fw fa-github"></i>Browse code on GitHub](https://github.com/{{ site.github_user }}){: .read-more.github}
 [<i class="fab fa-fw fa-gitlab"></i>View profile on GNOME GitLab](https://gitlab.gnome.org/cassidyjames){: .read-more.gitlab }
