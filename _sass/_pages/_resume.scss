@@ -7,12 +7,24 @@ body.resume {
     margin-top: 0.75em;
   }
 
-  h4 {
+  h3 + h4 {
     margin-top: 0.25em;
+  }
+
+  h4 em {
+    float: right;
+    font-size: 0.8em;
+    font-style: initial;
+    font-weight: initial;
+    line-height: 1.5em;
   }
 
   p {
     margin: 1em auto;
+  }
+
+  li p {
+    margin: 0.67em auto;
   }
 
   aside {
