@@ -35,6 +35,10 @@ I lead the community efforts around our game making and learning programs, and a
 - Supporting community partners with technical questions
 - Measuring impact of community efforts
 
+##### Achievements:
+
+- Worked with game developers to bring **four new open source games** to [Flathub](https://flathub.org/apps/category/game/), making them easily available to Linux and Endless OS users
+
 #### Partner Success Engineer _2022–2025_
 
 I acted as the bridge between the Foundation's dozens of impact partners—organizations deploying the open source, Linux-based [Endless OS](https://www.endlessos.org/os) and other technologies around the world—and the Endless engineering team.
@@ -73,7 +77,7 @@ I acted as the bridge between the Foundation's dozens of impact partners—organ
 
 - **Restructured [support and training resources](https://support.endlessos.org/)**, encouraging colleague ownership
 
-- **Coordinated verification** of 14 Endless-affiliated apps on [Flathub](https://flathub.org/apps/collection/verified/)
+- **Coordinated verification** of 20+ apps on [Flathub](https://flathub.org/apps/collection/verified/), including 14 Endless-affiliated apps
 
 - **Prepared and delivered a well-received training** on "What is Open Source?" to an Endless partner organization
 
