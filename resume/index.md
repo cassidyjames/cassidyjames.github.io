@@ -21,7 +21,7 @@ Over a decade of open source collaboration and community building. A decade of u
 
 ### Endless OS Foundation
 
-#### Game Making Community Lead _2025–_
+#### Community Architect/Experience Lead _2025–_
 
 I lead the community efforts around our game making and learning programs, and act as our open source community subject matter expert.
 
