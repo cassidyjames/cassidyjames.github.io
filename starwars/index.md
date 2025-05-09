@@ -9,10 +9,9 @@ logo: /images/starwars/logo.png
 
 {{ page.description }}
 
-## Coming Soon
+## Now/Coming Soon
 
-- [Skeleton Crew](skeleton-crew)
-- Andor Season 2
+- [Andor Season 2](andor)
 
 ## Episode Guides
 
@@ -122,8 +121,9 @@ Toggle each type of media to filter the table:
 
 ### Previous Watch-Alongs
 
+- ~~[Skeleton Crew](skeleton-crew)~~
 - ~~[Ahsoka](ahsoka)~~
-- ~~[Andor](andor)~~
+- ~~[Andor Season 1](andor/s1)~~
 - ~~[Obi-Wan Kenobi](kenobi)~~
 - ~~[The Mandalorian](mandalorian)~~
 - ~~[Skywalker Saga](skywalker-saga)~~
