@@ -15,7 +15,7 @@ class: cassidyjames
 <section class="work" markdown="1">
 ## Work
 
-Community Architect/Experience Lead at **Endless Foundation**. Previously, I co-founded elementary, Inc. and was the UX Architect at System76.
+Community Architect/Experience Lead at **Endless Access**. Previously, I co-founded elementary, Inc. and was the UX Architect at System76.
 
 [<i class="fa fa-fw manual"></i>Learn about Endless](https://endlessos.org){: .read-more.endless }
 [<i class="fa fa-fw manual"></i>Learn about elementary](https://elementary.io){: .read-more.elementary }
