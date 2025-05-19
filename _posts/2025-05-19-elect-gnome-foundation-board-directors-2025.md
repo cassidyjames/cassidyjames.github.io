@@ -41,6 +41,6 @@ However, the seat I filled was up for re-election in this very next cycle, so I'
 >
 >Thank you for your consideration!
 
-## Vote
+## Become a Member, and Vote!
 
 Voting will be open for **two weeks beginning June 5, 2025.** If you contribute to GNOME, now is a great time to ensure you're a member so you can vote in time; check the [GNOME Discourse announcement](https://discourse.gnome.org/t/gnome-foundation-board-of-directors-elections-2025/28980) for all of the specific dates and details. And don't forget to actually vote once it begins. :)
