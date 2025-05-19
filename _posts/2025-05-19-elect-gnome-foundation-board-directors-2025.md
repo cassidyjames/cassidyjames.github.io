@@ -3,6 +3,8 @@ title: Elect the next GNOME Foundation Board of Directors for 2025!
 description: (Oh, and I'm running…)
 updated: 2025-05-19
 image: /images/blog/gnome-foot-logo-rebrand/foot-dark.png
+comments:
+  id: 114536724046105894
 ---
 
 It's everyone's favorite time of year, election season! …Okay, maybe not the most exciting thing—but an extremely important one nonetheless.
