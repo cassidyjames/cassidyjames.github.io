@@ -1,5 +1,5 @@
 ---
-title: Elect the next GNOME Foundation Board or Directors for 2025!
+title: Elect the next GNOME Foundation Board of Directors for 2025!
 description: (Oh, and I'm running…)
 updated: 2025-05-19
 image: /images/blog/gnome-foot-logo-rebrand/foot-dark.png
