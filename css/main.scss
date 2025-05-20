@@ -25,6 +25,12 @@
 
 @import "_pages";
 
+$fa-font-path: "../fonts";
+@import "_fontawesome/fontawesome";
+@import "_fontawesome/solid";
+@import "_fontawesome/brands";
+$fa-font-path: "../fonts";
+
 :root {
   color-scheme: light dark;
   --blur: blur(20px);
