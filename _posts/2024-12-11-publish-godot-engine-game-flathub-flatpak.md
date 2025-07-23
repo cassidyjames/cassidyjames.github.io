@@ -9,7 +9,7 @@ comments:
 
 If you follow me on the fediverse ([{{ site.mastodon.handle }}]({{ site.mastodon.url }})), you may have seen me recently [gushing about ROTA](https://mastodon.blaede.family/@cassidy/113604784700813257), a video game I recently discovered. Besides the absolutely charming design and ridiculously satisfying gameplay, the game itself is _open source_, meaning the developer has published [the game's underlying code](https://github.com/HarmonyHoney/ROTA) out to the world for anyone to see, learn from, and adapt.
 
-![Screenshot of ROTA, a colorful 2D platformer](https://github.com/HarmonyHoney/ROTA/raw/branch5/media/image/assets/screens/thumb/1.png?raw=1){: .card }
+![Screenshot of ROTA, a colorful 2D platformer](https://github.com/HarmonyHoney/ROTA/blob/2025.04.30/media/image/assets/screens/1.png?raw=true){: .card }
 
 As someone passionate about the Linux desktop ecosystem broadly and Flathub as an app store specifically, I was excited by the possibility of helping to get ROTA onto Flathub so more people could play it—plus, such a high-quality game being on Flathub helps the reputation and image of Flathub itself. So I kicked off a personal project (with the support of my employer¹) to get it [onto Flathub](https://flathub.org/apps/net.hhoney.rota)—and I learned _a lot_—especially what steps were confusing or unclear. 
 
