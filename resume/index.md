@@ -17,9 +17,10 @@ To design, implement, and continuously improve excellent experiences and process
 
 ## Relevant Experience
 
-Over a decade of open source collaboration and community building. A decade of user experience architecture. A decade managing a successful open source company and community. (And way too long getting roped into front-end web development.)
+Three years as partner success engineer and developer advocate. Over a decade of open source collaboration and community building. Strong background in user experience and web development.
 
-### Endless OS Foundation
+
+### Endless Access (formerly Endless OS Foundation)
 
 #### Community Architect/Experience Lead _2025–_
 
@@ -27,13 +28,10 @@ I lead the community efforts around our game making and learning programs, and a
 
 ##### Responsibilities
 
-- Designing and maintaining an international game-making community
-- Pushing forward best open source practices and tools
-- Creating engagement opportunities for the community
-- Organically growing the community over the long term
-- Engaging educators to support and grow the community
-- Supporting community partners with technical questions
-- Measuring impact of community efforts
+- Architecting and managing a growing international game-making community
+- Advocating for the best open source practices and tools
+- Supporting internal teams with community interfacing
+- Supporting partners with technical questions
 
 ##### Achievements:
 
@@ -41,7 +39,7 @@ I lead the community efforts around our game making and learning programs, and a
 
 #### Partner Success Engineer _2022–2025_
 
-I acted as the bridge between the Foundation's dozens of impact partners—organizations deploying the open source, Linux-based [Endless OS](https://www.endlessos.org/os) and other technologies around the world—and the Endless engineering team.
+I acted as the bridge between our engineering team and our dozens of impact partners deploying the open source, Linux-based [Endless OS](https://www.endlessos.org/os) and other technologies around the world.
 
 ##### Responsibilities:
 
@@ -83,15 +81,16 @@ I acted as the bridge between the Foundation's dozens of impact partners—organ
 
 - Explored and reported internally on an **experimental method of rebuilding Endless OS** atop Fedora Silverblue
 
-- **Initiated, researched, and advocated for a [cross-desktop standardized accent color preference](https://cassidyjames.com/blog/freedesktop-accent-colors-gnome-proposal/)** that is now shipping in GNOME, elementary OS, KDE, COSMIC, and more
+- **Initiated, researched, and advocated for a FreeDesktop standardized accent color preference](https://cassidyjames.com/blog/freedesktop-accent-colors-gnome-proposal/)** that is now shipping in GNOME, elementary OS, KDE, COSMIC, and more
+
 
 ### elementary, Inc. _2011–2022_
 
 #### Co-founder, Chief Experience Officer (CXO)
 
-I co-founded the company in 2011 and helped it grow to sustain multiple employees while releasing 6 major OS releases, a pay-what-you-can app store, and multiple technology stack shifts like Python to Vala, GTK2 to GTK3, and Debian to Flatpak.
+I co-founded the company in 2011 and helped it grow to sustain multiple employees while releasing 6 major OS releases and a pay-what-you-can app store.
 
-Personally, I was responsible for the overall experience and messaging of the company and products, user experience architecture, and being a liaison between parties including end users, OEMs, developers, and other open source projects.
+I was responsible for the overall experience and messaging of the company and products, user experience architecture, and being a liaison between end users, OEMs, developers, and other open source projects.
 
 ##### Responsibilities:
 
@@ -104,29 +103,24 @@ Personally, I was responsible for the overall experience and messaging of the co
 
 ##### Achievements:
 
-- Initiated and grew an **[OEM program](https://elementary.io/oem)** with three OEM retailers and two OEM partner devices
+- **Organized and coordinated the [elementary Developer Weekend](https://edw.elementary.io/)**, a two-day streamed event with multiple global speakers and live Q&A
 
-- Initiated, researched, and conducted a user study for a **[cross-desktop standardized dark style preference](https://blog.elementary.io/tags/#dark-style)** that is now shipping in elementary OS 6 and GNOME 42 
+- **Developed and launched an [OEM program](https://elementary.io/oem)** with three global OEM retailers
 
-- Conceptualized, launched, and maintained **[monthly editorial content](https://blog.elementary.io)** for both users and developers
+- **Initiated and advocated for a [standardized FreeDesktop dark style preference](https://blog.elementary.io/tags/#dark-style)** that has been widely adopted across the Linux desktop ecosystem
 
-- Designed, developed, and launched **six apps on AppCenter** to dogfood the development process
+- **Developed and produced [monthly editorial content](https://blog.elementary.io)** for both users and developers
 
-- Initiated and maintained **comprehensive [brand resources](https://elementary.io/brand)** for use across the organization
+- **Designed, developed, and launched six desktop apps** on AppCenter to dogfood the development process
 
 - **Coordinated multiple in-person development sprints** with employees and open source contributors
 
-- **Organized and coordinated the [elementary Developer Weekend](https://edw.elementary.io/)**, a two-day streamed event with multiple global speakers and live Q&A
-
-- Designed, implemented, and documented a **[web-based AppCenter browsing experinece](https://medium.com/elementaryos/introducing-new-appcenter-sharing-urls-4da5ee92f12d)** to complement the native AppCenter client
-
 ##### Other Responsibilities
 
-- Design and front-end web development of [elementary.io](https://elementary.io) and related web properties
-- Front-end desktop development and code review in Vala and GTK
 - Monthly update and Q&A [livestreams](https://youtube.com/c/elementaryinc) 
 - User documentation
-- Documenting, evolving, and maintaining detailed [Human Interface Guidelines](https://elementary.io/docs/human-interface-guidelines)
+- Documenting and maintaining [Human Interface Guidelines](https://elementary.io/docs/human-interface-guidelines)
+
 
 ### System76 _2014–2018_
 
@@ -148,18 +142,10 @@ Personally, I was responsible for the overall experience and messaging of the co
 
 - Attended and documented [GNOME UX Hackfest 2017](http://blog.system76.com/post/167747412318/gnome-ux-hackfest-2017), helping to design future improvements to GNOME Shell and GDM
 
-- Designed several critical customer-facing interfaces ([Product Configurator](https://system76.com/laptops/lemp10/configure), [OS Installer](https://github.com/elementary/installer/wiki), [USB Flasher](https://github.com/pop-os/popsicle/wiki/GUI-Design), [GPU Switching](https://github.com/pop-os/gnome-shell-extension-system76-power/wiki)) and helped bring them to life in code
-
-- Accepted as a member of the [GNOME Foundation](https://www.gnome.org/foundation/membership/) for work on GNOME and downstream projects
+- Designed critical customer-facing user interfaces and helped bring them to life in code
 
 - Attended and documented [GUADEC 2018](http://blog.system76.com/post/176340998478/guadec-conference-summary-2018), helping to represent System76 and Pop!_OS interests while building closer relationships with upstreams
 
-##### Other Responsibilities
-
-- Photo editing & video compositing
-- Front-end desktop development in Vala and GTK
-
-<!--
 
 ### Visual Logic Group _2012–2013_
 
@@ -169,6 +155,7 @@ Personally, I was responsible for the overall experience and messaging of the co
 - Designing time-tracking software with a team
 - Icon design
 - Front-end web development
+
 
 ### University of Northern Iowa _2011–2012_
 
@@ -183,6 +170,7 @@ Personally, I was responsible for the overall experience and messaging of the co
 - Created and managed wireless heatmaps
 - Tracked tasks and progress in a ticketing system
 
+
 ### LCS _2010–2011_
 
 #### Technical Support Analyst
@@ -192,7 +180,7 @@ Personally, I was responsible for the overall experience and messaging of the co
 - Wrote and maintained documentation through Sharepoint
 - Communicated technical concepts to facilitate understanding
 - Rapidly learned and mastered varied internal systems and programs
-- Tracked tasks and progress in a ticketing system
+
 
 ### Webspec Design, LLC. _2007–2010_
 
@@ -200,11 +188,6 @@ Personally, I was responsible for the overall experience and messaging of the co
 
 - Front-end web development of small client websites
 - Training and supporting clients
-- Installing, configuring, developing, and supporting custom Wordpress-based
-  websites and plugins
-- High-fidelity web design slicing & implementation
-
--->
 
 ## Education
 
