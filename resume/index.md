@@ -81,7 +81,7 @@ I acted as the bridge between our engineering team and our dozens of impact part
 
 - Explored and reported internally on an **experimental method of rebuilding Endless OS** atop Fedora Silverblue
 
-- **Initiated, researched, and advocated for a FreeDesktop standardized accent color preference](https://cassidyjames.com/blog/freedesktop-accent-colors-gnome-proposal/)** that is now shipping in GNOME, elementary OS, KDE, COSMIC, and more
+- **Initiated, researched, and advocated for a [FreeDesktop accent color preference](https://cassidyjames.com/blog/freedesktop-accent-colors-gnome-proposal/)** that is now shipping in GNOME, elementary OS, KDE, COSMIC, and more
 
 
 ### elementary, Inc. _2011–2022_
