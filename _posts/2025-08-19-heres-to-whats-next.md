@@ -11,12 +11,12 @@ Unfortunately, all good things must come to an end: due to strategic decisions a
 
 ### What _is_ next?
 
-At the end of the day, my family has to eat and we have to pay for a roof over our heads; otherwise, retiring into the wilderness to raise my kids, garden, and play with LEGO would sound pretty nice right about now! Given that I need a decent income to support us, I'm currently looking for some combination of the following: 
+At the end of the day, my family has to eat and we have to pay for a roof over our heads; otherwise, retiring into the wilderness to raise my kids, garden, and play with LEGO would sound pretty nice right about now! Given that I need a decent income to support us, I'm currently looking for a role with some combination of the following: 
 
-• open source
-• connecting people
-• empowering people to build things
-• tech for good
+- open source
+- connecting people
+- empowering people to build things
+- tech for good
 
 These are both broad and vague because I don't have a perfect vision of what I want; my ideal job would hit all four of those, but I'm also a realist and know that I might not be able to support my family with some utopian gig working on something like GNOME with my specific skills and experience. (That said, if you’d like to hire me for that, I’m all ears!) I would love to continue working at a nonprofit, but I’m open to a company that is strongly aligned with my values. I’d prefer to work on a core product that is open source, but I could see myself working for an org that at least substantially supports open source. I don’t think I want to be a community manager—unless I can be convinced the org knows precisely what they want and that lines up with my approach—but I do have a passion for connecting with people and helping them.
 
