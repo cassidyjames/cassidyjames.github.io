@@ -147,7 +147,7 @@ Responsible for the overall experience and messaging of the company and products
 
 Appointed to the GNOME Foundation board of directors to help govern, represent, and steer the non-profit. After my initial appointment, I was elected by the GNOME Foundation membership to serve an additional term as director.
 
-#### Flathub Developer Advocate _2017–_
+#### Flathub Developer Advocate _2024–_
 
 I assist with technical documentation, writing public announcements, Flathub's social media presence, and developer relations.
 
