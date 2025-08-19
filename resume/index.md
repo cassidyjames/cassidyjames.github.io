@@ -1,9 +1,11 @@
 ---
 title: Résumé
-description: My objective is to design, implement, and continuously improve excellent experiences and processes around open source software and communities
+description: Experienced, friendly, and creative developer advocate and community builder passionate about open source, connecting people and technology, and equipping developers with the best tools.
 ---
 
 # Cassidy James Blaede
+
+{{ page.description }}
 
 <aside class="print-only" markdown="1">
 - [cassidyjames.com](https://cassidyjames.com)
@@ -11,167 +13,115 @@ description: My objective is to design, implement, and continuously improve exce
 - (515) 966-4238
 </aside>
 
-## Objective
+## Career Experience
 
-To design, implement, and continuously improve excellent experiences and processes around open source software and communities.
+Three years as partner success engineer. Over a decade of open source development, consensus building, and community engagement. Strong background in user experience design and web development.
 
-## Relevant Experience
+### [Endless Access](https://endlessaccess.org)
 
-Three years as partner success engineer and developer advocate. Over a decade of open source collaboration and community building. Strong background in user experience and web development.
+#### Community Architect/Experience Lead _Mar 2025 –_
 
+Led the community efforts around game-making and learning programs, and acted as the organization's open source/community subject matter expert.
 
-### Endless Access (formerly Endless OS Foundation)
-
-#### Community Architect/Experience Lead _2025–_
-
-I lead the community efforts around our game making and learning programs, and act as our open source community subject matter expert.
-
-##### Responsibilities
-
-- Architecting and managing a growing international game-making community
-- Advocating for the best open source practices and tools
-- Supporting internal teams with community interfacing
-- Supporting partners with technical questions
+- Built and managed a growing international game-making community
+- Advocated for the best open source practices and tools
+- Supported internal teams with community strategy and execution
+- Supported partners with technical questions
 
 ##### Achievements:
 
-- Worked with game developers to bring **four new open source games** to [Flathub](https://flathub.org/apps/category/game/), making them easily available to Linux and Endless OS users
+- Worked with game developers to bring four new open source games to [Flathub](https://flathub.org/apps/category/game/), making them easily available to Linux and Endless OS users
 
-#### Partner Success Engineer _2022–2025_
+#### Partner Success Engineer _Mar 2022 – Mar 2025_
 
-I acted as the bridge between our engineering team and our dozens of impact partners deploying the open source, Linux-based [Endless OS](https://www.endlessos.org/os) and other technologies around the world.
+Acted as the bridge between our engineering team and our dozens of impact partners deploying the open source, Linux-based [Endless OS](https://www.endlessos.org/os) and other technologies around the world.
 
-##### Responsibilities:
+- Understood and synthesized the wants and needs of multiple partner organizations, turning them into actionable tasks for Foundation teams
 
-- **Understanding and synthesizing** the wants and needs of multiple partner organizations, turning them into actionable tasks for Foundation teams
+- Developed and delivered technical training and support for partner engineering teams
 
-- Deeply understanding the **strategic, engineering, commercial, and marketing decisions** of the Foundation to inform our interactions with partners
+- Provided internal training and support within the organization for complex systems
 
-- Ownership and note-taking of **organization-spanning meetings to ensure alignment** between partners, engineering, the commercial team, and marketing
+- Crafted blog posts, live streams, and social media posts to share the organizations's work with partners and the public
 
-- **Developing and providing technical training** and support for partner engineering teams as needed
+- Developed and maintained both technical and user-centered support and training documentation
 
-- **Meeting with existing and prospective partner organizations** to answer questions and provide whatever information and support they need
+- Directly solved technical problems, contributing code and configuration changes
 
-- Providing **internal training and support** within the organization for complex systems
-
-- Writing occasional **blog articles, newsletter content, and social media posts** to share the organizations's work with partners and the public
-
-- Developing and maintaining both **technical and user-centered support and training documentation**
-
-- **Responding to partner requests** by providing regionally-customized OS images as needed, using technical tooling
-
-- Directly **solving technical problems** and contributing fixes to code as needed
-
-- **Interfacing with important partner organizations** and projects like GNOME
+- Owned organization-spanning meetings to ensure alignment between partners and internal teams
 
 ##### Achievements:
 
-- **Joined the GNOME Design team** to contribute on an ongoing basis
+- Represented the organization on the nonprofit GNOME Foundation Advisory Board
 
-- Represented Endless OS Foundation on the **GNOME Advisory Board**
+- Initiated, researched, and advocated for a FreeDesktop accent color preference that is now shipping across the Linux desktop ecosystem
 
-- Prepared and presented **multiple talks** at international conferences
-
-- **Restructured [support and training resources](https://support.endlessos.org/)**, encouraging colleague ownership
-
-- **Coordinated verification** of 20+ apps on [Flathub](https://flathub.org/apps/collection/verified/), including 14 Endless-affiliated apps
-
-- **Prepared and delivered a well-received training** on "What is Open Source?" to an Endless partner organization
-
-- Explored and reported internally on an **experimental method of rebuilding Endless OS** atop Fedora Silverblue
-
-- **Initiated, researched, and advocated for a [FreeDesktop accent color preference](https://cassidyjames.com/blog/freedesktop-accent-colors-gnome-proposal/)** that is now shipping in GNOME, elementary OS, KDE, COSMIC, and more
-
-
-### elementary, Inc. _2011–2022_
+### [elementary, Inc.](https://elementary.io) _Apr 2011 – Mar 2022_
 
 #### Co-founder, Chief Experience Officer (CXO)
 
-I co-founded the company in 2011 and helped it grow to sustain multiple employees while releasing 6 major OS releases and a pay-what-you-can app store.
+Co-founded the company and helped it grow to sustain multiple employees while releasing 6 major OS releases and a pay-what-you-can app store.
 
-I was responsible for the overall experience and messaging of the company and products, user experience architecture, and being a liaison between end users, OEMs, developers, and other open source projects.
-
-##### Responsibilities:
+Responsible for the overall experience and messaging of the company and products, user experience architecture, and being a liaison between end users, OEMs, developers, and other open source projects.
 
 - UX research, design, and advocacy
-- Leading and managing organization-wide initiatives
+
+- Led and managed organization-wide initiatives
+
+- Developer and user documentation, including maintaining user guides and Human Interface Guidelines
+
+- Community engagement, including monthly blog posts and livestreams
+
 - Third-party developer outreach and advocacy
-- Community engagement
-- Press and marketing
-- [Issue reporting, tracking, and triaging](https://github.com/search?o=desc&q=org%3Aelementary+cassidyjames&s=updated&type=Issues&utf8=%E2%9C%93)
+
+- Press and marketing including release announcements and topical blog posts
+
+- Coordinated in-person development sprints with employees and open source contributors
 
 ##### Achievements:
 
-- **Organized and coordinated the [elementary Developer Weekend](https://edw.elementary.io/)**, a two-day streamed event with multiple global speakers and live Q&A
+- Organized and coordinated a two-day streamed developer conference event with multiple global speakers and live Q&A
 
-- **Developed and launched an [OEM program](https://elementary.io/oem)** with three global OEM retailers
+- Developed and launched an OEM program with three global OEM retailers
 
-- **Initiated and advocated for a [standardized FreeDesktop dark style preference](https://blog.elementary.io/tags/#dark-style)** that has been widely adopted across the Linux desktop ecosystem
+- Initiated and advocated for a standardized FreeDesktop dark style preference that has been widely adopted across the Linux desktop ecosystem
 
-- **Developed and produced [monthly editorial content](https://blog.elementary.io)** for both users and developers
+### [System76](https://system76.com)
 
-- **Designed, developed, and launched six desktop apps** on AppCenter to dogfood the development process
+#### UX Architect _Jan 2017 – Aug 2018_
 
-- **Coordinated multiple in-person development sprints** with employees and open source contributors
+- UX research, design, and testing of critical customer-facing user interfaces across web and desktop
 
-##### Other Responsibilities
+- Communicated with and translated between stakeholders, including designers, engineers, customers, and management
 
-- Monthly update and Q&A [livestreams](https://youtube.com/c/elementaryinc) 
-- User documentation
-- Documenting and maintaining [Human Interface Guidelines](https://elementary.io/docs/human-interface-guidelines)
-
-
-### System76 _2014–2018_
-
-#### UX Architect, Front-end Web Developer
-
-##### Responsibilities:
-
-- UX research, modeling, design, and testing
-- Front-end web development of [System76.com](https://system76.com) (2014–2017)
-- Working directly with marketing team to turn concepts & designs into code
-- Communicating with and translating between designers, engineers, stakeholders, and customers
 - Constant collaborative design and development using git and GitHub
 
-##### Achievements:
+- Coordinated open source efforts with upstream open source projects
 
-- Researched, initiated, and documented an effort to offer HiDPI displays and improve the HiDPI experience on System76 products
+#### Front-end Web Developer _May 2014 – Jan 2017_
 
-- Coordinated efforts working with upstream open source projects
+- Front-end web development of flagship e-commerce and marketing website
 
-- Attended and documented [GNOME UX Hackfest 2017](http://blog.system76.com/post/167747412318/gnome-ux-hackfest-2017), helping to design future improvements to GNOME Shell and GDM
+- Worked directly with marketing team to turn concepts, campaigns, and designs into code
 
-- Designed critical customer-facing user interfaces and helped bring them to life in code
+<!--
 
-- Attended and documented [GUADEC 2018](http://blog.system76.com/post/176340998478/guadec-conference-summary-2018), helping to represent System76 and Pop!_OS interests while building closer relationships with upstreams
-
-
-### Visual Logic Group _2012–2013_
+### [Visual Logic](https://www.visuallogic.com/) _Aug 2012 – May 2013_
 
 #### User Experience Intern
 
 - UX research & user testing
-- Designing time-tracking software with a team
-- Icon design
+- Collaborative software design
 - Front-end web development
 
-
-### University of Northern Iowa _2011–2012_
+### [University of Northern Iowa](https://it.uni.edu/) _2011–2012_
 
 #### Network Engineer Assistant (ITS Network Services)
 
-- Configured and maintained switch firmware & configuration
-- Managed Wi-Fi monitoring service
-- Performed wireless site surveys
-- Provisioned and configured wireless APs
-- Handled RMA procedures
-- Utilized various consoles for network and AP management
-- Created and managed wireless heatmaps
-- Tracked tasks and progress in a ticketing system
+- Managed Wi-Fi monitoring service, wireless site surveys, and networking equipment
+- Inventory and RMA procedures
 
-
-### LCS _2010–2011_
+### [Life Care Services](https://www.lifecareservices.com/) _2010–2011_
 
 #### Technical Support Analyst
 
@@ -179,15 +129,37 @@ I was responsible for the overall experience and messaging of the company and pr
 - Assisted staff/clients with password resets, software installation, etc.
 - Wrote and maintained documentation through Sharepoint
 - Communicated technical concepts to facilitate understanding
-- Rapidly learned and mastered varied internal systems and programs
 
-
-### Webspec Design, LLC. _2007–2010_
+### [Webspec](https://www.webspec.com/) _2007–2010_
 
 #### Web Developer
 
-- Front-end web development of small client websites
-- Training and supporting clients
+- Front-end web development of client websites
+- Trained and supported small business clients
+
+-->
+
+## Volunteer Experience
+
+### [GNOME Foundation](https://foundation.gnome.org)
+
+#### Director _2025–_
+
+Appointed to the GNOME Foundation board of directors to help govern, represent, and steer the non-profit. After my initial appointment, I was elected by the GNOME Foundation membership to serve an additional term as director.
+
+#### Flathub Developer Advocate _2017–_
+
+I assist with technical documentation, writing public announcements, Flathub's social media presence, and developer relations.
+
+- Engaged with developers to distribute and verify over 20 apps and games on Flathub, including Discord
+
+#### Member & Designer _2017–_
+
+I contribute to platform and app ecosystem UX design, community engagement, and GNOME's social media presence.
+
+- Helped organize the annual GUADEC conference in Denver, CO with hundreds of attendees from around the globe
+
+- Prepared and presented developer-oriented talks at open source conferences such as GUADEC, Linux App Summit, Ubuntu Summit, and SCaLE
 
 ## Education
 

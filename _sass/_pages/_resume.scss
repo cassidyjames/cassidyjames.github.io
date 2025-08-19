@@ -1,6 +1,6 @@
 body.resume {
-  h2, h3 {
-    margin-top: 1.25em;
+  h2, h3, h4 {
+    margin-top: 1.85em;
   }
 
   h2:first-of-type {
@@ -61,6 +61,13 @@ body.resume {
       &:last-child::before {
         background-image: url("/images/icons/phone-right-facing-symbolic.svg");
       }
+    }
+  }
+
+  @media print {
+    h1 {
+      font-size: 3rem;
+      margin-top: 0;
     }
   }
 }

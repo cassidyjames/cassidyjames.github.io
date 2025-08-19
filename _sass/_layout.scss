@@ -1,3 +1,11 @@
 :root {
   --content-width: 48rem;
 }
+
+.print-only {
+  display: none;
+
+  @media print {
+    display: block;
+  }
+}
