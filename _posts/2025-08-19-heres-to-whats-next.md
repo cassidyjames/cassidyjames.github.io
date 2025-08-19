@@ -11,7 +11,7 @@ Unfortunately, all good things must come to an end: due to strategic decisions a
 
 ### What _is_ next?
 
-At the end of the day, my family has to eat and we have to pay for a roof over our heads; otherwise, retiring into the wilderness raise my kids, garden, and play with LEGO would sound pretty nice right about now! Given that I need a decent income to support us, I'm currently looking for some combination of the following: 
+At the end of the day, my family has to eat and we have to pay for a roof over our heads; otherwise, retiring into the wilderness to raise my kids, garden, and play with LEGO would sound pretty nice right about now! Given that I need a decent income to support us, I'm currently looking for some combination of the following: 
 
 • open source
 • connecting people
