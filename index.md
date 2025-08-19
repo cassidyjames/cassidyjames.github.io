@@ -15,18 +15,19 @@ class: cassidyjames
 <section class="work" markdown="1">
 ## Work
 
-Community Architect/Experience Lead at **Endless Access**. Previously, I co-founded elementary, Inc. and was the UX Architect at System76.
+**Currently looking for work!** Previously, I co-founded elementary, Inc., was the UX Architect at System76, and was Community Architect/Experience Lead at Endless Access.
 
-[<i class="fa fa-fw manual"></i>Learn about Endless](https://endlessos.org){: .read-more.endless }
+[<i class="fa fa-fw manual"></i>Learn about Endless](https://endlessaccess.org){: .read-more.endless }
 [<i class="fa fa-fw manual"></i>Learn about elementary](https://elementary.io){: .read-more.elementary }
 [<i class="fa fa-fw manual"></i>Learn about System76](https://system76.com){: .read-more.system76 }
-[<i class="far fa-fw fa-file-alt"></i>See résumé](/resume){: .read-more.resume }
+[<i class="fab fa-fw fa-linkedin"></i>Connect on LinkedIn](https://linkedin.com/in/{{ site.linkedin }}){: .read-more.linkedin }
+[<i class="far fa-fw fa-file-alt"></i>Review résumé](/resume){: .read-more.resume }
 </section>
 
 <section class="code" markdown="1">
-## Code & Collaboration
+## Volunteering & Collaboration
 
-I strive to **collaborate** with open source projects and communities as much as possible, and share what I work on under **free and open licenses**.
+I volunteer for and collaborate with open source projects and communities, and share my projects under **free and open licenses**.
 
 [<i class="fab fa-fw fa-github"></i>Browse code on GitHub](https://github.com/{{ site.github_user }}){: .read-more.github}
 [<i class="fab fa-fw fa-gitlab"></i>View profile on GNOME GitLab](https://gitlab.gnome.org/cassidyjames){: .read-more.gitlab }
