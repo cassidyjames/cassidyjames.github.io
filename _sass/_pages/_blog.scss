@@ -55,7 +55,21 @@ html.blog {
 .bio .avatar {
   float: left;
   height: 5em;
-  margin-block-start: 1em;
+  margin-block-start: 0.5em;
   margin-inline-end: 1em;
   width: 5em;
+}
+
+section.main > div > aside {
+  h2 {
+    margin-block: 3rem 1rem;
+  }
+
+  p, li {
+    line-height: 1.85em;
+  }
+
+  p {
+    margin: 0.925em auto 1.85em;
+  }
 }

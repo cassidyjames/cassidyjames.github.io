@@ -1,6 +1,6 @@
 ---
 title: Résumé
-description: Experienced, friendly, and creative developer advocate and community builder passionate about open source, connecting people and technology, and equipping developers with the best tools.
+description: Experienced, friendly, and creative open source community builder passionate about connecting people and technology, equipping developers with the best tools, and building tech for good. 
 ---
 
 # Cassidy James Blaede
