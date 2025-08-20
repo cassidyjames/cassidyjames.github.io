@@ -100,17 +100,6 @@ h2 {
   letter-spacing: -0.02em;
   margin: 0;
 
-  strong,
-  em {
-    display: inline-block;
-    font-size: 0.75em;
-    font-style: normal;
-    font-weight: normal;
-    margin-left: 0.25em;
-    opacity: 0.8;
-  }
-
-
   // Higher contrast
   html.alt-style & {
     font-weight: 800;
@@ -123,23 +112,6 @@ h3 {
   font-weight: 900;
   margin-bottom: 0;
   margin-top: 1em;
-
-  em {
-    display: inline-block;
-    float: right;
-    font-size: 0.67em;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 2em;
-  }
-
-  strong {
-    display: inline-block;
-    font-size: 0.75em;
-    font-weight: normal;
-    margin-left: 0.25em;
-    opacity: 0.8;
-  }
 }
 
 h4 {
