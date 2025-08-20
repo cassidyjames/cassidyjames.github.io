@@ -15,11 +15,14 @@ class: cassidyjames
 <section class="work" markdown="1">
 ## Work
 
-**Currently looking for work!** Previously, I co-founded elementary, Inc., was the UX Architect at System76, and was Community Architect/Experience Lead at Endless Access.
+**[Currently looking for work!]({% post_url /2025/2025-08-20-heres-to-whats-next %})** Previously, I co-founded elementary, Inc., was the UX Architect at System76, and was Community Architect/Experience Lead at Endless Access.
 
+<!--
 [<i class="fa fa-fw manual"></i>Learn about Endless](https://endlessaccess.org){: .read-more.endless }
 [<i class="fa fa-fw manual"></i>Learn about elementary](https://elementary.io){: .read-more.elementary }
 [<i class="fa fa-fw manual"></i>Learn about System76](https://system76.com){: .read-more.system76 }
+-->
+
 [<i class="fab fa-fw fa-linkedin"></i>Connect on LinkedIn](https://linkedin.com/in/{{ site.linkedin }}){: .read-more.linkedin }
 [<i class="far fa-fw fa-file-alt"></i>Review résumé](/resume){: .read-more.resume }
 </section>
