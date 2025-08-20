@@ -3,6 +3,8 @@ title: Here’s to What’s Next
 description: a.k.a. I’m looking for work!
 updated: 2025-08-20
 image: /images/binoculars.jpg
+comments:
+  id: 115057804471862134
 ---
 
 For the past three and a half years, I’ve done the most rewarding work of my life with [Endless Access](https://endlessaccess.org) (formerly Endless OS Foundation). I’ve helped ship Endless OS on computers to tens of thousands of people in need around the globe—people who might not otherwise have access to a real computer and especially reliable access to all of the offline knowledge and tools that come out of the box. I’ve visited students and teachers in the rural US who are struggling due to a lack of funding, and watched as their eyes lit up when they got ahold of Endless Key, an app packed full of safe and fun offline materials to support their self-guided learning. And I’ve helped learners and educators both unlock so much creativity and skill-building with our game-making learning programs and related open source projects.
