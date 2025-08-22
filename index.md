@@ -15,7 +15,12 @@ class: cassidyjames
 <section class="work" markdown="1">
 ## Work
 
-**[Currently looking for work!]({% post_url /2025/2025-08-20-heres-to-whats-next %})** Previously, I co-founded elementary, Inc., was the UX Architect at System76, and was Community Architect/Experience Lead at Endless Access.
+**[Currently looking for work!]({% post_url /2025/2025-08-20-heres-to-whats-next %})**
+
+Community Architect/Experience Lead at [Endless Access](https://endlessaccess.org).
+Previously:
+Co-founder & CXO at [elementary](https://elementary.io);
+UX & web at [System76](https://system76.com).
 
 <!--
 [<i class="fa fa-fw manual"></i>Learn about Endless](https://endlessaccess.org){: .read-more.endless }
