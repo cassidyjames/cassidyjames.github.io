@@ -143,6 +143,10 @@ Responsible for the overall experience and messaging of the company and products
 
 ### [GNOME Foundation](https://foundation.gnome.org)
 
+#### Vice Secretary _2025–_
+
+Appointed to aid in keeping and publishing minutes.
+
 #### Director _2025–_
 
 Appointed to the GNOME Foundation board of directors to help govern, represent, and steer the non-profit. After my initial appointment, I was elected by the GNOME Foundation membership to serve an additional term as director.
