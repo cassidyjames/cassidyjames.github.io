@@ -40,12 +40,17 @@
       padding: 0 1em;
 
       p:first-of-type {
-        margin: 1em auto;
+        margin-block: 1em;
       }
 
-      a {
-        display: block;
-        padding: 0.25em 0;
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+
+        li {
+          padding-block: 0.25em;
+        }
       }
     }
 
