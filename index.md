@@ -15,10 +15,12 @@ class: cassidyjames
 <section class="work" markdown="1">
 ## Work
 
-**[Currently looking for work!]({% post_url /2025/2025-08-20-heres-to-whats-next %}){: .read-more }**
+Experienced, friendly, and creative open source community builder.
 
-Community Architect/Experience Lead at [Endless Access](https://endlessaccess.org).
-Previously: Co-founder & CXO at [elementary](https://elementary.io);
+**[Open to work!]({% post_url /2025/2025-08-20-heres-to-whats-next %}){: .read-more }**
+
+Previously: Partners & community at [Endless Access](https://endlessaccess.org);
+Co-founder & CXO at [elementary](https://elementary.io);
 UX & web at [System76](https://system76.com).
 
 - [<i class="fab fa-fw fa-linkedin"></i>Connect on LinkedIn](https://linkedin.com/in/{{ site.linkedin }}){: .read-more.linkedin }
