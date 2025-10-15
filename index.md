@@ -15,9 +15,7 @@ class: cassidyjames
 <section class="work" markdown="1">
 ## Work
 
-Experienced, friendly, and creative open source community builder.
-
-**[Open to work!]({% post_url /2025/2025-08-20-heres-to-whats-next %}){: .read-more }**
+Experienced, friendly, and creative open source community builder. GNOME Foundation director.
 
 Previously: Partners & community at [Endless Access](https://endlessaccess.org);
 Co-founder & CXO at [elementary](https://elementary.io);
