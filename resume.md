@@ -17,9 +17,15 @@ description: Experienced, friendly, and creative open source community builder p
 
 Three years as partner success engineer. Over a decade of open source development, consensus building, and community engagement. Strong background in user experience design and web development.
 
+### [ROOST](https://roost.tools)
+
+#### OSS Community Manager _Oct 2025 –_
+
+Building and supporting an active and sustainable contributor community around our tools, as well as helping improve the discourse and understanding of open source in the trust and safety world.
+
 ### [Endless Access](https://endlessaccess.org)
 
-#### Community Architect/Experience Lead _Mar 2025 –_
+#### Community Architect/Experience Lead _Mar 2025 – Oct 2025_
 
 Led the community efforts around game-making and learning programs, and acted as the organization's open source/community subject matter expert.
 

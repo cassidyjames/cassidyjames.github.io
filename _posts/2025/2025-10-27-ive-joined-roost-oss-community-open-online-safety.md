@@ -37,3 +37,4 @@ I'll continue to serve on the GNOME Foundation board of directors and contribute
 
 [looking for what was next]: {% post_url 2025-08-20-heres-to-whats-next %}
 [ROOST]: https://roost.tools
+
