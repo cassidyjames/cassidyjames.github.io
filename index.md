@@ -15,7 +15,8 @@ class: cassidyjames
 <section class="work" markdown="1">
 ## Work
 
-Experienced, friendly, and creative open source community builder. GNOME Foundation director.
+OSS Community Manager at [ROOST](https://roost.tools).
+Director at [GNOME Foundation](https://foundation.gnome.org).
 
 Previously: Partners & community at [Endless Access](https://endlessaccess.org);
 Co-founder & CXO at [elementary](https://elementary.io);

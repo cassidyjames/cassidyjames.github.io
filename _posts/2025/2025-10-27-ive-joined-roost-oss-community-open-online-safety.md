@@ -9,6 +9,8 @@ image: /images/blog/chick.jpg
 
 A couple of months ago I shared that I was [looking for what was next] for me, and I'm thrilled to report that I've found it: I'm joining [ROOST] as OSS Community Manager!
 
+![Baby chick being held in a hand]({{ page.image }}){: .card }
+
 ### What is ROOST?
 
 I'll let [our website][ROOST] do most of the talking, but I can add some context based on my conversations with the rest of the incredible ROOSTers over the past few weeks. In a nutshell, ROOST is a relatively new nonprofit focused on building, distributing, and maintaining the open source building blocks for online trust and safety. It was founded by tech industry veterans who saw the need for truly open source tools in the space, and were sick of rebuilding the exact same internal tools across multiple orgs and teams.
@@ -18,8 +20,6 @@ The way I like to frame it is how you wouldn't roll your own encryption; why wou
 <!--
 _Alternatively: back in the day every e-commerce website would manually implement payments, taking debit/credit card numbers and ensuring PCI compliance—which was a massive amount of work and prone to serious issues if they got it wrong. Then, this little startup called [Stripe](https://stripe.com) came along and made it stupidly simple to accept payments while massively improving the security and compliance story for developers—and now they're just _the way_ that 90% of sites accept payments. Now imagine if Stripe was actually open source, and it's similar to the idea of ROOST when it comes to trust and safety!_
 -->
-
-![Baby chick being held in a hand]({{ page.image }}){: .card }
 
 This [Platformer article](https://www.platformer.news/roost-open-source-trust-safety/) does a great job of digging into more detail; give it a read. :) Oh, and why the baby chick? ROOST has a habit of naming things after birds—and I'm a baby ROOSTer. :D
 

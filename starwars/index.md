@@ -1,6 +1,6 @@
 ---
 title: Star Wars
-description: "From The Clone Wars and Rebels to the Skywalker Saga and The Mandalorian—all things Star Wars."
+description: "Beyond the Skywalker Saga from The Clone Wars and Rebels to the Mandalorian and Andor—all things Star Wars."
 image: /images/starwars/kenobi.jpg
 logo: /images/starwars/logo.png
 ---
@@ -8,10 +8,6 @@ logo: /images/starwars/logo.png
 # ![{{ page.title }}]({{ page.logo }})
 
 {{ page.description }}
-
-## Now/Coming Soon
-
-- [Andor Season 2](andor)
 
 ## Episode Guides
 
