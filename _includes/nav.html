@@ -2,8 +2,8 @@
 
   <a href="/" {% if current[1] == null %}class='current'{% endif %} title="Home"><img class="avatar" alt="{{ site.title }}" src="{{ site.avatar | prepend: site.baseurl }}" width="32" height="32" /></a>
 
-  <a href="/resume" {% if current[1] == 'resume' %}class='current'{% endif %}>Resume</a>
   <a href="/blog" {% if current[1] == 'blog' %}class='current'{% endif %}>Blog</a>
+  <a href="/starwars" {% if current[1] == 'starwars' %}class='current'{% endif %}>Star Wars</a>
   <a href="/wishlist" {% if current[1] == 'wishlist' %}class='current'{% endif %}>Wishlist</a>
   
   {% if current[1] == 'pay' %}<a href="/pay" class='current'>Pay</a>{% endif %}
@@ -11,8 +11,8 @@
   {% if current[1] == 'borrow' %}<a href="/borrow" class='current'>Borrow</a>{% endif %}
   {% if current[1] == 'gamepi' %}<a href="/gamepi" class='current'>GamePi</a>{% endif %}
   {% if current[1] == 'minecraft' %}<a href="/minecraft" class='current'>Minecraft</a>{% endif %}
+  {% if current[1] == 'resume' %}<a href="/resume" class='current'>Résumé</a>{% endif %}
   {% if current[1] == 'stadia' %}<a href="/stadia" class='current'>Stadia</a>{% endif %}
-  {% if current[1] == 'starwars' %}<a href="/starwars" class='current'>Star Wars</a>{% endif %}
   {% if current[1] == 'store' %}<a href="/store" class='current'>Store</a>{% endif %}
   {% if current[1] == 'support' %}<a href="/support" class='current'>Support</a>{% endif %}
   {% if current[1] == 'switch' %}<a href="/switch" class='current'>Switch</a>{% endif %}
