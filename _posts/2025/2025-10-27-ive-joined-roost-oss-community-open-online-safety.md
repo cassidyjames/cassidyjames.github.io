@@ -1,5 +1,5 @@
 ---
-title: I’ve Joined ROOST as OSS Community Manager
+title: I’ve Joined ROOST
 description: Building community around open, scalable, and interoperable online safety tools 
 updated: 2025-10-27
 image: /images/blog/chick.jpg
