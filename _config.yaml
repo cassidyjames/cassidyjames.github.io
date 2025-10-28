@@ -1,13 +1,13 @@
 # Site-wide generic info (overridable per-page)
 title: Cassidy James Blaede
-description: Building communities and useful, usable tech for good.
+description: Building open communities and useful, usable tech for good.
 author: Cassidy James Blaede
 theme-color: "#452981"
 image: /images/card.png
 avatar: /images/me.jpg
 domain: cassidyjames.com
 bio: |
-  Cassidy is passionate about building communities and useful, usable, and delightful products and experiences using open technologies. In the past he co-founded elementary OS and served as the chief experience architect, and he's worked as a community architect, partner success engineer, UX architect, web developer, and writer—and worn many, many other hats. He is a director at the GNOME Foundation, contributing to the GNOME and Flathub ecosystems.
+  Cassidy is passionate about building communities and useful, usable, delightful products and experiences using open technologies. In the past he co-founded elementary, Inc. and served as the chief experience architect, and he's worked as a community architect, partner success engineer, UX architect, web developer, and writer—and worn many, many other hats. He is a director at the GNOME Foundation, contributing to the GNOME and Flathub ecosystems.
 
   Outside of work and open source he enjoys playing single-player video games, building LEGO, 3D printing, automating his smart home, watching and reading almost everything Star Wars, spending time with his best friend (his wife, Katie), and being the dad of his two young kids.
 
@@ -63,6 +63,7 @@ comments:
     - ahoneybunn@creatorstudio.space
     - alatiera@mastodon.social
     - alice@crab.garden
+    - avojak@mastodon.social
     - blandford@mastodon.cloud
     - brainblasted@crab.garden
     - brainofdane@hachyderm.io
@@ -72,24 +73,31 @@ comments:
     - Conan_Kudo@fosstodon.org
     - downey@floss.social
     - ebassi@mastodon.social
+    - evan@cosocial.ca
     - federicomena@mstdn.mx
     - jamesh@aus.social
     - jimmac@mastodon.social
     - jorge@hachyderm.io
     - julian@fietkau.social
+    - julietshen@mstdn.social
     - katie
+    - killyourfm@layer8.space
     - lizkecso@mastodon.social
     - Lobau@indieweb.social
     - lucy
+    - mattdm@hachyderm.io
+    - McNeely@indieweb.social
     - micahilbery@mastodon.online
     - nathan@social.nathandyer.me
     - nora
     - razze@osna.social
+    - renchap@oisaur.com
     - richlitt@mastodon.social
     - ryanleesipes@mastodon.social
     - ryne@androiddev.social
     - tammy
     - tbernard@mastodon.social
+    - till@ubuntu.social
 
 # Settings
 permalink: /blog/:title/
