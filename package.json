@@ -1,0 +1,27 @@
+{
+  "name": "cassidyjames.github.io",
+  "version": "1.0.0",
+  "description": "My personal website, and an unintentional Jekyll theme for others to base their sites off of. 😅",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassidyjames/cassidyjames.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassidyjames/cassidyjames.github.io/issues"
+  },
+  "homepage": "https://github.com/cassidyjames/cassidyjames.github.io#readme",
+  "dependencies": {
+    "tinacms": "^2.9.1"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.12.0",
+    "@types/node": "^24.10.0"
+  }
+}

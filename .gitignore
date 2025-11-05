@@ -3,3 +3,6 @@ _site/
 Gemfile.lock
 unsaved\ file*
 vendor/
+
+node_modules
+.env
