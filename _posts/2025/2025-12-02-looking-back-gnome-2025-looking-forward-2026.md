@@ -20,13 +20,13 @@ Earlier this year the GNOME Foundation also relaunched [Friends of GNOME](https:
 
 While I’m proud of what GNOME has accomplished in 2025 and that the GNOME Foundation is operating sustainably, I’m personally even more excited to look ahead to what I hope the Foundation will be able to achieve in the coming year.
 
-## Let's Reach 1,500 Friends of GNOME
+### Let's Reach 1,500 Friends of GNOME
 
 The newly-formed fundraising committee kicked off their efforts by [announcing](https://blogs.gnome.org/foundation/2025/12/01/join-friends-of-gnome/) a simple goal to close out 2025: let's reach 1,500 Friends of GNOME! If we can reach this goal by the end of this year, it will help GNOME deliver even more in 2026; for example, by enabling the Foundation to sponsor more community travel for hackfests and conferences, and potentially even sponsoring specific, targeted development work.
 
 But GNOME needs _your_ help!
 
-## How You Can Help
+### How You Can Help
 
 First, if you're not already a Friend of GNOME, please consider setting up a small recurring donation at [donate.gnome.org](https://donate.gnome.org). Every little bit helps, and [donating less](https://blogs.gnome.org/steven/2025/06/26/donate-less/) but consistently is super valuable to not only keep the lights on at the GNOME Foundation, but to enable explicit budgeting for and delivering on more interesting initiatives that directly support the community and the development of GNOME itself.
 
@@ -38,7 +38,7 @@ Lastly, if you represent an organization that relies on GNOME or is invested in 
 
 [Sponsor GNOME](https://donate.gnome.org/#corporate-sponsorship){: .button }
 
-## Thank You!
+### Thank You!
 
 Thank you again to all of the dedicated contributors to GNOME making everyone's computing experience that much better. As we close out 2025, I’m excited by the prospect of the GNOME Foundation being able to not just be sustainable, but—with your help—to take an even more active role in supporting our community and the development of GNOME.
 
