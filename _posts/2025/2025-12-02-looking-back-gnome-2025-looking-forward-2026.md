@@ -32,7 +32,7 @@ First, if you're not already a Friend of GNOME, please consider setting up a sma
 
 [Become a Friend of GNOME](https://donate.gnome.org){: .button }
 
-If you're already a Friend of GNOME (or not able to commit to that at the moment—no hard feelings!), please considering sharing this message far and wide! I consistently hear that not only do so many users of GNOME not know that it’s a nonprofit, but they don't know that the GNOME Foundation relies on individual donations—and that users can help out, too! Please share this post to your circles—especially outside of usual contributor spaces—to let them know the cool things GNOME does and that GNOME could use their help to be able to do even more in the coming year.
+If you're already a Friend of GNOME (or not able to commit to that at the moment—no hard feelings!), please consider sharing this message far and wide! I consistently hear that not only do so many users of GNOME not know that it’s a nonprofit, but they don't know that the GNOME Foundation relies on individual donations—and that users can help out, too! Please share this post to your circles—especially outside of usual contributor spaces—to let them know the cool things GNOME does and that GNOME could use their help to be able to do even more in the coming year.
 
 Lastly, if you represent an organization that relies on GNOME or is invested in its continued success, please consider a [corporate sponsorship](https://donate.gnome.org/#corporate-sponsorship). While this sponsorship comes with no strings attached, it's a really powerful way to show that your organization supports Free and Open Source software—and puts their money where their mouth is.
 
