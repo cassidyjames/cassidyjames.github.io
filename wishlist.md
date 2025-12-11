@@ -41,7 +41,7 @@ Links point to the Gift Hero item, so please **confirm the gift on Gift Hero** i
 Image | Link | Price | Notes
 ------|------|-------|------
 ![Trackpad Kit](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/13a69a8e-def1-46ed-85ba-77988a69fa0c?_a=BAAAV6E0) | [Ploopy Trackpad Kit](https://www.gifthero.com/items/e404b667-3b85-44c9-8f75-3a07d0b22d97) | **$75** | Black preferred, gray is fine too
-![HDD](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/z3rua2lu8cus7vxagozg?_a=BAAAV6E0) | [Seagate 5TB External Drive](https://www.gifthero.com/items/a21164dc-6e3f-4777-8e93-789ffb60712e) | **$130** | Our old one died 😔
+![Sabacc cards](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/0eee1107-f758-4915-b7fe-b395f3e89467?_a=BAAAV6GY) | [Kessel Sabacc Cards](https://www.gifthero.com/items/672025bf-212b-4b6e-a8c0-51784ca1a4c4) | **$25** | Or $40 including the dice I also want!
 
 ---
 
