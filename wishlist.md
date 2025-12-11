@@ -65,7 +65,7 @@ _A.k.a. stuff I always enjoy._
 
 ### Pins **$5+**
 
-I collect quality pins for my backpack—like ones with good backs, not the cheapo button ones—from cool causes, artists, and places. You can find some examples on my Gift Hero list, but I'm open to anything you think I'd like.
+I collect quality pins for my bags and denim jacket—like ones with good backs, not the cheapo button ones—from cool causes, artists, and places. You can find some examples on my Gift Hero list, but I'm open to anything you think I'd like.
 
 ### Fun gauges/plugs **$5–20**
 
@@ -73,13 +73,13 @@ I collect quality pins for my backpack—like ones with good backs, not the chea
 
 I like almost anything! Bright colors, unique designs, and interesting patterns are always good. I like [Arctic Buffalo](https://arcticbuffalo.com/collections/0g-8mm-filter){: onclick="plausible('Wishlist: Arctic Buffalo');"} and [So Scene](https://www.soscene.com/0-gauge-8mm/){: onclick="plausible('Wishlist: So Scene');"} since they're both pretty affordable with a lot of variety. Hot Topic also usually has a fun assortment.
 
-### Blu-rays
+### Blu-rays, DVDs, & CDs
 
-Yes, really! I have a Plex server, so a Blu-ray or of your favorite movie would be a welcome addition. Or even DVDs if it's older older
+Yes, really! I have a Plex server, so Blu-rays of your favorite movies or TV show would be a welcome addition. Or even DVDs if it's older. Similarly, if you find your favorite album or some music you really like on CD, I would love that to add to my collection and put on my Plex server.
 
 ### Board/card/party games **$10–50**
 
-I love simple and fun games to play with friends.
+I love simple and fun games to play with friends. Some examples of what we have: Wavelength, Hues & Cues, Scrawl, Exploding Kittens, Fluxx, Star Realms (and an expansion or two), Set, Phase 10, and classic playing cards. We also have Codenames and Codenames Duet, but other Codenames versions and similar party games would be welcome.
 
 ---
 
@@ -184,8 +184,6 @@ In no particular order at all.
   - A Fever You Can't Sweat Out
   - Vices & Virtues
   - Pretty. Odd.
-- Blue Neighborhood by Troye Sivan
-- Third Stage by Boston
 - Waterparks (any album)
 
 </details>
