@@ -43,6 +43,7 @@ Image | Link | Price | Notes
 ![WiiM Amp](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/3b1913b7-0e14-421b-8d87-3972334c6963?_a=BAAAV6GY) | [WiiM Amp](https://www.gifthero.com/items/59a5c438-5b40-4d16-bdff-41e6f65a0f9b) | **$299** | Space gray or silver; to power our big speakers
 ![Home Assistant](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/epfhrmjaahhzkng6obcy?_a=BAAAV6GY) | [Home Assistant Voice Preview](https://www.gifthero.com/items/705ac295-b7dc-4dca-a205-b9cab19cf6c8) | **$59** | Replacing Google/Nest smart speakers with local control!
 ![Battery](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/b2603cca-18fa-45fb-8417-a4bba62864d1?_a=BAAAV6GY) | [Sharge Power Bank](https://www.gifthero.com/items/9cc7885a-300e-4551-b30b-f81754829c98) | **$40** | I recently lost my old trusty battery 😭
+![microSD](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/f562adde-e880-4404-b568-d3fb71e4a102?_a=BAAAV6GY) | [Quality 128 GB microSD Cards](https://www.gifthero.com/items/96c8135b-40a0-44a5-8872-e5f94670d081) | **$19** | Reputable brand and decent speed for smart home, 3D printing, games, etc.
 
 ---
 
