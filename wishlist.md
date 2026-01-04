@@ -41,11 +41,8 @@ Links point to the Gift Hero item, so please **confirm the gift on Gift Hero** i
 Image | Link | Price | Notes
 ------|------|-------|------
 ![WiiM Amp](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/3b1913b7-0e14-421b-8d87-3972334c6963?_a=BAAAV6GY) | [WiiM Amp](https://www.gifthero.com/items/59a5c438-5b40-4d16-bdff-41e6f65a0f9b) | **$299** | Space gray or silver; to power our big speakers
-![Trackpad Kit](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/13a69a8e-def1-46ed-85ba-77988a69fa0c?_a=BAAAV6E0) | [Ploopy Trackpad Kit](https://www.gifthero.com/items/e404b667-3b85-44c9-8f75-3a07d0b22d97) | **$75** | Black preferred, gray is fine too
 ![Home Assistant](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/epfhrmjaahhzkng6obcy?_a=BAAAV6GY) | [Home Assistant Voice Preview](https://www.gifthero.com/items/705ac295-b7dc-4dca-a205-b9cab19cf6c8) | **$59** | Replacing Google/Nest smart speakers with local control!
 ![Battery](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/b2603cca-18fa-45fb-8417-a4bba62864d1?_a=BAAAV6GY) | [Sharge Power Bank](https://www.gifthero.com/items/9cc7885a-300e-4551-b30b-f81754829c98) | **$40** | I recently lost my old trusty battery 😭
-![Sabacc cards](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/0eee1107-f758-4915-b7fe-b395f3e89467?_a=BAAAV6GY) | [Kessel Sabacc Cards](https://www.gifthero.com/items/672025bf-212b-4b6e-a8c0-51784ca1a4c4) | **$25** | Or $40 including the dice I also want!
-![Sabacc dice](https://res.cloudinary.com/gift-hero/image/upload/t_item-detail/2334e21a-d1cb-4660-b3d9-64676a90eba4?_a=BAAAV6GY) | [Metal Sabacc Dice](https://www.gifthero.com/items/08a1cab5-a24c-4a6e-a621-bf315bcfb8c1) | **$15** |  
 
 ---
 
