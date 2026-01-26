@@ -3,6 +3,7 @@
 Notes, slides, etc. from talks I have given or plan to give.
 
 - [Friends of GNOME](friends-of-gnome) _Ubuntu Summit 25.10_
+- [Block Coding: Making Godot Accessible to Learners Everywhere](block-coding) _(GodotCon 2024)_
 - [GNOME Design: State of the Union](guadec-2023/gnome-design-state-of-the-union) _GUADEC 2023_
 - [How to Make a Delightful App Listing](guadec-2023/how-to-make-a-delightful-app-listing) _GUADEC 2023_
 - [What is the GNOME Advisory Board?](guadec-2023/what-is-the-gnome-advisory-board) _GUADEC 2023_
