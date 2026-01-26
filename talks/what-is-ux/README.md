@@ -1,4 +1,4 @@
-# What is UX? (Linode meetup, Nov 2015)
+# What is UX?
 
 …and why is it essential to open source?
 
@@ -6,5 +6,10 @@
 >
 >Cassidy James Blaede is a open source UX architect who cofounded elementary, the company behind elementary OS. He also works as a front-end web developer at Ubuntu computer manufacturer System76. He is passionate about open source and enabling the use of technology via simplicity, usability, and beauty.
 
+Linode meetup, Nov 2015
 - [Recording](https://youtu.be/gi_3b81eBUE)
 - [Slides](https://goo.gl/vEImLk)
+
+SoCal Linux Expo 2016 (SCALE 14x)
+- [Recording](https://www.youtube.com/watch?v=MNrHaGh28DE)
+- [Slides (PDF)](https://www.socallinuxexpo.org/scale/14x/_assets/www.socallinuxexpo.org/sites/default/files/presentations/UX%20Talk.pdf)
