@@ -2,14 +2,10 @@
 
 Notes, slides, etc. from talks I have given or plan to give.
 
-## GUADEC 2023
-
-- [GNOME Design: State of the Union](guadec-2023/gnome-design-state-of-the-union)
-- [How to Make a Delightful App Listing](guadec-2023/how-to-make-a-delightful-app-listing)
-- [What is the GNOME Advisory Board?](guadec-2023/what-is-the-gnome-advisory-board)
-
-## Previous
-
+- [Friends of GNOME](friends-of-gnome) _Ubuntu Summit 25.10_
+- [GNOME Design: State of the Union](guadec-2023/gnome-design-state-of-the-union) _GUADEC 2023_
+- [How to Make a Delightful App Listing](guadec-2023/how-to-make-a-delightful-app-listing) _GUADEC 2023_
+- [What is the GNOME Advisory Board?](guadec-2023/what-is-the-gnome-advisory-board) _GUADEC 2023_
 - [How to Make a Delightful App Store Listing](https://www.youtube.com/watch?v=r8dX46J7W8g) _Ubuntu Summit 2022_
 - [The Need for a FreeDesktop Dark Style Preference](fdo-dark-style) _GUADEC 2019_
 - [Curb Cuts: Accessibility Features Are Just Features](curb-cuts) _LAS 2019_
