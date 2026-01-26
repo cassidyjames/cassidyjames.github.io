@@ -15,7 +15,7 @@ Notes, slides, etc. from talks I have given or plan to give.
 - [Curb Cuts: Accessibility Features Are Just Features](curb-cuts) _LAS 2019_
 - [It’s Not Always Technical](not-always-technical) _LAS 2018_
 - [AppCenter](appcenter-las-2018) _LAS 2018_
-- [What is UX, and why is it essential to open source?](what-is-ux) _Linode meetup, Nov. 2015_
+- [What is UX, and why is it essential to open source?](what-is-ux) _Linode meetup, Nov 2015; SCALE 14x_
 
 ## Future?
 
