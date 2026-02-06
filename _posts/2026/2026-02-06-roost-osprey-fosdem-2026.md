@@ -1,11 +1,14 @@
 ---
 title: ROOST at FOSDEM 2026
 description: Showing up for the Open Source community
+image: /images/blog/roost-osprey-fosdem-2026/stickers.jpg
 
 updated: 2026-02-06
 ---
 
 A few months ago [I joined ROOST](/blog/ive-joined-roost-oss-community-open-online-safety/) (Robust Open Online Safety Tools) to build our open source community that would be helping to create, distribute, and maintain common tools and building blocks for online trust and safety. One of the first events I wanted to make sure we attended in order to build that community was of course [FOSDEM](https://fosdem.org/2026/), the massive annual gathering of open source folks in Brussels, Belgium.
+
+
 
 Luckily for us, the timing aligned nicely with the v1 release of our first major online safety tool, [Osprey](https://github.com/roostorg/osprey), as well as its adoption by Bluesky and the Matrix.org Foundation. I wrote and submitted a talk for the FOSDEM crowd and the decentralized communications track, which was accepted. Our COO Anne Bertucio and I flew out to Brussels to meet up with folks, make connections, and learn how our open source tools could best serve open protocols and platforms.
 
@@ -19,11 +22,23 @@ Personally I enjoyed meeting folks from Mastodon, GitHub, ATproto, IFTAS, and mo
 
 Our Sunday morning talk [“Stop Reinventing in Isolation”](https://fosdem.org/2026/schedule/event/U7ABHE-roost-osprey/) (which you can [watch on YouTube](https://www.youtube.com/watch?v=EOoUfaInsaE) or at [fosdem.org](http://fosdem.org)) filled the room and was really well-received.
 
+{% include youtube.html id="EOoUfaInsaE" %}
+
+<figure class="half" markdown="1">
+![Cassidy](/images/blog/roost-osprey-fosdem-2026/cassidy.jpg)
+![Anne](/images/blog/roost-osprey-fosdem-2026/anne.jpg)
+<figcaption markdown="1">
+Cassidy and Anne giving a talk. | _Photos from [@matrix@mastodon.matrix.org](https://mastodon.matrix.org/@matrix)_
+</figcaption>
+</figure>
+
 In it we tackled three major topics: a crash course on what is “trust and safety”; why the field needs an open source approach; and then a bit about Osprey, our self-hostable automated rules engine and investigation tool that started as an internal tool built at Discord.
 
 #### Q&A
 
-We had a few minutes for Q&A after the talk, and the folks in the room spurred some great discussions. If there’s something you’d like to ask that isn’t covered by the talk or this Q\&A, feel free to [start a discussion](https://github.com/roostorg/osprey/discussions)\! Also note that this gets a bit nerdy; if you’re not interested in the specifics of deploying Osprey, feel free to skip ahead to the Stand section.
+We had a few minutes for Q&A after the talk, and the folks in the room spurred some great discussions. If there’s something you’d like to ask that isn’t covered by the talk or this Q&A, feel free to [start a discussion](https://github.com/roostorg/osprey/discussions)! Also note that this gets a bit nerdy; if you’re not interested in the specifics of deploying Osprey, feel free to skip ahead to the [Stand](#stand) section.
+
+![Room](/images/blog/roost-osprey-fosdem-2026/room.jpg)
 
 **When using Osprey with the decentralized Matrix protocol, would it be a [policy server](https://matrix.org/blog/2025/04/introducing-policy-servers/) implementation?**
 
@@ -43,9 +58,11 @@ While you can spin Osprey up on a laptop for testing and development, it can be 
 
 ### Stand
 
-This year we were unable to secure a stand (there were already nearly 100 stands in just 5 buildings\!), but our friends at Matrix graciously hosted us for several hours at their stand near the decentralized communications track room so we could follow up with folks after our talk. We blew through our shiny sticker supply as well as our 3D printed ROOST keychains (which I printed myself at home\!) in just one afternoon. We’ll have to bring more to future FOSDEMs\!
+This year we were unable to secure a stand (there were already nearly 100 stands in just 5 buildings!), but our friends at Matrix graciously hosted us for several hours at their stand near the decentralized communications track room so we could follow up with folks after our talk. We blew through our shiny sticker supply as well as our 3D printed ROOST keychains (which I printed myself at home!) in just one afternoon. We’ll have to bring more to future FOSDEMs!
 
-When I handed people one of our [hexagon stickers](https://sticker.how/#type-hexagon) the reaction was usually some form of, “ooh, shiny\!” but my favorite was when someone essentially said, “Oh, you all actually know open source\!” That made me proud, at least. :)
+![Stickers](/images/blog/roost-osprey-fosdem-2026/stickers.jpg)
+
+When I handed people one of our [hexagon stickers](https://sticker.how/#type-hexagon) the reaction was usually some form of, “ooh, shiny!” but my favorite was when someone essentially said, “Oh, you all actually know open source!” That made me proud, at least. :)
 
 ### Interesting Talks
 
