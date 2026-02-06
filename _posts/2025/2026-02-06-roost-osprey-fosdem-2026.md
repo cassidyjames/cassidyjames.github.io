@@ -1,6 +1,9 @@
-# ROOST at FOSDEM 2026
+---
+title: ROOST at FOSDEM 2026
+description: Showing up for the Open Source community
 
-## Showing up for the Open Source community
+updated: 2026-02-06
+---
 
 A few months ago [I joined ROOST](https://cassidyjames.com/blog/ive-joined-roost-oss-community-open-online-safety/) (Robust Open Online Safety Tools) to build our open source community that would be helping to create, distribute, and maintain common tools and building blocks for online trust and safety. One of the first events I wanted to make sure we attended in order to build that community was of course [FOSDEM](https://fosdem.org/2026/), the massive annual gathering of open source folks in Brussels, Belgium.
 
