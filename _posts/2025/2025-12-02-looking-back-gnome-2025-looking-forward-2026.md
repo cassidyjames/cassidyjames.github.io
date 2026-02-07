@@ -1,6 +1,9 @@
 ---
 title: Looking back on GNOME in 2025—and looking forward to 2026
 description: Help GNOME do even more next year!
+comments:
+  id: 115647856109661871
+
 updated: 2025-12-02
 image: /images/blog/gnome-foot-logo-rebrand/foot-dark.png
 ---
