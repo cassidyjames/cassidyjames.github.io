@@ -2,6 +2,8 @@
 title: ROOST at FOSDEM 2026
 description: Showing up for the Open Source community
 image: /images/blog/roost-osprey-fosdem-2026/stickers.jpg
+comments:
+  id: 116026624253943199
 
 updated: 2026-02-06
 ---
