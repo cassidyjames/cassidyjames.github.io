@@ -15,9 +15,9 @@ For the past few years I've thrown a two-part birthday party: we start out at a 
 
 1. **Trivia!** I organized a fun little Star Wars trivia game for my birthday last year and really enjoyed how nerdy my friends were with it, so this year I wanted to do something similar. My good friend Dagan volunteered to put together a fresh trivia game, which was incredible.
 
-2. **Sabacc**. The Star Wars equivalent to poker, featured heavily in the _Star Wars: Outlaws_ game as well as in _Star Wars: Rebels_, _Solo: A Star Wars Story_, and the Disney Galactic Starcruiser (though it's Kessel Sabacc vs. traditional Sabacc vs. Corellian Spike vs. Coruscant Shift respectively… but I digress). I got a Kessel Sabacc set for Christmas and have wanted to play it with a group of friends ever since.
+2. **Sabacc**. The Star Wars equivalent to poker, featured heavily in the _Star Wars: Outlaws_ game as well as in _Star Wars: Rebels_, _Solo: A Star Wars Story_, and the Disney Galactic Starcruiser (though it's Kessel sabacc vs. traditional sabacc vs. Corellian spike vs. Coruscant shift respectively… but I digress). I got a Kessel sabacc set for Christmas and have wanted to play it with a group of friends ever since.
 
-3. **Themed drinks**. Revnog is mentioned in Star Wars media including _Andor_ as some sort of liquor, and Spotchka is featured in the New Republic era shows like _The Mandalorian_ and _The Book of Boba Fett_. There isn't really any detail as to what each tastes like, but I knew I wanted to make some batch cocktails inspired by these in-universe drinks. 
+3. **Themed drinks**. Revnog is mentioned in Star Wars media including _Andor_ as some sort of liquor, and spotchka is featured in the New Republic era shows like _The Mandalorian_ and _The Book of Boba Fett_. There isn't really any detail as to what each tastes like, but I knew I wanted to make some batch cocktails inspired by these in-universe drinks. 
 
 4. **Immersive environment**. This meant smart lights, music, and some other aesthetic touches. Luckily over the years I've upgraded my smart home to feature nearly all locally-controllable RGB smart bulbs and fixtures; while during the day they simply shift from warm white to daylight and back, it means I can do _a lot_ with them for special occasions. I also have networked speakers throughout the house, and a 3D printer.
 
@@ -109,6 +109,8 @@ I threw together a simple print for my 3D printer and added some battery-powered
 
 With my networked speakers, I knew I wanted some in-universe cantina music—but I also knew _the cantina song_ would get real old, real fast. Since I'd been playing _Outlaws_ as well as a fan-made _Holocard Cantina_ sabacc app, I knew there was a decent amount of in-universe music out there; luckily it's actually all on YouTube Music.
 
+[![Outer Rim Underworld Cantina](/images/blog/star-wars-cantina-birthday-party/playlist.jpg){: .card width="272px" }](https://music.youtube.com/playlist?list=PL0AOBxB-0ieHOYJdGhVj-b1XOtm1IHHH1)
+
 I made a [looooong playlist](https://music.youtube.com/playlist?list=PL0AOBxB-0ieHOYJdGhVj-b1XOtm1IHHH1) including a bunch of that music plus some from Pyloon's Saloon in _Jedi: Survivor_, Oga's Cantina at Disney's Galaxy's Edge, and a select few tracks from other Star Wars media (Niamos!).
 
 ### Sabacc
@@ -117,3 +119,25 @@ I made a [looooong playlist](https://music.youtube.com/playlist?list=PL0AOBxB-0i
 ![Sabacc prints](/images/blog/star-wars-cantina-birthday-party/sabacc-prints.jpg){: .card }
 <figcaption>3D printed sabacc tokens and chips</figcaption>
 </figure>
+
+### Drinks
+
+I'm a fan of batch cocktails for parties, because it means less time tending a bar and more time enjoying company—plus it gives you a nice opportunity for a themed drink or two that you can prepare ahead of time. I decided to make two batch cocktails: green revnog and spotchka.
+
+[Revnog](https://starwars.fandom.com/wiki/Revnog) is shown a few times in Andor, but it's hard to tell what it looks like—one time it appears to be blue, but it's also lit by the bar itself. When it comes to taste, the [StarWars.com Databank](https://www.starwars.com/databank/revnog) just says it "comes in a variety of flavors." However, one character mentions "green revnog" as being her favorite, so I decided to run with that so I could make something featuring objectively the best fruit in the galaxy: pear (if you know, you know).
+
+<figure markdown="1">
+![Revnog](/images/blog/star-wars-cantina-birthday-party/revnog.jpg){: .card }
+<figcaption>My take on green revnog</figcaption>
+</figure>
+
+After a lot of experimenting, I settled on a spiced pear gin drink that I think is a nice balance between sweet, spiced, and boozy. The simple batch recipe came out to: 4 parts gin, 1 part St. George's Spiced Pear Liqueur, 1 part pear juice, and 1 part lemon juice. It can be served directly on ice, or cut with sparkling water to tame it a bit.
+
+[Spotchka](https://starwars.fandom.com/wiki/Spotchka) doesn't get its own StarWars.com Databank entry, but is mentioned in a [couple](https://www.starwars.com/databank/klatooinian-wikiup) of [entries](https://www.starwars.com/databank/sorgan-common-house) about locations from an arc of _The Mandalorian_. All that can be gleaned is that it's apparently glowing and blue (Star Wars sure loves its blue drinks!), and made from "krill" which in Star Wars is shrimp-like.
+
+<figure markdown="1">
+![Spotchka](/images/blog/star-wars-cantina-birthday-party/spotchka.jpg){: .card }
+<figcaption>My take on spotchka</figcaption>
+</figure>
+
+I knew blue curaçao would be critical for a blue cocktail, and after a bit of asking around for inspiration, I decided coconut cream would give it a nice opacity and lightness. The obvious other ingredients for me, then, were rum and pineapple juice. I wanted it to taste a little more complex than just a Malibu pineapple, so I raided my liquor supply until I found my "secret" ingredient: grapefruit vodka. Just a tiny bit of that made it taste really unique and way more interesting! The final ratios for the batch are: 4 parts coconut rum, 2 parts white rum, 2 parts blue curaçao, 1 part grapefruit vodka, 2 parts pineapple juice, 1 part coconut cream. Similar to the revnog, it can be served directly on ice or cut with sparkling water for a less boozy drink.
