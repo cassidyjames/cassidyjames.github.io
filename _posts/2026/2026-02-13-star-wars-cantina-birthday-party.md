@@ -83,12 +83,37 @@ Next, I focused on the kitchen, where people would gather for drinks and snacks.
 
 One of the more important areas was, of course, the sabacc table (the dining room), which is adjacent to the kitchen. I had to balance ensuring the cards and chips are visible with that dim, dingy, underworld vibe. I settled on actually adding a couple of warm white accent lights (3D printed!) for visibility, then using the ceiling fan lights as a sabacc round counter (with a Zigbee button as the dealer token).
 
+<figure markdown="1">
+![3D printed light](/images/blog/star-wars-cantina-birthday-party/light.jpg){: .card }
+<figcaption>3D printed accent light</figcaption>
+</figure>
+
 Lastly, I picked a few other colors for adjacent rooms: a more vivid purple for the bathroom, and red for my office (where I set up split-screen _Star Wars: Battlefront II_ on a PS2).
 
-I was pretty happy with the lighting at this point, but then I re-watched the Mos Eisley scenes and noticed some fairly simple accent lights: plain warm white cylinders on the tables. I threw together a simple print for my 3D printer and added some battery-powered puck lights underneath: perfection.
+I was pretty happy with the lighting at this point, but then I re-watched the Mos Eisley scenes and noticed some fairly simple accent lights: plain warm white cylinders on the tables.
+
+<figure markdown="1">
+![Entrance](/images/blog/star-wars-cantina-birthday-party/entrance.jpg){: .card }
+![Bar](/images/blog/star-wars-cantina-birthday-party/bar.jpg){: .card }
+![Handywork](/images/blog/star-wars-cantina-birthday-party/handywork.jpg){: .card }
+</figure>
+
+I threw together a simple print for my 3D printer and added some battery-powered puck lights underneath: perfection.
+
+<figure markdown="1">
+![Cylinder light](/images/blog/star-wars-cantina-birthday-party/cylinder.jpg){: .card }
+<figcaption>First test of my cylinder lights</figcaption>
+</figure>
 
 #### Music
 
 With my networked speakers, I knew I wanted some in-universe cantina music—but I also knew _the cantina song_ would get real old, real fast. Since I'd been playing _Outlaws_ as well as a fan-made _Holocard Cantina_ sabacc app, I knew there was a decent amount of in-universe music out there; luckily it's actually all on YouTube Music.
 
 I made a [looooong playlist](https://music.youtube.com/playlist?list=PL0AOBxB-0ieHOYJdGhVj-b1XOtm1IHHH1) including a bunch of that music plus some from Pyloon's Saloon in _Jedi: Survivor_, Oga's Cantina at Disney's Galaxy's Edge, and a select few tracks from other Star Wars media (Niamos!).
+
+### Sabacc
+
+<figure markdown="1">
+![Sabacc prints](/images/blog/star-wars-cantina-birthday-party/sabacc-prints.jpg){: .card }
+<figcaption>3D printed sabacc tokens and chips</figcaption>
+</figure>
