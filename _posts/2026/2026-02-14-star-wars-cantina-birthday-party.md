@@ -1,8 +1,8 @@
 ---
 title: How I Designed My Cantina Birthday Party
 description: Throwing the Star Wars party I always wanted!
-image: https://cantina.blaede.family/images/card.png
-updated: 2026-02-13
+image: /images/blog/star-wars-cantina-birthday-party/table.jpg
+updated: 2026-02-14
 ---
 
 Ever since my partner and I bought a house several years ago, I've wanted to throw a themed Star Wars party here. We've talked about doing a summer movie showing thing, we've talked about doing a Star Wars TV show marathon, and we've done a few birthday parties—but never the _full-on_ themed party that I was dreaming up. Until this year!
@@ -69,17 +69,41 @@ Since I already owned [blaede.family](https://blaede.family) where I host extend
 
 ### Environment
 
-Once I had the invite nailed down, I started working on what the actual physical environment would look like. I watched the Mos Eisley scenes from _A New Hope_, scoured concept art, and of course played more _Outlaws_. The main thing I came away thinking about was lighting! 
+Once I had the invite nailed down, I started working on what the actual physical environment would look like. I watched the bar/cantina scenes from _A New Hope_ and _Attack of the Clones_, scoured concept art, and of course played more _Outlaws_. The main thing I came away thinking about was lighting! 
 
 #### Lighting
 
-The actual cantinas are often not all that interesting, but lighting plays a huge role, both in color and the overall dim lighting with (sometimes colorful) accent lights.
+The actual cantinas are often not all that otherworldly, but lighting plays a huge role; both in color and the overall dimness with a lot of (sometimes colorful) accent lighting.
 
 So, I got to work on setting up a lighting scene in Home Assistant. At first I was using the same color scheme everywhere, but I quickly found that distinct color schemes for different areas would feel more fun and interesting.
 
-For the main lounge-type area, I went with dim orange lighting and just a couple of green accent lamps. This reminds me of Jabba's palace and Boba Fett, and just felt… right. It's sort of organic but would be a somewhat strange color scheme outside of Star Wars. It's also the first impression people will get when coming into the house, so I wanted it to feel the most Star Wars-y.
+<figure markdown="1">
+![Lounge area](/images/blog/star-wars-cantina-birthday-party/lounge.jpg){: .card }
+<figcaption>Lounge area</figcaption>
+</figure>
 
-Next, I focused on the kitchen, where people would gather for drinks and snacks. We have white under-cabinet lighting which I wanted to keep for function (it's nice to see what color your food actually is…), but I went with a bluish-purple (almost ultaviolet) and pink. While this is very different from a cantina on Tatooine, it reminded me of the Coruscant bar we see in _Attack of the Clones_ as well as some of the environments in _The Clone Wars_ and _Outlaws_. At one point I was going to attempt to make a glowing cocktail that would luminesce under black light—I ditched that, but the lighting stayed.
+For the main lounge-type area, I went with dim orange lighting and just a couple of green accent lamps. This reminds me of Jabba's palace and Boba Fett, and just felt… right. It's sort of organic but would be a somewhat strange color scheme outside of Star Wars. It's also the first impression people will get when coming into the house, so I wanted it to feel the most recognizably Star Wars-y.
+
+<figure markdown="1">
+![Kitchen area](/images/blog/star-wars-cantina-birthday-party/kitchen.jpg){: .card }
+<figcaption>Kitchen area</figcaption>
+</figure>
+
+Next, I focused on the kitchen, where people would gather for drinks and snacks. We have white under-cabinet lighting which I wanted to keep for function (it's nice to see what color your food actually is…), but I went with a bluish-purple (almost ultaviolet) and pink. 
+
+<figure markdown="1">
+![Coruscant](/images/blog/star-wars-cantina-birthday-party/coruscant.jpg){: .card }
+<figcaption markdown="1">
+Coruscant bar from _Attack of the Clones_
+</figcaption>
+</figure>
+
+While this is very different from a cantina on Tatooine, it reminded me of the Coruscant bar we see in _Attack of the Clones_ as well as some of the environments in _The Clone Wars_ and _Outlaws_. At one point I was going to attempt to make a glowing cocktail that would luminesce under black light—I ditched that, but the lighting stayed.
+
+<figure markdown="1">
+![Table](/images/blog/star-wars-cantina-birthday-party/table.jpg)
+<figcaption>Dining room sabacc table</figcaption>
+</figure>
 
 One of the more important areas was, of course, the sabacc table (the dining room), which is adjacent to the kitchen. I had to balance ensuring the cards and chips are visible with that dim, dingy, underworld vibe. I settled on actually adding a couple of warm white accent lights (3D printed!) for visibility, then using the ceiling fan lights as a sabacc round counter (with a Zigbee button as the dealer token).
 
@@ -115,14 +139,30 @@ I made a [looooong playlist](https://music.youtube.com/playlist?list=PL0AOBxB-0i
 
 ### Sabacc
 
+A big part of the party was sabacc; we ended up playing several games and really getting into it. To complement the cards and dice (from [Hyperspace Props](https://hyperspaceprops.com)), I 3D printed chips and tokens that we used for the games. 
+
 <figure markdown="1">
 ![Sabacc prints](/images/blog/star-wars-cantina-birthday-party/sabacc-prints.jpg){: .card }
 <figcaption>3D printed sabacc tokens and chips</figcaption>
 </figure>
 
+We started out simple with just the basic rules and no tokens, but after a couple of games, we introduced some simple tokens to make the game more interesting.
+
+<figure markdown="1">
+![Playing sabacc ](/images/blog/star-wars-cantina-birthday-party/sabacc.jpg)
+<figcaption>Playing sabacc</figcaption>
+</figure>
+
+I had a blast playing sabacc with my friends and by the end of the night we all agreed: we need to play this more frequently than just once a year for my birthday!
+
 ### Drinks
 
 I'm a fan of batch cocktails for parties, because it means less time tending a bar and more time enjoying company—plus it gives you a nice opportunity for a themed drink or two that you can prepare ahead of time. I decided to make two batch cocktails: green revnog and spotchka.
+
+<figure markdown="1">
+![Spotchka and revnog](/images/blog/star-wars-cantina-birthday-party/spotchka-revnog.jpg){: .card }
+<figcaption>Bottles of spotchka and revnog</figcaption>
+</figure>
 
 [Revnog](https://starwars.fandom.com/wiki/Revnog) is shown a few times in Andor, but it's hard to tell what it looks like—one time it appears to be blue, but it's also lit by the bar itself. When it comes to taste, the [StarWars.com Databank](https://www.starwars.com/databank/revnog) just says it "comes in a variety of flavors." However, one character mentions "green revnog" as being her favorite, so I decided to run with that so I could make something featuring objectively the best fruit in the galaxy: pear (if you know, you know).
 
@@ -141,3 +181,7 @@ After a lot of experimenting, I settled on a spiced pear gin drink that I think 
 </figure>
 
 I knew blue curaçao would be critical for a blue cocktail, and after a bit of asking around for inspiration, I decided coconut cream would give it a nice opacity and lightness. The obvious other ingredients for me, then, were rum and pineapple juice. I wanted it to taste a little more complex than just a Malibu pineapple, so I raided my liquor supply until I found my "secret" ingredient: grapefruit vodka. Just a tiny bit of that made it taste really unique and way more interesting! The final ratios for the batch are: 4 parts coconut rum, 2 parts white rum, 2 parts blue curaçao, 1 part grapefruit vodka, 2 parts pineapple juice, 1 part coconut cream. Similar to the revnog, it can be served directly on ice or cut with sparkling water for a less boozy drink.
+
+### Summary
+
+Over all I had a blast hanging out, drinking cocktails, playing sabacc, and nerding out with my friends. I feel like the immersive-but-not-overbearing environment felt right; just one friend (the trivia master!) dressed up, which was perfect as I explicitly told everyone that costumes were not _expected_ but left it open in case anyone wanted to dress up. The trivia, drinks, and sabacc all went over well, and a handful of us hung around until after 2 AM enjoying each other's company. That's a win in my book. :)
