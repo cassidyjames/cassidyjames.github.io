@@ -112,7 +112,12 @@ One of the more important areas was, of course, the sabacc table (the dining roo
 <figcaption>3D printed accent light</figcaption>
 </figure>
 
-Lastly, I picked a few other colors for adjacent rooms: a more vivid purple for the bathroom, and red for my office (where I set up split-screen _Star Wars: Battlefront II_ on a PS2).
+Lastly, I picked a few other colors for adjacent rooms: a more vivid purple for the bathroom, and red plus a rainbow LED strip for my office (where I set up split-screen _Star Wars: Battlefront II_ on a PS2).
+
+<figure markdown="1">
+![Office](/images/blog/star-wars-cantina-birthday-party/office.jpg){: .card }
+<figcaption>Office area</figcaption>
+</figure>
 
 I was pretty happy with the lighting at this point, but then I re-watched the Mos Eisley scenes and noticed some fairly simple accent lights: plain warm white cylinders on the tables.
 
