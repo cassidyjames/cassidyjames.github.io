@@ -1,6 +1,7 @@
 ---
 image: /images/desk/flanders-1.jpg
 description: Details about my desk, workspace, and decor
+updated: 2022-07-20
 ---
 
 # Cassidy’s Desk
