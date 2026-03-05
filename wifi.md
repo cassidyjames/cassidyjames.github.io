@@ -34,7 +34,7 @@ If you need a password:
 1. **Read the terms** above. Seriously.
 2. If you agree to the terms, use the password `I agree to the terms!`, including the exclamation point. Alternatively, scan this QR code:
 
-{% include picture src="wifi-qr.png" alt="Wi-Fi QR code" class="qr" %}
+{% picture wifi-qr.png --alt Desk --img class="qr" %}
 
 ## But… why?
 

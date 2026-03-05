@@ -8,7 +8,7 @@ updated: 2022-07-20
 
 I work 100% remotely—mostly from my home. As such, I’ve built myself a nice little workspace centered around a nice big motorized sit/stand desk.
 
-![Desk]({{ page.image }}){: .card style="max-width: calc(50% - 0.25em) }
+{% picture desk/flanders-1.jpg --alt Desk --img class="card" %}
 
 It’s gone through some revisions due to rearranging our home and moving; here is what currently makes it up, as well as a historical log of past iterations.
 
@@ -51,8 +51,10 @@ It’s gone through some revisions due to rearranging our home and moving; here 
 
 I had this version in our apartment with a smaller tabletop to save space.
 
-{% include picture src="/images/desk/3.jpg" alt="Desk" class="card" style="max-width: calc(50% - 0.25em)" %}
-{% include picture src="/images/desk/2.jpg" alt="Desk" class="card" style="max-width: calc(50% - 0.25em)" %}
+<figure class="half card">
+{% picture desk/3.jpg --alt Desk --img %}
+{% picture desk/2.jpg --alt Desk --img %}
+</figure>
 
 ### Desk Itself
 
@@ -82,7 +84,7 @@ I had this version in our apartment with a smaller tabletop to save space.
 
 I had more or less this setup for a few years before the smaller version above.
 
-{% include picture src="/images/desk/old.jpg" alt="Desk" class="card" %}
+{% picture desk/old.jpg --alt Desk --img class="card" %}
 
 ### Desk Itself
 

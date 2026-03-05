@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Emoji');
+// @import url('https://fonts.googleapis.com/css2?family=Noto+Emoji');
 
 :root {
   font-family: Inter, sans-serif;
@@ -28,7 +28,7 @@ html {
 a {
   color: var(--accent-color);
   fill: var(--accent-color);
-  text-decoration: none;
+  // text-decoration: none;
   transition: opacity 250ms ease;
 
   &:hover,
@@ -329,39 +329,11 @@ article time,
   line-height: 1.33;
 }
 
-aside.updated,
-aside.disclaimer {
-  h1,
-  h2,
-  h3,
-  h4,
-  h6,
-  h6 {
-    // color: var(--primary-color);
-    // fill: var(--primary-color);
-    // font-size: 1.25em;
-    // letter-spacing: normal;
-  }
-}
-
 aside.disclaimer {
   ul {
     @extend small;
 
-    list-style: none;
-    margin-left: 0;
-    padding-left: 0;
-
-    li {
-      padding-left: 1em;
-      text-indent: -1em;
-
-      &:before {
-        content: "✔️";
-        font-size: 1.25em;
-        padding-right: 0.25em;
-      }
-    }
+    padding-left: 1em;
   }
 }
 

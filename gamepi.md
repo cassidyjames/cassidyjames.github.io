@@ -4,9 +4,9 @@ layout: gamepi
 
 # GamePi
 
-{% include picture src="gamepi.jpg" alt="GamePi" class="card" style="max-width: calc(33.33% - 0.25em)" %}
-{% include picture src="gamepi-playing.jpg" alt="GamePi" class="card" style="max-width: calc(33.33% - 0.25em)" %}
-{% include picture src="gamepi-triple.jpg" alt="GamePi" class="card" style="max-width: calc(33.33% - 0.25em)" %}
+{% picture gamepi.jpg --alt Desk --img class="card" style="max-width: calc(33.33% - 0.25em)" %}
+{% picture gamepi-playing.jpg --alt Desk --img class="card" style="max-width: calc(33.33% - 0.25em)" %}
+{% picture gamepi-triple.jpg --alt Desk --img class="card" style="max-width: calc(33.33% - 0.25em)" %}
 
 GamePi is a retro gaming console I assemble, based on [Raspberry Pi][raspi] and
 [RetroPie][retropie].
@@ -23,12 +23,10 @@ redistributed commercially.
 
 If you received it as a **gift**, no need to set anything up! Read on for tips.
 
-
 ## Tips
 
 Here are some handy pointers from my experience setting up and playing with
 GamePi.
-
 
 ### Controllers
 
@@ -44,7 +42,6 @@ beyond the scope of these tips for now.
 The official [RetroPie Installation Guide][controllers] has pretty good
 instructions for controllers.
 
-
 ### Games
 
 Game ROM files are stored on the microSD card under `/home/pi/RetroPi/roms/`.
@@ -56,7 +53,6 @@ storage device on the network over SMB and SFTP with a hostname of `retropie`,
 username `pi`, password `raspberry`.
 
 [Learn More][roms]
-
 
 ### Power + Restarting
 
@@ -72,14 +68,12 @@ reconnected.
 GamePi consumes very little power when games are not playing, so leaving it
 powered on for long periods of time is probably fine!
 
-
 ### Exit/Switch Games
 
 If you're done playing one game and want to exit, press the **Hotkey** (the
 **Select** button by default) and **Start** buttons on the controller
 simultaneously. This will instantly exit to the menu. You can then choose a
 different game, shut down from the menu, or disconnect the power.
-
 
 ### Configuration + Keyboard
 
@@ -88,7 +82,6 @@ you may need to connect a keyboard. Disconnect the controller and attach a USB
 keyboard, or use a USB hub to connect both. You shouldn't need this for normal
 usage, but might if you want to set up more advanced settings (like configuring
 WiFi on a GamePi Wireless).
-
 
 [raspi]: https://www.raspberrypi.org/
 [retropie]: https://retropie.org.uk/
