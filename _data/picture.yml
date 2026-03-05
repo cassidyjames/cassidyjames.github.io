@@ -1,0 +1,10 @@
+presets:
+  default:
+    formats: [webp, original]
+    widths: [600, 800, 1200, 1600, 2400]
+    link_source: true
+
+media_queries:
+  small: 'max-width: 600px'
+  medium: 'max-width: 800px'
+  large: 'min-width: 801px'

@@ -6,6 +6,17 @@ My personal website, and an unintentional Jekyll theme for others to base their 
 
 I recommend using `toolbox` for development, especially if you're on Endless OS or Fedora Silverblue. See [this blog post](https://cassidyjames.com/blog/github-pages-jekyll-fedora-silverblue/) for details on how to get set up.
 
+Additionally, this site uses jekyll_picture_tag, which has a couple of other dependencies you may need to install:
+
+- libvpis
+- libheif
+
+To install these on Fedora (e.g. in a toolbx on Silverblue):
+
+```shell
+sudo dnf install rubygem-image_processing libheif
+```
+
 Once you're set up, build and serve locally with:
 
 ```shell

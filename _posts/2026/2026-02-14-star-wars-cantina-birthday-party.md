@@ -28,14 +28,14 @@ About a month before the party, I got to work.
 For the party to feel immersive, I knew getting the aesthetic right was paramount. I also knew I wanted to send out themed invites to set the tone, so I had to start thinking about the whole thing early.
 
 <figure markdown="1">
-![Star Wars Outlaws title screen](/images/blog/star-wars-cantina-birthday-party/outlaws-title.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/outlaws-title.jpg --alt Star Wars Outlaws title screen --img class="card" %}
 <figcaption markdown="1">
 _Star Wars: Outlaws_ title screen
 </figcaption>
 </figure>
 
 <figure markdown="1">
-![Star Wars Outlaws journal UI](/images/blog/star-wars-cantina-birthday-party/outlaws-journal.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/outlaws-journal.jpg --alt Star Wars Outlaws journal UI --img class="card" %}
 <figcaption markdown="1">
 _Star Wars: Outlaws_ journal UI
 </figcaption>
@@ -44,7 +44,7 @@ _Star Wars: Outlaws_ journal UI
 Since I'd been playing _Star Wars: Outlaws_, that was my immediate inspiration. I also follow the legendary [Louie Mantia](https://lmnt.me) on Mastodon, and had bought some of his Star Wars fonts from [The Crown Type Company](https://crowntype.com), so I knew at least partially how I was going to get there.
 
 <figure markdown="1">
-![Invite](/images/blog/star-wars-cantina-birthday-party/invite.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/invite.jpg --alt Invite --img class="card" %}
 <figcaption>Initial invite graphic (address censored)</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ I spent a bit more time iterating on [the website](https://cantina.blaede.family
 For the longer-form body text, I wanted something even more readable than the more display-oriented fonts I'd used, so I turned to a good friend: [Inter](https://rsms.me/inter/) (also used on this site!). It doesn't really _look_ like Inter though… because I used almost every stylistic alternate that the font offers—explicitly to make it feel legible but also… kinda funky. I think it worked out well. Specifically, notice the lower-case "a", "f", "L", "t", and "u" shapes, plus the more rounded punctuation.
 
 <figure markdown="1">
-![Website screenshot](/images/blog/star-wars-cantina-birthday-party/website.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/website.jpg --alt Website screenshot --img class="card" %}
 <figcaption>Screenshot of my website</figcaption>
 </figure>
 
@@ -78,21 +78,21 @@ The actual cantinas are often not all that otherworldly, but lighting plays a hu
 So, I got to work on setting up a lighting scene in Home Assistant. At first I was using the same color scheme everywhere, but I quickly found that distinct color schemes for different areas would feel more fun and interesting.
 
 <figure markdown="1">
-![Lounge area](/images/blog/star-wars-cantina-birthday-party/lounge.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/lounge.jpg --alt Lounge area --img class="card" %}
 <figcaption>Lounge area</figcaption>
 </figure>
 
 For the main lounge-type area, I went with dim orange lighting and just a couple of green accent lamps. This reminds me of Jabba's palace and Boba Fett, and just felt… right. It's sort of organic but would be a somewhat strange color scheme outside of Star Wars. It's also the first impression people will get when coming into the house, so I wanted it to feel the most recognizably Star Wars-y.
 
 <figure markdown="1">
-![Kitchen area](/images/blog/star-wars-cantina-birthday-party/kitchen.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/kitchen.jpg --alt Kitchen area --img class="card" %}
 <figcaption>Kitchen area</figcaption>
 </figure>
 
 Next, I focused on the kitchen, where people would gather for drinks and snacks. We have white under-cabinet lighting which I wanted to keep for function (it's nice to see what color your food actually is…), but I went with a bluish-purple (almost ultaviolet) and pink. 
 
 <figure markdown="1">
-![Coruscant](/images/blog/star-wars-cantina-birthday-party/coruscant.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/coruscant.jpg --alt Coruscant --img class="card" %}
 <figcaption markdown="1">
 Coruscant bar from _Attack of the Clones_
 </figcaption>
@@ -101,36 +101,36 @@ Coruscant bar from _Attack of the Clones_
 While this is very different from a cantina on Tatooine, it reminded me of the Coruscant bar we see in _Attack of the Clones_ as well as some of the environments in _The Clone Wars_ and _Outlaws_. At one point I was going to attempt to make a glowing cocktail that would luminesce under black light—I ditched that, but the lighting stayed.
 
 <figure markdown="1">
-![Table](/images/blog/star-wars-cantina-birthday-party/table.jpg)
+{% picture blog/star-wars-cantina-birthday-party/table.jpg --alt Table --img class="card" %}
 <figcaption>Dining room sabacc table</figcaption>
 </figure>
 
 One of the more important areas was, of course, the sabacc table (the dining room), which is adjacent to the kitchen. I had to balance ensuring the cards and chips are visible with that dim, dingy, underworld vibe. I settled on actually adding a couple of warm white accent lights (3D printed!) for visibility, then using the ceiling fan lights as a sabacc round counter (with a Zigbee button as the dealer token).
 
 <figure markdown="1">
-![3D printed light](/images/blog/star-wars-cantina-birthday-party/light.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/light.jpg --alt 3D printed light --img class="card" %}
 <figcaption>3D printed accent light</figcaption>
 </figure>
 
 Lastly, I picked a few other colors for adjacent rooms: a more vivid purple for the bathroom, and red plus a rainbow LED strip for my office (where I set up split-screen _Star Wars: Battlefront II_ on a PS2).
 
 <figure markdown="1">
-![Office](/images/blog/star-wars-cantina-birthday-party/office.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/office.jpg --alt Office --img class="card" %}
 <figcaption>Office area</figcaption>
 </figure>
 
 I was pretty happy with the lighting at this point, but then I re-watched the Mos Eisley scenes and noticed some fairly simple accent lights: plain warm white cylinders on the tables.
 
 <figure markdown="1">
-![Entrance](/images/blog/star-wars-cantina-birthday-party/entrance.jpg){: .card }
-![Bar](/images/blog/star-wars-cantina-birthday-party/bar.jpg){: .card }
-![Handywork](/images/blog/star-wars-cantina-birthday-party/handywork.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/entrance.jpg --alt Entrance --img class="card" %}
+{% picture blog/star-wars-cantina-birthday-party/bar.jpg --alt Bar --img class="card" %}
+{% picture blog/star-wars-cantina-birthday-party/handywork.jpg --alt Handywork --img class="card" %}
 </figure>
 
 I threw together a simple print for my 3D printer and added some battery-powered puck lights underneath: perfection.
 
 <figure markdown="1">
-![Cylinder light](/images/blog/star-wars-cantina-birthday-party/cylinder.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/cylinder.jpg --alt Cylinder light --img class="card" %}
 <figcaption>First test of my cylinder lights</figcaption>
 </figure>
 
@@ -147,14 +147,14 @@ I made a [looooong playlist](https://music.youtube.com/playlist?list=PL0AOBxB-0i
 A big part of the party was sabacc; we ended up playing several games and really getting into it. To complement the cards and dice (from [Hyperspace Props](https://hyperspaceprops.com)), I 3D printed chips and tokens that we used for the games. 
 
 <figure markdown="1">
-![Sabacc prints](/images/blog/star-wars-cantina-birthday-party/sabacc-prints.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/sabacc-prints.jpg --alt Sabacc prints --img class="card" %}
 <figcaption>3D printed sabacc tokens and chips</figcaption>
 </figure>
 
 We started out simple with just the basic rules and no tokens, but after a couple of games, we introduced some simple tokens to make the game more interesting.
 
 <figure markdown="1">
-![Playing sabacc ](/images/blog/star-wars-cantina-birthday-party/sabacc.jpg)
+{% picture blog/star-wars-cantina-birthday-party/sabacc.jpg --alt Playing sabacc --img class="card" %}
 <figcaption>Playing sabacc</figcaption>
 </figure>
 
@@ -165,14 +165,14 @@ I had a blast playing sabacc with my friends and by the end of the night we all 
 I'm a fan of batch cocktails for parties, because it means less time tending a bar and more time enjoying company—plus it gives you a nice opportunity for a themed drink or two that you can prepare ahead of time. I decided to make two batch cocktails: green revnog and spotchka.
 
 <figure markdown="1">
-![Spotchka and revnog](/images/blog/star-wars-cantina-birthday-party/spotchka-revnog.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/spotchka-revnog.jpg --alt Spotchka and revnog --img class="card" %}
 <figcaption>Bottles of spotchka and revnog</figcaption>
 </figure>
 
 [Revnog](https://starwars.fandom.com/wiki/Revnog) is shown a few times in Andor, but it's hard to tell what it looks like—one time it appears to be blue, but it's also lit by the bar itself. When it comes to taste, the [StarWars.com Databank](https://www.starwars.com/databank/revnog) just says it "comes in a variety of flavors." However, one character mentions "green revnog" as being her favorite, so I decided to run with that so I could make something featuring objectively the best fruit in the galaxy: pear (if you know, you know).
 
 <figure markdown="1">
-![Revnog](/images/blog/star-wars-cantina-birthday-party/revnog.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/revnog.jpg --alt Revnog --img class="card" %}
 <figcaption>My take on green revnog</figcaption>
 </figure>
 
@@ -181,7 +181,7 @@ After a lot of experimenting, I settled on a spiced pear gin drink that I think 
 [Spotchka](https://starwars.fandom.com/wiki/Spotchka) doesn't get its own StarWars.com Databank entry, but is mentioned in a [couple](https://www.starwars.com/databank/klatooinian-wikiup) of [entries](https://www.starwars.com/databank/sorgan-common-house) about locations from an arc of _The Mandalorian_. All that can be gleaned is that it's apparently glowing and blue (Star Wars sure loves its blue drinks!), and made from "krill" which in Star Wars is shrimp-like.
 
 <figure markdown="1">
-![Spotchka](/images/blog/star-wars-cantina-birthday-party/spotchka.jpg){: .card }
+{% picture blog/star-wars-cantina-birthday-party/spotchka.jpg --alt Spotchka --img class="card" %}
 <figcaption>My take on spotchka</figcaption>
 </figure>
 

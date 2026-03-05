@@ -128,8 +128,13 @@ defaults:
     values:
       layout: "default"
 
-# Plugins
+# jekyll_picture_tag
+picture:
+  source: images/
+  output: img/
+
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll_picture_tag
