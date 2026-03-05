@@ -12,7 +12,6 @@
   <meta charset="UTF-8">
 
   {% if site.avatar %}
-    <link rel="preload" href="{{ site.avatar | prepend: site.baseurl }}" as="image" type="image/jpg" />
     <link rel="icon" sizes="256x256" href="{{ site.avatar | prepend: site.baseurl | prepend: site.url }}">
     <meta itemprop="logo" content="{{ site.avatar | prepend: site.baseurl | prepend: site.url }}">
   {% endif %}

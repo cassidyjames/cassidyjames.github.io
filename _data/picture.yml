@@ -1,10 +1,12 @@
 presets:
   default:
     formats: [webp, original]
-    widths: [600, 800, 1200, 1600, 2400]
-    link_source: true
+    widths: [400, 600, 800, 1200]
+    # link_source: true
 
 media_queries:
+  tiny: 'max-width: 400'
   small: 'max-width: 600px'
   medium: 'max-width: 800px'
-  large: 'min-width: 801px'
+  large: 'max-width: 1200px'
+  huge: 'min-width: 1201px'

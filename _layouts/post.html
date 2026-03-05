@@ -53,7 +53,7 @@ layout: default
   <aside class="bio">
     <h2>About the Author</h2>
     {% if site.avatar %}
-      <img class="avatar" alt="Avatar" src="{{ site.avatar }}" />
+      {% picture me.jpg --alt Avatar --img class="avatar" %}
     {% endif %}
 
     {{ site.bio | markdownify }}
