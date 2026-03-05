@@ -1,6 +1,6 @@
 ---
-layout: compress
-# layout: default
+# layout: compress
+layout: default
 ---
 <!DOCTYPE html>
 {% capture classes %}
@@ -21,12 +21,13 @@ layout: compress
 <html lang="en-us" class="{{ classes | strip_newlines | strip }}">
   {% include head.html %}
   <body class="{{ classes | strip_newlines | strip }}">
-    {% include nav.html %}
-    <section class="grid main">
-      <div>
-        {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
-      </div>
-    </section>
+    <header>
+      {% include nav.html %}
+    </header>
+
+    <main>
+      {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
+    </main>
 
     {% include footer.html %}
 

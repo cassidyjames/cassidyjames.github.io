@@ -1,24 +1,30 @@
 <nav>{% assign current = page.url | downcase | split: '/' %}
+  <ul>
+    <li>
+      <a href="/" {% if current[1] == null %}class='current'{% endif %} title="Home">
+        Home
+      </a>
+    </li>
 
-  <a href="/" {% if current[1] == null %}class='current'{% endif %} title="Home"><img class="avatar" alt="{{ site.title }}" src="{{ site.avatar | prepend: site.baseurl }}" width="32" height="32" /></a>
+    <li><a href="/blog" {% if current[1] == 'blog' %}class='current'{% endif %}>Blog</a></li>
+    <li><a href="/starwars" {% if current[1] == 'starwars' %}class='current'{% endif %}>Star Wars</a></li>
+    <li><a href="/wishlist" {% if current[1] == 'wishlist' %}class='current'{% endif %}>Wishlist</a></li>
 
-  <a href="/blog" {% if current[1] == 'blog' %}class='current'{% endif %}>Blog</a>
-  <a href="/starwars" {% if current[1] == 'starwars' %}class='current'{% endif %}>Star Wars</a>
-  <a href="/wishlist" {% if current[1] == 'wishlist' %}class='current'{% endif %}>Wishlist</a>
-  
-  {% if current[1] == 'pay' %}<a href="/pay" class='current'>Pay</a>{% endif %}
-  {% if current[1] == 'referrals' %}<a href="/referrals" class='current'>Referrals</a>{% endif %}
-  {% if current[1] == 'borrow' %}<a href="/borrow" class='current'>Borrow</a>{% endif %}
-  {% if current[1] == 'gamepi' %}<a href="/gamepi" class='current'>GamePi</a>{% endif %}
-  {% if current[1] == 'minecraft' %}<a href="/minecraft" class='current'>Minecraft</a>{% endif %}
-  {% if current[1] == 'resume' %}<a href="/resume" class='current'>Résumé</a>{% endif %}
-  {% if current[1] == 'stadia' %}<a href="/stadia" class='current'>Stadia</a>{% endif %}
-  {% if current[1] == 'store' %}<a href="/store" class='current'>Store</a>{% endif %}
-  {% if current[1] == 'support' %}<a href="/support" class='current'>Support</a>{% endif %}
-  {% if current[1] == 'switch' %}<a href="/switch" class='current'>Switch</a>{% endif %}
+    {% if current[1] == 'pay' %}<li><a href="/pay" class='current'>Pay</a></li>{% endif %}
+    {% if current[1] == 'referrals' %}<li><a href="/referrals" class='current'>Referrals</a></li>{% endif %}
+    {% if current[1] == 'borrow' %}<li><a href="/borrow" class='current'>Borrow</a></li>{% endif %}
+    {% if current[1] == 'gamepi' %}<li><a href="/gamepi" class='current'>GamePi</a></li>{% endif %}
+    {% if current[1] == 'minecraft' %}<li><a href="/minecraft" class='current'>Minecraft</a></li>{% endif %}
+    {% if current[1] == 'resume' %}<li><a href="/resume" class='current'>Résumé</a></li>{% endif %}
+    {% if current[1] == 'stadia' %}<li><a href="/stadia" class='current'>Stadia</a></li>{% endif %}
+    {% if current[1] == 'store' %}<li><a href="/store" class='current'>Store</a></li>{% endif %}
+    {% if current[1] == 'support' %}<li><a href="/support" class='current'>Support</a></li>{% endif %}
+    {% if current[1] == 'switch' %}<li><a href="/switch" class='current'>Switch</a></li>{% endif %}
 
-  {% if current[1] == 'blog' %}<a href="/feed.xml" class="feed">{% include icons/rss.svg %} Feed</a>{% endif %}
-
-  <a id="alt-style" class="hidden" href="#">{% include icons/eye-open-negative-filled-symbolic.svg %} Increase Contrast</a>
-  <a id="default-style" class="hidden" href="#">{% include icons/low-vision-symbolic.svg %} Reset Contrast</a>
+    {% if current[1] == 'blog' %}<li><a href="/feed.xml" class="feed">{% include icons/rss.svg %} Feed</a></li>{% endif %}
+    </ul>
+  <ul>
+    <li id="alt-style" class="hidden"><a href="#">{% include icons/eye-open-negative-filled-symbolic.svg %} Increase Contrast</a></li>
+    <li id="default-style" class="hidden"><a href="#">{% include icons/low-vision-symbolic.svg %} Reset Contrast</a></li>
+  </ul>
 </nav>
