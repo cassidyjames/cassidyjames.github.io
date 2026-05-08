@@ -1,7 +1,18 @@
 ---
 title: The Trail of Political Consciousness
 description: Nemik’s Manifesto
+redirect_from:
+  - /manifesto
+  - /starwars/manifesto
+  - /nemik
+  - /starwars/nemik
+  - /starwars/andor/nemik
 ---
+
+# {{ page.title}}
+{{ page.description }}
+
+{% include youtube.html id="wQd4JdFP0d0" %}
 
 There will be times when the struggle seems impossible. I know this already. Alone, unsure, dwarfed by the scale of the enemy.
 
