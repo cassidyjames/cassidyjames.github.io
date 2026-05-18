@@ -19,7 +19,7 @@ _By using this network, you agree:_
 
 <label for="agree-unsecured"><input id="agree-unsecured" type="checkbox" checked="checked" disabled="disabled" /> That this may be an unsecured Wi-Fi network, which means others may be using it and spying on your web traffic.</label>
 
-<label for="agree-responsible"><input id="agree-responsible" type="checkbox" checked="checked" disabled="disabled" /> That Cassidy James Blaede or anyone associated with him shall not be held responsible for anything you or others do on this Wi-Fi connection.</label>
+<label for="agree-responsible"><input id="agree-responsible" type="checkbox" checked="checked" disabled="disabled" /> That Cassidy James or anyone associated with him shall not be held responsible for anything you or others do on this Wi-Fi connection.</label>
 
 <label for="agree-considerate"><input id="agree-considerate" type="checkbox" checked="checked" disabled="disabled" /> To try to be a considerate neighbor (in general) and not totally hog this Internet connection (specifically).</label>
 

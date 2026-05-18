@@ -18,7 +18,7 @@ Wayland.
 >
 >How many of you have **_written_ an app listing** like this?
 
-### Clairvoyant by Cassidy James Blaede
+### Clairvoyant by Cassidy James
 
 Ask questions, get psychic answers
 

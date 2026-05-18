@@ -8,7 +8,7 @@ I recommend using `toolbox` for development, especially if you're on Endless OS 
 
 Additionally, this site uses jekyll_picture_tag, which has a couple of other dependencies you may need to install:
 
-- libvpis
+- libvips
 - libheif
 
 To install these on Fedora (e.g. in a toolbx on Silverblue):

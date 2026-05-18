@@ -3,14 +3,13 @@ title: Résumé
 description: Experienced, friendly, and creative open source community builder passionate about connecting people and technology, equipping developers with the best tools, and building tech for good. 
 ---
 
-# Cassidy James Blaede
+# Cassidy James
 
 {{ page.description }}
 
 <aside class="print-only" markdown="1">
 - [cassidyjames.com](https://cassidyjames.com)
 - [c@ssidyjam.es](mailto:c@ssidyjam.es)
-- (515) 966-4238
 </aside>
 
 ## Career Experience
