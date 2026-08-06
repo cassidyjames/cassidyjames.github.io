@@ -2,8 +2,11 @@
 
 Notes, slides, etc. from talks I have given or plan to give.
 
+- “Share your photos!” lightning talk _GUADEC 2026_
+- [Coop: Open source Trust & Safety infrastructure for all](https://atmosphereconf.org/event/0Qq9NlZ) _ATmosphereConf 2026_
+- [Stop Reinventing in Isolation: Bringing Open Source to Trust & Safety Infrastructure](https://fosdem.org/2026/schedule/event/U7ABHE-roost-osprey/) _FOSDEM 2026_
 - [Friends of GNOME](friends-of-gnome) _Ubuntu Summit 25.10_
-- [Block Coding: Making Godot Accessible to Learners Everywhere](block-coding) _(GodotCon 2024)_
+- [Block Coding: Making Godot Accessible to Learners Everywhere](block-coding) _GodotCon 2024_
 - [GNOME Design: State of the Union](guadec-2023/gnome-design-state-of-the-union) _GUADEC 2023_
 - [How to Make a Delightful App Listing](guadec-2023/how-to-make-a-delightful-app-listing) _GUADEC 2023_
 - [What is the GNOME Advisory Board?](guadec-2023/what-is-the-gnome-advisory-board) _GUADEC 2023_
