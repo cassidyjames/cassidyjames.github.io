@@ -9,7 +9,7 @@ comments:
 updated: 2023-03-07
 ---
 
-![Screenshot]({{ page.image }}){: .card }
+{% picture {{ page.image | remove_first: '/images/' }} --alt Screenshot --img class="card" %}
 
 I recently got a 3D printer for my birthday, and I have been absolutely _loving_
 tinkering, printing, and learning with it. There is such a wealth of openly-shared 
@@ -81,7 +81,7 @@ Modeling is my weakest point personally, as I haven't taken the time to really
 learn Blender or the open source CAD tools. So for me, I only tackle simple 3D
 models—and I use the web-based [Autodesk Tinkercad](https://www.tinkercad.com/) to do it.
 
-![Screenshot of Tinkercad in Chromium](/images/blog/{{ page.slug }}/tinkercad-install.png)
+{% picture blog/{{ page.slug }}/tinkercad-install.png --alt Screenshot of Tinkercad in Chromium %}
 
 Luckily on Endless OS you can trivially install web apps like Tinkercad from the
 included Chromium web browser; just hit the little "Install" button that pops up
@@ -141,11 +141,11 @@ If whoever makes your printer doesn't have a slicer on Flathub, fret not! They'r
 
 The simplest/most old-school way of printing is to save your sliced GCODE file out to a microSD card, eject it, then stick it in your printer, and use your printer's physical screen and wheel to select the print file. And that will work just fine! You can also connect your printer over USB and print directly from your slicing software.
 
-![Screenshot of Prusa's GCODE viewer inspecting a model](/images/blog/{{ page.slug }}/prusa-gcode.png){: .card }
+{% picture blog/{{ page.slug }}/prusa-gcode.png --alt Screenshot of Prusa's GCODE viewer inspecting a model --img class="card" %}
 
 If you want to learn more about how your model will print before actually printing, you can use your slicer or a separate program to preview the GCODE file. While Cura has a preview built in, sometimes I like using PrusaSlicer's included GCODE viewer app (installed alongside PrusaSlicer) to inspect a specific GCODE file, too.
 
-![Screenshot of the Raspberry Pi imager with OctoPi selected](/images/blog/{{ page.slug }}/raspi-octopi.png)
+{% picture blog/{{ page.slug }}/raspi-octopi.png --alt Screenshot of the Raspberry Pi imager with OctoPi selected %}
 
 If you really want to go all out and have a spare Raspberry Pi, you can install [OctoPrint](https://octoprint.org/) with the OctoPi OS, and print to, monitor, and control your printer remotely. I won’t get into all the details, but you can get started with the official Raspberry Pi Imager by navigating to install an "other specific-purpose OS," "3D printing," and then "OctoPi."
 

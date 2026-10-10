@@ -38,11 +38,11 @@ Even if you're someone who doesn't _really care_ about reaching a bunch of peopl
 
 In practice, this means that I can be on my own Mastodon server (with the fancy handle [{{ site.mastodon.handle }}]({{ site.mastodon.url }})) and follow your account, e.g. @YourThreadsUsername​@threads.net. Remember that email comparison earlier? You can see how it's pretty similar! Any of your public posts on Threads will then show up in my social feed alongside posts from people I follow on Mastodon and other sites. 
 
-![Screenshots from Threads and Mastodon showing how the same post is presented](/images/blog/how-why-threads-fediverse-mastodon/threads-mastodon.webp)
+{% picture blog/how-why-threads-fediverse-mastodon/threads-mastodon.webp --alt Screenshots from Threads and Mastodon showing how the same post is presented %}
 
 On your side, you'll see when anyone on the fediverse "likes" or replies to your post, too—all without leaving Threads.
 
-![Screenshots from Threads showing what fediverse integration looks like](/images/blog/how-why-threads-fediverse-mastodon/threads-fediverse.webp)
+{% picture blog/how-why-threads-fediverse-mastodon/threads-fediverse.webp --alt Screenshots from Threads showing what fediverse integration looks like %}
 
 But for now, **Meta is making you opt in to this feature** since it's pretty new. If you don't turn on sharing to the fediverse on your Threads account, nobody will be able to find you outside of Threads itself.
 
@@ -56,7 +56,7 @@ Luckily, turning on fediverse sharing for your Threads account is simple:
 2. Select "Fediverse sharing"
 3. Follow the on-screen instructions
 
-![Fediverse sharing screen in Threads Account Settings](/images/blog/how-why-threads-fediverse-mastodon/threads-account-fediverse.jpg)
+{% picture blog/how-why-threads-fediverse-mastodon/threads-account-fediverse.jpg --alt Fediverse sharing screen in Threads Account Settings %}
 
 That's it! You're set up to share across the fediverse so that people like me—and millions of others—can follow you from our preferred social networks. Plus, you can always turn it back off later if you want from the same place if you change your mind!
 

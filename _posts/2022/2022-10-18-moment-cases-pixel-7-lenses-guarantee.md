@@ -30,7 +30,7 @@ In their [Pixel 7 case Q&A section](https://www.shopmoment.com/products/moment-c
 Starting with the Pixel 6a (which reused the sensor from the Pixel 5), the Moment Case lacks the M-Series mounting hardware altogether. Despite this, Moment still lists the cases at the same $50 price point as previous models that supported their lenses. To make matters worse, their clip-on [M-Series Lens Mount](https://www.shopmoment.com/products/m-series-lens-mount/) does not support the Pixel 7 series, either, as it doesn’t fit over the phones' camera bar.
 
 <figure markdown="1">
-![Pixel 6 and Pixel 7 Moment Cases]({{ page.image }}){: .card }
+{% picture {{ page.image | remove_first: '/images/' }} --alt Pixel 6 and Pixel 7 Moment Cases --img class="card" %}
 <figcaption markdown="1">
 **Left:** Moment Case for Pixel 6 | **Right:** Moment Case for Pixel 7
 </figcaption>

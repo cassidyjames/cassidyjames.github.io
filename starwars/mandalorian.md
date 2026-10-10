@@ -4,7 +4,7 @@ description: "Join us to watch **Season Two**! We'll be watching one chapter eac
 image: /images/starwars/mandalorian.jpg
 ---
 
-# ![{{ page.title }}]({{ page.image}}){: .card }
+# {% picture {{ page.image | remove_first: '/images/' }} --alt {{ page.title }} --img class="card" %}
 
 {{ page.description }}
 

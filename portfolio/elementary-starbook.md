@@ -20,7 +20,7 @@ I designed an entire product campaign for [elementary](https://elementary.io), a
 I worked with and interviewed stakeholders from the hardware manufacturer, Star Labs, to distill their tech specs into a compelling product announcement that tells a complete story. I worked with a 3D artist to specify which shots and angles would support the story while showing off the product. I tied all of that into the larger narrative of elementary and the years-long product roadmap I helped develop.
 
 --- | ---
-[![Light blog](/images/portfolio/elementary/starbook-blog.png)](/images/portfolio/elementary/starbook-blog.png) | [![Dark blog](/images/portfolio/elementary/starbook-blog-dark.png)](/images/portfolio/elementary/starbook-blog-dark.png)
+[{% picture portfolio/elementary/starbook-blog.png --alt Light blog %}](/images/portfolio/elementary/starbook-blog.png) | [{% picture portfolio/elementary/starbook-blog-dark.png --alt Dark blog %}](/images/portfolio/elementary/starbook-blog-dark.png)
 
 
 ### Store
@@ -32,6 +32,6 @@ Throughout the entire product page, I ensured it tied back into elementary OS sp
 On a technical level, I implemented the responsive sales page in HTML and CSS, targeting everything from small mobile phones to large, HiDPI desktop displays.
 
 --- | ---
-[![Light store page](/images/portfolio/elementary/store.png)](/images/portfolio/elementary/store.png) | [![Dark store page](/images/portfolio/elementary/store-dark.png)](/images/portfolio/elementary/store-dark.png)
-[![Light product page](/images/portfolio/elementary/starbook.png)](/images/portfolio/elementary/starbook.png) | [![Dark product page](/images/portfolio/elementary/starbook-dark.png)](/images/portfolio/elementary/starbook-dark.png)
+[{% picture portfolio/elementary/store.png --alt Light store page %}](/images/portfolio/elementary/store.png) | [{% picture portfolio/elementary/store-dark.png --alt Dark store page %}](/images/portfolio/elementary/store-dark.png)
+[{% picture portfolio/elementary/starbook.png --alt Light product page %}](/images/portfolio/elementary/starbook.png) | [{% picture portfolio/elementary/starbook-dark.png --alt Dark product page %}](/images/portfolio/elementary/starbook-dark.png)
 

@@ -4,7 +4,7 @@ description: I don't claim to be an expert on Star Wars canon or _The Clone Wars
 image: /images/starwars/clone-wars.jpg
 ---
 
-# ![{{ page.title }}]({{ page.image}}){: .card }
+# {% picture {{ page.image | remove_first: '/images/' }} --alt {{ page.title }} --img class="card" %}
 
 {{ page.description }}
 

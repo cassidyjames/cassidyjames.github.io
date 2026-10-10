@@ -8,7 +8,7 @@ updated: 2022-06-03
 
 I'll probably expand on this in the future, but I am fairly proud of how this turned out! A client wanted a back-to-top button on their rentals page since the page was getting pretty tall, and I decided to whip something progressively-enhancing up.
 
-![Screenshot of back-to-top button]({{ page.image }}){: .card }
+{% picture {{ page.image | remove_first: '/images/' }} --alt Screenshot of back-to-top button --img class="card" %}
 
 Works without JavaScript, technically even works without CSS.
 

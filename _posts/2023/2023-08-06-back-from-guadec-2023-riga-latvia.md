@@ -12,7 +12,7 @@ comments:
 I'm back from Rīga, Latvia where I attended GUADEC 2023—the annual GNOME conference. It was my first time attending since 2019 due to COVID-19 plus having had another child in 2022. It simultaneously felt like it had been ages since seeing everyone, and like we picked back up after no time at all.
 
 <figure class="full-bleed" markdown="1">
-![Old building](/images/blog/guadec-2023/hero.jpg)
+{% picture blog/guadec-2023/hero.jpg --alt Old building %}
 </figure>
 
 For me, **attending GUADEC in person is exceptionally important**: the face-to-face conversations, exploration of the host city, eating and drinking together, and spontaneous hacking all serve as powerful bonding experiences and help develop mutual understandings of the actual humans behind online usernames and avatars. We come away from GUADEC with fresh ideas, new perspectives, stronger friendships, and renewed energy to make GNOME and the open technologies we all care about better than before. You can get a small fraction of that from remote attendance—and remote participation is important to make the event as accessible and inclusive as possible—but I greatly prefer in-person participation if at all possible.
@@ -140,4 +140,4 @@ I hope this write-up provided some insight into the goings-on of GUADEC and my e
 
 I'd like to thank my employer, the Endless OS Foundation, for allowing me to spend an entire week of work at GUADEC; it's an incredibly valuable aspect of GNOME, and I love that Endless sees that. I'd also like to thank the GNOME Foundation for partially sponsoring my attendance as a member of the GNOME Foundation; ensuring people can get to these events is crucial for community building and all of the high-bandwidth communication that can really only happen in person.
 
-[![Sponsored by GNOME Foundation](/images/blog/guadec-2023/sponsored-by-foundation.png){: width="160" }](https://wiki.gnome.org/Travel)
+[{% picture blog/guadec-2023/sponsored-by-foundation.png --alt Sponsored by GNOME Foundation --img width="160" %}](https://wiki.gnome.org/Travel)

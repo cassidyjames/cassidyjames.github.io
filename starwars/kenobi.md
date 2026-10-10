@@ -21,7 +21,7 @@ redirect_from:
   - /starwars/obiwankenobi
 ---
 
-# ![Star Wars: Obi-Wan Kenobi](/images/starwars/kenobi.png)
+# {% picture starwars/kenobi.png --alt Star Wars: Obi-Wan Kenobi %}
 
 ## #KenobiWatchAlong
 

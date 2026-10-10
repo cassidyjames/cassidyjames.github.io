@@ -27,8 +27,8 @@ Our Sunday morning talk [“Stop Reinventing in Isolation”](https://fosdem.org
 {% include youtube.html id="EOoUfaInsaE" %}
 
 <figure class="half" markdown="1">
-![Cassidy](/images/blog/roost-osprey-fosdem-2026/cassidy.jpg)
-![Anne](/images/blog/roost-osprey-fosdem-2026/anne.jpg)
+{% picture blog/roost-osprey-fosdem-2026/cassidy.jpg --alt Cassidy %}
+{% picture blog/roost-osprey-fosdem-2026/anne.jpg --alt Anne %}
 <figcaption markdown="1">
 Cassidy and Anne giving a talk. | _Photos from [@matrix@mastodon.matrix.org](https://mastodon.matrix.org/@matrix)_
 </figcaption>
@@ -40,7 +40,7 @@ In it we tackled three major topics: a crash course on what is “trust and safe
 
 We had a few minutes for Q&A after the talk, and the folks in the room spurred some great discussions. If there’s something you’d like to ask that isn’t covered by the talk or this Q&A, feel free to [start a discussion](https://github.com/roostorg/osprey/discussions)! Also note that this gets a bit nerdy; if you’re not interested in the specifics of deploying Osprey, feel free to skip ahead to the [Stand](#stand) section.
 
-![Room](/images/blog/roost-osprey-fosdem-2026/room.jpg)
+{% picture blog/roost-osprey-fosdem-2026/room.jpg --alt Room %}
 
 **When using Osprey with the decentralized Matrix protocol, would it be a [policy server](https://matrix.org/blog/2025/04/introducing-policy-servers/) implementation?**
 
@@ -62,7 +62,7 @@ While you can spin Osprey up on a laptop for testing and development, it can be 
 
 This year we were unable to secure a stand (there were already nearly 100 stands in just 5 buildings!), but our friends at Matrix graciously hosted us for several hours at their stand near the decentralized communications track room so we could follow up with folks after our talk. We blew through our shiny sticker supply as well as our 3D printed ROOST keychains (which I printed myself at home!) in just one afternoon. We’ll have to bring more to future FOSDEMs!
 
-![Stickers](/images/blog/roost-osprey-fosdem-2026/stickers.jpg)
+{% picture blog/roost-osprey-fosdem-2026/stickers.jpg --alt Stickers %}
 
 When I handed people one of our [hexagon stickers](https://sticker.how/#type-hexagon) the reaction was usually some form of, “ooh, shiny!” but my favorite was when someone essentially said, “Oh, you all actually know open source!” That made me proud, at least. :)
 

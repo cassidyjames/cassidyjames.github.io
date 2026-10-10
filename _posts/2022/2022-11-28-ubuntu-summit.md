@@ -79,7 +79,7 @@ _Talk starts at 5:44:25_
 
 Michelangelo from Volumio gave another great talk diving more into the community building and management aspect of open source projects, based on his lessons learned in the field over the past eight years.
 
-![Michelangelo giving his talk](/images/blog/ubuntu-summit/michelangelo-community.jpg)
+{% picture blog/ubuntu-summit/michelangelo-community.jpg --alt Michelangelo giving his talk %}
 
 This one is another must-watch for anyone involved in building an open source project or community; the video should be available on the [Ubuntu OnAir YouTube channel](https://www.youtube.com/@UbuntuOnAir) in the coming weeks.
 
@@ -130,7 +130,7 @@ Ubuntu's Snap-based app store, called Ubuntu Software, used to be a fork of GNOM
 >With those two goals reached we were able to not only create a big part of the software app but also a settings app and are now able to compose and compile new Ubuntu desktop apps like building LEGO: no headaches - brick per brick and all apps will look, feel and perform equally good.
 
 <figure markdown="1">
-![Screenshot of Ubuntu Software](/images/blog/ubuntu-summit/ubuntu-software.png)
+{% picture blog/ubuntu-summit/ubuntu-software.png --alt Screenshot of Ubuntu Software %}
 <figcaption markdown="1">
 Screenshot of Ubuntu Software from the [Ubuntu Blog](https://ubuntu.com/blog/whats-new-in-ubuntu-desktop-22-10-kinetic-kudu)
 </figcaption>
@@ -145,7 +145,7 @@ The session was interesting, and I enjoyed seeing a fresh take on what an app st
 >The creative commons band Lorenzo's Music has created a way to collaborate and record music with each other remotely. The method actually uses full multi-track DAW to share recording sessions to write and produce music. We will show how musicians can record, edit and produce songs accomplished only by using Ubuntu Studio and GitHub.
 
 <figure markdown="1">
-![The band on the boat](/images/blog/ubuntu-summit/lorenzos.jpg)
+{% picture blog/ubuntu-summit/lorenzos.jpg --alt The band on the boat %}
 <figcaption markdown="1">
 Photo from [Lorenzo's Music](https://www.lorenzosmusic.com/2022/11/performing-at-ubuntu-summit-prague.html), licensed under [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 </figcaption>
@@ -196,16 +196,16 @@ Inevitably, a huge part of these kinds of conferences and summits is what we aff
 A meet-up of free and open source software contributors from around the world wouldn't be complete without some sort of socializing, and the Ubuntu Summit delivered here, as well. From exploring local burger joints (and severely underestimating the amount of food we were ordering) to playing board games late into the night, to riding in a catered boat up and down the Vltava river, the event was _a lot_ of fun.
 
 <figure class="half gallery" markdown="1">
-![City](/images/blog/ubuntu-summit/city.jpg)
-![A building in Prague](/images/blog/ubuntu-summit/building-2.jpg)
-![Bridge](/images/blog/ubuntu-summit/bridge.jpg)
-![Burgers](/images/blog/ubuntu-summit/burgers.jpg)
-![View from the hotel room](/images/blog/ubuntu-summit/room-view.jpg)
-![Mirrored elevator](/images/blog/ubuntu-summit/mirrors.jpg)
-![Playing with GNOME on a phone](/images/blog/ubuntu-summit/phone.jpg)
-![Playing Codenames](/images/blog/ubuntu-summit/codenames.jpg)
-![View from the boat](/images/blog/ubuntu-summit/boat.jpg)
-![Photobooth](/images/blog/ubuntu-summit/photobooth.jpg)
+{% picture blog/ubuntu-summit/city.jpg --alt City %}
+{% picture blog/ubuntu-summit/building-2.jpg --alt A building in Prague %}
+{% picture blog/ubuntu-summit/bridge.jpg --alt Bridge %}
+{% picture blog/ubuntu-summit/burgers.jpg --alt Burgers %}
+{% picture blog/ubuntu-summit/room-view.jpg --alt View from the hotel room %}
+{% picture blog/ubuntu-summit/mirrors.jpg --alt Mirrored elevator %}
+{% picture blog/ubuntu-summit/phone.jpg --alt Playing with GNOME on a phone %}
+{% picture blog/ubuntu-summit/codenames.jpg --alt Playing Codenames %}
+{% picture blog/ubuntu-summit/boat.jpg --alt View from the boat %}
+{% picture blog/ubuntu-summit/photobooth.jpg --alt Photobooth %}
 </figure>
 
 It was also great to connect, re-connect, and collaborate with so many people in person from the community. I look forward to attending again in the future! Georges summed up the experience well:

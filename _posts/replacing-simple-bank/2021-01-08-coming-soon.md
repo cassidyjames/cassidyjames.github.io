@@ -8,4 +8,4 @@ permalink: /blog/replacing-simple-bank/
 redirect_to: https://www.androidpolice.com/2021/02/11/theres-no-good-replacement-for-simple/
 ---
 
-![Replacing Simple Bank]({{ page.image }})
+{% picture {{ page.image | remove_first: '/images/' }} --alt Replacing Simple Bank %}

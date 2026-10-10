@@ -15,7 +15,7 @@ redirect_from:
   - /starwars/asokha
 ---
 
-# ![{{ page.title }}]({{ page.logo }})
+# {% picture {{ page.logo | remove_first: '/images/' }} --alt {{ page.title }} %}
 
 Former Jedi Knight Ahsoka Tano investigates an emerging threat to a vulnerable galaxy.
 

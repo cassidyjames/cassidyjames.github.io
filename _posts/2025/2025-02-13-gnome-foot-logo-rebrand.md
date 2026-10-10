@@ -31,7 +31,7 @@ You see, the site didn't[^logo update] feature the GNOME logo at the top of the 
 The current GNOME logo is a four-toed foot that is sort of supposed to look like a letter G. According to legend (read: my conversations with designers and contributors who have been working with GNOME for more years than I have fingers _and_ toes), it is basically a story of happenstance: an early wallpaper featured footprints in the sand, that was modified into an icon for the menu, that was turned into a sort of logo while being modified to look like the letter G, and then that version was flattened and cleaned up a bit and successfully trademarked by the GNOME Foundation.
 
 <figure markdown=1>
-![Evolution of the logo, 1997–2002](/images/blog/gnome-foot-logo-rebrand/evolution.png){: .card }
+{% picture blog/gnome-foot-logo-rebrand/evolution.png --alt Evolution of the logo, 1997–2002 --img class="card" %}
 <figcaption markdown=1>
 Graphic [shared by Michael Downey](https://floss.social/@downey/113987672472130021) on Mastodon
 </figcaption>
@@ -60,8 +60,7 @@ I'm the first to admit that I don’t find the foot to be a particularly good _l
 4. **It raises the question of what the role of the design team is**: if the design team cannot be allowed to effectively lead the design of the project, what are we even doing? I think this is why the topic feels so existential to me as a member of the design team. User experience design includes the moment someone first interacts with the brand of a product through them actually using it day-to-day—and right now, the design team's hands are tied for the first half of that journey.
 
 <figure markdown=1>
-![Issues with the foot](/images/blog/gnome-foot-logo-rebrand/issues.png#gh-light-mode-only)
-![Issues with the foot (dark)](/images/blog/gnome-foot-logo-rebrand/issues-dark.png#gh-dark-mode-only)
+{% picture blog/gnome-foot-logo-rebrand/issues.png dark: blog/gnome-foot-logo-rebrand/issues-dark.png --alt Issues with the foot %}
 <figcaption markdown=1>
 The imbalance and complexity make for non-ideal situations
 </figcaption>

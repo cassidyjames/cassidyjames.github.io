@@ -9,7 +9,7 @@ comments:
 
 A couple of months ago I shared that I was [looking for what was next] for me, and I'm thrilled to report that I've found it: I'm joining [ROOST] as OSS Community Manager!
 
-![Baby chick being held in a hand]({{ page.image }}){: .card }
+{% picture {{ page.image | remove_first: '/images/' }} --alt Baby chick being held in a hand --img class="card" %}
 
 ### What is ROOST?
 

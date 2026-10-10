@@ -26,7 +26,7 @@ Finally, when I was sharing my [FreeDesktop Accent Colors proposal for GNOME](/b
 As a very first proof-of-concept, I read through [Jan's post] again (do so if you are interested in implementing this!), then just took his code verbatim and bolted it onto my own Jekyll site. It actually worked! That allowed me to start really understanding how it works.
 
 <figure markdown="1">
-![Screenshot of comments at first](/images/blog/{{ page.slug }}/first.png){: .card }
+{% picture blog/{{ page.slug }}/first.png --alt Screenshot of comments at first --img class="card" %}
 <figcaption>They’re comments, and they work!</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ The majority of my work to ship the [first iteration](https://github.com/cassidy
 I excitedly shared a few posts with comments enabled, then someone pointed out: custom emoji (in the `:shortcode:` format) didn’t work! Womp womp. Luckily, Jan had already solved this for display names, so I was able to [copy it for the comment itself](https://github.com/cassidyjames/cassidyjames.github.io/commit/dde9bf9b6436e0b75fb3f4cb0691a4ad37239b3f) pretty easily.
 
 <figure markdown="1">
-![Screenshot of comments with no inline emoji](/images/blog/{{ page.slug }}/emoji.png){: .card }
+{% picture blog/{{ page.slug }}/emoji.png --alt Screenshot of comments with no inline emoji --img class="card" %}
 <figcaption>:oops:, also note the interactions cluttering things up at the bottom</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Someone pointed out that the avatar styling I was using wasn't the prettiest wit
 Along the way I noticed a few things that could be cleaned up. First, inline links were included in full, which is pretty ugly. Luckily the Mastodon API returns links with helpful utility classes included, meaning you just have to use a [tiny bit of CSS](https://github.com/cassidyjames/cassidyjames.github.io/commit/bbb9c6729adc77fec5154d2991919b067b312665) to imitate what Mastodon does on the web and in its apps. Second, I wasn't handling accounts without an explicit display name as gracefully as I could; I first used some [dirty string splitting](https://github.com/cassidyjames/cassidyjames.github.io/commit/4d22f2e859871face3217045a49f0e622a413ec2), then realized I could just [use the username](https://github.com/cassidyjames/cassidyjames.github.io/commit/9f5dba20850c61ac1cc223473be779748486a65d#diff-e224579ed0344a76bb3837aa2d28776274c7b0f5b201514e010cc8b3277e0b74L58-R46) from the API.
 
 <figure markdown="1">
-![Screenshot of comments with broken wrapping](/images/blog/{{ page.slug }}/wrapping.png){: .card width="358" height="529" }
+{% picture blog/{{ page.slug }}/wrapping.png --alt Screenshot of comments with broken wrapping --img class="card" width="358" height="529" %}
 <figcaption>Check out that wrapping in the middle comment—that’s no good!</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ I also wanted a way to visually distinguish my own comments (and more generally,
 I went back and forth a few times with if/how to handle post interactions like favorites and boosts; if I was going all-in, I'd figure out a way to use the reader's Mastodon account to actually directly interact with posts, but that’s… a _lot_ more work. With all my excited sharing about this project on Mastodon, I inspired at least one other person; Julian Fietkau [wrote and shared his own implementation](https://fietkau.blog/2023/another_blog_resurrection_fediverse_new_comment_system). His version also uses JavaScript DOM manipulation, but does a lot more like handling threading, re-ordering replies, stripping leading @-mentions, and more. I still have to dig into it and see if there is more I can pull into my implementation. I did like his styling of favorites, though, so I [did something similar](https://github.com/cassidyjames/cassidyjames.github.io/commit/5d5bf43b37516d22fcae278b44987e64fc35a8c2) for the time being.
 
 <figure markdown="1">
-![Screenshot of comments today](/images/blog/{{ page.slug }}/current.png){: .card }
+{% picture blog/{{ page.slug }}/current.png --alt Screenshot of comments today --img class="card" %}
 <figcaption>Culmination of these design iterations</figcaption>
 </figure>
 

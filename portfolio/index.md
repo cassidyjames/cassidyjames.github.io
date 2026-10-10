@@ -11,6 +11,6 @@ To see a more text-based list of major things I've worked on, check my résumé.
 
 ## [elementary × StarBook](elementary-starbook)
 
-[![Thumbnail](/images/portfolio/elementary/starbook-crop.png){: width="480" height="320" .card }](elementary-starbook)
+[{% picture portfolio/elementary/starbook-crop.png --alt Thumbnail --img width="480" height="320" class="card" %}](elementary-starbook)
 
 [Product campaign for elementary and their first hardware partnership with the Star Labs StarBook](elementary-starbook)

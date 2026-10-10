@@ -97,7 +97,7 @@ Given the above—and after literally a years-long process with multiple hours-l
 Given an arbitrary color, platforms (e.g. via the toolkit or a platform library) would need to derive their palette that can be used by that platform's apps. The exact implementation is up to each platform, but essentially if the FreeDesktop Portal says the accent color is `#f00`, platforms should take that and decide how to use it in a way that makes sense for them.
 
 <figure markdown="1">
-![Adwaita Demo with pink accent](/images/blog/accent-colors/banner-pink.png)
+{% picture blog/accent-colors/banner-pink.png --alt Adwaita Demo with pink accent %}
 <figcaption markdown="1">
 Adwaita Demo using a prototype pink accent color
 </figcaption>
@@ -126,7 +126,7 @@ While thinking through this proposal for GNOME, some of the other biggest consid
 For app developers, an important thing to remember is that they're always in control of how their app works. While Libadwaita could support FreeDesktop accent colors by default, **a developer can always override the accent color used by their app**, as they see fit for their design and brand—just like today with the default blue accent color. 
 
 <figure markdown="1">
-![Calendar with red accent](/images/blog/accent-colors/cal-red.png)
+{% picture blog/accent-colors/cal-red.png --alt Calendar with red accent %}
 <figcaption markdown="1">
 Calendar with a prototype red accent color
 </figcaption>
@@ -139,8 +139,8 @@ This is identical to how the FreeDesktop color scheme preference was implemented
 While color should never be used as the _only_ way to understand context (due to color blindness, inaccurate displays, and even Night Light altering visible colors), color can be used effectively to enhance the semantics of the desktop. However, this is a challenge when colors like red, yellow, and green exist in the set of potential accent colors in addition to being used semantically for things like "destructive," "warning," or "success."
 
 <figure class="half" markdown="1">
-![Clocks with pink accent](/images/blog/accent-colors/clocks-pink.png)
-![Clocks with red accent](/images/blog/accent-colors/clocks-red.png)
+{% picture blog/accent-colors/clocks-pink.png --alt Clocks with pink accent %}
+{% picture blog/accent-colors/clocks-red.png --alt Clocks with red accent %}
 <figcaption markdown="1">
 Clocks with a prototype accent colors and new destructive button style
 </figcaption>
@@ -149,8 +149,8 @@ Clocks with a prototype accent colors and new destructive button style
 elementary OS alleviates this by using a lighter tint style for accent-colored buttons, while using a more aggressively-contrasty red style for destructive actions. We actually came to align on the same (well, opposite) approach: use the selected accent color similarly to how the blue accent is used in GNOME today, but tone down and differentiate destructive actions. This is actually [recommended by UX Movement](https://uxmovement.com/buttons/how-to-design-destructive-actions-that-prevent-data-loss/) precisely to avoid mistaking destructive actions as the suggested call to action—and it works well here, too.
 
 <figure class="half" markdown="1">
-![Clocks with slate accent](/images/blog/accent-colors/clocks-slate.png)
-![Calendar with slate accent](/images/blog/accent-colors/cal-slate.png)
+{% picture blog/accent-colors/clocks-slate.png --alt Clocks with slate accent %}
+{% picture blog/accent-colors/cal-slate.png --alt Calendar with slate accent %}
 <figcaption markdown="1">
 A prototype slate accent color
 </figcaption>
@@ -163,8 +163,8 @@ Something nice about a chromatic gray "slate" accent color is that it can reduce
 For suggested actions in dialogs specifically, we had a different problem: the accent-colored text of red, pink, and orange could be very similar to the destructive red text, making it unclear which is the suggested and which is the destructive action. We could just make the suggestion action an accent background, but we did this in Adwaita for GTK3 and didn't love it—it makes the dialog feel very unbalanced and overly aggressive.
 
 <figure class="half" markdown="1">
-![Dialog with pink accent color text](/images/blog/accent-colors/dialog-pink.png)
-![Dialog with pink accent color background](/images/blog/accent-colors/dialog-pink-bg.png)
+{% picture blog/accent-colors/dialog-pink.png --alt Dialog with pink accent color text %}
+{% picture blog/accent-colors/dialog-pink-bg.png --alt Dialog with pink accent color background %}
 <figcaption markdown="1">
 **Left:** Accent-colored text | **Right:** Accent-colored background
 </figcaption>
@@ -173,7 +173,7 @@ For suggested actions in dialogs specifically, we had a different problem: the a
 We considered making the suggested action just _a bit_ more prominent—using an elementary-like tint in this context—while keeping the destructive action more toned down. This is what we currently do for the hover styles, so we'd need to adapt those a bit, too. 
 
 <figure markdown="1">
-![Dialog with tinted suggested action button](/images/blog/accent-colors/dialog-hover.png)
+{% picture blog/accent-colors/dialog-hover.png --alt Dialog with tinted suggested action button %}
 <figcaption markdown="1">
 Suggested action hover styles
 </figcaption>
@@ -189,8 +189,8 @@ Your browser does not support the video tag. <a href="/videos/accent-colors/dial
 While thinking it through and playing with different styles, we thought: what if we simplify the styling in dialogs a bit, keeping the general layout, but treating buttons more similarly to everywhere else?
 
 <figure class="half" markdown="1">
-![Dialog with unstyled buttons](/images/blog/accent-colors/dialog-unstyled.png)
-![Dialog with vertical unstyled buttons](/images/blog/accent-colors/dialog-vertical.png)
+{% picture blog/accent-colors/dialog-unstyled.png --alt Dialog with unstyled buttons %}
+{% picture blog/accent-colors/dialog-vertical.png --alt Dialog with vertical unstyled buttons %}
 <figcaption markdown="1">
 **Left:** New proposed dialog style | **Right:** Adapted to vertical buttons
 </figcaption>
@@ -203,11 +203,11 @@ Once we started playing with this, it just felt right. It feels a bit simpler an
 Shell uses its own toolkit, st, rather than GTK. As such, we're working on an implementation of accent colors there, as well.
 
 <figure class="third" markdown="1">
-![Shell with a purple accent](/images/blog/accent-colors/shell-purple.png)
-![Shell with a yellow accent](/images/blog/accent-colors/shell-yellow.png)
-![Shell with a pink accent](/images/blog/accent-colors/shell-pink.png)
-![Shell with an orange accent](/images/blog/accent-colors/shell-orange.png)
-![Shell with a teal accent](/images/blog/accent-colors/shell-teal.png)
+{% picture blog/accent-colors/shell-purple.png --alt Shell with a purple accent %}
+{% picture blog/accent-colors/shell-yellow.png --alt Shell with a yellow accent %}
+{% picture blog/accent-colors/shell-pink.png --alt Shell with a pink accent %}
+{% picture blog/accent-colors/shell-orange.png --alt Shell with an orange accent %}
+{% picture blog/accent-colors/shell-teal.png --alt Shell with a teal accent %}
 <figcaption markdown="1">
 Prototype Shell support for accent color
 </figcaption>
@@ -219,15 +219,15 @@ This was actually easier than we expected it to be when we set out, and we think
 
 As a fun sort of exercise, I wanted to see if—theoretically—the proposed accent colors plus the existing color scheme preference could be a tool distributions use for differentiation. Using a very early prototype of accent colors in Libadwaita, see if you can identify each distro by a screenshot of its theoretical default settings:
 
-![Orange light](/images/blog/accent-colors/orange-light.png)
+{% picture blog/accent-colors/orange-light.png --alt Orange light %}
 
-![Cyan dark](/images/blog/accent-colors/cyan-dark.png)
+{% picture blog/accent-colors/cyan-dark.png --alt Cyan dark %}
 
-![Blue light](/images/blog/accent-colors/blue-light.png)
+{% picture blog/accent-colors/blue-light.png --alt Blue light %}
 
-![Green dark](/images/blog/accent-colors/green-dark.png)
+{% picture blog/accent-colors/green-dark.png --alt Green dark %}
 
-![Yellow light](/images/blog/accent-colors/yellow-light.png)
+{% picture blog/accent-colors/yellow-light.png --alt Yellow light %}
 
 <details markdown="1">
 <summary markdown="1">

@@ -12,7 +12,7 @@ I run a little family Mastodon server so that I can have [@cassidy@blaede.family
 
 This also works for individual links and posts, but a more powerful feature is that **admins can explicitly allow (or disallow) certain _accounts_ or _publishers_ to trend**. This can greatly cut down on moderation work, as admins can allow-list reputable news sites or people they know are generally good people who stick to the rules and are unlikely to post something they don't want trending; I personally use this for virtually anyone I actually know in real life or from various open source projects. However, I've started becoming a bit more lenient than that, as for my small instance there's a pretty low risk of abuse: **I allow-list anyone with a verified account that looks decent at a glance.** I check in on the trends regularly and can always revoke that, but if someone has proven they are who they say they are and aren't regularly posting things I wouldn't want to trend, I don't want to have to go approve every post that might trend!
 
-![Example of verified accounts on Mastodon]({{ page.image }})
+{% picture {{ page.image | remove_first: '/images/' }} --alt Example of verified accounts on Mastodon %}
 
 So my call to anyone and everyone on Mastodon---but especially journalists and well-known personalities---is: **get verified!** It greatly helps people like me and mods of larger servers know you're you, and makes it more likely that people will find you in search, follow you, and see you on trending page in their Mastodon app or server.
 

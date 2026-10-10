@@ -12,7 +12,7 @@ comments:
 The [Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley) is the idea that there’s a curve related to a human-like object’s **level of realism** and how **acceptable** we perceive it to be. It's a phenomenon observed everywhere from robotics to animation and dolls.
 
 <figure markdown="1">
-![The Uncanny Valley Curve](/images/blog/the-uncanny-valley-curve/valley.png){: class="card"}
+{% picture blog/the-uncanny-valley-curve/valley.png --alt The Uncanny Valley Curve --img class="card" %}
 <figcaption markdown="1">
 As realism increases, so does acceptability—until you hit the valley where realism is almost-but-not-quite perfect, and acceptability plummets.
 </figcaption>
@@ -21,7 +21,7 @@ As realism increases, so does acceptability—until you hit the valley where rea
 If something is somewhat realistic but stylized (like a stuffed animal), we’re going to like it. The more realistic it is, the more we like it—to a certain point. A cute doll or human-like robot might bring us joy; however, once we cross a critical point in realism, our opinion of it plummets into a valley. Think about early “realistic” video games or CGI characters in movies (_The Polar Express_, perhaps) where the characters just feel… off. It’s possible to get out of that valley, but only if the realism is cranked up enough to be indistinguishable from reality.
 
 <figure markdown="1">
-![Examples from Frozen, Polar Express, and a drawing of Morgan Freeman](/images/blog/the-uncanny-valley-curve/examples.jpg)
+{% picture blog/the-uncanny-valley-curve/examples.jpg --alt Examples from Frozen, Polar Express, and a drawing of Morgan Freeman %}
 <figcaption markdown="1">
 Anna from _Frozen_, Hero Girl (Holly) from _The Polar Express_, and a drawing of Morgan Freeman
 </figcaption>
@@ -44,7 +44,7 @@ The original concept of the Uncanny Valley is explicitly related to _human_ like
 But add too much real-world detail, and you risk plummeting into the realm of discomfort. A visually-detailed calendar that looks just like real paper but scrolls like a web page feels off. It may be possible to push past the valley with hyper-realism; however that’s much more time-consuming and greatly limits your possible interactions.
 
 <figure markdown="1">
-![Annotated Uncanny Curve with Technical Limitations marked near the end of the valley](/images/blog/the-uncanny-valley-curve/limitations.png){: class="card"}
+{% picture blog/the-uncanny-valley-curve/limitations.png --alt Annotated Uncanny Curve with Technical Limitations marked near the end of the valley --img class="card" %}
 <figcaption markdown="1">
 Technical limitations cap the level of realism we can achieve.
 </figcaption>

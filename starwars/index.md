@@ -5,7 +5,7 @@ image: /images/starwars/kenobi.jpg
 logo: /images/starwars/logo.png
 ---
 
-# ![{{ page.title }}]({{ page.logo }})
+# {% picture {{ page.logo | remove_first: '/images/' }} --alt {{ page.title }} %}
 
 {{ page.description }}
 

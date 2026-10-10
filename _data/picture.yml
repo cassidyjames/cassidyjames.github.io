@@ -10,3 +10,4 @@ media_queries:
   medium: 'max-width: 800px'
   large: 'max-width: 1200px'
   huge: 'min-width: 1201px'
+  dark: 'prefers-color-scheme: dark'

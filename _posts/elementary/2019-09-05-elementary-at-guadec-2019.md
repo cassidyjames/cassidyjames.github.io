@@ -24,7 +24,7 @@ redirect_from:
 ---
 
 <figure markdown="1">
-![Welcome Banner](/images/blog/elementary/elementary-at-guadec-2019/welcome-banner_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/welcome-banner_1600.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/welcome-banner_1600.jpg --alt Welcome Banner %}
 <figcaption>Cassidy and fellow GUADEC attendees arriving at the Thessaloniki airport</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ _* No longer restricted to Europe! In fact, a bid is being submitted to host GUA
 ---
 
 <figure class="full-bleed" markdown="1">
-![Allan's talk](/images/blog/elementary/elementary-at-guadec-2019/allan-talk_2560.jpg)
+{% picture blog/elementary/elementary-at-guadec-2019/allan-talk_2560.jpg --alt Allan's talk %}
 <figcaption>Allan’s talk</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ Red Hat and GNOME UX designer Allan Day shared a lot of the design work that is 
 This talk was _so good_ and really shows the product management role that Allan and the design team serve within GNOME. I feel like this has always been the case to some extent, but is more prominent more recently. This also echoes how elementary is really a design-led organization, and many of the "tactics" he shares to improve GNOME can apply to elementary as well.
 
 <figure markdown="1">
-![Allan Day](/images/blog/elementary/elementary-at-guadec-2019/allan_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/allan_1600.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/allan_1600.jpg --alt Allan Day %}
 <figcaption markdown="1">
 Allan Day | _Photo by [Richard Brown](https://www.flickr.com/photos/183829480@N06/48623731202/in/pool-14662216@N23/), [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)_
 </figcaption>
@@ -197,7 +197,7 @@ Robert McQueen presented—this time in the unplanned unconference style—about
 He started with the current state of metrics in Endless OS, and then shifted to how something better could be designed and implemented in GNOME and other open source desktops. It's an area I've thought about a lot; in fact, last year at the [Libre Application Summit]({% post_url elementary/2018-09-12-were-back-from-libre-application-summit-2018 %}), I sat down with folks from Purism and elementary and chatted about a theoretical privacy-respecting analytics system, why it's sought after, the risks, and how we would have to go about implementing it. It sounds like Robert has been chewing on the same idea, so we sat down afterwards and chatted about it some more.
 
 <figure markdown="1">
-![Robert McQueen](/images/blog/elementary/elementary-at-guadec-2019/robert_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/robert_1600.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/robert_1600.jpg --alt Robert McQueen %}
 <figcaption markdown="1">
 Robert McQueen | _Photo by [Richard Brown](https://www.flickr.com/photos/183829480@N06/48623585931/in/pool-14662216@N23/), [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)_
 </figcaption>
@@ -222,7 +222,7 @@ The closing keynote presented by Deb Nicholson, Director of Community Operations
 ---
 
 <figure class="full-bleed" markdown="1">
-![GTK BoF](/images/blog/elementary/elementary-at-guadec-2019/gtk-bof-wide_2560.jpg)
+{% picture blog/elementary/elementary-at-guadec-2019/gtk-bof-wide_2560.jpg --alt GTK BoF %}
 <figcaption>GTK BoF</figcaption>
 </figure>
 
@@ -237,7 +237,7 @@ Speaking of the GTK BoF, this was the big all-day one that took most of our time
 A lot of time was spent discussing GTK4—primarily if there were any more "headlining" features we wanted to try to get into the release to help encourage app developers to port as soon as possible. We mostly agreed that the performance improvements were a large reason to port, and didn't come up with any single "big new feature" that should be added at this point. LibDazzle and Purism's LibHandy also demonstrate that you can still do a lot more with GTK3 than most apps do, so even getting much of those widgets upstreamed into GTK4 would not be compelling features in themselves.
 
 <figure markdown="1">
-![GTK BoF](/images/blog/elementary/elementary-at-guadec-2019/gtk-bof_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/gtk-bof_1600.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/gtk-bof_1600.jpg --alt GTK BoF %}
 <figcaption>GTK BoF</figcaption>
 </figure>
 
@@ -276,15 +276,15 @@ As always, the social events were almost as important as the talks and BoFs; the
 While not explicit planned social events, a lot of time was spent walking around Thessaloniki, trying out different breakfast, coffee, and dinner spots.
 
 <figure class="third" markdown="1">
-![Designers walking](/images/blog/elementary/elementary-at-guadec-2019/designers-walking_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/designers-walking_1600.jpg 2x"}
-![A street in Thessaloniki](/images/blog/elementary/elementary-at-guadec-2019/thessaloniki-street_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/thessaloniki-street_1600.jpg 2x"}
-![Walking to the White Tower at sunset](/images/blog/elementary/elementary-at-guadec-2019/walking-white-tower-sunset_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/walking-white-tower-sunset_1600.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/designers-walking_1600.jpg --alt Designers walking %}
+{% picture blog/elementary/elementary-at-guadec-2019/thessaloniki-street_1600.jpg --alt A street in Thessaloniki %}
+{% picture blog/elementary/elementary-at-guadec-2019/walking-white-tower-sunset_1600.jpg --alt Walking to the White Tower at sunset %}
 <figcaption>Walking around Thessaloniki</figcaption>
 </figure>
 
 <figure class="half" markdown="1">
-![Sad Breakfast](/images/blog/elementary/elementary-at-guadec-2019/breakfast-1_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/breakfast-1_1600.jpg 2x"}
-![Good Breakfast](/images/blog/elementary/elementary-at-guadec-2019/breakfast-2_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/breakfast-2_1600.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/breakfast-1_1600.jpg --alt Sad Breakfast %}
+{% picture blog/elementary/elementary-at-guadec-2019/breakfast-2_1600.jpg --alt Good Breakfast %}
 <figcaption markdown="1">
 **Left:** Rushed (but still delicious) first-day breakfast | **Right:** Second-day breakfast once we knew a good spot
 </figcaption>
@@ -297,8 +297,8 @@ As far as coffee goes, I was a _huge_ fan of freddo cappuccino; basically an ice
 An official social event one evening was a "picnic" farther inland at Platanakia Natura in Panorama, Greece. We took two big buses out, almost got the bus stuck on a tiny dirt road, and ended up hanging out near the forest enjoying local food and drinks.
 
 <figure class="half" markdown="1">
-![Picnic 2](/images/blog/elementary/elementary-at-guadec-2019/picnic-2_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/picnic-2_1600.jpg 2x"}
-![Picnic 1](/images/blog/elementary/elementary-at-guadec-2019/picnic-1_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/picnic-1_1600.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/picnic-2_1600.jpg --alt Picnic 2 %}
+{% picture blog/elementary/elementary-at-guadec-2019/picnic-1_1600.jpg --alt Picnic 1 %}
 <figcaption>Socializing at the picnic</figcaption>
 </figure>
 
@@ -309,16 +309,16 @@ This was a great time to mingle and cross-polinate ideas. I know I personally en
 Several of my GNOME friends are fans of beer. Naturally, we visited several local pubs and bars to try out the local beers. It turns out, there are local Greek and even Thessalonian beers that are very good!
 
 <figure class="half" markdown="1">
-![Sknipa](/images/blog/elementary/elementary-at-guadec-2019/sknipa_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/sknipa_1600.jpg 2x"}
-![Imperial Stout](/images/blog/elementary/elementary-at-guadec-2019/imperial-stout_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/imperial-stout_1600.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/sknipa_1600.jpg --alt Sknipa %}
+{% picture blog/elementary/elementary-at-guadec-2019/imperial-stout_1600.jpg --alt Imperial Stout %}
 <figcaption>Two local beers I enjoyed</figcaption>
 </figure>
 
 One evening Neil McGovern, Robert McQueen, Matthias Clasen, David King, Ian Santopietro, and I headed out to find local beers. The first place we headed to was inexplicably closed (their hours said they should be open!), but we eventually found a few places to try the local brew.
 
 <figure class="half" markdown="1">
-![Closed Bar](/images/blog/elementary/elementary-at-guadec-2019/closed-bar_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/closed-bar_1600.jpg 2x"}
-![Drinks](/images/blog/elementary/elementary-at-guadec-2019/drinks_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/drinks_1600.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/closed-bar_1600.jpg --alt Closed Bar %}
+{% picture blog/elementary/elementary-at-guadec-2019/drinks_1600.jpg --alt Drinks %}
 <figcaption></figcaption>
 </figure>
 
@@ -327,7 +327,7 @@ One evening Neil McGovern, Robert McQueen, Matthias Clasen, David King, Ian Sant
 On the last day, I attended the "Beach BoF," a day trip to the beach about a half hour drive away from Thessaloniki. Unfortunately I didn't get many photos, as I left my phone packed away, safe from the sand and sea.
 
 <figure markdown="1">
-![Cassidy](/images/blog/elementary/elementary-at-guadec-2019/cassidy_400.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/cassidy_800.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/cassidy_800.jpg --alt Cassidy %}
 </figure>
 
 We did get to lounge on the beach in the sun, swim, and hang out on the sandbar several meters into the sea. We also walked a couple of kilometers along the beach to a shipwreck, and some even swam out to check it out. I did learn a hard lesson: don't fall asleep for a few hours in the sun when you're as pale as I am; you'll end up completely fried and bright red. Whoops.
@@ -345,20 +345,20 @@ Perhaps more exciting is Corentin's work on an [elementary Flatpak SDK](https://
 I'd like to give a **huge** thank you to the [GNOME Foundation](https://www.gnome.org/foundation/) for sponsoring my travel and lodging! I had an amazing time connecting and working with folks throughout the GNOME community—especially Allan Day, Clarissa Borges, Niel McGovern, Robert McQueen, Tobias Bernard, Adrien Plazas, Julian Sparber, Matthias Clasen, Britt Yazel, Alex Angelou, Cosimo Cecchi, Ian Santopietro, Benjamin Berg, and probably dozens of others I've missed.
 
 <figure markdown="1">
-![Sponsored by GNOME Foundation](/images/blog/elementary/elementary-at-guadec-2019/sponsored.png)
+{% picture blog/elementary/elementary-at-guadec-2019/sponsored.png --alt Sponsored by GNOME Foundation %}
 </figure>
 
 As a member of the GNOME Foundation, I see my attending GNOME events as multi-purpose: First, I help represent elementary and ensure future GNOME-stack developments are generally compatible with our vision. Equally, I strive to bring my experiences, knowledge, and data collected from working on elementary OS to GNOME to help make GNOME itself better. Lastly, I learn more about the technologies we're using in elementary OS so we can go and build cool things with them. The fact that the GNOME Foundation sees so much value in this is validating, and I encourage anyone who works on GNOME or GNOME-related downstreams to [apply for Foundation membership](https://www.gnome.org/foundation/membership/)!
 
 <figure markdown="1">
-![White Tower](/images/blog/elementary/elementary-at-guadec-2019/white-tower_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/white-tower_1600.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/white-tower_1600.jpg --alt White Tower %}
 <figcaption>The White Tower</figcaption>
 </figure>
 
 We'd also like to thank the sponsors [Private Internet Access](https://www.privateinternetaccess.com), [Red Hat](https://www.redhat.com), [Endless](https://endlessos.com), [Ubuntu](https://ubuntu.com), [openSUSE](https://www.opensuse.org), [Codethink](https://www.codethink.co.uk), [Igalia](https://www.igalia.com), and [Arm](https://www.arm.com) for helping to make GUADEC happen.
 
 <figure markdown="1">
-![Sunset](/images/blog/elementary/elementary-at-guadec-2019/sunset_800.jpg){: srcset="/images/blog/elementary/elementary-at-guadec-2019/sunset_1600.jpg 2x"}
+{% picture blog/elementary/elementary-at-guadec-2019/sunset_1600.jpg --alt Sunset %}
 <figcaption>Sunset over the Aegean Sea</figcaption>
 </figure>
 

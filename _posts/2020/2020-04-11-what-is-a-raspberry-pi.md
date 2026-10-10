@@ -29,7 +29,7 @@ Let's break that down a bit.
 If you've ever seen the inside of a computer, you might know about a motherboard, processor, GPU, RAM, network cards, etc. Single-board computers are basically a motherboard that have all those parts and pieces permanantly attached—kind of like the inside of a smartphone. Each Raspberry Pi model has some form of USB ports, HDMI video output, and a microSD card slot (instead of a hard drive). Most models also have built-in networking via an Ethernet port and/or a Wi-Fi chip.
 
 <figure markdown="1">
-![Raspberry Pi 4](/images/pi4_1600.jpg)
+{% picture pi4_1600.jpg --alt Raspberry Pi 4 %}
 <figcaption>Raspberry Pi 4 (with a thermal pad on the processor)</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ There are other companies that design and make single-board computers. Sometimes
 Raspberry Pi computers are small. The largest—even put in a case—is only about 3½ × 2½ × 1 inches (9 × 6 × 3 cm). The smallest is about 2½ × 1½ × ½ inch (6 × 3 × 1 cm) in a case. Again, think about the insde of a smartphone more than a traditional computer.
 
 <figure markdown="1">
-![Raspberry Pi Size Comparison](/images/pi-size_1600.jpg)
+{% picture pi-size_1600.jpg --alt Raspberry Pi Size Comparison %}
 <figcaption>Rapsberry Pi Zero (left) and Raspberry Pi 4 (center) in cases, compared to a ruler, 8BitDo game controllers, and SD cards</figcaption>
 </figure>
 

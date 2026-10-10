@@ -8,7 +8,13 @@
 {% capture output %}
 
 {% if post.image %}
+{% assign image_prefix = post.image | slice: 0, 8 %}
+{% assign image_ext = post.image | split: '.' | last | downcase %}
+{% if image_prefix == '/images/' and image_ext != 'gif' and image_ext != 'svg' %}
+[{% picture {{ post.image | remove_first: '/images/' }} --alt {{ post.title }} image --img class="card" %}]({{ post.url }})
+{% else %}
 [![{{ post.title }} image]({{ post.image }}){: .card }]({{ post.url }})
+{% endif %}
 {% endif %}
 
 <h3>

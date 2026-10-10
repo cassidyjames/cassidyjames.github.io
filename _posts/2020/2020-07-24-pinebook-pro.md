@@ -13,7 +13,7 @@ updated: 2020-07-24
 I recently got my hands on a Pinebook Pro from PINE64, and have spent the past couple of weeks using it—admittedly in rotation with a [Dell Precision 5530](/5530), [Slimbook Pro X](/prox), and System76 Meerkat. I have thoughts. tl;dr: Pinebook Pro is an impressive piece of hardware that provides a glimpse into an even brighter future of Linux-toting hardware.
 
 <figure markdown="1">
-![Pinebook Pro](/images/{{ page.url }}/dan.jpg){: .card}
+{% picture blog/{{ page.slug }}/dan.jpg --alt Pinebook Pro --img class="card" %}
 <figcaption markdown="1">
 Photo by [Daniel Foré](https://twitter.com/DanielFore/status/1281756360703569920)
 </figcaption>
@@ -156,7 +156,7 @@ I found an Ubuntu 20.04 image that was designed to work off the microSD card, an
 After I tweeted about it, [Lukasz Erecinski shared a way to get it onto the eMMC](https://twitter.com/LukaszErecinsk1/status/1284611041192706049) which worked, but led to some issues. Apparently, something with the bootloader in the hacked together Ubuntu-to-elementary-OS build didn't actually tell the LCD to come on, meaning it was successfully booting to the eMMC, but I couldn't see anything.
 
 <figure markdown="1">
-![Pinebook Pro paritally disassembled](/images/{{ page.url }}/surgery.jpg){: .card}
+{% picture blog/{{ page.slug }}/surgery.jpg --alt Pinebook Pro paritally disassembled --img class="card" %}
 <figcaption>Spoiler: things went wrong.</figcaption>
 </figure>
 

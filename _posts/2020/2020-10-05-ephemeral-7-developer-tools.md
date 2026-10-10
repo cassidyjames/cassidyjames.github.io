@@ -7,7 +7,7 @@ image: /images/blog/ephemeral-7-developer-tools/repo.png
 
 It's been nearly two years since I first released Ephemeral—the always-incognito web browser for elementary OS—on AppCenter. In that time, I've added zoom, a refined design, site suggestions, customizable search engines, a JavaScript toggle, find-in-page, touchpad gesture navigation, dark style support, and more.
 
-![Ephemeral: The always-incognito web browser]({{ page.image }})
+{% picture {{ page.image | remove_first: '/images/' }} --alt Ephemeral: The always-incognito web browser %}
 
 Today, I'm happy to announce Ephemeral 7 with a great developer- and future-focused update. First, the official release notes:
 
@@ -33,10 +33,10 @@ Today, I'm happy to announce Ephemeral 7 with a great developer- and future-focu
 The major update for developers here is the inclusion of the WebKit Web Inspector and associated developer tools, accessible via the "Inspect Element" item in the context menu. This brings the powerful and familiar developer tools as seen in GNOME Web and Apple Safari to Ephemeral.
 
 <figure class="half" markdown="1">
-[![WebKit Web Inspector, docked to the side](/images/blog/{{ page.slug }}/inspector-light.png)](/images/blog/{{ page.slug }}/inspector-light.png)
-[![WebKit Web Inspector, docked to the side (dark)](/images/blog/{{ page.slug }}/inspector-dark.png)](/images/blog/{{ page.slug }}/inspector-dark.png)
-[![WebKit Web Inspector, popped out](/images/blog/{{ page.slug }}/inspector-popout-light.png)](/images/blog/{{ page.slug }}/inspector-popout-light.png)
-[![WebKit Web Inspector, popped out (dark)](/images/blog/{{ page.slug }}/inspector-popout-dark.png)](/images/blog/{{ page.slug }}/inspector-popout-dark.png)
+[{% picture blog/{{ page.slug }}/inspector-light.png --alt WebKit Web Inspector, docked to the side %}](/images/blog/{{ page.slug }}/inspector-light.png)
+[{% picture blog/{{ page.slug }}/inspector-dark.png --alt WebKit Web Inspector, docked to the side (dark) %}](/images/blog/{{ page.slug }}/inspector-dark.png)
+[{% picture blog/{{ page.slug }}/inspector-popout-light.png --alt WebKit Web Inspector, popped out %}](/images/blog/{{ page.slug }}/inspector-popout-light.png)
+[{% picture blog/{{ page.slug }}/inspector-popout-dark.png --alt WebKit Web Inspector, popped out (dark) %}](/images/blog/{{ page.slug }}/inspector-popout-dark.png)
 <figcaption markdown="1">
 WebKit Web Inspector and developer tools
 </figcaption>
@@ -55,8 +55,8 @@ Work on elementary OS 6 is under way, and with a new system stylesheet, it requi
 The new stylesheet for elementary OS 6 also gave me an opportunity to think about some new styling. Here's a sneak peek:
 
 <figure class="half" markdown="1">
-[![Ephemeral 7 on elementary OS 6](/images/blog/{{ page.slug }}/odin-light.png)](/images/blog/{{ page.slug }}/odin-light.png)
-[![Ephemeral 7 on elementary OS 6 (dark)](/images/blog/{{ page.slug }}/odin-dark.png)](/images/blog/{{ page.slug }}/odin-dark.png)
+[{% picture blog/{{ page.slug }}/odin-light.png --alt Ephemeral 7 on elementary OS 6 %}](/images/blog/{{ page.slug }}/odin-light.png)
+[{% picture blog/{{ page.slug }}/odin-dark.png --alt Ephemeral 7 on elementary OS 6 (dark) %}](/images/blog/{{ page.slug }}/odin-dark.png)
 <figcaption>Ephemeral 7 on elementary OS 6</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ elementary OS 6 is also introducing a system-wide dark style preference. Ephemer
 Ephemeral comes with built-in site suggestions; these are locally-stored domains including some of the most popular websites around the world to enable privacy-respecting suggestions without querying an external service.
 
 <figure markdown="1">
-![OMG! Ubuntu!](/images/blog/{{ page.slug }}/omg.png)
+{% picture blog/{{ page.slug }}/omg.png --alt OMG! Ubuntu! %}
 <figcaption markdown="1">
 Site suggestions mean typing _omg_ will show a suggestion for [OMG! Ubuntu!](https://omgubuntu.co.uk)
 </figcaption>

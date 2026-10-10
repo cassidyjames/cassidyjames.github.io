@@ -138,7 +138,7 @@ I threw together a simple print for my 3D printer and added some battery-powered
 
 With my networked speakers, I knew I wanted some in-universe cantina music—but I also knew _the cantina song_ would get real old, real fast. Since I'd been playing _Outlaws_ as well as a fan-made _Holocard Cantina_ sabacc app, I knew there was a decent amount of in-universe music out there; luckily it's actually all on YouTube Music.
 
-[![Outer Rim Underworld Cantina](/images/blog/star-wars-cantina-birthday-party/playlist.jpg){: .card width="272px" }](https://music.youtube.com/playlist?list=PL0AOBxB-0ieHOYJdGhVj-b1XOtm1IHHH1)
+[{% picture blog/star-wars-cantina-birthday-party/playlist.jpg --alt Outer Rim Underworld Cantina --img class="card" width="272px" %}](https://music.youtube.com/playlist?list=PL0AOBxB-0ieHOYJdGhVj-b1XOtm1IHHH1)
 
 I made a [looooong playlist](https://music.youtube.com/playlist?list=PL0AOBxB-0ieHOYJdGhVj-b1XOtm1IHHH1) including a bunch of that music plus some from Pyloon's Saloon in _Jedi: Survivor_, Oga's Cantina at Disney's Galaxy's Edge, and a select few tracks from other Star Wars media (Niamos!).
 

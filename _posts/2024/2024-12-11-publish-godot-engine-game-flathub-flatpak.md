@@ -22,7 +22,7 @@ As a result, here's how I recommend publishing your Godot Engine game to Flathub
 
 Let's take a look at what we're going to achieve at a high level. This post assumes you have source code for a game built with a relatively recent version of Godot Engine (e.g. Godot Engine 3 or 4), access to a Linux computer or VM for testing, and a GitHub account. If you're missing one of those, get that sorted before continuing! You can also check the list of [definitions at the bottom of this page](#definitions) for reference if you need to better understand something, and be sure to check out the [Flathub documentation](https://docs.flathub.org/docs/category/for-app-authors) for a lot more details on Flatpak publishing in general.
 
-![Illustration with the Godot Engine logo, then an arrow pointing to the Flathub logo]({{ page.image }}){: .card }
+{% picture {{ page.image | remove_first: '/images/' }} --alt Illustration with the Godot Engine logo, then an arrow pointing to the Flathub logo --img class="card" %}
 
 To build a Flatpak of a Godot Engine game, we only need three things:
 
@@ -101,7 +101,7 @@ Terminal=false
 This is pretty straightforward; you need an icon for your game! This is used to represent your game both for app stores like Flathub.org and the native app store clients on players' computers, plus as the launcher icon e.g. on the player's desktop or dock.
 
 <figure markdown=1>
-![Screenshot of ROTA, a colorful 2D platformer](/images/{{ page.url }}/dash.png){: .card }
+{% picture blog/{{ page.slug }}/dash.png --alt Screenshot of ROTA, a colorful 2D platformer --img class="card" %}
 <figcaption>ROTA's icon in the GNOME Dash</figcaption>
 </figure>
 
@@ -189,7 +189,7 @@ This example is pretty verbose, taking advantage of most features available:
 Beyond Flathub's base requirements for publishing games are their [Quality Guidelines](https://docs.flathub.org/docs/for-app-authors/metainfo-guidelines/quality-guidelines). These are slightly more opinionated human-judged guidelines that, if met, **make your game eligible to be featured** in the banners on the Flathub.org home page, as a daily-featured app, and in other places like in some native app store clients. You should strive to meet these guidelines if at all possible!
 
 <figure markdown=1>
-![Screenshot of Flathub.org with a large featured banner for Crosswords](/images/{{ page.url }}/banner.png)
+{% picture blog/{{ page.slug }}/banner.png --alt Screenshot of Flathub.org with a large featured banner for Crosswords %}
 <figcaption>Crosswords, a featured game on Flathub, meets the quality guidelines</figcaption>
 </figure>
 

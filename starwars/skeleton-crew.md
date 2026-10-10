@@ -4,6 +4,6 @@ description: Coming soon…
 logo: /images/starwars/logo.png
 ---
 
-# ![Star Wars]({{ page.logo }}) Skeleton Crew
+# {% picture {{ page.logo | remove_first: '/images/' }} --alt Star Wars %} Skeleton Crew
 
 {{ page.description }}
