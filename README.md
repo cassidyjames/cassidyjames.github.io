@@ -8,14 +8,16 @@ I recommend using `toolbox` for development, especially if you're on Endless OS 
 
 Additionally, this site uses jekyll_picture_tag, which has a couple of other dependencies you may need to install:
 
-- libvips
+- libvips, including the `vips` command-line tool
 - libheif
 
 To install these on Fedora (e.g. in a toolbx on Silverblue):
 
 ```shell
-sudo dnf install rubygem-image_processing libheif
+sudo dnf install rubygem-image_processing vips-tools libheif
 ```
+
+jekyll_picture_tag checks for the `vips` command to decide which formats libvips can save; without it, it silently falls back to ImageMagick, which mangles images with transparency.
 
 Once you're set up, build and serve locally with:
 
