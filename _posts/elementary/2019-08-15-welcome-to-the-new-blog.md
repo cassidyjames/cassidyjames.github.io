@@ -79,7 +79,7 @@ The real selling point for us, however, was the authoring workflow. Since the co
 
 Just because it's a simple static blog doesn't mean we don't support all the modern features you'd expect:
 
-1. **[RSS feed]({{ site.baseurl }}/feed)** for all the subscribing and cross-posting you could desire.
+1. **[RSS feed]({{ "/feed" | relative_url }})** for all the subscribing and cross-posting you could desire.
 2. **Completely responsive** design from the start.
 3. **Great typography** for long-form reading with sane line-lengths, pull quotes, etc.
 4. **Dark style** support from day zero (if your OS and browser support it).
@@ -190,7 +190,7 @@ Over all, the design has been and will continue to be iterative. We may add or t
 
 ### Dark Style
 
-One exciting area we could experiment with was supporting a dark style preference on the blog from day one. As I've [written before]({ site.baseurl }{% post_url elementary/2019-05-17-the-need-for-a-freedesktop-dark-style-preference %}), practically all major platforms and browsers are adopting a user-set dark style preference; we'd be remiss to not build a new site with that in mind.
+One exciting area we could experiment with was supporting a dark style preference on the blog from day one. As I've [written before]({% post_url elementary/2019-05-17-the-need-for-a-freedesktop-dark-style-preference %}), practically all major platforms and browsers are adopting a user-set dark style preference; we'd be remiss to not build a new site with that in mind.
 
 <aside>
 {% assign post = site.posts | where:"slug", "the-need-for-a-freedesktop-dark-style-preference" | first %}

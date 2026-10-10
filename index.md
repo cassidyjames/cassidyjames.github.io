@@ -4,7 +4,7 @@ class: cassidyjames
 ---
 
 {% if site.avatar %}
-  <img class="avatar" src="{{ site.avatar | prepend: site.baseurl }}" alt="Photo of Cassidy" width="128" height="128" />
+  <img class="avatar" src="{{ site.avatar | relative_url }}" alt="Photo of Cassidy" width="128" height="128" />
 {% endif %}
 
 # {{ site.title }}

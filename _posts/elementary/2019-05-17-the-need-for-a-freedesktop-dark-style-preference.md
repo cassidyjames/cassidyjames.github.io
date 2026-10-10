@@ -33,9 +33,9 @@ However, there’s a groundswell for user-determined dark style preference acros
 
 In my time contributing to elementary and GNOME, I’ve become familiar with pleas from users to implement official support for arbitrary themes — while that itself is a large and controversial topic, I have been working over the past few years to better understand the _why_ behind these requests. In addition to listening to folks across the elementary, Pop!\_OS, and GNOME issue trackers, social media, and in-person at hackfests, meetups, and conferences, I also decided to conduct a study to see if I could identify patterns in the data; over 1,500 users of various OSes and environments like Android, GNOME, Ubuntu, and macOS (and dozens more) participated, giving me a decent look into this group of users. I wanted to look into behaviors and opinions around three distinct areas of user interfaces: custom styles, dark modes, and night light modes.
 
-A longer-form writeup of the study is available [here]({{ site.baseurl }}{% post_url elementary/2019-05-17-user-interface-study-findings %}), but in summary, I found that **an overwhelming majority (88%) of respondents said they sometimes or always use a dark style** when given the choice, and **81% of that group are using dark modes to address factors outside of their device** like getting headaches, combating eye strain, or working in a darker office. The study also dove into night light and some other interesting findings, but this is the most relevant bit to me regarding a dark style preference.
+A longer-form writeup of the study is available [here]({% post_url elementary/2019-05-17-user-interface-study-findings %}), but in summary, I found that **an overwhelming majority (88%) of respondents said they sometimes or always use a dark style** when given the choice, and **81% of that group are using dark modes to address factors outside of their device** like getting headaches, combating eye strain, or working in a darker office. The study also dove into night light and some other interesting findings, but this is the most relevant bit to me regarding a dark style preference.
 
-Clearly there’s an accessibility and usability angle here. And as with [other accessibility efforts]({{ site.baseurl }}{% post_url elementary/2019-02-16-accessibility-features-are-just-features %}), it’s important to not relegate a dark style preference to a buried “Universal Access” or “Accessibility” feature, as that makes it less discoverable, less tested, and less likely to be used by folks who could greatly benefit, but don’t consider themselves “disabled.”
+Clearly there’s an accessibility and usability angle here. And as with [other accessibility efforts]({% post_url elementary/2019-02-16-accessibility-features-are-just-features %}), it’s important to not relegate a dark style preference to a buried “Universal Access” or “Accessibility” feature, as that makes it less discoverable, less tested, and less likely to be used by folks who could greatly benefit, but don’t consider themselves “disabled.”
 
 ## Prior Art
 
@@ -152,7 +152,7 @@ If the browser is requesting a dark style (because the OS is), _and_ the website
 <figcaption>This site in Firefox with a Light and Dark style</figcaption>
 </figure>
 
-We're currently [supporting this on the blog]({{ site.baseurl }}{% post_url elementary/2019-08-15-welcome-to-the-new-blog %}) with pure CSS, but web developers can also hook off this media query using JavaScript and do pretty much whatever they want to cater to a dark UI.
+We're currently [supporting this on the blog]({% post_url elementary/2019-08-15-welcome-to-the-new-blog %}) with pure CSS, but web developers can also hook off this media query using JavaScript and do pretty much whatever they want to cater to a dark UI.
 
 ## Key Requirements
 

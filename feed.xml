@@ -8,8 +8,8 @@ redirect_from:
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <link>{{ "/" | absolute_url }}</link>
+    <atom:link href="{{ "/feed.xml" | absolute_url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
@@ -20,14 +20,8 @@ redirect_from:
 
           <description>
             {% if post.image %}
-              {% assign prefix = post.image | slice: 0, 4 %}
-              {% if prefix == "http" %}
-                {% assign image = post.image %}
-              {% else %}
-                {% assign image = post.image | prepend: site.baseurl | prepend: site.url %}
-              {% endif %}
               {% capture img %}
-                <img src="{{ image }}" />
+                <img src="{{ post.image | absolute_url }}" />
               {% endcapture %}
               {{ img | xml_escape }}
             {% endif %}
@@ -36,17 +30,11 @@ redirect_from:
           </description>
 
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-          <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-          <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+          <link>{{ post.url | absolute_url }}</link>
+          <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
 
           {% if post.image %}
-            {% assign prefix = post.image | slice: 0, 4 %}
-            {% if prefix == "http" %}
-              {% assign image = post.image %}
-            {% else %}
-              {% assign image = post.image | prepend: site.baseurl | prepend: site.url %}
-            {% endif %}
-            <enclosure url="{{ image }}" type="image/png" />
+            <enclosure url="{{ post.image | absolute_url }}" type="image/png" />
           {% endif %}
 
           {% for tag in post.tags %}
