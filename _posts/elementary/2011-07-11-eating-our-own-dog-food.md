@@ -3,6 +3,8 @@ title: Eating Our Own Dogfood
 description: Woof!
 updated: 2011-07-11
 legacy: elementary
+canonical: https://blog.elementary.io/eating-our-own-dog-food/
+sitemap: false
 image: /images/blog/elementary/eating-our-own-dog-food/card.png
 tags:
   - meta

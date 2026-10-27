@@ -4,6 +4,8 @@ description: An excerpt from Linux++ issue 20
 author: linuxplusplus
 image: https://blog.elementary.io/images/linux-plus-plus-interview-cassidy-james-blaede/feature.png
 legacy: elementary
+canonical: https://blog.elementary.io/linux-plus-plus-interview-cassidy-james-blaede/
+sitemap: false
 updated: 2020-06-20
 tags:
   - interview

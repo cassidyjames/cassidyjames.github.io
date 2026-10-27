@@ -3,6 +3,8 @@ title: Parental Controls & Metered Data Hackfest
 description: Working with GNOME on shared features
 updated: 2019-03-22
 legacy: elementary
+canonical: https://blog.elementary.io/parental-controls-metered-data-hackfest/
+sitemap: false
 author: cassidyjames
 image: https://cdn-images-1.medium.com/max/2000/1*1RRs1e_qsZVBgvddOEUElw.jpeg
 tags:

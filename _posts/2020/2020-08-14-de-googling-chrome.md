@@ -13,7 +13,7 @@ Moving away from Google Chrome was _probably_ the easiest migration in my [de-Go
 <figcaption>Ephemeral</figcaption>
 </figure>
 
-Ephemeral is a lightweight privacy browser that I develop for elementary OS, so of course I [dogfood](https://blog.elementary.io/eating-our-own-dog-food/) it and have it set as the default. A key feature is that you can pop sites open in your "real" browser with one click, so I usually have that set to Epiphany—the native GTK browser that comes with elementary OS, so it's an obvious choice.
+Ephemeral is a lightweight privacy browser that I develop for elementary OS, so of course I [dogfood]({% post_url elementary/2011-07-11-eating-our-own-dog-food %}) it and have it set as the default. A key feature is that you can pop sites open in your "real" browser with one click, so I usually have that set to Epiphany—the native GTK browser that comes with elementary OS, so it's an obvious choice.
 
 However, some sites don't perform well in Ephemeral or Epiphany (usually due to unnecessary user agent sniffing), so I do keep Firefox around for that. And Firefox on the desktop has gotten really good. Since Epiphany supports Firefox Sync, it's actually pretty easy to jump between the two as needed. I also occasionally install Chromium for testing web development in a Chrome-based engine, but I don't use it for any real browsing.
 

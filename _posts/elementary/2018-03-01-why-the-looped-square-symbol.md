@@ -3,6 +3,8 @@ title: "Why the Looped Square (⌘) Symbol?"
 author: cassidyjames
 updated: 2018-03-01
 legacy: elementary
+canonical: https://blog.elementary.io/why-the-looped-square-symbol/
+sitemap: false
 image: https://blog.elementary.io/images/why-the-looped-square-symbol/card.png
 tags:
   - design

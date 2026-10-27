@@ -4,6 +4,8 @@ description: The Linux Experiment interviews Cassidy for a video
 author: the-linux-experiment
 image: https://blog.elementary.io/images/linux-experiment-interview-cassidy-james-blaede-gnome-themes-libadwaita/card.png
 legacy: elementary
+canonical: https://blog.elementary.io/linux-experiment-interview-cassidy-james-blaede-gnome-themes-libadwaita/
+sitemap: false
 updated: 2021-11-12
 tags:
   - gnome

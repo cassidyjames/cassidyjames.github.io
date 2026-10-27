@@ -4,6 +4,8 @@ description: The problem and a possible solution
 updated: 2013-01-21
 image: https://blog.elementary.io/images/10x10-design-process/sketch.jpg
 legacy: elementary
+canonical: https://blog.elementary.io/10x10-design-process/
+sitemap: false
 
 tags:
   - design

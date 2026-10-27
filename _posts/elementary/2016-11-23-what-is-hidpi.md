@@ -4,6 +4,8 @@ description: and Why Does it Matter?
 updated: 2016-11-23
 author: cassidyjames
 legacy: elementary
+canonical: https://blog.elementary.io/what-is-hidpi/
+sitemap: false
 image: https://cdn-images-1.medium.com/max/800/1*VRciIe3d3U-EYduVMs1YCw.png
 tags:
   - hidpi

@@ -50,7 +50,7 @@ Thanks to their design, the lower-cost components, the economies of scale, and t
 
 ### Linux and projects
 
-A big part of the Raspberry Pi world is the [open source](https://blog.elementary.io/switching-from-macos-open-source/) software ecosystem around it. The computers typically run a version of Linux (the same core operating system that powers everything from super computers, websites, and Tesla cars to TiVos and Internet routers—and [elementary OS](https://elementary.io)!). Well, techincally a Raspberry Pi doesn't run _anything_ when you get it; you have to put an operating system on a microSD card for it to run. But there are standard Linux-based options freely available from the Raspberry Pi Foundation website.
+A big part of the Raspberry Pi world is the [open source]({% post_url elementary/2016-11-06-switching-from-macos-open-source %}) software ecosystem around it. The computers typically run a version of Linux (the same core operating system that powers everything from super computers, websites, and Tesla cars to TiVos and Internet routers—and [elementary OS](https://elementary.io)!). Well, techincally a Raspberry Pi doesn't run _anything_ when you get it; you have to put an operating system on a microSD card for it to run. But there are standard Linux-based options freely available from the Raspberry Pi Foundation website.
 
 Because Linux and most software made for Raspberry Pi is open source, it also means people can remix it for others to use. So your specific project might have pre-made software for you to copy onto a microSD card instead. This is the case for projects like the [RetroPie](https://retropie.org.uk/) retro game console and [OctoPrint](https://octoprint.org/download/) 3D printer controller.
 

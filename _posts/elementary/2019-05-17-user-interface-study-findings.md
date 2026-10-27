@@ -3,6 +3,8 @@ title: 2019 UI Study Results
 description: 'Regarding Custom Styles, Dark Modes, and Night Light'
 updated: 2019-05-17
 legacy: elementary
+canonical: https://blog.elementary.io/user-interface-study-findings/
+sitemap: false
 author: cassidyjames
 tags:
   - ui-study

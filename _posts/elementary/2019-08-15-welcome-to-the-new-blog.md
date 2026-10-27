@@ -4,6 +4,8 @@ description: Why we left Medium, and how!
 author: cassidyjames
 image: /images/blog/elementary/elementary-blog-code-1600.jpg
 legacy: elementary
+canonical: https://blog.elementary.io/welcome-to-the-new-blog/
+sitemap: false
 updated: 2019-08-15
 tags:
   - meta

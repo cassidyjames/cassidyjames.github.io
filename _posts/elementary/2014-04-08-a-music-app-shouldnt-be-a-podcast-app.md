@@ -7,6 +7,8 @@ tags:
   - evergreen
 
 legacy: true
+canonical: https://blog.elementary.io/a-music-app-shouldnt-be-a-podcast-app/
+sitemap: false
 redirect_from: /post/why-a-music-app-shouldnt-be-a-podcast-app
 ---
 

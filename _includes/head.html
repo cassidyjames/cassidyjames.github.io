@@ -9,6 +9,10 @@
 
   <link rel="alternate" type="application/rss+xml" title="Cassidy’s Blog" href="{{ "/feed.xml" | absolute_url }}" />
 
+  {% if page.canonical %}
+    <link rel="canonical" href="{{ page.canonical }}">
+  {% endif %}
+
   <meta charset="UTF-8">
 
   {% if site.avatar %}

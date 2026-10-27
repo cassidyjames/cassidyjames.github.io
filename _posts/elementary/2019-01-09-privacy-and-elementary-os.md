@@ -4,6 +4,8 @@ description: How we protect your data from ourselves and others
 updated: 2019-01-09
 author: cassidyjames
 legacy: elementary
+canonical: https://blog.elementary.io/privacy-and-elementary-os/
+sitemap: false
 image: https://cdn-images-1.medium.com/max/1280/1*A6acK8YdY-_VS414hveMlw.jpeg
 tags:
   - privacy

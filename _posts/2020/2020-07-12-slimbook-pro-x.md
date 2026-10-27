@@ -126,7 +126,7 @@ I opted for the **ANSI layout** (which is standard in the US), and it is mostly 
 
 The <kbd>F1</kbd>–<kbd>F12</kbd> **function keys** are mapped to F1–F12 instead of media keys by default. Personally, I would prefer they be media keys (or at least configurable in the BIOS) like my Dell Precision; I want to quickly change the volume or backlight _way_ more often than I want to quickly hit <kbd>F10</kbd> or <kbd>F12</kbd>. The Fn-Lock feature doesn't seem to behave how I would expect, either.
 
-And yes: there is a **Windows-branded Super key**. We use the [Looped Square (⌘) symbol in elementary OS](https://blog.elementary.io/why-the-looped-square-symbol/) to avoid having the Windows logo everywhere while still having a somewhat common symbol; I'd prefer laptop manufacturers do the same or at least use <kbd>Super</kbd>.
+And yes: there is a **Windows-branded Super key**. We use the [Looped Square (⌘) symbol in elementary OS]({% post_url elementary/2018-03-01-why-the-looped-square-symbol %}) to avoid having the Windows logo everywhere while still having a somewhat common symbol; I'd prefer laptop manufacturers do the same or at least use <kbd>Super</kbd>.
 
 <aside markdown="1">
 Shoutout to [Star Labs](https://starlabs.systems/?rfsn=4227837.e8f025) who just use a <kbd>Super</kbd> key! It's OS-agnostic and not overly branded, while still being distinctly Linux-y. Nice touch!
@@ -153,7 +153,7 @@ It's a **hinged design**, meaning it physically clicks at the bottom but gets pr
 The display is 1920×1080 at 14-inches, meaning it falls into the loDPI camp. It's a great physical size and resolution combination, though—out of the box at 1× scaling, everything feels like the right physical size, if only slightly small.
 
 <aside markdown="1">
-I'm a bit of a nut when it comes to display size and resolution combinations as it relates to the physical size of the UI, integer scaling, loDPI/HiDPI. etc. Like seriously—I've written a whole [blog series](https://blog.elementary.io/what-is-hidpi/) on it, and even developed and maintain [an app called Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) to help people better understand it and make better purchasing decisions.
+I'm a bit of a nut when it comes to display size and resolution combinations as it relates to the physical size of the UI, integer scaling, loDPI/HiDPI. etc. Like seriously—I've written a whole [blog series]({% post_url elementary/2016-11-23-what-is-hidpi %}) on it, and even developed and maintain [an app called Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) to help people better understand it and make better purchasing decisions.
 </aside>
 
 While I prefer the look and crispness of HiDPI, it does come with the trade-off of much higher power usage and thus lower battery life. While the NVIDIA card (and probably the integrated Intel graphics) could handle something like a 3840×2160 display (1920×1080@2× for the same real estate but twice the detail), I can respect the decision to stick with loDPI here—especially given the relatively small internal battery. And for a loDPI display, it looks _great_. Colors seem accurate, it can get sufficiently bright, and the matte finish combined with no discernible layers on the display surface mean it often looks like the image is printed right onto the surface of the display.

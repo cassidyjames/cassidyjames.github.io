@@ -3,6 +3,8 @@ title: elementary at GUADEC 2019
 description: Hanging out with GNOME in Thessaloniki, Greece
 author: cassidyjames
 legacy: elementary
+canonical: https://blog.elementary.io/elementary-at-guadec-2019/
+sitemap: false
 updated: 2019-09-05
 image: /images/blog/elementary/elementary-at-guadec-2019/welcome-banner_1600.jpg
 tags:
@@ -77,7 +79,7 @@ Portals are how sandboxed apps communicate with one another or request specific 
 
 {% include youtube.html id="bIzJyp8sb70" %}
 
-We've been [moving toward Portals](https://blog.elementary.io/a-new-native-file-chooser) in elementary OS in preparation for [using Flatpak](https://blog.elementary.io/elementary-appcenter-flatpak), and it was good to see the wide variety of portals that exist and the design considerations behind them. One portal we suggested based on our work toward [a cross-desktop settings API](https://blog.elementary.io/making-system-settings-access-a-cross-desktop-feature) was a “Connect to Network” portal; rather than a “System Settings” portal that would need to handle every possible setting an OS might have, we came to the conclusion that individual portals for specific actions would be more flexible. A new network connection portal could be used in elementary OS to prompt a user to get connected when browsing AppCenter, for example, where an Internet connection is needed to install apps. It could also be used in apps designed for any desktop environment, like a web browser, torrent client, chat app, etc.
+We've been [moving toward Portals](https://blog.elementary.io/a-new-native-file-chooser) in elementary OS in preparation for [using Flatpak]({% post_url elementary/2019-04-01-elementary-appcenter-flatpak %}), and it was good to see the wide variety of portals that exist and the design considerations behind them. One portal we suggested based on our work toward [a cross-desktop settings API](https://blog.elementary.io/making-system-settings-access-a-cross-desktop-feature) was a “Connect to Network” portal; rather than a “System Settings” portal that would need to handle every possible setting an OS might have, we came to the conclusion that individual portals for specific actions would be more flexible. A new network connection portal could be used in elementary OS to prompt a user to get connected when browsing AppCenter, for example, where an Internet connection is needed to install apps. It could also be used in apps designed for any desktop environment, like a web browser, torrent client, chat app, etc.
 
 ### Wineglass: How to Make Wine Accessible
 

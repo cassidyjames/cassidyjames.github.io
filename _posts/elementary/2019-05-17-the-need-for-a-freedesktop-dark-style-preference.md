@@ -5,6 +5,8 @@ updated: 2019-05-17
 author: cassidyjames
 image: https://cdn-images-1.medium.com/max/1952/1*NwP8sxbRTq7pzJLhDE2rnA@2x.png
 legacy: elementary
+canonical: https://blog.elementary.io/the-need-for-a-freedesktop-dark-style-preference/
+sitemap: false
 tags:
   - gnome
   - fdo

@@ -3,6 +3,8 @@ title: Accessibility Features Are Just Features
 description: An OS-wide curb-cutting effort
 updated: 2019-02-16
 legacy: elementary
+canonical: https://blog.elementary.io/accessibility-features-are-just-features/
+sitemap: false
 author: cassidyjames
 image: https://cdn-images-1.medium.com/max/1600/0*3Q6Snc6Qga_HsPK7
 tags:

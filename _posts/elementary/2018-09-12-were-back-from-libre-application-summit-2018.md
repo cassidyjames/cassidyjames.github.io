@@ -4,6 +4,8 @@ description: Sharing knowledge and wisdom in Denver, Colorado
 author: cassidyjames
 updated: 2018-09-12
 legacy: elementary
+canonical: https://blog.elementary.io/were-back-from-libre-application-summit-2018/
+sitemap: false
 image: https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1mRaQK_yUWddw-WKriNzBog.jpeg
 tags:
   - event

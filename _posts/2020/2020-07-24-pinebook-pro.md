@@ -96,20 +96,20 @@ The display is impressive for this class of laptop. It's an IPS panel, and the c
 My one complaint is actually the resolution, but perhaps not in the way you'd expect—unless you listen to my regular rants on social media, in which case: no, the horse is not dead and I will continue to beat it.
 
 <aside class="card" markdown="1">
-I'm a bit of a nut when it comes to display size and resolution combinations as it relates to the physical size of the UI, integer scaling, loDPI/HiDPI. etc. Like seriously—I've written a whole [blog series](https://blog.elementary.io/what-is-hidpi/) on it, and even developed and maintain [an app called Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) to help people better understand it and make better purchasing decisions.
+I'm a bit of a nut when it comes to display size and resolution combinations as it relates to the physical size of the UI, integer scaling, loDPI/HiDPI. etc. Like seriously—I've written a whole [blog series]({% post_url elementary/2016-11-23-what-is-hidpi %}) on it, and even developed and maintain [an app called Dippi](https://appcenter.elementary.io/com.github.cassidyjames.dippi) to help people better understand it and make better purchasing decisions.
 </aside>
 
 The resolution is maybe just a bit _too high_. At 14", the 1920×1080 resolution means that text and the mouse cursor are _just a bit_ too small for my liking. Some folks might be fine with it, and it's definitely something you can get used to. But if you're coming from regularly using a 15.6&Prime; display with the same logical resolution (3840×2160, or 1920×1080@2x) or a 13.3&Prime; display with a lower logical resolution (e.g. 3200×1800 or 1600×900@2x), it just makes the text and UI seem extra small.
 
 Normally, I'd argue that the manufacturer could have gone for a higher resolution like 3200×1800 (1600×900@2x) for HiDPI. Or maybe with 3840×2160 (exactly twice this resolution), the smaller text would be more bearable since it would at least be more crisp. But I'm certain trying to go for HiDPI would just exasperate the already-limited processing and graphical resources on this hardware.
 
-Lucky for me, an unreleased experimental feature for elementary OS is UI scaling based on text size, and it seems to be working pretty well. I've bumped the size to "Large", and everything is much more readable at a comfortable distance. At least I have a good excuse to [dogfood](https://blog.elementary.io/eating-our-own-dog-food/) this now?
+Lucky for me, an unreleased experimental feature for elementary OS is UI scaling based on text size, and it seems to be working pretty well. I've bumped the size to "Large", and everything is much more readable at a comfortable distance. At least I have a good excuse to [dogfood]({% post_url elementary/2011-07-11-eating-our-own-dog-food %}) this now?
 
 #### Keyboard & trackpad
 
 The keyboard definitely continues the "impressive, especially at this price point" trend of the Pinebook Pro. I opted for the ANSI (US layout) model, and the layout is perfect in my opinion. Keys feel like the perfect size, and everything is right where I'd expect it. Travel-wise, the keys have a decent amount of travel and a little of a click sound. I really like the amount of travel, and my only critique is that some keys don't feel like they travel perfectly vertically; especially the arrow keys due to their smaller size.
 
-I also appreciate the PINE64-branded Super or [<kbd>⌘</kbd> key](https://blog.elementary.io/why-the-looped-square-symbol/). It's cute, and since it's the only branding on the whole machine, it works well.
+I also appreciate the PINE64-branded Super or [<kbd>⌘</kbd> key]({% post_url elementary/2018-03-01-why-the-looped-square-symbol %}). It's cute, and since it's the only branding on the whole machine, it works well.
 
 <aside class="card" markdown="1">
 Since there are some [community efforts to update the keyboard firmware](https://github.com/jackhumbert/pinebook-pro-keyboard-updater), it's possible <kbd>Fn</kbd> key behavior is something that could be addressed. It's an interesting implication of the heavy community focus of PINE64.

@@ -3,6 +3,8 @@ title: GNOME West Coast Summit
 updated: 2015-07-01
 image: https://66.media.tumblr.com/c632632fc9f7abf9170af2ac18393975/tumblr_inline_nqtvig9bYv1r2vnpt_1280.jpg
 legacy: elementary
+canonical: https://blog.elementary.io/gnome-west-coast-summit/
+sitemap: false
 tags:
   - event
   - gnome
