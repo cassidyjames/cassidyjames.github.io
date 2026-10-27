@@ -638,10 +638,10 @@ We’ve put a lot of work into **Granite**, our GTK-based widget and helper libr
 
 For even more developer-facing changes, check out these posts:
 
-* [Cleaning Up App Codenames](https://medium.com/elementaryos/cleaning-up-app-codenames-ef9fc637ddef)
+* [Cleaning Up App Codenames]({% post_url elementary/2017-07-21-cleaning-up-app-codenames %})
 * [All Aboard The Meson Future Hype Train](https://medium.com/elementaryos/all-aboard-the-meson-future-hype-train-2b6c478b6b9e)
 * [Introducing Houston CI](https://medium.com/elementaryos/introducing-houston-ci-3179ec34e726)
-* [Updating Your Apps for Juno](https://medium.com/elementaryos/developer-tips-updating-your-apps-for-juno-453c07a5b3a7)
+* [Updating Your Apps for Juno]({% post_url elementary/2018-07-19-developer-tips-updating-your-apps-for-juno %})
 
 ## …And More
 

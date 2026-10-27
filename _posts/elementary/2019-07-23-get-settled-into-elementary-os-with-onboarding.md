@@ -24,7 +24,7 @@ Instead, we lean into progressive disclosure and teachable moments throughout el
 
 However, there are several important features we’ve added over the years, and exposing those to users while ensuring they understand their implications has become more difficult. For example, while the [Night Light feature we introduced in Juno] is incredibly helpful, you’re not likely to discover it on your own unless you read extensive release announcements or like to dig around in your Display settings. For these cases, we’ve built Onboarding.
 
-[Night Light feature we introduced in Juno]: https://medium.com/elementaryos/elementary-os-5-juno-is-here-471dfdedc7b3
+[Night Light feature we introduced in Juno]: {% post_url elementary/2018-10-16-elementary-os-5-juno-is-here %}
 
 ## Where Onboarding Fits In
 

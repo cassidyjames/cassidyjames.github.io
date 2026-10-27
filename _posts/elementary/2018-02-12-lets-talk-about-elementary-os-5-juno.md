@@ -73,6 +73,6 @@ With the new version of GTK+ we’ll be able to start both exploring using new w
 
 ### What About Loki?
 
-We’ve continued to push out updates to elementary OS Loki while we’ve prepared for Juno, and app developers are continuing to publish new apps and updates to existing apps on AppCenter to all of our Loki users. However, as we mentioned in our [2017 Year in Review](https://medium.com/elementaryos/our-2017-in-review-866e0a9d0114), Loki will be going into maintenance mode. New major features will be built for Juno, while Loki will mostly only receive stability and security updates going forward.
+We’ve continued to push out updates to elementary OS Loki while we’ve prepared for Juno, and app developers are continuing to publish new apps and updates to existing apps on AppCenter to all of our Loki users. However, as we mentioned in our [2017 Year in Review](https://blog.elementary.io/our-2017-in-review/), Loki will be going into maintenance mode. New major features will be built for Juno, while Loki will mostly only receive stability and security updates going forward.
 
 Once we release a Juno beta, app developers will be able to begin testing their apps on the new release and preparing for the new stack and features. We’ll have more information to share closer to the beta!

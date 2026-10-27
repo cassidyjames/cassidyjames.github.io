@@ -17,6 +17,8 @@ layout: default
     <p>
       {% if page.legacy == "elementary" %}
         <strong>This blog post was cross-posted from <a href="https://blog.elementary.io" target="_blank">the elementary blog</a>.</strong>
+      {% elsif page.legacy == "medium" %}
+        <strong>This blog post was originally published on <a href="https://medium.com/elementaryos" target="_blank">elementary’s Medium publication</a>.</strong>
       {% else %}
         <strong>This blog post was migrated from an old version of my blog.</strong>
       {% endif %}

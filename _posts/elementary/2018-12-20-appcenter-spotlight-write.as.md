@@ -16,7 +16,7 @@ redirect_from:
   - /blog/appcenter-spotlight-write.as/
 ---
 
-It’s been a while since we did an AppCenter Spotlight due to the [massive Juno release](https://medium.com/elementaryos/elementary-os-5-juno-is-here-471dfdedc7b3) and [subsequent updates](https://blog.elementary.io/juno-updates-for-november-2018), but today we’re back with an app I’m delighted to share with you all.
+It’s been a while since we did an AppCenter Spotlight due to the [massive Juno release]({% post_url elementary/2018-10-16-elementary-os-5-juno-is-here %}) and [subsequent updates](https://blog.elementary.io/juno-updates-for-november-2018), but today we’re back with an app I’m delighted to share with you all.
 
 [![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)](https://appcenter.elementary.io/com.github.writeas.writeas-gtk/)
 

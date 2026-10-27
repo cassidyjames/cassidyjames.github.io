@@ -433,7 +433,7 @@ New users or those who prefer a fresh start can also [download elementary OS 5.1
 [elementary.io]: https://elementary.io
 [feb]: https://blog.elementary.io/juno-updates-for-february-2019
 [june]: https://blog.elementary.io/juno-updates-for-june-2019
-[juno]: https://medium.com/elementaryos/elementary-os-5-juno-is-here-471dfdedc7b3
+[juno]: {% post_url elementary/2018-10-16-elementary-os-5-juno-is-here %}
 [oem-design]: https://github.com/elementary/installer/wiki#every-install-is-an-oem-install
 [onboarding]: {% post_url elementary/2019-07-23-get-settled-into-elementary-os-with-onboarding %}
 [updates]: https://blog.elementary.io/tags/#updates

@@ -35,7 +35,7 @@ By rebranding to Code, it lets us focus on what we intended from the start: buil
 <figcaption>Old, generic, “text editor” Scratch icon versus the new, shiny, Code icon</figcaption>
 </figure>
 
-Code follows our [revised naming scheme](https://medium.com/elementaryos/cleaning-up-app-codenames-ef9fc637ddef) of just naming apps what they are or what they get you to; Files, Music, Videos, Calendar, Mail, Photos, etc. Now with Code, there’s no question as to the app’s purpose or intent. If you need to disambiguate, you can call it “elementary Code.”
+Code follows our [revised naming scheme]({% post_url elementary/2017-07-21-cleaning-up-app-codenames %}) of just naming apps what they are or what they get you to; Files, Music, Videos, Calendar, Mail, Photos, etc. Now with Code, there’s no question as to the app’s purpose or intent. If you need to disambiguate, you can call it “elementary Code.”
 
 #### Updates
 
