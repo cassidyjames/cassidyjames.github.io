@@ -10,7 +10,6 @@ updated: 2017-02-08
 tags:
   - elementary
   - appcenter
-- appcenter
 
 permalink: /blog/elementary/building-the-future-of-elementary-os/
 redirect_from:
