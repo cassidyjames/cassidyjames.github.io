@@ -130,6 +130,8 @@ defaults:
 picture:
   source: images/
   output: img/
+  # Skip re-hashing every source image on local rebuilds
+  fast_build: development
 
 # jekyll-paginate-v2; pages also opt in with `pagination: enabled: true`
 pagination:
