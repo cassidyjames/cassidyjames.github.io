@@ -9,9 +9,7 @@ sitemap: false
 updated: 2019-11-05
 
 tags:
-  - github
-  - infrastructure
-  - juno
+  - elementary
 
 
 facebook: https://www.facebook.com/elementaryos/posts/2812922722072872

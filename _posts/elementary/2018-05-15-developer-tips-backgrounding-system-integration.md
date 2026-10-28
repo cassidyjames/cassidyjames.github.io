@@ -8,8 +8,8 @@ canonical: https://blog.elementary.io/developer-tips-backgrounding-system-integr
 sitemap: false
 updated: 2018-05-15
 tags:
-  - devs
-  - developer-tips
+  - elementary
+  - appdev
 
 permalink: /blog/elementary/developer-tips-backgrounding-system-integration/
 redirect_from:

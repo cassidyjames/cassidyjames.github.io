@@ -8,7 +8,8 @@ canonical: https://blog.elementary.io/devices-slimbook/
 sitemap: false
 updated: 2020-09-24
 tags:
-  - devices
+  - elementary
+  - hardware
 
 mastodon: https://mastodon.social/@elementary/104920535657862083
 

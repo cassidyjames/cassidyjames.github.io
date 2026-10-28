@@ -4,6 +4,9 @@ description: Mostly because I couldn’t find this info all in one place
 redirect_from: /p345
 updated: 2020-09-30
 hidden: true
+tags:
+  - android
+  - hardware
 ---
 
 I have a Pixel 3, and didn't see a big reason to upgrade to Pixel 4 when it came out. Now that Pixel 5 is out, I thought I would do a direct comparison. I figured this would be easier to find on the Internet, but alas, it was not. So here you go:

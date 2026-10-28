@@ -8,10 +8,7 @@ canonical: https://blog.elementary.io/updates-for-july-2020/
 sitemap: false
 updated: 2020-08-07
 tags:
-  - early-access
-  - hera
-  - odin
-  - updates
+  - elementary
 
 mastodon: https://mastodon.social/@elementary/104650184883180100
 reddit: https://www.reddit.com/r/elementaryos/comments/i5mk54/lets_talk_elementary_os_6_elementary_blog/

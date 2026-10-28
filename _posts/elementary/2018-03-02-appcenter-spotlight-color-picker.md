@@ -6,10 +6,8 @@ image: /images/blog/elementary/appcenter-spotlight-color-picker/10MnQzMrBLnPzF4a
 legacy: medium
 updated: 2018-03-02
 tags:
-  - "design"
-  - "elementary-os"
-  - "appcenter-spotlight"
-  - "utilities"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-spotlight-color-picker/
 redirect_from:

@@ -8,9 +8,7 @@ canonical: https://blog.elementary.io/elementary-os-5-juno-is-here/
 sitemap: false
 updated: 2018-10-16
 tags:
-  - juno
-  - release
-  - updates
+  - elementary
 
 permalink: /blog/elementary/elementary-os-5-juno-is-here/
 redirect_from:

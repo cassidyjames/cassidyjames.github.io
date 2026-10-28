@@ -6,11 +6,8 @@ image: /images/blog/elementary/appcenter-spotlight-beta-testers/1PshJO8JWoLvNdtX
 legacy: medium
 updated: 2017-04-23
 tags:
-  - "elementary-os"
-  - "open-source"
-  - "appcenter"
-  - "appcenter-spotlight"
-  - "app-development"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-spotlight-beta-testers/
 redirect_from:

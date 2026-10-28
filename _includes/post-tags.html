@@ -1,0 +1,7 @@
+{% if include.tags.size > 0 %}
+<ul class="tags">
+  {% for tag in include.tags %}
+    <li><a href="/blog/tag/{{ tag | slugify }}/">{{ site.data.tags[tag].name | default: tag }}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}

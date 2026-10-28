@@ -5,6 +5,9 @@ updated: 2025-10-27
 image: /images/blog/chick.jpg
 comments:
   id: 115448735914835039
+tags:
+  - career
+  - roost
 ---
 
 A couple of months ago I shared that I was [looking for what was next] for me, and I'm thrilled to report that I've found it: I'm joining [ROOST] as OSS Community Manager!

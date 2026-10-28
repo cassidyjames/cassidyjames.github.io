@@ -8,10 +8,8 @@ canonical: https://blog.elementary.io/elementary-os-on-raspberry-pi/
 sitemap: false
 updated: 2020-12-04
 tags:
-  - ARM
-  - devices
-  - early-access
-  - odin
+  - elementary
+  - hardware
 
 mastodon: https://mastodon.social/@elementary/105323756503375482
 reddit: https://www.reddit.com/r/elementaryos/comments/k6s1sz/elementary_os_on_raspberry_pielementary_blog/

@@ -6,11 +6,9 @@ image: /images/blog/elementary/top-3-misconceptions-about-hidpi/1lF0rrTapFFHUxvW
 legacy: medium
 updated: 2016-12-02
 tags:
-  - "design"
-  - "ui"
-  - "elementary-os"
-  - "retina"
-  - "hidpi"
+  - elementary
+  - hardware
+  - design
 
 permalink: /blog/elementary/top-3-misconceptions-about-hidpi/
 redirect_from:

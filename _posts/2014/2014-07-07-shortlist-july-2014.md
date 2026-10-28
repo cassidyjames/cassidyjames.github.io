@@ -5,6 +5,8 @@ updated: 2014-07-07 14:54:00
 
 legacy: true
 redirect_from: /post/shortlist-july-2014
+tags:
+  - personal
 ---
 
 I hate wishlists. Making a big long list of all the things you want just seems both tedious and selfish for some reason. I get that some people might want to get you gifts for your birthday or Christmas or some random occasion. But by making a wishlist, I feel like I'm saying, "Get me anything as long as it's on this big long list."

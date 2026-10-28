@@ -105,6 +105,20 @@ html.starwars {
     font-weight: bold;
   }
 
+  // Undo the list spacing body gets from extending article
+  .tags {
+    margin: 0.75em 0;
+
+    li {
+      margin: 0;
+    }
+
+    a {
+      backdrop-filter: var(--blur);
+      background-color: rgba(var(--primary-rgb), 0.1);
+    }
+  }
+
   &.kenobi {
     --background-rgb: 223, 207, 184;
 

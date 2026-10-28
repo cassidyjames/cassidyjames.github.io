@@ -8,8 +8,9 @@ canonical: https://blog.elementary.io/introducing-new-appcenter-sharing-urls/
 sitemap: false
 updated: 2018-07-20
 tags:
-  - web
+  - elementary
   - appcenter
+  - webdev
 
 permalink: /blog/elementary/introducing-new-appcenter-sharing-urls/
 redirect_from:

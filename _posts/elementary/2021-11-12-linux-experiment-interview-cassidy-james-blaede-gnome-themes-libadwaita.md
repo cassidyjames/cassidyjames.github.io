@@ -8,8 +8,9 @@ canonical: https://blog.elementary.io/linux-experiment-interview-cassidy-james-b
 sitemap: false
 updated: 2021-11-12
 tags:
+  - elementary
   - gnome
-  - interview
+  - design
 ---
 
 <aside markdown="1">

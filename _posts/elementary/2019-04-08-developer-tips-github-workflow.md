@@ -8,10 +8,8 @@ canonical: https://blog.elementary.io/developer-tips-github-workflow/
 sitemap: false
 updated: 2019-04-08
 tags:
-  - devs
-  - developer-tips
-  - github
-  - evergreen
+  - elementary
+  - appdev
 
 permalink: /blog/elementary/developer-tips-github-workflow/
 redirect_from:

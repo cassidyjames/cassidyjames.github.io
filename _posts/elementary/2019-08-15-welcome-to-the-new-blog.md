@@ -8,9 +8,8 @@ canonical: https://blog.elementary.io/welcome-to-the-new-blog/
 sitemap: false
 updated: 2019-08-15
 tags:
-  - meta
-  - design
-  - evergreen
+  - elementary
+  - webdev
 
 facebook: https://www.facebook.com/elementaryos/posts/2643224962375983
 mastodon: https://mastodon.social/@elementary/102624202798672708

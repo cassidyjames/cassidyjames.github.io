@@ -3,8 +3,8 @@ title: A Music App Shouldn't Be a Podcast App
 updated: 2014-04-07
 image: https://blog.elementary.io/images/a-music-app-shouldnt-be-a-podcast-app/music.png
 tags:
+  - elementary
   - design
-  - evergreen
 
 legacy: true
 canonical: https://blog.elementary.io/a-music-app-shouldnt-be-a-podcast-app/

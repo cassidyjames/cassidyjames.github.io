@@ -8,7 +8,9 @@ canonical: https://blog.elementary.io/appcenter-spotlight-tootle/
 sitemap: false
 updated: 2018-06-15
 tags:
-  - appcenter-spotlight
+  - elementary
+  - appcenter
+  - fediverse
 
 permalink: /blog/elementary/appcenter-spotlight-tootle/
 redirect_from:

@@ -7,6 +7,7 @@ canonical: https://blog.elementary.io/why-we-use-checks-in-checkboxes-and-radio-
 sitemap: false
 updated: 2018-09-22
 tags:
+  - elementary
   - design
 
 permalink: /blog/elementary/why-we-use-checks-in-checkboxes-and-radio-buttons/

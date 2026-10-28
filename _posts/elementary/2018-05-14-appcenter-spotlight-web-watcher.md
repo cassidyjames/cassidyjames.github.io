@@ -6,11 +6,8 @@ image: /images/blog/elementary/appcenter-spotlight-web-watcher/06ckHIBIkJgKlTZU_
 legacy: medium
 updated: 2018-05-14
 tags:
-  - "web-development"
-  - "open-source"
-  - "appcenter-spotlight"
-  - "elementary-os"
-  - "devops"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-spotlight-web-watcher/
 redirect_from:

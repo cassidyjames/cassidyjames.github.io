@@ -8,11 +8,10 @@ sitemap: false
 updated: 2019-09-05
 image: /images/blog/elementary/elementary-at-guadec-2019/welcome-banner_1600.jpg
 tags:
-  - event
-  - flatpak
+  - elementary
   - gnome
-  - gtk
-  - guadec
+  - events
+  - flatpak
 thanks: true
 
 facebook: https://www.facebook.com/elementaryos/posts/2685264938171985

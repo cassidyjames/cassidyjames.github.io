@@ -5,6 +5,9 @@ updated: 2025-02-14
 image: /images/blog/gnome-foot-logo-rebrand/foot-dark.png
 comments:
   id: 114000865605930129
+tags:
+  - gnome
+  - design
 ---
 
 <aside markdown=1>

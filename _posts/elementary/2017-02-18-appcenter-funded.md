@@ -6,11 +6,8 @@ image: /images/blog/elementary/appcenter-funded/1_054Os-bS3yOj42PuNzbPQ.jpeg
 legacy: medium
 updated: 2017-02-18
 tags:
-  - "crowdfunding"
-  - "startup"
-  - "elementary-os"
-  - "appcenter"
-  - "open-source"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-funded/
 redirect_from:

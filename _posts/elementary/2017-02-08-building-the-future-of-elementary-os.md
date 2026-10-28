@@ -8,6 +8,8 @@ canonical: https://blog.elementary.io/building-the-future-of-elementary-os/
 sitemap: false
 updated: 2017-02-08
 tags:
+  - elementary
+  - appcenter
 - appcenter
 
 permalink: /blog/elementary/building-the-future-of-elementary-os/

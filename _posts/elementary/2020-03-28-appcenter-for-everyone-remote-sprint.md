@@ -8,8 +8,9 @@ canonical: https://blog.elementary.io/appcenter-for-everyone-remote-sprint/
 sitemap: false
 updated: 2020-03-28
 tags:
- - appcenter
- - event
+  - elementary
+  - appcenter
+  - events
 
 facebook: https://www.facebook.com/elementaryos/posts/3143251365706671
 mastodon: https://mastodon.social/@elementary/103903208102630734

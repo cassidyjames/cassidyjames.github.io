@@ -4,6 +4,8 @@ description: A beastly Linux laptop, with some caveats
 updated: 2019-07-10
 image: /images/precision-elementary.jpg
 redirect_from: /5530
+tags:
+  - hardware
 ---
 
 I recently [raised funds](https://www.gofundme.com/f/cassidyjames-laptop) for a new beast of a development machine for my work on elementary OS. After receiving the laptop, installing elementary OS, and using it for a while now, I’m ready to share my thoughts.

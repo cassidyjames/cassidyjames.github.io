@@ -5,6 +5,9 @@ updated: 2023-06-30
 
 comments:
   id: 110634455576567295
+tags:
+  - webdev
+  - howto
 ---
 
 I've recently been contributing to Flathub and updating my own website a bit, and I found myself wanting to recolor SVGs for light and dark style support. Let's look at some examples:

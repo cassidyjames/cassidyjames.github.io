@@ -5,6 +5,9 @@ updated: 2023-01-15
 
 image: /images/blog/moment-cases-pixel-7-lenses-guarantee/pixel-6-to-pixel-7-moment-case.jpg
 video: /videos/moment-photo-case-upgrade-guarantee
+tags:
+  - android
+  - hardware
 ---
 
 Moment made a name for themselves by providing quality mobile photography lenses and cases for iPhones, Pixels, and Samsung Galaxy phones, but it seems the company will have to switch things up due to ever-changing phone camera optics.

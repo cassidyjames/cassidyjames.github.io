@@ -9,6 +9,8 @@ redirect_from:
   - slimbook-pro
   - slimbook-pro-x
 updated: 2020-07-12
+tags:
+  - hardware
 ---
 
 <aside markdown="1">

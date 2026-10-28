@@ -7,9 +7,10 @@ legacy: true
 image: https://miro.medium.com/max/1400/1*v1WOWAngiyB9tAjuaqjn4Q.png
 
 tags:
-  - Ephemeral
-  - AppCenter
+  - app
   - elementary
+  - appcenter
+  - privacy
 ---
 
 ![Ephemeral, the always-incognito web browser]({{ page.image }})

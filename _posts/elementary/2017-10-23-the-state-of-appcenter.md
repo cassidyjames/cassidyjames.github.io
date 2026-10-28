@@ -6,11 +6,8 @@ image: /images/blog/elementary/the-state-of-appcenter/1cfdJW-8c5cq5L1O5AZTEJA.pn
 legacy: medium
 updated: 2017-10-23
 tags:
-  - "appcenter"
-  - "elementary-os"
-  - "linux"
-  - "open-source"
-  - "app-development"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/the-state-of-appcenter/
 redirect_from:

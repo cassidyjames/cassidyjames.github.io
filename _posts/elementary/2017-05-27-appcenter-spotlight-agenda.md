@@ -6,11 +6,8 @@ image: /images/blog/elementary/appcenter-spotlight-agenda/1-vwQm8-PjjbsiO5xLkQ34
 legacy: medium
 updated: 2017-05-27
 tags:
-  - "productivity"
-  - "elementary-os"
-  - "open-source"
-  - "appcenter"
-  - "appcenter-spotlight"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-spotlight-agenda/
 redirect_from:

@@ -6,11 +6,8 @@ image: /images/blog/elementary/appcenter-faq/1Er3Sv7msnJQLk0gdDy0zWg.png
 legacy: medium
 updated: 2017-02-13
 tags:
-  - "payments"
-  - "github"
-  - "elementary-os"
-  - "appcenter"
-  - "open-source"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-faq/
 redirect_from:

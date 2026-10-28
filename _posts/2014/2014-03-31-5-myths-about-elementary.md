@@ -5,6 +5,8 @@ updated: 2014-03-31 02:30:00
 
 legacy: true
 redirect_from: /post/5-myths-about-elementary
+tags:
+  - elementary
 ---
 
 Whether I'm browsing Google+, responding to tweets from @elementary, or telling friends about elementary in the flesh, I'm bound to hear some random myth about elementary that is just plain false. I've noticed a few (five, to be exact) that seem to keep cropping up. Rather than copy-pasta my response to each and every comment out there, I decided it'd be more worth my time to lay them out and tackle them one-by-one here.

@@ -6,11 +6,8 @@ image: /images/blog/elementary/appcenter-spotlight-quickdocs/1bShmiBWY3py4Zxx7g8
 legacy: medium
 updated: 2018-04-13
 tags:
-  - "open-source"
-  - "appcenter-spotlight"
-  - "documentation"
-  - "developer-tools"
-  - "elementary-os"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-spotlight-quickdocs/
 redirect_from:

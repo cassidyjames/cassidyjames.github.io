@@ -8,9 +8,9 @@ canonical: https://blog.elementary.io/switching-from-macos-developer-environment
 sitemap: false
 updated: 2016-11-03
 tags:
-  - switching-from-macos
-  - devs
-  - evergreen
+  - elementary
+  - howto
+  - appdev
 
 permalink: /blog/elementary/switching-from-macos-developer-environment/
 redirect_from:

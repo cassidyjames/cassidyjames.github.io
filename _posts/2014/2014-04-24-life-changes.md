@@ -5,6 +5,9 @@ updated: 2014-04-24 15:54:00
 
 legacy: true
 redirect_from: /post/life-changes
+tags:
+  - personal
+  - career
 ---
 
 There comes a time when you want a change in your life. After dating my girlfriend Katie for nearly six years, I asked her to marry me. But that's old news (and the wedding is fast approaching).

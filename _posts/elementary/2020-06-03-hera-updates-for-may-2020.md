@@ -8,8 +8,7 @@ canonical: https://blog.elementary.io/hera-updates-for-may-2020/
 sitemap: false
 updated: 2020-06-03
 tags:
- - hera
- - updates
+  - elementary
 
 facebook: https://www.facebook.com/elementaryos/posts/3316867615011711
 mastodon: https://mastodon.social/@elementary/104283525297698819

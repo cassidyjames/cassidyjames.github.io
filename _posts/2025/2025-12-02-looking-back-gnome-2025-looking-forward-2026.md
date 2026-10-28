@@ -6,6 +6,8 @@ comments:
 
 updated: 2025-12-02
 image: /images/blog/gnome-foot-logo-rebrand/foot-dark.png
+tags:
+  - gnome
 ---
 
 This past year has been an exceptional one for GNOME. The project released two excellent releases on schedule with [GNOME 48](https://release.gnome.org/48/) in March and [GNOME 49](https://release.gnome.org/49/) in September. Contributors have been relentless in delivering a set of new and improved default apps, constant performance improvements across the board benefitting everyone (but especially lower-specced hardware), a better experience on high end hardware like HiDPI and HDR displays, refined design and refreshed typography, all new digital wellbeing features and parental controls improvements, improved accessibility support across the entire platform, and much more.

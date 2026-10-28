@@ -6,11 +6,8 @@ image: /images/blog/elementary/introducing-the-elementary-community-logo/1r8P_PJ
 legacy: medium
 updated: 2017-01-17
 tags:
-  - "branding"
-  - "design"
-  - "elementary-os"
-  - "open-source"
-  - "community"
+  - elementary
+  - design
 
 permalink: /blog/elementary/introducing-the-elementary-community-logo/
 redirect_from:

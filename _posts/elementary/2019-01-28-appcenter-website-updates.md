@@ -8,9 +8,9 @@ canonical: https://blog.elementary.io/appcenter-website-updates/
 sitemap: false
 updated: 2019-01-28
 tags:
+  - elementary
   - appcenter
-  - devs
-  - web
+  - webdev
 
 permalink: /blog/elementary/appcenter-website-updates/
 redirect_from:

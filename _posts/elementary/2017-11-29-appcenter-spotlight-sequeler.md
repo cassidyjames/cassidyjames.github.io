@@ -6,11 +6,8 @@ image: /images/blog/elementary/appcenter-spotlight-sequeler/1TF_SfQpudwn4laZEBUl
 legacy: medium
 updated: 2017-11-29
 tags:
-  - "sql"
-  - "appcenter-spotlight"
-  - "open-source"
-  - "app-development"
-  - "elementary-os"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-spotlight-sequeler/
 redirect_from:

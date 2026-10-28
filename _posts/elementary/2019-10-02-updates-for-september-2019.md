@@ -9,8 +9,7 @@ sitemap: false
 updated: 2019-10-02
 
 tags:
-  - updates
-  - juno
+  - elementary
 
 facebook: https://www.facebook.com/elementaryos/posts/2735369693161509
 mastodon: https://mastodon.social/@elementary/102894076844604995

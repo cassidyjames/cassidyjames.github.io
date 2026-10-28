@@ -12,6 +12,9 @@ comments:
   id: 110612929466833497
 
 updated: 2023-06-26
+tags:
+  - gnome
+  - design
 ---
 
 <aside markdown="1">

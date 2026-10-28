@@ -7,6 +7,9 @@ image: /images/blog/guadec-2023/card.jpg
 
 comments:
   id: 110840950833358206
+tags:
+  - gnome
+  - events
 ---
 
 I'm back from Rīga, Latvia where I attended GUADEC 2023—the annual GNOME conference. It was my first time attending since 2019 due to COVID-19 plus having had another child in 2022. It simultaneously felt like it had been ages since seeing everyone, and like we picked back up after no time at all.

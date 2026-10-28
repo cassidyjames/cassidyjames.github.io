@@ -7,9 +7,10 @@ legacy: true
 image: https://miro.medium.com/max/1400/1*v1WOWAngiyB9tAjuaqjn4Q.png
 
 tags:
-  - Ephemeral
-  - AppCenter
+  - app
   - elementary
+  - appcenter
+  - privacy
 ---
 
 In case you’ve missed it, I’ve been actively developing [Ephemeral, the always-incognito web browser](/blog/introducing-ephemeral), for elementary OS. My vision for version 1.0 was simple: a barebones web frame that didn’t keep any information around about your browsing. Since its release at the beginning of the year, I’ve been hard at work dogfooding and adding features as they seem relevant.

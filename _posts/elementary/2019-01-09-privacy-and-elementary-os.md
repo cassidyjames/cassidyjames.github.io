@@ -8,11 +8,8 @@ canonical: https://blog.elementary.io/privacy-and-elementary-os/
 sitemap: false
 image: https://cdn-images-1.medium.com/max/1280/1*A6acK8YdY-_VS414hveMlw.jpeg
 tags:
+  - elementary
   - privacy
-  - tattle-tale
-  - appcenter
-  - funding
-  - evergreen
 
 comments:
   id: 110661958226139942

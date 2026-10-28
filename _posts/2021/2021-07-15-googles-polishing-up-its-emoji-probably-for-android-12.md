@@ -4,6 +4,10 @@ description: Nearly everything outside of faces has been tweaked or entirely red
 updated: 2021-07-15
 
 redirect_to: https://www.androidpolice.com/2021/07/15/googles-polishing-up-its-emoji-probably-for-android-12/
+tags:
+  - android
+  - design
+  - google
 ---
 
 Google delivers its Android and Chrome OS emoji through the open source [Noto Emoji](https://www.google.com/get/noto/help/emoji/) project, and its latest release is a big one. Our last update [arrived back in September](https://www.androidpolice.com/2020/09/17/googles-newest-emoji-will-set-hearts-on-fire-literally-%f0%9f%94%a5/), and now this new revision is making tweaks all over: refining colors and textures, updating shading and positioning, and covering everything from numbers and symbols, to fruits and veggies.

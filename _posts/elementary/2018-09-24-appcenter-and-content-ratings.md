@@ -8,8 +8,8 @@ canonical: https://blog.elementary.io/appcenter-and-content-ratings/
 sitemap: false
 updated: 2018-09-24
 tags:
- - appcenter
- - oars
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-and-content-ratings/
 redirect_from:

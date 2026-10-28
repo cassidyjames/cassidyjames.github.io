@@ -8,6 +8,8 @@ redirect_from:
   - pinebook-pro
   - pinebookpro
 updated: 2020-07-24
+tags:
+  - hardware
 ---
 
 I recently got my hands on a Pinebook Pro from PINE64, and have spent the past couple of weeks using it—admittedly in rotation with a [Dell Precision 5530](/5530), [Slimbook Pro X](/prox), and System76 Meerkat. I have thoughts. tl;dr: Pinebook Pro is an impressive piece of hardware that provides a glimpse into an even brighter future of Linux-toting hardware.

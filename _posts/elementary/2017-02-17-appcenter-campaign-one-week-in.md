@@ -6,11 +6,8 @@ image: /images/blog/elementary/appcenter-campaign-one-week-in/1Sj5SaepizunJFThJS
 legacy: medium
 updated: 2017-02-17
 tags:
-  - "elementary-os"
-  - "open-source"
-  - "appcenter"
-  - "linux"
-  - "crowdfunding"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-campaign-one-week-in/
 redirect_from:

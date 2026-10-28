@@ -6,11 +6,8 @@ image: /images/blog/elementary/kicking-off-2017-with-web-updates/0Pa4iLVCIG482lM
 legacy: medium
 updated: 2017-01-01
 tags:
-  - "open-source"
-  - "github"
-  - "elementary-os"
-  - "web-development"
-  - "web-design"
+  - elementary
+  - webdev
 
 permalink: /blog/elementary/kicking-off-2017-with-web-updates/
 redirect_from:

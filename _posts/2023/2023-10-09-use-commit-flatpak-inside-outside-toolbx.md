@@ -5,6 +5,9 @@ description: Is this terrible? Probably. But it works!
 updated: 2023-10-10
 comments:
   id: 111207382044106242
+tags:
+  - flatpak
+  - howto
 ---
 
 This one's gonna be a short one, and is mostly for my own notes. :)

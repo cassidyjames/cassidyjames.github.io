@@ -8,8 +8,7 @@ canonical: https://blog.elementary.io/hera-updates-for-january-2020/
 sitemap: false
 updated: 2020-02-03
 tags:
- - hera
- - updates
+  - elementary
 
 facebook: https://www.facebook.com/elementaryos/posts/3019965241368618
 mastodon: https://mastodon.social/@elementary/103598029607557817

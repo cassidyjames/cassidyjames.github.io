@@ -8,8 +8,7 @@ canonical: https://blog.elementary.io/elementary-os-6-odin-updates-november-2021
 sitemap: false
 updated: 2021-11-29
 tags:
-  - odin
-  - updates
+  - elementary
 
 permalink: /blog/elementary/elementary-os-6-odin-updates-november-2021/
 redirect_from:

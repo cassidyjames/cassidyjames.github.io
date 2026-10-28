@@ -4,6 +4,10 @@ description: Designing the future of GNOME Shell
 updated: 2017-11-21
 legacy: true
 image: https://miro.medium.com/max/2000/0*xQE5I2AhyLQucKfh.jpg
+tags:
+  - gnome
+  - design
+  - events
 ---
 
 I just got back from a week-long design hackfest in London focused on GNOME Shell and related components. It was a fantastic week with friends from GNOME, Red Hat, Endless, System76, and elementary working together to help make GNOME even better.

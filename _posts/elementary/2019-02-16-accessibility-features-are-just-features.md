@@ -8,8 +8,8 @@ sitemap: false
 author: cassidyjames
 image: https://cdn-images-1.medium.com/max/1600/0*3Q6Snc6Qga_HsPK7
 tags:
-  - accessibility
-  - ux
+  - elementary
+  - design
 ---
 
 <figure markdown="1">

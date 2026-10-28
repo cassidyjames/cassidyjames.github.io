@@ -8,8 +8,8 @@ canonical: https://blog.elementary.io/appcenter-spotlight-fondo/
 sitemap: false
 updated: 2019-01-07
 tags:
-  - appcenter-spotlight
-  - interview
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-spotlight-fondo/
 redirect_from:

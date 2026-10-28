@@ -6,11 +6,8 @@ image: /images/blog/elementary/appcenter-spotlight-torrential/0H5knAgTDAGdp6haw.
 legacy: medium
 updated: 2017-09-30
 tags:
-  - "torrent"
-  - "appcenter-spotlight"
-  - "elementary-os"
-  - "open-source"
-  - "linux"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-spotlight-torrential/
 redirect_from:

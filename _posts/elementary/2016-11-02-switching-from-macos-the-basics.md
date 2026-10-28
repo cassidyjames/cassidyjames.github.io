@@ -8,8 +8,8 @@ canonical: https://blog.elementary.io/switching-from-macos-the-basics/
 sitemap: false
 updated: 2016-11-02
 tags:
-  - switching-from-macos
-  - evergreen
+  - elementary
+  - howto
 
 permalink: /blog/elementary/switching-from-macos-the-basics/
 redirect_from:

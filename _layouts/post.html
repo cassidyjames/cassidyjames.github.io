@@ -35,6 +35,8 @@ layout: default
 
   {% include post-date.html %} | {% include read-time.html %}
 
+  {% include post-tags.html tags=page.tags %}
+
   {{ content }}
 
   {% if page.legacy == 'elementary' %}

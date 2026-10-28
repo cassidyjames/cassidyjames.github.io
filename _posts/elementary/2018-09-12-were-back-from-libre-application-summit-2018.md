@@ -8,10 +8,10 @@ canonical: https://blog.elementary.io/were-back-from-libre-application-summit-20
 sitemap: false
 image: https://blog.elementary.io/assets/images/were-back-from-libre-application-summit-2018/1mRaQK_yUWddw-WKriNzBog.jpeg
 tags:
-  - event
+  - elementary
+  - events
   - flatpak
   - gnome
-  - las
 thanks: true
 ---
 

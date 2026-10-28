@@ -4,6 +4,9 @@ description: Fancy (or cringe) name aside, “the fediverse” is a wider networ
 updated: 2024-06-26
 
 image: /images/blog/how-why-threads-fediverse-mastodon/meta-header.gif
+tags:
+  - fediverse
+  - howto
 ---
 
 This week [Threads] announced it is rolling out wider support for connecting with "the fediverse," and it's a no-brainer to opt in to this feature if you're on Threads.

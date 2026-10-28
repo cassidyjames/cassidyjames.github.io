@@ -8,7 +8,8 @@ canonical: https://blog.elementary.io/now-shipping-elementary-os/
 sitemap: false
 updated: 2020-06-11
 tags:
-  - devices
+  - elementary
+  - hardware
 
 permalink: /blog/elementary/now-shipping-elementary-os/
 redirect_from:

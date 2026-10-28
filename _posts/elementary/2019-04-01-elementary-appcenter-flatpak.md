@@ -8,6 +8,7 @@ canonical: https://blog.elementary.io/elementary-appcenter-flatpak/
 sitemap: false
 updated: 2019-04-01
 tags:
+  - elementary
   - appcenter
   - flatpak
 

@@ -8,7 +8,8 @@ canonical: https://blog.elementary.io/the-new-elementary-store-is-here/
 sitemap: false
 updated: 2021-04-26
 tags:
-  - meta
+  - elementary
+  - webdev
 
 facebook: https://www.facebook.com/elementaryos/posts/4286648391366957
 mastodon: https://mastodon.social/@elementary/106134202983908716

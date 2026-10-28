@@ -6,10 +6,7 @@ image: /images/blog/elementary/loki-updates-for-april/18NEUFG-DVMKrbteb-vcqZw.pn
 legacy: medium
 updated: 2017-04-29
 tags:
-  - "elementary-os"
-  - "updates"
-  - "linux"
-  - "open-source"
+  - elementary
 
 permalink: /blog/elementary/loki-updates-for-april/
 redirect_from:

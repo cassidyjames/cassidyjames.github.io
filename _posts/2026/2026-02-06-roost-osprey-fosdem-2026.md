@@ -6,6 +6,9 @@ comments:
   id: 116026624253943199
 
 updated: 2026-02-06
+tags:
+  - roost
+  - events
 ---
 
 A few months ago [I joined ROOST](/blog/ive-joined-roost-oss-community-open-online-safety/) (Robust Open Online Safety Tools) to build our open source community that would be helping to create, distribute, and maintain common tools and building blocks for online trust and safety. One of the first events I wanted to make sure we attended in order to build that community was of course [FOSDEM](https://fosdem.org/2026/), the massive annual gathering of open source folks in Brussels, Belgium.

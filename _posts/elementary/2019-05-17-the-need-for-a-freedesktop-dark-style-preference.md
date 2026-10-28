@@ -8,11 +8,9 @@ legacy: elementary
 canonical: https://blog.elementary.io/the-need-for-a-freedesktop-dark-style-preference/
 sitemap: false
 tags:
+  - elementary
   - gnome
-  - fdo
-  - dark-style
-  - guadec
-  - ux
+  - design
 ---
 
 In the past year or so, [macOS](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/dark-mode/), [Windows](https://blogs.windows.com/windowsexperience/2019/04/01/windows-10-tip-dark-theme-in-file-explorer/#syl6IPzIdVQWT4k6.97), [Android](https://developer.android.com/preview/features/darktheme), [iOS](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/dark-mode/), [Chrome OS](https://chromeunboxed.com/chrome-os-testing-new-dark-mode/), [Safari](https://webkit.org/blog/8840/dark-mode-support-in-webkit/), [Chrome](https://support.google.com/chrome/answer/9275525?hl=en), and [Firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/67) have begun testing or released a user-set dark style preference that developers can opt into. It’s time for the FreeDesktop to catch up.

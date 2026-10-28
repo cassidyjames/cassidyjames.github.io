@@ -6,9 +6,9 @@ legacy: elementary
 canonical: https://blog.elementary.io/gnome-west-coast-summit/
 sitemap: false
 tags:
-  - event
+  - elementary
   - gnome
-  - hidpi
+  - events
 ---
 
 ![Whiteboard agenda](https://66.media.tumblr.com/2057fbee88ed339478361ff6b8370e60/tumblr_inline_nqturoVMxI1r2vnpt_1280.jpg)

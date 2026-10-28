@@ -3,6 +3,11 @@ title: Ephemeral 7 is Here
 description: "Developer tools, hard refresh, latest WebKit updates, support for elementary OS 6, and new site suggestions"
 updated: 2020-10-05
 image: /images/blog/ephemeral-7-developer-tools/repo.png
+tags:
+  - app
+  - elementary
+  - appcenter
+  - privacy
 ---
 
 It's been nearly two years since I first released Ephemeral—the always-incognito web browser for elementary OS—on AppCenter. In that time, I've added zoom, a refined design, site suggestions, customizable search engines, a JavaScript toggle, find-in-page, touchpad gesture navigation, dark style support, and more.

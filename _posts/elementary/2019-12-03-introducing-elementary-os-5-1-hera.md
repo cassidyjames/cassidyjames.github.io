@@ -9,13 +9,8 @@ sitemap: false
 updated: 2019-12-03
 
 tags:
-  - accessibility
+  - elementary
   - flatpak
-  - hera
-  - juno
-  - release
-  - sideload
-  - updates
 
 
 facebook: https://www.facebook.com/elementaryos/posts/2877229498975527

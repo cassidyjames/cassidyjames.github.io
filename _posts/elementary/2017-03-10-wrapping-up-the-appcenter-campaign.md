@@ -6,11 +6,8 @@ image: /images/blog/elementary/wrapping-up-the-appcenter-campaign/1Rqe1JFm1VqTVB
 legacy: medium
 updated: 2017-03-10
 tags:
-  - "crowdfunding"
-  - "appcenter"
-  - "elementary-os"
-  - "app-store"
-  - "open-source"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/wrapping-up-the-appcenter-campaign/
 redirect_from:

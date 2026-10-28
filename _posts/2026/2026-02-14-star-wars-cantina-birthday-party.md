@@ -3,6 +3,9 @@ title: How I Designed My Cantina Birthday Party
 description: Throwing the Star Wars party I always wanted!
 image: /images/blog/star-wars-cantina-birthday-party/table.jpg
 updated: 2026-02-14
+tags:
+  - personal
+  - starwars
 ---
 
 Ever since my partner and I bought a house several years ago, I've wanted to throw a themed Star Wars party here. We've talked about doing a summer movie showing thing, we've talked about doing a Star Wars TV show marathon, and we've done a few birthday parties—but never the _full-on_ themed party that I was dreaming up. Until this year!

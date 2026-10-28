@@ -8,8 +8,9 @@ canonical: https://blog.elementary.io/revitalize-mac-windows-computer/
 sitemap: false
 updated: 2020-10-16
 tags:
-  - evergreen
-  - meta
+  - elementary
+  - howto
+  - hardware
 
 mastodon: https://mastodon.social/@elementary/105046299565237362
 

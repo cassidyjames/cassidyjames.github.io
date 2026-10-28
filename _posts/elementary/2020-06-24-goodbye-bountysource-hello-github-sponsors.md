@@ -8,7 +8,7 @@ canonical: https://blog.elementary.io/goodbye-bountysource-hello-github-sponsors
 sitemap: false
 updated: 2020-06-24
 tags:
-  - funding
+  - elementary
 
 facebook: https://www.facebook.com/elementaryos/posts/3376497152382090
 mastodon: https://mastodon.social/@elementary/104401113688386951

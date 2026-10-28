@@ -2,6 +2,10 @@
 title: Flathub on elementary OS
 redirect_from: /flathub
 updated: 2020-04-14
+tags:
+  - flatpak
+  - elementary
+  - howto
 ---
 
 <small>**Note**: this post contains some future-thinking from me, and doesn't necessarily match up with any plans or thoughts of elementary as a whole. There's a reason it's on my personal blog. 😉️</small>

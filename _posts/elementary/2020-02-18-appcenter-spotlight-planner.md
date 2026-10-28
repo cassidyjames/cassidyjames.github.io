@@ -9,8 +9,8 @@ sitemap: false
 updated: 2020-02-18
 
 tags:
-  - appcenter-spotlight
-  - interview
+  - elementary
+  - appcenter
 
 facebook: https://www.facebook.com/elementaryos/posts/3052846374747171
 mastodon: https://mastodon.social/@elementary/103682138652819524

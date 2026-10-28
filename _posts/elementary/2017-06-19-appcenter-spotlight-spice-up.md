@@ -6,11 +6,8 @@ image: /images/blog/elementary/appcenter-spotlight-spice-up/1zfLehV_mh-bsuHc4o4b
 legacy: medium
 updated: 2017-06-19
 tags:
-  - "appcenter-spotlight"
-  - "elementary-os"
-  - "open-source"
-  - "linux"
-  - "presentations"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-spotlight-spice-up/
 redirect_from:

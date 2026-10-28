@@ -7,6 +7,7 @@ canonical: https://blog.elementary.io/why-the-looped-square-symbol/
 sitemap: false
 image: https://blog.elementary.io/images/why-the-looped-square-symbol/card.png
 tags:
+  - elementary
   - design
 ---
 

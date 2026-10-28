@@ -3,6 +3,9 @@ title: De-Googling
 description: …if only just a bit to start
 redirect_from: /dg
 updated: 2020-08-14
+tags:
+  - privacy
+  - google
 ---
 
 I don’t believe corporations can be inherently "good" or "evil." However, I believe it is important to consider the motivations behind companies' business models, and better understand how they track you, use your data, etc.

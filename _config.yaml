@@ -136,9 +136,24 @@ pagination:
   enabled: true
   per_page: 25
   permalink: /page/:num/
-  title: ":title (page :num)"
+  title: ":title (Page :num)"
   sort_field: updated
   sort_reverse: true
+
+# jekyll-paginate-v2 per-tag pages; categories and collections default to on
+autopages:
+  enabled: true
+  tags:
+    layouts: ["tag.html"]
+    title: "Posts tagged :tag"
+    permalink: "/blog/tag/:tag/"
+    slugify:
+      mode: "default"
+      cased: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
 
 plugins:
   - jekyll-feed

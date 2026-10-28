@@ -7,10 +7,8 @@ canonical: https://blog.elementary.io/user-interface-study-findings/
 sitemap: false
 author: cassidyjames
 tags:
-  - ui-study
-  - ux
-  - dark-style
-  - evergreen
+  - elementary
+  - design
 ---
 
 In my time contributing to elementary and GNOME, I’ve become familiar with pleas from users to implement official support for arbitrary themes — while that itself is a large and controversial topic, I have been working over the past few years to better understand the _why_ behind these requests. In addition to listening to folks across the elementary and GNOME issue trackers, social media, and in-person at hackfests, meetups, and conferences, I also decided to conduct a study to see if I could identify patterns in the data; over 1,500 users of various OSes and environments like Android, GNOME, Ubuntu, and macOS (and dozens more) participated, giving me a decent look into this group of users. I wanted to look into behaviors and opinions around three distinct areas of user interfaces: custom styles, dark modes, and night light modes.

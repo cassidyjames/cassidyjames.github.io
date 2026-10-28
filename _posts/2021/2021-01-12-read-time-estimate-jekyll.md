@@ -2,6 +2,9 @@
 title: "Estimating “Read Time” in Jekyll"
 description: "See it in use right here on the blog!"
 updated: 2021-01-12
+tags:
+  - webdev
+  - howto
 ---
 
 I'm a huge fan of static site generators like Jekyll, which I'm using for my website and various elementary sites like the [elementary Blog](https://blog.elementary.io). Over time, I've been working to make Jekyll blogs look and feel like a more full-featured dynamic CMS-based blog, like Wordpress, Ghost, or even Medium. However, much of what those dynamic sites do can be calculated at build time instead of on the fly—meaning Jekyll can handle them, no problem. One such example is a "read time" estimate.

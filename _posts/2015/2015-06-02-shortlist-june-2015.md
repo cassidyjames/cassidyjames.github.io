@@ -5,6 +5,8 @@ updated: 2015-06-02 19:26:00
 
 legacy: true
 redirect_from: /post/shortlist-june-2015
+tags:
+  - personal
 ---
 
 A year ago I explained [what my personal shortlist is](http://cassidyjames.com/post/shortlist-july-2014). It's time to update it!

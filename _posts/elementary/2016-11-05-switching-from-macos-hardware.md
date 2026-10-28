@@ -10,9 +10,9 @@ canonical: https://blog.elementary.io/switching-from-macos-hardware/
 sitemap: false
 updated: 2016-11-05
 tags:
-  - switching-from-macos
-  - oems
-  - evergreen
+  - elementary
+  - howto
+  - hardware
 
 permalink: /blog/elementary/switching-from-macos-hardware/
 redirect_from:

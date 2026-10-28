@@ -6,11 +6,8 @@ image: /images/blog/elementary/appcenter-spotlight-harvey/1naFgQ6vTgssGNGGPj8vOE
 legacy: medium
 updated: 2017-06-19
 tags:
-  - "design"
-  - "elementary-os"
-  - "appcenter"
-  - "open-source"
-  - "appcenter-spotlight"
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-spotlight-harvey/
 redirect_from:

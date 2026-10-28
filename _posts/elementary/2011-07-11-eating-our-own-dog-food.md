@@ -7,7 +7,7 @@ canonical: https://blog.elementary.io/eating-our-own-dog-food/
 sitemap: false
 image: /images/blog/elementary/eating-our-own-dog-food/card.png
 tags:
-  - meta
+  - elementary
 
 comments:
   id: 110673359287196956

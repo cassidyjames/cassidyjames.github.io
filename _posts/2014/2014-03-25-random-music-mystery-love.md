@@ -5,6 +5,8 @@ updated: 2014-03-25 16:10:00
 
 legacy: true
 redirect_from: /post/random-music-mystery-love
+tags:
+  - personal
 ---
 
 Daniel Foré shared this song with me and I thought it was pretty groovy/funky. It's by [+Hugo Millwood](https://plus.google.com/100841130929908678097/)'s band _Galaxy Cat_ over on [Bandcamp](https://galaxycat.bandcamp.com/). Check it out!

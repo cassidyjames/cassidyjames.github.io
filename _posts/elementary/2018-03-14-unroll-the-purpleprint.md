@@ -9,6 +9,9 @@ updated: 2018-03-14
 permalink: /blog/elementary/unroll-the-purpleprint/
 redirect_from:
   - /blog/unroll-the-purpleprint/
+tags:
+  - elementary
+  - design
 ---
 
 In our [_Let’s Talk About elementary OS 5.0 Juno_]({% post_url elementary/2018-02-12-lets-talk-about-elementary-os-5-juno %}) post, we debuted a new vibrant purple wallpaper with a sort of blueprint aesthetic going on. Where did that come from?

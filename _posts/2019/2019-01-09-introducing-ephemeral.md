@@ -7,9 +7,10 @@ legacy: true
 image: https://miro.medium.com/max/1400/1*v1WOWAngiyB9tAjuaqjn4Q.png
 
 tags:
-  - Ephemeral
-  - AppCenter
+  - app
   - elementary
+  - appcenter
+  - privacy
 ---
 
 ![icon](https://miro.medium.com/max/512/1*ngAOt2L66W0QUXBiHYsrnQ@2x.png){: width="128" height="128 }

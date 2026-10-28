@@ -6,11 +6,8 @@ image: /images/blog/elementary/secure-by-default-disk-encryption/1g1QNuj3lgSnsF-
 legacy: medium
 updated: 2018-01-24
 tags:
-  - "security"
-  - "secure-by-default"
-  - "elementary-os"
-  - "open-source"
-  - "encryption"
+  - elementary
+  - privacy
 
 permalink: /blog/elementary/secure-by-default-disk-encryption/
 redirect_from:

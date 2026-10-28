@@ -30,6 +30,8 @@
 #### {{ post.description }}
 {% endif %}
 
+{% include post-tags.html tags=post.tags %}
+
 {{ post.content | markdownify | strip_html | truncatewords: 24 }}
 
 [Read more]({{ post.url }}){: class="read-more"}

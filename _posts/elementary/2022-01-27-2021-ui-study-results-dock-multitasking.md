@@ -8,9 +8,8 @@ canonical: https://blog.elementary.io/2021-ui-study-results-dock-multitasking/
 sitemap: false
 updated: 2022-01-27
 tags:
-  - ui-study
-  - ux
-  - evergreen
+  - elementary
+  - design
 
 permalink: /blog/elementary/2021-ui-study-results-dock-multitasking/
 redirect_from:

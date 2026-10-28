@@ -9,6 +9,9 @@ updated: 2017-12-23
 permalink: /blog/elementary/appcenter-spotlight-2017-wrap-up/
 redirect_from:
   - /blog/appcenter-spotlight-2017-wrap-up/
+tags:
+  - elementary
+  - appcenter
 ---
 
 It was just earlier this year that AppCenter debuted pay-what-you-want apps to elementary OS, and it’s been a great year for apps.

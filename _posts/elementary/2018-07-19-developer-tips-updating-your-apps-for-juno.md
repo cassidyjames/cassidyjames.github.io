@@ -9,6 +9,9 @@ updated: 2018-07-19
 permalink: /blog/elementary/developer-tips-updating-your-apps-for-juno/
 redirect_from:
   - /blog/developer-tips-updating-your-apps-for-juno/
+tags:
+  - elementary
+  - appdev
 ---
 
 {% picture blog/elementary/developer-tips-updating-your-apps-for-juno/1MZ_BFLGT-Kr6CstGIoNNoQ.jpg %}

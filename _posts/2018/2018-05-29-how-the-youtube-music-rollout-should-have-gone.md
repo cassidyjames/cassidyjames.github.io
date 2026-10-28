@@ -4,6 +4,8 @@ description: Let’s Imagine an Alternate Universe
 updated: 2018-05-29
 image: https://miro.medium.com/max/700/0*dA_gBTM9jaoFo2vJ.
 legacy: true
+tags:
+  - design
 ---
 
 This whole [YouTube Music thing](https://www.androidpolice.com/2018/05/24/updated-youtube-music-now-rolling-will-eventually-play-music-features/) has been really poorly handled. It’s not entirely clear where the overlap is between existing services and subscriptions, what will happen to users’ content, and when anything is actually happening (some users are using the new YouTube Music app, but others, like me, got an ad for it and are still seeing the old version).

@@ -1,0 +1,19 @@
+---
+layout: default
+pagination:
+  enabled: true
+---
+{% assign tag = page.pagination.tag %}
+{% assign tag_data = site.data.tags[tag] %}
+
+<h1><a href="/blog">Cassidy’s Blog</a></h1>
+
+<h2>{{ tag_data.name | default: tag }}</h2>
+
+{% if tag_data.description %}<p class="subtitle">{{ tag_data.description }}</p>{% endif %}
+
+{% for post in paginator.posts %}
+  {% include post-summary.html post=post %}
+{% endfor %}
+
+{% include pagination.html %}

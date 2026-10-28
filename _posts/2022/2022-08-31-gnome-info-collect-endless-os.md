@@ -2,6 +2,10 @@
 title: Run `gnome-info-collect` on Endless OS
 description: Opt in to share a one-time snapshot of your configuration
 updated: 2022-08-31
+tags:
+  - endless
+  - gnome
+  - howto
 ---
 
 When `gnome-info-collect` was announced, I had a lot to say about it and the overarching direction:

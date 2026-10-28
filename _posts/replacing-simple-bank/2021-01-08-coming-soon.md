@@ -6,6 +6,9 @@ image: /images/blog/replacing-simple-bank/card.png
 
 permalink: /blog/replacing-simple-bank/
 redirect_to: https://www.androidpolice.com/2021/02/11/theres-no-good-replacement-for-simple/
+tags:
+  - personal
+  - banking
 ---
 
 {% picture {{ page.image | remove_first: '/images/' }} --alt Replacing Simple Bank %}

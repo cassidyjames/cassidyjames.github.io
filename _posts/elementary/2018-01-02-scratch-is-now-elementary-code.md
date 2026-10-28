@@ -8,8 +8,8 @@ canonical: https://blog.elementary.io/scratch-is-now-elementary-code/
 sitemap: false
 updated: 2018-01-02
 tags:
-  - juno
-  - devs
+  - elementary
+  - appdev
 
 permalink: /blog/elementary/scratch-is-now-elementary-code/
 redirect_from:

@@ -8,9 +8,8 @@ canonical: https://blog.elementary.io/hardware-improvements-coming-to-elementary
 sitemap: false
 updated: 2021-02-03
 tags:
-  - devices
-  - early-access
-  - odin
+  - elementary
+  - hardware
 
 facebook: https://www.facebook.com/elementaryos/posts/4044601975571601
 mastodon: https://mastodon.social/@elementary/105669195948108847

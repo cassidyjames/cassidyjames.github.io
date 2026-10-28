@@ -8,8 +8,8 @@ canonical: https://blog.elementary.io/appcenter-spotlight-write.as/
 sitemap: false
 updated: 2018-12-20
 tags:
-  - appcenter-spotlight
-  - interview
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/appcenter-spotlight-write.as/
 redirect_from:

@@ -8,8 +8,8 @@ canonical: https://blog.elementary.io/appcenter-for-everyone-campaign-results/
 sitemap: false
 updated: 2020-03-09
 tags:
- - appcenter
- - event
+  - elementary
+  - appcenter
 
 facebook: https://www.facebook.com/elementaryos/posts/3098527003512441
 mastodon: https://mastodon.social/@elementary/103797007689910835

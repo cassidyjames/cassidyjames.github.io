@@ -8,8 +8,7 @@ canonical: https://blog.elementary.io/updates-for-august-2019/
 sitemap: false
 updated: 2019-09-19
 tags:
-  - updates
-  - juno
+  - elementary
 
 permalink: /blog/elementary/updates-for-august-2019/
 redirect_from:

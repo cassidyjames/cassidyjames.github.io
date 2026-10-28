@@ -8,7 +8,8 @@ canonical: https://blog.elementary.io/cleaning-up-app-codenames/
 sitemap: false
 updated: 2017-07-21
 tags:
-  - dev
+  - elementary
+  - appdev
 
 permalink: /blog/elementary/cleaning-up-app-codenames/
 redirect_from:

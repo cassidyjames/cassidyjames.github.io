@@ -8,8 +8,7 @@ canonical: https://blog.elementary.io/elementary-os-6-odin-released/
 sitemap: false
 updated: 2021-08-10
 tags:
-  - odin
-  - release
+  - elementary
   - flatpak
 
 

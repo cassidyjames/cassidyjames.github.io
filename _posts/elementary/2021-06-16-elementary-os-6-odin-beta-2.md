@@ -8,9 +8,8 @@ canonical: https://blog.elementary.io/elementary-os-6-odin-beta-2/
 sitemap: false
 updated: 2021-06-16
 tags:
-  - early-access
-  - odin
-  - devs
+  - elementary
+  - flatpak
 
 permalink: /blog/elementary/elementary-os-6-odin-beta-2/
 redirect_from:

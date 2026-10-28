@@ -7,6 +7,10 @@ comments:
   id: 109983999626642925
 
 updated: 2023-03-07
+tags:
+  - endless
+  - flatpak
+  - howto
 ---
 
 {% picture {{ page.image | remove_first: '/images/' }} --alt Screenshot --img class="card" %}

@@ -8,9 +8,9 @@ canonical: https://blog.elementary.io/switching-from-macos-creative-work/
 sitemap: false
 updated: 2016-11-04
 tags:
-  - switching-from-macos
+  - elementary
+  - howto
   - design
-  - evergreen
 
 permalink: /blog/elementary/switching-from-macos-creative-work/
 redirect_from:

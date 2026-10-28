@@ -3,6 +3,9 @@ title: Farewell, elementary
 description: I’m moving on; here’s to the future!
 image: /images/blog/farewell-elementary/card-dark.png
 updated: 2022-03-31
+tags:
+  - career
+  - elementary
 ---
 
 Over the last decade, I've worked to help build [elementary](https://elementary.io) into what it is today: a world-class operating system lead by a team who is involved in and oftentimes driving the direction of the greater open source desktop space. In 2011 I founded elementary, LLC. so we could have a legal entity under which to do business, sign agreements, etc. I owned and ran the company for seven years, bearing the entirety of the legal responsibility and handling much of the administration and logistics. At the time of its founding, Dani and I both had jobs elsewhere and worked on building elementary as much as we could.

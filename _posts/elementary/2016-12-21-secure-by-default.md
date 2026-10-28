@@ -6,11 +6,9 @@ image: /images/blog/elementary/secure-by-default/1tYEdjk26OO5zkSXxWztBiQ.png
 legacy: medium
 updated: 2016-12-21
 tags:
-  - "privacy"
-  - "security"
-  - "open-source"
-  - "elementary-os"
-  - "secure-by-default"
+  - elementary
+  - privacy
+  - design
 
 permalink: /blog/elementary/secure-by-default/
 redirect_from:

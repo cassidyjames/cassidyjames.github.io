@@ -8,7 +8,7 @@ canonical: https://blog.elementary.io/lets-talk-about-elementary-os-5-juno/
 sitemap: false
 updated: 2018-02-12
 tags:
-  - juno
+  - elementary
 
 permalink: /blog/elementary/lets-talk-about-elementary-os-5-juno/
 redirect_from:

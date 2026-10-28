@@ -5,9 +5,10 @@ updated: 2018-01-14
 legacy: true
 
 tags:
-  - AppCenter
+  - app
   - elementary
-  - Dippi
+  - appcenter
+  - hardware
 ---
 
 ![icon](https://miro.medium.com/max/256/1*eg5zKKLPDHilLUcvuoycLw@2x.png){: width="128" height="128" }

@@ -5,6 +5,10 @@ updated: 2024-12-11
 image: /images/blog/publish-godot-engine-game-flathub-flatpak/card.png
 comments:
   id: 113633538720015413
+tags:
+  - flatpak
+  - appdev
+  - howto
 ---
 
 If you follow me on the fediverse ([{{ site.mastodon.handle }}]({{ site.mastodon.url }})), you may have seen me recently [gushing about ROTA](https://mastodon.blaede.family/@cassidy/113604784700813257), a video game I recently discovered. Besides the absolutely charming design and ridiculously satisfying gameplay, the game itself is _open source_, meaning the developer has published [the game's underlying code](https://github.com/HarmonyHoney/ROTA) out to the world for anyone to see, learn from, and adapt.

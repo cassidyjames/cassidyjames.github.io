@@ -5,6 +5,9 @@ updated: 2024-05-28
 image: /images/blog/dell-xps-13-9310-boot-bios-recover/xps-13-9310.png
 comments:
   id: 112520487387063066
+tags:
+  - hardware
+  - howto
 ---
 
 It seems like every few months my work Dell XPS 13 just… dies. Or at least, it seems like it for a few minutes, making me panic about being able to do my work and wondering about backups. And then I remember that it just likes to play dead for no reason—maybe I recently did a BIOS update, maybe I had to open its chassis for some reason (like a jittery trackpad… another blog post I need to write), maybe the battery was totally discharged, or maybe it just wants to troll me. Idk. But it happens more regularly than it should.

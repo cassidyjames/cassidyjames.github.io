@@ -5,6 +5,8 @@ updated: 2014-07-23 11:02:00
 
 legacy: true
 redirect_from: /post/misuse-of-terms-in-uis
+tags:
+  - design
 ---
 
 Throughout the years, I've noticed several recurring misuses of terms in user interfaces. Designers or developers often don't know when to use one term over another, or what the difference between two similar terms is. These really are grammar rules, but they specifically apply to user interfaces.

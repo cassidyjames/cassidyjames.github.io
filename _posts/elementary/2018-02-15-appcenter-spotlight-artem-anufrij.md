@@ -9,6 +9,9 @@ updated: 2018-02-15
 permalink: /blog/elementary/appcenter-spotlight-artem-anufrij/
 redirect_from:
   - /blog/appcenter-spotlight-artem-anufrij/
+tags:
+  - elementary
+  - appcenter
 ---
 
 Artem Anufrij has become a sort of legend of AppCenter: he’s published ten apps (more than any other single developer so far), written a suite of multimedia apps (Melody, Cinema, and Memories), and actively engages with the elementary team on a regular basis.

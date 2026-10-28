@@ -6,11 +6,9 @@ image: /images/blog/elementary/developer-tips-branding-your-app/1V1j9nHFHmYloLUm
 legacy: medium
 updated: 2018-01-31
 tags:
-  - "design"
-  - "elementary-os"
-  - "how-to"
-  - "tips"
-  - "branding"
+  - elementary
+  - appdev
+  - design
 
 permalink: /blog/elementary/developer-tips-branding-your-app/
 redirect_from:

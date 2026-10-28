@@ -4,6 +4,9 @@ description: Documenting for my own purposes—but hopefully it's helpful!
 image: /images/blog/github-pages-jekyll-fedora-silverblue/toolbox.gif
 
 updated: 2022-12-18
+tags:
+  - webdev
+  - howto
 ---
 
 For the past decade, I've used Ubuntu or Ubuntu-based distributions like

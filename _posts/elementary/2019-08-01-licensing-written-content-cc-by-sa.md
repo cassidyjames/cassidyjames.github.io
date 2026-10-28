@@ -13,9 +13,7 @@ mastodon: https://mastodon.social/@elementary/102562197489458529
 reddit: https://www.reddit.com/r/elementaryos/comments/cmfv6r/licensing_for_our_written_content_elementary_blog/
 twitter: https://twitter.com/elementary/status/1158214562627366913
 tags:
-  - open-source
-  - meta
-  - evergreen
+  - elementary
 
 permalink: /blog/elementary/licensing-written-content-cc-by-sa/
 redirect_from:

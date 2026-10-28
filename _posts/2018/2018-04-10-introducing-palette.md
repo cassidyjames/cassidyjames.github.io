@@ -6,9 +6,10 @@ legacy: true
 updated: 2018-04-10
 
 tags:
-  - AppCenter
+  - app
   - elementary
-  - Palette
+  - appcenter
+  - design
 ---
 
 ![icon](https://miro.medium.com/max/256/1*llI8iRmByS2cqOHDpZySHQ.png){: width="128" height="128" }

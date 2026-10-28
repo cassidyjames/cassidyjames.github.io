@@ -6,10 +6,9 @@ image: /images/blog/elementary/hidpi-is-more-important-than-4k/1lOK2LImlJ58TtlPa
 legacy: medium
 updated: 2017-02-13
 tags:
-  - "design"
-  - "ui"
-  - "hidpi"
-  - "elementary-os"
+  - elementary
+  - hardware
+  - design
 
 permalink: /blog/elementary/hidpi-is-more-important-than-4k/
 redirect_from:

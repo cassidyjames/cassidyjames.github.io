@@ -5,6 +5,9 @@ updated: 2015-04-29 19:42:00
 
 legacy: true
 redirect_from: /post/elementary-wishlist-2
+tags:
+  - elementary
+  - design
 ---
 
 About a year ago [I posted a list of four random apps or utilities](http://cassidyjames.com/post/my-elementary-wishlist) that I'd love to be able to use on elementary OS. While one of those apps was started (Taxi, the FTP client), I've thought up a few more.

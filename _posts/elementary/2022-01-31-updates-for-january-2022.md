@@ -9,8 +9,7 @@ sitemap: false
 updated: 2022-01-31
 
 tags:
-  - updates
-  - jolnir
+  - elementary
 
 permalink: /blog/elementary/updates-for-january-2022/
 redirect_from:

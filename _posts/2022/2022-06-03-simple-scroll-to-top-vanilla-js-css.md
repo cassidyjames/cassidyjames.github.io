@@ -4,6 +4,9 @@ description: Continuing my series of documenting things for myself
 image: /images/blog/simple-scroll-to-top-vanilla-js-css/card.png
 
 updated: 2022-06-03
+tags:
+  - webdev
+  - howto
 ---
 
 I'll probably expand on this in the future, but I am fairly proud of how this turned out! A client wanted a back-to-top button on their rentals page since the page was getting pretty tall, and I decided to whip something progressively-enhancing up.

@@ -9,6 +9,9 @@ updated: 2018-01-28
 permalink: /blog/elementary/appcenter-spotlight-image-optimizer/
 redirect_from:
   - /blog/appcenter-spotlight-image-optimizer/
+tags:
+  - elementary
+  - appcenter
 ---
 
 Sometimes you want a simple utility that just does one thing really well. For lossless image compression, Image Optimizer by Gijs Goudzwaard delivers in an easy-to-understand and lightweight app.

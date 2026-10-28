@@ -8,8 +8,8 @@ canonical: https://blog.elementary.io/elementary-os-6-odin-updates-september-202
 sitemap: false
 updated: 2021-10-04
 tags:
-  - odin
-  - updates
+  - elementary
+  - appcenter
 
 permalink: /blog/elementary/elementary-os-6-odin-updates-september-2021/
 redirect_from:

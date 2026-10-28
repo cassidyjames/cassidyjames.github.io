@@ -8,8 +8,9 @@ canonical: https://blog.elementary.io/what-is-hidpi/
 sitemap: false
 image: https://cdn-images-1.medium.com/max/800/1*VRciIe3d3U-EYduVMs1YCw.png
 tags:
-  - hidpi
-  - evergreen
+  - elementary
+  - hardware
+  - design
 ---
 
 I’m a web developer and UX architect formerly at Ubuntu computer manufacturer [System76](https://system76.com), and cofounder of [elementary OS](https://elementary.io), an open source desktop operating system. I’ve worked with desktop, web, and hardware developers to implement HiDPI and have noticed many have a hard time understanding this complex topic because there’s not a whole lot of good information out there. This is my attempt at both introducing HiDPI and knocking down some common misconceptions I’ve heard.

@@ -8,8 +8,7 @@ canonical: https://blog.elementary.io/updates-for-july-2019/
 sitemap: false
 updated: 2019-08-04
 tags:
-  - updates
-  - juno
+  - elementary
 
 facebook: https://www.facebook.com/elementaryos/posts/2624806034217876
 mastodon: https://mastodon.social/@elementary/102565965725391937

@@ -7,8 +7,7 @@ canonical: https://blog.elementary.io/hello-luna-beta-1/
 sitemap: false
 
 tags:
-  - luna
-  - pre-release
+  - elementary
 ---
 
 Developers and testers, today we are happy to announce the first beta release of elementary OS Luna. We've been working hard the past year and a half to create the next generation of elementary, and it begins with this beta.

@@ -6,11 +6,10 @@ image: /images/blog/elementary/developer-tips-make-a-killer-appcenter-listing/1g
 legacy: medium
 updated: 2017-08-25
 tags:
-  - "design"
-  - "appcenter"
-  - "elementary-os"
-  - "tips"
-  - "how-to"
+  - elementary
+  - appcenter
+  - appdev
+  - design
 
 permalink: /blog/elementary/developer-tips-make-a-killer-appcenter-listing/
 redirect_from:

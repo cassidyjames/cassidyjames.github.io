@@ -8,8 +8,8 @@ canonical: https://blog.elementary.io/get-settled-into-elementary-os-with-onboar
 sitemap: false
 updated: 2019-07-23
 tags:
+  - elementary
   - design
-  - onboarding
 
 permalink: /blog/elementary/get-settled-into-elementary-os-with-onboarding/
 redirect_from:

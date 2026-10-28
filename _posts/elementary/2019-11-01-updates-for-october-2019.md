@@ -9,10 +9,8 @@ sitemap: false
 updated: 2019-11-01
 
 tags:
-  - updates
-  - juno
+  - elementary
   - flatpak
-  - appcenter
 
 
 facebook: https://www.facebook.com/elementaryos/posts/2804510489580762

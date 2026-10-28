@@ -8,7 +8,7 @@ canonical: https://blog.elementary.io/linux-plus-plus-interview-cassidy-james-bl
 sitemap: false
 updated: 2020-06-20
 tags:
-  - interview
+  - elementary
 ---
 
 ![Linux++]({{ page.image }}){: srcset="https://blog.elementary.io/images/{{ page.slug }}/feature@2x.png 2x" width="800" height="266"}

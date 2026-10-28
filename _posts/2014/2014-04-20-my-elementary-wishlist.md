@@ -5,6 +5,9 @@ updated: 2014-04-20 19:27:00
 
 legacy: true
 redirect_from: /post/my-elementary-wishlist
+tags:
+  - elementary
+  - design
 ---
 
 Occasionally I think of random apps or utilities that I'd love to be able to use on elementary OS. I jot them down and keep doing what I was doing, but today I decided to share in the hopes of inspiring someone out there to design and develop some cool things. :)

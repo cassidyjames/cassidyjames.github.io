@@ -8,9 +8,8 @@ canonical: https://blog.elementary.io/switching-from-macos-open-source/
 sitemap: false
 updated: 2016-11-06
 tags:
- - switching-from-macos
- - open-source
-  - evergreen
+  - elementary
+  - howto
 
 permalink: /blog/elementary/switching-from-macos-open-source/
 redirect_from:

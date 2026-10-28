@@ -8,9 +8,9 @@ canonical: https://blog.elementary.io/gnomes-new-app-icons-drop-pixel-precision-
 sitemap: false
 updated: 2019-01-23
 tags:
-  - design
+  - elementary
   - gnome
-  - icons
+  - design
 
 permalink: /blog/elementary/gnomes-new-app-icons-drop-pixel-precision-and-hinting/
 redirect_from:

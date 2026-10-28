@@ -1,0 +1,59 @@
+# Optional metadata for blog post tags, keyed by the slug used in front matter.
+# Tags missing here still work; they just display the raw slug.
+
+elementary:
+  name: elementary
+  description: Posts from my years co-founding and building elementary OS, including the ones cross-posted from the elementary blog.
+appcenter:
+  name: AppCenter
+  description: elementary's pay-what-you-want app store, from crowdfunding it to spotlighting the apps in it.
+gnome:
+  name: GNOME
+  description: The GNOME desktop, community, and Foundation.
+flatpak:
+  name: Flatpak & Flathub
+  description: Building, publishing, and using apps with Flatpak and Flathub.
+endless:
+  name: Endless OS
+  description: My time at the Endless OS Foundation.
+roost:
+  name: ROOST
+  description: Robust Open Online Safety Tools.
+design:
+  name: Design
+  description: UX, UI, branding, and design thinking.
+webdev:
+  name: Web Development
+  description: Building websites, including this one.
+appdev:
+  name: App Development
+  description: Tips and tools for app developers.
+app:
+  name: App
+  description: Apps I've made.
+hardware:
+  name: Hardware
+  description: Laptops, phones, displays, and other devices.
+android:
+  name: Android
+privacy:
+  name: Privacy & Security
+fediverse:
+  name: Fediverse
+  description: Mastodon and the wider fediverse.
+events:
+  name: Events
+  description: Conferences, summits, hackfests, and sprints.
+howto:
+  name: How-To
+  description: Guides and notes-to-self that might help someone else, too.
+career:
+  name: Career
+personal:
+  name: Personal
+banking:
+  name: Banking
+google:
+  name: Google
+starwars:
+  name: Star Wars

@@ -1,11 +1,25 @@
 {% assign hash = site.time | date: '%s' %}
+{% assign title = page.title %}
+{% assign section = nil %}
+{% if page.pagination.tag %}
+  {% assign title = site.data.tags[page.pagination.tag].name | default: page.pagination.tag %}
+  {% if page.pagination_info.curr_page > 1 %}
+    {% assign title = title | append: " (Page " | append: page.pagination_info.curr_page | append: ")" %}
+  {% endif %}
+  {% assign section = "Blog" %}
+{% elsif page.collection == "posts" %}
+  {% assign section = "Blog" %}
+{% endif %}
+{% assign full_title = site.title %}
+{% if section %}{% assign full_title = section | append: " · " | append: full_title %}{% endif %}
+{% if title %}{% assign full_title = title | append: " · " | append: full_title %}{% endif %}
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}</title>
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <title>{{ full_title }}</title>
+  <meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta itemprop="name" content="{% if title %}{{ title }}{% else %}{{ site.title }}{% endif %}">
 
   <link rel="alternate" type="application/rss+xml" title="Cassidy’s Blog" href="{{ "/feed.xml" | absolute_url }}" />
 

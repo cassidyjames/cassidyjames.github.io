@@ -8,8 +8,9 @@ canonical: https://blog.elementary.io/introducing-new-appcenter-categories/
 sitemap: false
 updated: 2018-01-17
 tags:
+  - elementary
   - appcenter
-  - devs
+  - appdev
 
 permalink: /blog/elementary/introducing-new-appcenter-categories/
 redirect_from:

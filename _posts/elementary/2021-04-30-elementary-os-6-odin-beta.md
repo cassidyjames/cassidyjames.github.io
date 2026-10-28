@@ -8,9 +8,8 @@ canonical: https://blog.elementary.io/elementary-os-6-odin-beta/
 sitemap: false
 updated: 2021-04-30
 tags:
-  - early-access
-  - odin
-  - devs
+  - elementary
+  - appdev
 
 facebook: https://www.facebook.com/elementaryos/posts/4298503596848103
 mastodon: https://mastodon.social/@elementary/106157045038618305

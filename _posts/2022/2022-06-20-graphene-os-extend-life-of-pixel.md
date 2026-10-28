@@ -4,6 +4,10 @@ description: The security- and privacy-focused OS can be bent back into a Pixel 
 image: /images/blog/graphene-os-extend-life-of-pixel/card.png
 
 updated: 2022-09-23
+tags:
+  - android
+  - privacy
+  - howto
 ---
 
 ### Important Update

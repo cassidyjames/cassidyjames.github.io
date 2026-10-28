@@ -8,7 +8,8 @@ canonical: https://blog.elementary.io/star-labs-starbook-mk-v/
 sitemap: false
 updated: 2021-12-06
 tags:
-  - devices
+  - elementary
+  - hardware
 
 permalink: /blog/elementary/star-labs-starbook-mk-v/
 redirect_from:
