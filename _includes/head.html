@@ -64,8 +64,7 @@
   <meta name="support-link" content="{{ site.donate }}" />
 {% endif %}
 
-  <link rel="preconnect" href="https://rsms.me/">
-  <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+  <link rel="preload" href="/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | relative_url | append: '?v=' | append: hash }}">
 
   {% if jekyll.environment == "production" and site.url == "https://cassidyjames.com" %}
