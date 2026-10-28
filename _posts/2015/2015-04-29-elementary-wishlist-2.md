@@ -1,6 +1,7 @@
 ---
 title: My elementary Wishlist x2
 date: 2015-04-29 19:42
+updated: 2015-04-29 19:42:00
 
 legacy: true
 redirect_from: /post/elementary-wishlist-2

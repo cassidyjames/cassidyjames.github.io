@@ -1,6 +1,7 @@
 ---
 title: Life Changes
 date: 2014-04-24 15:54
+updated: 2014-04-24 15:54:00
 
 legacy: true
 redirect_from: /post/life-changes

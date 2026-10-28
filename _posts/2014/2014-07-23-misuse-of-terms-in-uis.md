@@ -1,6 +1,7 @@
 ---
 title: Misuse of Terms in UIs
 date: 2014-07-23 11:02
+updated: 2014-07-23 11:02:00
 
 legacy: true
 redirect_from: /post/misuse-of-terms-in-uis

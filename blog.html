@@ -1,0 +1,29 @@
+---
+title: Blog
+permalink: /blog/
+pagination:
+  enabled: true
+---
+
+<h1 id="cassidys-blog">Cassidy’s Blog</h1>
+
+{% capture intro %}
+A barebones place for my thoughts. Some of my writing is also on the [elementary blog](https://blog.elementary.io/authors/#cassidyjames), and I've written a few pieces for [Android Police](https://www.androidpolice.com/author/cassidy/).
+{% endcapture %}
+{{ intro | markdownify }}
+
+{% for post in paginator.posts %}
+  {% include post-summary.html post=post %}
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<nav class="pagination">
+  {% if paginator.previous_page %}
+    <a class="button newer" href="{{ paginator.previous_page_path | relative_url }}">← Newer</a>
+  {% endif %}
+  <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a class="button older" href="{{ paginator.next_page_path | relative_url }}">Older →</a>
+  {% endif %}
+</nav>
+{% endif %}

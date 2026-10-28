@@ -1,6 +1,7 @@
 ---
 title: "Shortlist: July 2014"
 date: 2014-07-07 14:54
+updated: 2014-07-07 14:54:00
 
 legacy: true
 redirect_from: /post/shortlist-july-2014

@@ -18,6 +18,33 @@ html.blog {
   }
 }
 
+.pagination {
+  align-items: center;
+  display: grid;
+  gap: 1em;
+  grid-template-columns: 1fr auto 1fr;
+  margin: 4rem 0;
+
+  .button {
+    margin: 0;
+  }
+
+  .newer {
+    grid-column: 1;
+    justify-self: start;
+  }
+
+  span {
+    grid-column: 2;
+    opacity: 0.67;
+  }
+
+  .older {
+    grid-column: 3;
+    justify-self: end;
+  }
+}
+
 .license {
   margin: 2em auto;
   text-align: center;

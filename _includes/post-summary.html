@@ -5,17 +5,21 @@
   {% assign date = post.updated %}
 {% endif %}
 
-{% capture output %}
-
+{% capture image %}
 {% if post.image %}
 {% assign image_prefix = post.image | slice: 0, 8 %}
 {% assign image_ext = post.image | split: '.' | last | downcase %}
+<p><a href="{{ post.url }}">
 {% if image_prefix == '/images/' and image_ext != 'gif' and image_ext != 'svg' %}
-[{% picture {{ post.image | remove_first: '/images/' }} --alt {{ post.title }} image --img class="card" %}]({{ post.url }})
+{% picture {{ post.image | remove_first: '/images/' }} --alt {{ post.title }} image --img class="card" %}
 {% else %}
-[![{{ post.title }} image]({{ post.image }}){: .card }]({{ post.url }})
+<img class="card" src="{{ post.image }}" alt="{{ post.title }} image" />
 {% endif %}
+</a></p>
 {% endif %}
+{% endcapture %}
+
+{% capture output %}
 
 <h3>
   <a href="{{ post.url }}">{{ post.title }}</a>
@@ -33,5 +37,6 @@
 {% endcapture %}
 
 <div class="post-summary">
+{{ image }}
 {{ output | markdownify }}
 </div>

@@ -1,6 +1,7 @@
 ---
 title: 5 Myths About elementary
 date: 2014-03-31 02:30
+updated: 2014-03-31 02:30:00
 
 legacy: true
 redirect_from: /post/5-myths-about-elementary

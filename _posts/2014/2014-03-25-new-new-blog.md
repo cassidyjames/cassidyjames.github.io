@@ -1,6 +1,7 @@
 ---
 title: New New Blog
 date: 2014-03-25 14:12
+updated: 2014-03-25 14:12:00
 
 legacy: true
 redirect_from: /post/new-new-blog

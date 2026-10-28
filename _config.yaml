@@ -131,8 +131,18 @@ picture:
   source: images/
   output: img/
 
+# jekyll-paginate-v2; pages also opt in with `pagination: enabled: true`
+pagination:
+  enabled: true
+  per_page: 25
+  permalink: /page/:num/
+  title: ":title (page :num)"
+  sort_field: updated
+  sort_reverse: true
+
 plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll_picture_tag

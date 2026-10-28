@@ -1,4 +1,4 @@
-<nav>{% assign current = page.url | downcase | split: '/' %}
+<nav class="site-nav">{% assign current = page.url | downcase | split: '/' %}
 
   <a href="/" {% if current[1] == null %}class='current'{% endif %} title="Home"><img class="avatar" alt="{{ site.title }}" src="{{ site.avatar | relative_url }}" width="32" height="32" /></a>
 

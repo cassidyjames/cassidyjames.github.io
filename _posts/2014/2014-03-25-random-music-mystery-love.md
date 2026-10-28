@@ -1,6 +1,7 @@
 ---
 title: "Random Music: Mystery Love"
 date: 2014-03-25 16:10
+updated: 2014-03-25 16:10:00
 
 legacy: true
 redirect_from: /post/random-music-mystery-love

@@ -1,6 +1,7 @@
 ---
 title: Shortlist (June 2015)
 date: 2015-06-02 19:26
+updated: 2015-06-02 19:26:00
 
 legacy: true
 redirect_from: /post/shortlist-june-2015

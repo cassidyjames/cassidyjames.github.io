@@ -130,7 +130,7 @@ html.starwars {
       }
     }
 
-    nav {
+    .site-nav {
       background-color: rgba(var(--background-rgb), 0.8);
       backdrop-filter: var(--glass);
       box-shadow: 0 0 64px rgba(0, 0, 0, 0.5);
@@ -167,7 +167,7 @@ html.starwars {
           url("/images/starwars/kenobi.jpg");
       }
 
-      nav {
+      .site-nav {
         background-color: rgba(var(--background-rgb), 0.75);
       }
 
@@ -257,7 +257,7 @@ html.starwars {
       }
     }
 
-    nav {
+    .site-nav {
       background-color: rgba(var(--background-rgb), 0.8);
       backdrop-filter: var(--glass);
       box-shadow: 0 0 64px rgba(0, 0, 0, 0.5);
@@ -295,7 +295,7 @@ html.starwars {
     @media (prefers-color-scheme: dark) {
       --background-rgb: 0, 0, 0;
 
-      nav {
+      .site-nav {
         background-color: rgba(var(--background-rgb), 0.75);
       }
 
