@@ -1,6 +1,7 @@
 ---
 title: Google's polishing up its emoji—probably for Android 12
 description: Nearly everything outside of faces has been tweaked or entirely redrawn
+image: /images/blog/android-police/googles-polishing-up-its-emoji-probably-for-android-12/new-emoji.png
 updated: 2021-07-15
 
 redirect_to: https://www.androidpolice.com/2021/07/15/googles-polishing-up-its-emoji-probably-for-android-12/
@@ -16,14 +17,16 @@ In general, emoji that consist of a symbol on a square plate have had their colo
 
 Here you can view a small representative comparison for yourself:
 
-Some old Noto Emoji
-Some new Noto Emoji
+![Some old Noto Emoji](/images/blog/android-police/googles-polishing-up-its-emoji-probably-for-android-12/old-1.png)
+
+![Some new Noto Emoji](/images/blog/android-police/googles-polishing-up-its-emoji-probably-for-android-12/new-1.png)
 
 _Move the slider left and right to compare old emoji with the new style._
 
 On the more subtle side, we've spotted tweaks to faces including open eyes in the mask emoji (presumably to make it more suitable to encourage preventative masking instead of only indicating a sick person). To my eye, the overall aesthetic has seemed to shift back in the direction of earlier Android emoji, returning to a flatter and almost blob-like playful style.
 
-Sheet of all previous Noto Emoji
-Sheet of all previous Noto Emoji
+![Sheet of all previous Noto Emoji](/images/blog/android-police/googles-polishing-up-its-emoji-probably-for-android-12/old_32.png)
+
+![Sheet of all new Noto Emoji](/images/blog/android-police/googles-polishing-up-its-emoji-probably-for-android-12/new_32.png)
 
 There's no word on when these redesigned emoji will make their way into Android or Chrome OS—and they don't appear to include any of the new 2021 proposals—but with Android 12 on the horizon, it's a good bet we'll see them in action soon.
