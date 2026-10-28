@@ -1,6 +1,6 @@
 {% assign hash = site.time | date: '%s' %}
 {% assign title = page.title %}
-{% assign section = nil %}
+{% assign section = page.section %}
 {% if page.pagination.tag %}
   {% assign title = site.data.tags[page.pagination.tag].name | default: page.pagination.tag %}
   {% if page.pagination_info.curr_page > 1 %}

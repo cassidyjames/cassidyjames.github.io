@@ -18,7 +18,7 @@ html.blog {
   }
 }
 
-.tags {
+.tag-list {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5em;
@@ -47,6 +47,23 @@ html.blog {
       text-decoration: none;
       transform: translateY(-1px);
     }
+  }
+}
+
+.tag-index {
+  list-style: none;
+  padding: 0;
+
+  li {
+    margin-block: 0 2em;
+  }
+
+  h3 {
+    margin-block: 0;
+  }
+
+  p {
+    margin-block: 0.25em 0;
   }
 }
 

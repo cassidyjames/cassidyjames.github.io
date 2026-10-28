@@ -146,7 +146,7 @@ autopages:
   tags:
     layouts: ["tag.html"]
     title: "Posts tagged :tag"
-    permalink: "/blog/tag/:tag/"
+    permalink: "/blog/tags/:tag/"
     slugify:
       mode: "default"
       cased: true

@@ -1,59 +1,64 @@
-# Optional metadata for blog post tags, keyed by the slug used in front matter.
-# Tags missing here still work; they just display the raw slug.
+# Optional metadata for blog post tags, i.e. to display on the tag index
 
-elementary:
-  name: elementary
-  description: Posts from my years co-founding and building elementary OS, including the ones cross-posted from the elementary blog.
-appcenter:
-  name: AppCenter
-  description: elementary's pay-what-you-want app store, from crowdfunding it to spotlighting the apps in it.
-gnome:
-  name: GNOME
-  description: The GNOME desktop, community, and Foundation.
-flatpak:
-  name: Flatpak & Flathub
-  description: Building, publishing, and using apps with Flatpak and Flathub.
-endless:
-  name: Endless OS
-  description: My time at the Endless OS Foundation.
-roost:
-  name: ROOST
-  description: Robust Open Online Safety Tools.
-design:
-  name: Design
-  description: UX, UI, branding, and design thinking.
-webdev:
-  name: Web Development
-  description: Building websites, including this one.
-appdev:
-  name: App Development
-  description: Tips and tools for app developers.
-app:
-  name: App
-  description: Apps I've made.
-hardware:
-  name: Hardware
-  description: Laptops, phones, displays, and other devices.
 android:
   name: Android
-privacy:
-  name: Privacy & Security
-fediverse:
-  name: Fediverse
-  description: Mastodon and the wider fediverse.
-events:
-  name: Events
-  description: Conferences, summits, hackfests, and sprints.
-howto:
-  name: How-To
-  description: Guides and notes-to-self that might help someone else, too.
-career:
-  name: Career
-personal:
-  name: Personal
+  description: Posts about Google’s open source mobile platform
+app:
+  name: App
+  description: Updates about the apps I make or contribute to
+appcenter:
+  name: AppCenter
+  description: Posts about the pay-what-you-can app store from elementary
+appdev:
+  name: App Development
+  description: Tips and tools for app developers
 banking:
   name: Banking
+  description: Posts about banking apps, because they all suck
+career:
+  name: Career
+  description: Updates about my career or employment
+design:
+  name: Design
+  description: Thoughts about user experience design, UI design, design thinking, and more
+elementary:
+  name: elementary
+  description: Posts about elementary OS and related topics
+endless:
+  name: Endless OS
+  description: Posts from my time at the Endless OS Foundation/Endless Access
+events:
+  name: Events
+  description: Reports from events like conferences, hackfests, and sprints
+fediverse:
+  name: Fediverse
+  description: Posts about Mastodon and the wider fediverse
+flatpak:
+  name: Flatpak & Flathub
+  description: Posts about Flathub or building and publishing apps with Flatpak
+gnome:
+  name: GNOME
+  description: Posts about the GNOME Foundation, community, and open source project
 google:
   name: Google
+  description: Posts about Google, related platforms, and de-googling
+hardware:
+  name: Hardware
+  description: Posts about laptops, phones, displays, and other devices
+howto:
+  name: How-To
+  description: Guides and notes-to-self that might help someone else, too
+personal:
+  name: Personal
+privacy:
+  name: Privacy
+  description: Posts about privacy and sometimes security
+roost:
+  name: ROOST
+  description: Posts about Robust Open Online Safety Tools
 starwars:
   name: Star Wars
+  description: Posts from a galaxy far, far away
+webdev:
+  name: Web Development
+  description: Posts about building websites (including this one!)
