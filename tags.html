@@ -1,0 +1,36 @@
+---
+title: Tags
+section: Blog
+permalink: /blog/tags/
+---
+
+<h1><a href="/blog">Cassidy’s Blog</a></h1>
+
+<h2>Tags</h2>
+
+{% assign names = "" | split: "" %}
+{% for tag in site.tags %}
+  {% assign slug = tag[0] %}
+  {% assign name = site.data.tags[slug].name | default: slug %}
+  {% assign names = names | push: name %}
+{% endfor %}
+{% assign names = names | sort_natural | uniq %}
+
+<ul class="tag-index">
+  {% for name in names %}
+    {% for tag in site.tags %}
+      {% assign slug = tag[0] %}
+      {% assign tag_name = site.data.tags[slug].name | default: slug %}
+      {% if tag_name != name %}{% continue %}{% endif %}
+      {% assign visible = tag[1] | where_exp: "post", "post.hidden != true" %}
+      {% if visible.size == 0 %}{% continue %}{% endif %}
+      <li>
+        <h3>
+          <a href="/blog/tags/{{ slug | slugify }}/">{{ name }}</a>
+          <strong>{{ visible.size }} {% if visible.size == 1 %}post{% else %}posts{% endif %}</strong>
+        </h3>
+        {% if site.data.tags[slug].description %}<p>{{ site.data.tags[slug].description }}</p>{% endif %}
+      </li>
+    {% endfor %}
+  {% endfor %}
+</ul>
