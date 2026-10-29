@@ -52,6 +52,7 @@ I know not to promise anything (especially timelines!) but here are some things 
 - Find some of my more verbose Mastodon threads and turn them into blog posts
 - Automatically-generated social cards by default
 - Search while keeping everything static
+- Address whatever other [issues I've opened](https://github.com/cassidyjames/cassidyjames.github.io/issues)
 - Write more!
 
 If anything in this post sounded interesting, [my website is open source](https://github.com/cassidyjames/cassidyjames.github.io)! Check out the source code or commit history to learn how I did things. I can't promise I did everything the _right_ way, but it works!
