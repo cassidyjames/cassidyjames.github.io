@@ -2,6 +2,8 @@
 title: Updates to the Blog
 description: Pagination, tags, and an import of my writing from elsewhere
 updated: 2026-10-28
+comments:
+  id: 117522020005327461
 tags:
   - webdev
 ---
